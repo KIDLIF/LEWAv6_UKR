@@ -27,6 +27,15 @@
         <item>10 хв.</item>
         <item>30 хв.</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string-array name="dream_timeout_entries">
         <item>Ніколи</item>
         <item>15 сек.</item>
@@ -37,6 +46,16 @@
         <item>10 хв.</item>
         <item>30 хв.</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string-array name="lock_after_timeout_entries">
         <item>Одразу</item>
         <item>5 сек.</item>
@@ -48,6 +67,17 @@
         <item>10 хв.</item>
         <item>30 хв.</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string-array name="entries_font_size">
         <item>Малий</item>
         <item>Нормальний</item>
@@ -493,6 +523,16 @@
         <item>8 сек.</item>
         <item>9 сек.</item>
     </string-array>
+	<string-array name="shake_entries">
+        <item>Легко</item>
+        <item>Стандартно</item>
+        <item>Сильно</item>
+    </string-array>
+	<string-array name="bird_hand_entries">
+        <item>Зліва</item>
+        <item>Зправа</item>
+        <item>Переключаюче</item>
+    </string-array>
     <string-array name="led_freq_values">
         <item>2000</item>
         <item>3000</item>
@@ -506,20 +546,12 @@
     <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
-        <item>yellow</item>
         <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Блакитний</item>
         <item>Червоний</item>
-        <item>Жовтий</item>
         <item>Зелений</item>
-        <item>Ціан</item>
-        <item>Білий</item>
-        <item>Фіолетовий</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Перші 4 цифри</item>

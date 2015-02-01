@@ -116,8 +116,8 @@
 	<string name="menu_multichoice_select_all">Вибрати все</string>
 	<string name="menu_multichoice_clear_select">Очистити вибрані</string>
 	<string name="time_zh_str">Київ</string>
-	<string name="early_time">Менше на %1$s г.</string>
-	<string name="later_time">Більше на %1$s г.</string>
+	<string name="early_time">Менше на %1$s год.</string>
+	<string name="later_time">Більше на %1$s год.</string>
 	<string name="lab">Коло</string>
 	<string name="left_text">Наступний будильник：</string>
 	<string name="alarm_day">дн.</string>

@@ -59,7 +59,7 @@
     <string name="settings_safetylegal_activity_loading">Завантаження...</string>
     <string name="change_password_text">Змінити</string>
     <string name="forget_password_text">Скасувати</string>
-    <string name="manager_app_lock">Пароль додатка</string>
+    <string name="manager_app_lock">Паролі на Додатки</string>
     <string name="cancel_password">Успішно скасовано</string>
     <string name="pattern_screen_password">Використання графічного ключа</string>
     <string name="password_screen_password">Використання пароля</string>
