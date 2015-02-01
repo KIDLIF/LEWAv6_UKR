@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пошук</string>
+    <string name="app_setting">Налаштування пошуку</string>
+    <string name="app_setting_info">Джерела пошуку</string>
+    <string name="app_setting_about">Про додаток</string>
+    <string name="system_app">Системні додатки</string>
+    <string name="user_app">Користувацькі додатки</string>
+    <string name="system_setting">Системні налаштування</string>
+    <string name="web_search">Пошук інформації в інтернеті</string>
+    <string name="app_search">Пошук додатків в інтернеті</string>
+    <string name="find_no_associated_app">Не знайдено подібних додатків!</string>
+    <string name="enter_app_error_prefix">Додаток</string>
+    <string name="enter_app_error_suffix">Не вдалось відкрити</string>
+    <string name="web_search_prefix">"Шукати інформацію про "</string>
+    <string name="web_search_suffix">" в Google"</string>
+    <string name="app_search_prefix">"Шукати додатки "</string>
+    <string name="app_search_suffix">" в Play Маркеті"</string>
+    <string name="select_browser">Вибір браузера для пошуку</string>
+    <string name="choose_browser">Виберіть браузер</string>
+    <string name="info_setting_message">Повідомлення</string>
+    <string name="info_setting_message_str">Вміст повідомлення</string>
+    <string name="info_setting_app">Додатки</string>
+    <string name="info_setting_app_str">Встановлені додатки</string>
+    <string name="info_setting_image">Зображення</string>
+    <string name="info_setting_image_str">Зображення на пристрої</string>
+    <string name="info_setting_contact">Контакти</string>
+    <string name="info_setting_contact_str">Інформація про контакти</string>
+    <string name="info_setting_music">Музика</string>
+    <string name="info_setting_music_str">Музичні файли</string>
+    <string name="info_setting_setting">Налаштування системи</string>
+    <string name="info_setting_setting_str">Сторінка налаштувань пристрою</string>
+    <string name="info_setting_file">Локальні файли</string>
+    <string name="info_setting_file_str">Інші локальні файли</string>
+    <string name="no_default_browser">Немає браузера по замовчуванню</string>
+    <string name="sdcard_status_changed_title">SD-карта недоступна</string>
+    <string name="sdcard_status_changed_msg">Переконайтесь, що SD-карта підключена і пристрій не знаходиться в режимі передачі файлів</string>
+    <string name="type_ok">ОК</string>
+    <string name="no_browser">Немає браузера</string>
+</resources>

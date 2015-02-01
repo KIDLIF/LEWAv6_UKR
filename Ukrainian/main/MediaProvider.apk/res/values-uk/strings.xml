@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">Ще мелодії...</string>
+    <string name="ringtone_custom">Користувача...</string>
+    <string name="not_audio_files">Це не аудіо-файл</string>
+    <string name="uid_label">Мультимедія</string>
+    <string name="app_label">Сховище мультимедії</string>
+    <string name="upgrade_msg">Оновлення бази даних мультимедія...</string>
+    <string name="artist_label">Виконувач</string>
+</resources>

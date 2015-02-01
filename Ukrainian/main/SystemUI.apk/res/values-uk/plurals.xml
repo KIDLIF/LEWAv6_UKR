@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Нещодавніх додатків: %d</item>
+        <item quantity="one">Нещодавній додаток: 1</item>
+    </plurals>
+    <plurals name="notifilter_headernotice">
+        <item quantity="other">Повідомлень заблоковано: %d</item>
+        <item quantity="one">Повідомлень заблоковано: %d</item>
+    </plurals>
+</resources>

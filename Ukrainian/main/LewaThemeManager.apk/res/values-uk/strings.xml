@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Постачальник тем</string>
+    <string name="permlab_access_DrmThemeResources">Джерела медіа з DRM захистом</string>
+    <string name="permdesc_access_DrmThemeResources">/Дозволити додатку читати доступ до джерел медіа з DRM захистом</string>
+    <string name="permlab_set_theme">Встановити глобальну тему</string>
+    <string name="permdesc_set_theme">Дозволити додатку міняти візуальну тему Вашого пристрою</string>
+    <string name="apply_font_failed">Застосувати шрифт не вдалося</string>
+</resources>

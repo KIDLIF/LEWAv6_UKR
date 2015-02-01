@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Меню SIM</string>
+    <string name="activity_not_found">Додаток не встановлено на Вашому пристрої</string>
+    <string name="simlock_toolkit">Меню SIM</string>
+    <string name="no_sim_card_inserted">Будь ласка, вставте SIM для запуску додатку</string>
+    <string name="airplane_mode_on">Неможливо запустити додаток, доки включений режим У літаку</string>
+    <string name="lable_sim_not_ready">Меню SIM не готове або не підтримується</string>
+</resources>

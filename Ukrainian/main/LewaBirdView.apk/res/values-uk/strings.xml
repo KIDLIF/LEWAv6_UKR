@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BirdView</string>
+    <string name="mb">МБ</string>
+    <string name="gb">ГБ</string>
+    <string name="nosim">Немає даних про трафік</string>
+    <string name="nosim_set">Ліміт не задано</string>
+    <string name="used">Використано</string>
+    <string name="surplus">Залишилося</string>
+    <string name="noalarm">Будильник</string>
+    <string name="off">Вимк</string>
+    <string name="on">Увім</string>
+    <string name="alarm">Будил.</string>
+    <string name="power_on">Збер.</string>
+    <string name="power_surplus">Залишилося</string>
+    <string name="power_full">Заряджання</string>
+    <string name="power_isfull">Заряджено</string>
+    <string name="power_h">г</string>
+    <string name="power_m">х</string>
+    <string name="torch">Ліхтарик</string>
+    <string name="safe_scanning">Перевірка...</string>
+    <string name="safe_scanning_error">Помилка сканування, спробуйте пізніше</string>
+    <string name="safe_status_one">Безпечно</string>
+    <string name="safe_status_two">дня(ів) без перевірки</string>
+    <string name="safe_status_three">Перевірити</string>
+    <string name="clean_toast_str0">Оптимізовано</string>
+    <string name="clean_toast_str1">"Звільнено %1$d МБ пам’яті
+Доступно %2$d МБ"</string>
+</resources>

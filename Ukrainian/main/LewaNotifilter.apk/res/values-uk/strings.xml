@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">ОК</string>
+    <string name="notifilter_setting">Налаштування фільтра сповіщень</string>
+    <string name="notifilter_activity_title">Налаштування фільтра сповіщень</string>
+    <string name="notifilter_cloud">Хмарний перехоплювач сповіщень</string>
+    <string name="notifilter_addtoblack">Добавити в чорний список</string>
+    <string name="notifilter_del">Видалити із чорного списку</string>
+    <string name="notifilter_allow">Дозволити</string>
+    <string name="notifilter_denie">Відхилити</string>
+    <string name="notifilter_item_activity">Менеджер сповіщень</string>
+    <string name="notifilter_cloudtip">"Інтелектуальна база реклами для перехоплювача і блокування сповіщень.
+Остання версія:"</string>
+    <string name="notifilter_cloudloading">Завантаження з Хмари...</string>
+    <string name="notifilter_cloudlasttime">Останє завантаження:</string>
+    <string name="menu_actionbar_selected_items">%s вибрано</string>
+    <string name="app_name">Сповіщення</string>
+    <string name="hello_world">Привіт світ!</string>
+    <string name="action_settings">Налаштування</string>
+</resources>

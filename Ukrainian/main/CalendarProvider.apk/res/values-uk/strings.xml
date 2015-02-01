@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">База даних календаря</string>
+    <string name="upgrade_msg">Оновлення бази даних календаря...</string>
+    <string name="calendar_default_name">За замовчанням</string>
+    <string name="calendar_info">Відомості про календар</string>
+    <string name="calendar_info_error">Помилка</string>
+    <string name="calendar_info_no_calendars">Немає календарів</string>
+    <string name="calendar_info_events">Заходів: %1$d</string>
+    <string name="calendar_info_events_dirty">Заходів: %1$d; не збережено: %2$d</string>
+    <string name="provider_label">Календар</string>
+    <string name="debug_tool_delete_button">Видалити зараз</string>
+    <string name="debug_tool_start_button">Почати</string>
+    <string name="debug_tool_message">Ви збираєтесь 1) створити копію бази даних календаря на SD-картці/USB-накопичуваче, що доступні для читання усім програмам, та 2) відправити ії электроною поштою. Не забудьте видалити базу даних після того, як вона буде скопійована з пристрою або отримана по електронній пошті.</string>
+    <string name="debug_tool_email_sender_picker">Виберіть програму, щоб відправити файл</string>
+    <string name="debug_tool_email_subject">База даних календаря додається</string>
+    <string name="debug_tool_email_body">К повідомленню додана база даних календаря з усіма зустрічами та особистою інформацією. Будь ласка, поводьтеся з нею обережно.</string>
+</resources>

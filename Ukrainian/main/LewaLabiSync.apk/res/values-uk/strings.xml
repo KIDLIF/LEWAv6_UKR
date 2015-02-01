@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Синхронізація контактів</string>
+	<string name="sync_success">Синхронізацію закінчено!</string>
+	<string name="sync_fail">Помилка синхронізації, спробуйте знову!</string>
+	<string name="sync_title">Синхронізація контактів</string>
+	<string name="syncing">Синхронізація. Будь ласка, почекайте…</string>
+	<string name="sync_format">Синхронізовано контактів: %1$s (всього контактів: %2$s)</string>
+	<string name="sync_warning_info">Синхронізація ваших контактів. Продовжити?</string>
+	<string name="recovery_success">Відновлено!</string>
+	<string name="recovery_fail">Помилка відновлення, спробуйте знову!</string>
+	<string name="recovering">Відновлення. Будь ласка, почекайте…</string>
+	<string name="recover_title">Відновлення контактів</string>
+	<string name="recover_format">Відновлено контактів: %1$s (всього контактів: %2$s)</string>
+	<string name="recover_warning_info">Відновлення контактів поверх існуючих. Продовжити?</string>
+	<string name="no_network">Немає мережі, будь ласка, повторіть пізніше</string>
+	<string name="no_contacts_oncloud">Немає контактів</string>
+</resources>

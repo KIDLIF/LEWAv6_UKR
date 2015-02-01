@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вибране відео</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Скасувати</string>
+    <string name="delete_dialog_title">Видалити вибране</string>
+    <string name="delete_dialog_prompt">Видалити %1$s із віджета?</string>
+    <string name="transcoding_prompt">Перетворення відео</string>
+    <string name="video_file_name_format">_yyyyMMdd_HHmmss</string>
+    <string name="toast_video_add_cancelled">Не вдалось добавити відео</string>
+    <string name="img_thumb_desc">мініатюри відео</string>
+    <string name="img_del_desc">видалити іконку</string>
+    <string name="img_new_desc">нова іконка</string>
+    <string name="img_edit_desc">кнопка редагувати</string>
+    <string name="img_rec_desc">кнопка записати</string>
+    <string name="toast_video_unsupported_resolution">Не підтримуване розширення</string>
+    <string name="toast_low_storage">SD-карта заповнена</string>
+    <string name="toast_invalid_video">Формат не підтримується</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="import_to">Імпорт в</string>
+    <string name="import_button">Імпорт</string>
+    <string name="cancel">Скасувати</string>
+    <string name="no_access_toast">Акаунт не знайдений. Спочатку додайте його</string>
+    <string name="null_name">Немає</string>
+    <string name="import_message">Імпортувати календар?</string>
+    <string name="calendar_lable">Календар:</string>
+    <string name="date_lable">Дата:</string>
+    <string name="import_title">Імпорт подій</string>
+    <string name="importing">Виконується імпорт...</string>
+    <string name="import_complete">Імпорт виконаний</string>
+    <string name="open">Відкрити</string>
+    <string name="done">Готово</string>
+    <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
+    <string name="import_vcs_failed">Не вдалося імпортувати подію</string>
+    <string name="title_lable">"Заголовок: "</string>
+    <string name="no_syncable_calendars">Неможливо імпортувати</string>
+    <string name="no_calendars_found">Цей акаунт не підтримує синхронизацію календаря або остання синхронизація ще не завершена</string>
+    <string name="retry">Повтор</string>
+    <string name="give_up">Перервати</string>
+    <string name="open_calendar_failed">Календар недоступний</string>
+    <string name="loading">Завантаження...</string>
+    <string name="not_support_multi_events">Файли з множинними подіями не підтримуються</string>
+</resources>

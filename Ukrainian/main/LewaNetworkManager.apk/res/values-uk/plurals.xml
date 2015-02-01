@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day">
+        <item quantity="other">%d днів</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="firewall_list_title">
+        <item quantity="other">%d додатків використовують трафік</item>
+        <item quantity="one">1 додаток використовує трафік</item>
+    </plurals>
+</resources>

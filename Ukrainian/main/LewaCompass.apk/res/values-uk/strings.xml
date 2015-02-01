@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="north">Північ</string>
+    <string name="northeast">Півн.- схід</string>
+    <string name="east">Схід</string>
+    <string name="southeast">Півд.- схід</string>
+    <string name="south">Південь</string>
+    <string name="southwest">Півд.- захід</string>
+    <string name="west">Захід</string>
+    <string name="northwest">Півн.- захід</string>
+    <string name="accuracy_prompt">Поряд можуть бути магнітні перешкоди, струсіть пристрій для калібрування компаса</string>
+    <string name="adjust">Калібрування</string>
+    <string name="adjust_tv">Поряд можуть бути магнітні перешкоди, для калібрування компаса прокрутіть пристрій вісімкою, як показано на малюнку і струсіть його</string>
+    <string name="adjust_success">Калібрування завершено</string>
+    <string name="adjust_compass">Калібрування компасу</string>
+</resources>

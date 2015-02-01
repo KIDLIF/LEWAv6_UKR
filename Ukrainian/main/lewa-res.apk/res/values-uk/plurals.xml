@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_goggles_countdown">
+        <item quantity="other">залишилося %d секунд</item>
+        <item quantity="one">залишилася %d секунда</item>
+    </plurals>
+</resources>

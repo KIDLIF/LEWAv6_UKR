@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Очищення системи</string>
+	<string name="menu_settings">Налаштування</string>
+	<string name="title_activity_main">MainActivity</string>
+	<string name="calculate_sdcard">Перевірка SD-карти</string>
+	<string name="calculate_size">Обчислення розміру ...</string>
+	<string name="clean_sdcard">Очищення SD-карти</string>
+	<string name="clean_sdcard_completed">Очищення SD-карти завершено</string>
+	<string name="clean_log_file_name">Файли журналу</string>
+	<string name="clean_app_sdcard_cache_name">Кеш додатків на SD-карті</string>
+	<string name="clean_sdcard_cache_name">Файли кешу</string>
+	<string name="clean_sdcard_empty_file_name">Порожні файли</string>
+	<string name="clean_sdcard_mtk_log_name">Журнали MTK</string>
+	<string name="clean_sdcard_thum_file_name">Файл мініатюри</string>
+</resources>

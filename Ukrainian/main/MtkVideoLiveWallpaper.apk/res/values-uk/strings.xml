@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="wallpapers">MTK живі шпалери</string>
+	<string name="vlw">Відеошпалери</string>
+	<string name="vlw_author">MediaTek Inc.</string>
+	<string name="vlw_desc">Встановити відео в якості шпалер</string>
+	<string name="VideoScene_error_text_invalid_progressive_playback">Це відео не може програватися на даному пристрої</string>
+	<string name="VideoScene_error_text_unknown">Це відео не може бути програно</string>
+	<string name="VideoScene_error_media_removed">Файл видалено</string>
+	<string name="VideoScene_error_sdcard_unmounted">SD-карта не підключена</string>
+	<string name="VideoScene_info_wait_sdcard">Підготовка SD-карти</string>
+	<string name="VideoScene_error_media_not_found">Файлів поки немає</string>
+	<string name="VideoScene_error_be_set">Це відео не може бути встановлено в якості шпалер</string>
+	<string name="VideoEditor_error_title">Неможливо програти відео</string>
+	<string name="VideoEditor_error_button">OK</string>
+	<string name="VideoEditor_error_no_video_selected">Відео не вибрано</string>
+	<string name="VideoEditor_warning_limited_duration">Виберіть відео тривалістю не менш 1 сек</string>
+	<string name="VideoScene_reload_after_mount">Завантажується відео з SD-карти, зачекайте</string>
+	<string name="select_video">SD-карта</string>
+	<string name="select_default">Шпалери</string>
+	<string name="select">Виберіть відео</string>
+	<string name="set_wallpaper">Встановити шпалери</string>
+	<string name="title">Видеообои</string>
+	<string name="default_title">Відео за замовчуванням</string>
+	<string name="default_video_path">android.resource://com.mediatek.vlw/raw/default_video</string>
+	<string name="default_video_title">MediaTek Inc.</string>
+	<string name="capture_video">Камера</string>
+	<string name="menu_item_add_item">Виберіть відео з SD-карти</string>
+	<string name="group_video">Вибрати файл відео</string>
+	<string name="group_folder">Вибрати папку</string>
+	<string name="folder_info">Відео</string>
+</resources>

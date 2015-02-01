@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="flashDevice">/sys/class/leds/flashlight/brightness</string>
+	<string name="app_name">Ліхтарик</string>
+	<string name="prompt">У режимі блокування утримуйте кнопку - ДОДОМУ</string>
+	<string name="errorCameraOpenTitle">Помилка ліхтарика</string>
+	<string name="errorCameraOpenMessage">Не вдається активувати ліхтарик. Інтерфейс камери вже використовується</string>
+</resources>

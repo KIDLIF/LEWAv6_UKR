@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_albums_name">
+        <item>Сім’я</item>
+        <item>Друзі</item>
+        <item>Подорожі</item>
+        <item>Колеги</item>
+    </string-array>
+    <string-array name="default_albums_name_v5">
+        <item>Відео</item>
+        <item>Фото</item>
+    </string-array>
+    <string-array name="proxy_error">
+        <item>Поле хосту не може бути порожнім</item>
+        <item>Поле порту не може бути порожнім</item>
+        <item>Невірний хост</item>
+        <item>Невірний порт</item>
+    </string-array>
+    <string-array name="week_string">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П’ятниця</item>
+        <item>Субота</item>
+    </string-array>
+</resources>

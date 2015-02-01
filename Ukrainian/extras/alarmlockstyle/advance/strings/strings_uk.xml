@@ -1,0 +1,17 @@
+<strings>
+    <string name="short_date_format" value="dd/MM EEEE" />
+    <string name="long_date_format" value="dd/MM/yyyy" />
+    <string name="slide_down_lock" value="Поспати ще :)" />
+    <string name="slide_close_alarm" value="Я прокинувся!" />
+    <string name="slide_down_call" value="Виклики" />
+    <string name="slide_down_mess" value="СМС" />
+    <string name="air_quality" value="AQI:" />
+    <string name="chinese_calendar_show" value="1"/>
+    <string name="chinese_calendar_format" value="0"/>
+    <string name="mon_offsetX" value="0"/>
+    <string name="week_offsetY" value="40"/>
+    <string name="week_offsetX" value="0"/>
+    <string name="week_typeface" value=""/>
+    <string name="unreadSMS" value="Пропущених СМС"/>
+    <string name="missCALL" value="Пропущених викликів"/>
+</strings>

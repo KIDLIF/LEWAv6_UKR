@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Очистити все</string>
+    <string name="notifications_off_title">Повідомлення вимкнено</string>
+    <string name="notifications_off_text">Натисніть тут, щоб знову увімкнути повідомлення</string>
+</resources>

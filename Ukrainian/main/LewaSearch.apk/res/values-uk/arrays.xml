@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chinese_name_array">
+        <item>通话设置</item>
+        <item>百变主题</item>
+        <item>安全拦截</item>
+        <item>版本升级</item>
+        <item>语音电话设置</item>
+    </string-array>
+    <string-array name="english_name_array">
+        <item>Налаштування виклику</item>
+        <item>Вибір теми</item>
+        <item>Перехоплювач</item>
+        <item>Оновлення</item>
+        <item>Налаштування голосового виклику</item>
+    </string-array>
+</resources>
