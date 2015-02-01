@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">EM SIM ME Блокування</string>
+    <string name="simmelock_name">SIM ME Блокування</string>
+    <string name="strInputPassword">Будь ласка, введіть пароль:</string>
+    <string name="strConfirm">Завершено</string>
+    <string name="strCancel">Скасування</string>
+    <string name="strInputChancesleft">Залишилось спроб:</string>
+    <string name="strMCCMNC">MCC+MNC:</string>
+    <string name="strMCCMNCHLR">MCC+MNC+HLR:</string>
+    <string name="strGID1">GID1:</string>
+    <string name="strGID2">GID2:</string>
+    <string name="strInputPasswordAgain">Будь ласка, введіть пароль ще раз:</string>
+    <string name="strIMSI">IMSI:</string>
+    <string name="strAttention">Увага</string>
+    <string name="strConfirmRemove">Видалити?</string>
+    <string name="srtConfirmPermanUnlock">Розблокувати?</string>
+    <string name="strYes">Так</string>
+    <string name="strLockFail">Блокування не вдалось!</string>
+    <string name="strLockSucceed">Блокування успішне!</string>
+    <string name="strUnlockFail">Розблокувати не вдалось!</string>
+    <string name="strUnlockSucceed">Розблокування успішне!</string>
+    <string name="strUserInput">Корис. ввід</string>
+    <string name="strInputMode">Користувацький ввід?</string>
+    <string name="strLockNameNetwork">Мережева персоналізація</string>
+    <string name="strLockNameNetworkSub">Персоналізація мережі Subset</string>
+    <string name="strLockNameService">Персоналізація послуг</string>
+    <string name="strLockNameCorporate">Корпоративна персоналізація</string>
+    <string name="strLockNameSIM">SIM-персоналізація</string>
+    <string name="strActionNameLock">Блокування</string>
+    <string name="strActionNameUnlock">Разблокування</string>
+    <string name="strActionNameAddLock">Додати</string>
+    <string name="strActionNameRemoveLock">Видалити</string>
+    <string name="strActionNamePermanentUnlock">Постійне розблокування</string>
+    <string name="strPasswordLengthIncorrect">4-8 цифр!</string>
+    <string name="strQueryFailed">Запит не вдався!</string>
+    <string name="strAddLockFail">Помилка додавання!</string>
+    <string name="strAddLockSucceed">Успішно додано!</string>
+    <string name="strMCCMNCLengthIncorrect">MCC+MNC не дійсні!</string>
+    <string name="strMCCMNCHLRLengthIncorrect">MCC+MNC+HLR не дісний!</string>
+    <string name="strIMSILengthIncorrect">IMSI не дійсний!</string>
+    <string name="strGID1WRONG">GID1 не дійсний!</string>
+    <string name="strGID2WRONG">GID2 не дійсний!</string>
+    <string name="str_simme_passwords_dont_match">Паролі не співпадають</string>
+</resources>

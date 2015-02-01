@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTK Thermal Manager</string>
+    <string name="coolers">Охолоджувачі</string>
+    <string name="thermal_sensors">Термодатчики</string>
+    <string name="thermal_protection">Термозахист</string>
+    <string name="thermal_policy_file_colon">"Файл теплової політики: "</string>
+    <string name="apply_new_thermal_policy">Застосувати новий файл теплової політики</string>
+    <string name="tz_device_info">Інформація TZ Пристрою</string>
+    <string name="thermal_logger">Тепловий реєстратор</string>
+    <string name="alert_dialog_two_buttons_title">Увага!Перегрів.</string>
+    <string name="alert_dialog_two_buttons_message">Дозвольте пристрою охолонути!</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Скасувати</string>
+</resources>
