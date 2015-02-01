@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LewaGesture_app_name">Жести</string>
+    <string name="hello_world1">Привіт світ!</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="two_fingers_slide">Слайд двумя пальцями</string>
+    <string name="three_fingers_slide">Слайд трьома пальцями</string>
+    <string name="screen_shot">Скріншот</string>
+    <string name="screenshot_saving_ticker">Збереження...</string>
+    <string name="screenshot_saving_title">Збереження...</string>
+    <string name="screenshot_saving_text">Збереження...</string>
+    <string name="screenshot_saved_title">Скріншот збережено</string>
+    <string name="screenshot_saved_text">Нажміть, щоб переглянути</string>
+    <string name="screenshot_failed_title">Не вдалось зробити скріншот</string>
+    <string name="screenshot_failed_text">Не вдалось зробити скріншот. Сховище заповнене</string>
+    <string name="saving_screenshot_failed_title">Не вдалось зберегти скріншот</string>
+    <string name="screenshot_failed_storage_busy">Сховище заняте</string>
+    <string name="screenshot_failed_no_free_storage">Недостатньо місця в сховищі</string>
+    <string name="screenshot_failed_no_permission_access">Недостатньо прав для доступу до сховища</string>
+    <string name="screenshot_failed_no_permission_take_screenshot">Недостатньо прав, щоб зробити скріншот</string>
+    <string name="screenshot_failed_screenshotwindow_busy">Вікно скріншоту заблоковано (відкладка)</string>
+    <string name="share">Поділитися</string>
+    <string name="screenshot_title">Скріншот</string>
+    <string name="confirm_custom_screenshot">Підтвердити</string>
+    <string name="toast_saving_screenshot_finished">Скріншот збережено в %1$s</string>
+    <string name="toast_default_storage_busy">Немає вільного місця на пристрої в сховищі по замовчуванню</string>
+    <string name="toast_storage_locaiton_changed">Змінити місце збереження скріншотів з %1$s на %2$s?</string>
+</resources>
