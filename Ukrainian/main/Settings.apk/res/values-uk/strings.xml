@@ -2711,6 +2711,9 @@
     <string name="lw_dialog_reboot_cancel">Скасувати</string>
     <string name="lock_screen_message">Відображати повідомлення</string>
     <string name="lock_screen_message_summary">Відображення на локскріні повідомлень, інформації про виклики</string>
+	<string name="bird_hand_title">Режим під праву або ліву руку</string>
+    <string name="lewa_applock_title">Блокування додатків</string>
+    <string name="lewa_applock_summary">Необхідно вказати пароль перед блокуванням</string>
     <string name="locale_language_zh_cn">Китайска (скор.)</string>
     <string name="locale_language_zh_tw">Китайска</string>
     <string name="locale_language_en">Англійска</string>

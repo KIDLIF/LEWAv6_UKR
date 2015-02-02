@@ -9,6 +9,7 @@
     <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрану</string>
     <string name="unlock_backup_info_summary">Виберіть альтернативний спосіб разблокування екрану</string>
     <string name="unlock_set_unlock_off_title">Ні</string>
+	
     <string name="unlock_set_unlock_none_title">Відключено</string>
     <string name="unlock_set_unlock_none_summary">Захист відключена</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
@@ -50,10 +51,37 @@
     <string name="lockpassword_cancel_label">Скасувати</string>
     <string name="lockpattern_tutorial_cancel_label">Скасувати</string>
     <string name="lockpattern_tutorial_continue_label">Далі</string>
+    <string name="lockpattern_change_lock_pattern_label">Змінити ключ</string>
+    <string name="lockpattern_change_lock_pin_label">Змінити PIN-код разблокування</string>
+    <string name="lockpattern_need_to_unlock">Накресліть існуючий ключ</string>
+	
+	<string name="lockpattern_need_to_unlock_wrong">Повторити:</string>
+	
+    <string name="lockpattern_recording_intro_header">Накресліть графічний ключ разблокування</string>
+    <string name="lockpattern_recording_intro_footer">Для довідки виберіть \"Меню\"</string>
+    <string name="lockpattern_recording_inprogress">По закінченю відпустіть палець</string>
+    <string name="lockpattern_recording_incorrect_too_short">"З'єднайте точки (як мінімум %d). Повторіть спробу:"</string>
+    <string name="lockpattern_pattern_entered_header">Графічний ключ разблокування записано!</string>
+    <string name="lockpattern_need_to_confirm">Для підтвердження накресліть графічний ключ ще раз:</string>
+    <string name="lockpattern_pattern_confirmed_header">Новий графичічний ключ разблокування:</string>
+    <string name="lockpattern_confirm_button_text">Підтвердження</string>
+    <string name="lockpattern_restart_button_text">Відтворити ще раз</string>
+    <string name="lockpattern_retry_button_text">Повторити</string>
+    <string name="lockpattern_continue_button_text">Продовжити</string>
+    <string name="lockpattern_settings_title">Графічний ключ разблокування</string>
+    <string name="lockpattern_settings_enable_title">Запитувати ключ</string>
+    <string name="lockpattern_settings_enable_summary">Використовувати графічний ключ для захисту телефону</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Показувати графічний ключ</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вібрувати при дотику</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Блокування клавішей живлення</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Встановити ключ</string>
+    <string name="lockpattern_settings_change_lock_pattern">Змінити ключ</string>
+    <string name="lockpattern_settings_help_how_to_record">Як накреслити графічний ключ разблокування</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Занадто багато невдалих спроб!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторіть спробу через %d с.</string>
     <string name="lock_setup">Налаштування завершено</string>
     <string name="app_name">Lewa Блокувальник</string>
     <string name="cancel">Повтор</string>
-    <string name="lockpattern_need_to_unlock_wrong">Повторити</string>
     <string name="unlock_set_unlock_screen_title">Використання локскріна</string>
     <string name="no_applications">Немає додатків</string>
     <string name="settings_safetylegal_activity_loading">Завантаження...</string>
@@ -64,7 +92,31 @@
     <string name="pattern_screen_password">Використання графічного ключа</string>
     <string name="password_screen_password">Використання пароля</string>
     <string name="no_message">Немає повідомлень</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string name="please_input_pwd">Ввід пароля</string>
     <string name="input_again">Забути</string>
     <string name="user_delete_button">Видалити</string>
+    <string name="app_lock_settings">Налаштування</string>
+    <string name="lewa_applock_summary">Відкриття заблокованого додатка потребує паролю і включення екрану блокує додаток знову</string>
+    <string name="lewa_applock_title">Блокування додатків</string>
+    <string name="applock_password_title">Зміна паролю</string>
+    <string name="app_lock_header">Заблоковані додатки</string>
+    <string name="lewa_app_locked">Заблоковано</string>
+    <string name="lewa_app_unlocked">Розблоковано</string>
+    <string name="icon_loading">Завантаження</string>
+    <string name="lewa_pim_name">Контакти</string>
+    <string name="lewa_camera_name">Камера і Галерея</string>
+    <string name="lewa_pattern_visible_title">Зробити графічний ключ видимим</string>
+    <string name="lewa_pattern_visible_summary">Зробити графічний ключ видимим при блокуванні</string>
+    <string name="lewa_pattern_feedback_title">Вібрація при дотику</string>
+    <string name="lewa_pattern_feedback_summary">Вібрація при блокуванні</string>
 </resources>
