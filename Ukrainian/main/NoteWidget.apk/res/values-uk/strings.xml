@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Блокнот</string>
+	<string name="live_folder_name">Примітки</string>
+	<string name="title_edit_title">Заголовок нотатка:</string>
+	<string name="title_create">Нова нотатка</string>
+	<string name="title_edit">Правка: %1$s</string>
+	<string name="title_notes_list">Примітки</string>
+	<string name="menu_add">Нова нотатка</string>
+	<string name="menu_save">Зберегти</string>
+	<string name="menu_delete">Видалити</string>
+	<string name="menu_open">Відкрити</string>
+	<string name="menu_revert">Скасувати зміни</string>
+	<string name="menu_copy">Скопіювати</string>
+	<string name="menu_paste">Вставити</string>
+	<string name="button_ok">OK</string>
+	<string name="text_title">Ім\'я:</string>
+	<string name="resolve_edit">Редагув. примітку</string>
+	<string name="resolve_title">Змінити назву</string>
+	<string name="error_title">Помилка</string>
+	<string name="error_message">Помилка завантаження примітки</string>
+	<string name="nothing_to_save">Немає нічого для збереження</string>
+	<string name="appwidget_today">Сьогодні</string>
+	<string name="appwidget_delete_null_toast">Виберіть елементи для видалення вмісту</string>
+	<string name="appwidget_edit_null_toast">Виберіть елемент для редагування вмісту</string>
+</resources>
