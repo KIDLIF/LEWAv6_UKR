@@ -500,6 +500,7 @@
 	<string name="rename_message">Перейменування</string>
 	<string name="menu_addto">Додати до</string>
 	<string name="menu_show_mapview">Карта</string>
+	<string name="menu_show_photo_list">Список фотографій</string>
 	<string name="ic_more">Ще</string>
 	<string name="select_files">Вибір файлу</string>
 	<string name="brightness">Яскравість</string>
@@ -820,7 +821,7 @@
 	<string name="f360_Retro_Yellow">Ретро</string>
 	<string name="f360_HDR_Soft">М’який HDR</string>
 	<string name="f360_BW_Normal">Норм. Ч/Б</string>
-	<string name="set_as_lockscreen">Локскрін</string>
+	<string name="set_as_wallpaper">Локскрін</string>
 	<string name="set_as_lockscreen">Роб. стіл</string>
 	<string name="set_as_both">Всі</string>
 	<string name="lockpassword_choose_your_pattern_header">Створіть графічний ключ</string>
@@ -895,7 +896,6 @@
 	<string name="start_camera_error">Помилка запуску камери</string>
 	<string name="please_install_lewa_camera">Встановіть Камеру від Lewa</string>
 	<string name="rename_album">Перейменування альбому</string>
-	<string name="album_no_change">Назва без змін</string>
 	<string name="album_no_change">Назва без змін</string>
     <string name="pref_camera_normal_capture_title">Режим захвату</string>
     <string name="pref_camera_burstshot_4">4 кадра</string>
