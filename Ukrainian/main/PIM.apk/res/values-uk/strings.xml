@@ -909,7 +909,7 @@
     <string name="action_merge">"Об'єднати"</string>
     <string name="action_done">Завершено</string>
     <string name="title_merge_contacts">"Об'єднання дублікатів контактів"</string>
-    <string name="lable_merge_contacts">%d контактів з частковим збіганням інформації. Виберіть їх, якщо хочете об'єднати"</string>
+    <string name="lable_merge_contacts">"%d контактів з частковим збіганням інформації. Виберіть їх, якщо хочете об'єднати"</string>
     <string name="progress_dialog_merge_message">"Об'єднання дублікатів контактів"</string>
     <string name="progress_dialog_auto_merge_message">"Автоматичне об'єднання"</string>
     <string name="message_no_duplicate_contacts">Дублікатів не знайдено</string>

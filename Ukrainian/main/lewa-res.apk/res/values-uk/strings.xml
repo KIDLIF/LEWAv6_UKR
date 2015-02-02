@@ -119,14 +119,14 @@
     <string name="lock_screen_drag_down">Потягніть вниз для розблокування</string>
     <string name="lock_screen_drag_here">Перетягніть сюди для розблокування</string>
     <string name="lock_screen_dismiss">Відхилити</string>
-    <string name="lock_screen_snooze">Сон</string
+    <string name="lock_screen_snooze">Сон</string>
     <string name="ringtone_custom">Корист.</string>
     <string name="ringtone_silent_summary">Тихий</string>
     <string name="capital_on">УВІМ.</string>
     <string name="capital_off">ВИМК.</string>
     <string name="storage_phone">Внутрішнє сховище</string>
     <string name="text_pastelist">Буфер обміну</string>
-    <string name="select">Вибір</string
+    <string name="select">Вибір</string>
     <string name="inadvertmode_title">Запобігання натисканям</string>
     <string name="inadvertmode_tip_msg1">Не закривайте верх екрану</string>
     <string name="inadvertmode_force_quit">Для виходу натисніть Увім. + Гучність вгору</string>
