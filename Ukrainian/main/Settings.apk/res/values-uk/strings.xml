@@ -3065,4 +3065,6 @@
     <string name="flip_2_mute_summary">Доступ до додаткових налаштувань</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калібрування G-сенсору/акселерометру</string>
+	<string name="two_finger_update_brightness">Зміна яскравості 2 торканями</string>
+    <string name="two_finger_update_brightness_description">Зміна яскравості проводячи двома пальцями верх або вниз</string>
 </resources>
