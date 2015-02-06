@@ -600,10 +600,10 @@
     <string name="prompt_quick_position">Прізвище</string>
     <string name="contacts_show_option_label">Параметри відображення</string>
     <string name="label_show_only_phones">Лише контакти з телефонами</string>
-    <string name="label_show_smart_avatar">Розумний аватар</string>
+    <string name="label_show_smart_avatar">Розумна аватарка</string>
     <string name="label_list_in_simple_mode">Спрощений режим</string>
-    <string name="description_list_not_show_more_info">Показувати оригінальний аватар</string>
-    <string name="description_show_smart_avatar">Автоматично додавати розумний аватар, якщо відсутній звичайний</string>
+    <string name="description_list_not_show_more_info">Показувати оригінальну аватарку</string>
+    <string name="description_show_smart_avatar">Автоматично додавати розумну аватарку, якщо відсутня звичайна</string>
     <string name="prefs_contact_management_title">Керування контактами</string>
     <string name="contacts_account_settings_label">Налаштування облікового запису</string>
     <string name="label_contact_sync">Синхронізація контактів</string>
