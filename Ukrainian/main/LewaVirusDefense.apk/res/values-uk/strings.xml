@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="virus_library_update_notice">База даних по вірусах застаріла!</string>
+    <string name="virus_library_update_adjust">База даних по вірусах застаріла, оновіть!</string>
+    <string name="virus_library_settings">Налаштування бази даних</string>
+    <string name="timing_of_virus_library_update">Час оновлення бази даних по вірусах</string>
+    <string name="virus_library_settings_summary">Автоматичне оновлення бази даних по Wi-Fi</string>
 	<string name="virus_defense_title">Антивірусний захист</string>
 	<string name="viruskill_title">Антивірус</string>
 	<string name="viruskill_log_title">Журнал</string>

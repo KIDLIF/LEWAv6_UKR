@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    <string-array name="bt_bpp_orientations">
+        <item>Портретний</item>
+        <item>Альбомний</item>
+        <item>зворотний-портретний</item>
+        <item>зворотний-альбомний</item>
+    </string-array>
+    <string-array name="bt_bpp_sidesettings">
+        <item>One-sided</item>
+        <item>Two-sided-long-edge</item>
+        <item>Two-sided-short-edge</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bt_bpp_qualitys">
+        <item>Normal</item>
+        <item>Draft</item>
+        <item>High</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+        <item>unknown</item>
+    </string-array>
+    <string-array name="bt_bpp_entry_error">
+        <item>Помилок немає</item>
+        <item>Створити візитну картку невдалось</item>
+        <item>Не підтримується формат зображення</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_file_operations">
+        <item>Отримати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_client_folder_operations">
+        <item>Відкрити</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="bluetooth_ftp_server_permission_entries">
+        <item>Тільки читання</item>
+        <item>Повний контроль</item>
+    </string-array>
+
+	
+	
+	
+    <string-array name="bt_prxm_link_loss_level_entries">
+        <item>No Alert</item>
+        <item>Mild Alert</item>
+        <item>High Alert</item>
+    </string-array>
+
+	
+	
+	
+	
+    <string-array name="bt_prxm_path_loss_level_entries">
+        <item>No Alert</item>
+        <item>Mild Alert</item>
+        <item>High Alert</item>
+    </string-array>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</resources>

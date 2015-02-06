@@ -230,7 +230,7 @@
     <string name="gemini_default_sim_always_ask">Завжди питати</string>
     <string name="gemini_intenet_call">Інтернет-дзвінки</string>
     <string name="gemini_default_sim_never">Вимк.</string>
-    <string name="gemini_default_sim_3g_off">Вимк.</string>
+    <string name="gemini_default_sim_3g_off">Вимкнути</string>
     <string name="gemini_gsm_umts_network_preferences_title">Налаштування мережі GSM/UMTS</string>
     <string name="gemini_gsm_umts_network_preferneces_summary">Поки не реалізовано!</string>
     <string name="gemini_gsm_umts_network_preferences_dialogtitle">Режим мережі</string>
@@ -493,8 +493,8 @@
     <string name="wifi_hotspot_suspend_optimizations">Оптимізація Wi-Fi-модему</string>
     <string name="wifi_hotspot_suspend_optimizations_summary">Мінімізація споживання батареї при включеній точці доступу Wi-Fi</string>
     <string name="wfd_change_resolution_menu_title">Змінити роздільну здатність</string>
-    <string name="passpoint_title">Passpoint</string>
-    <string name="passpoint_summary">Auto connect to passpoint-enabled APs</string>
+    <string name="passpoint_title">Автопідключення</string>
+    <string name="passpoint_summary">Автопідключення до точок доступу</string>
     <string name="passpoint_append_summary">(via Passpoint)</string>
     <string name="passpoint_append_summary_not_connected">(Passpoint)</string>
     <string name="passpoint_config_hotspot">Hotspot 2.0</string>
@@ -2361,7 +2361,7 @@
     <string name="gemini_dualsim_switch_title">Посунути для набору/відправки SMS</string>
     <string name="gemini_dualsim_switch_summary">Посунувши повзунок уліво ви зможете здійснити виклик/відправити SMS</string>
     <string name="silent_mode_title">Тихий режим</string>
-    <string name="device_lewa_version">"Версія LEWAv5： "</string>
+    <string name="device_lewa_version">"Версія LevaOS： "</string>
     <string name="device_cpu">"Процесор： "</string>
     <string name="device_memory">"Пам'ять "</string>
     <string name="device_system_memory">"Оперативна пам'ять： "</string>
@@ -2458,7 +2458,7 @@
     <string name="nightmode_title">Нічний режим</string>
     <string name="battery_style">Індикатор рівня заряду</string>
     <string name="screen_timeout_never">Ніколи</string>
-    <string name="smart_sensory_title">Розумні давачі</string>
+    <string name="smart_sensory_title">Розумні датчики</string>
     <string name="smart_gesture_title">Жести</string>
     <string name="smart_gallery_title">Галерея</string>
     <string name="smart_gallery_summary">Пересування поміж зображень</string>
@@ -2474,7 +2474,7 @@
 телефон
 самостійно
 разблокується"</string>
-    <string name="smart_somatosensory_tile">Розумні давачі</string>
+    <string name="smart_somatosensory_tile">Розумні датчики</string>
     <string name="smart_sms_title">Набір в SMS/MMS</string>
     <string name="smart_sms_summary">"В режимі SMS/MMS піднесіть телефон до вуха
 і телефон почне набір номеру абонента"</string>
@@ -2592,7 +2592,7 @@
 %2$s （Загалом）"</string>
     <string name="g_sensor_calibration_title">Калібрування G-сенсору</string>
     <string name="proximity_sensor_calibration_title">Калібрування давача наближення</string>
-    <string name="proximity_sensor_calibration_message">Переконайтесь, будь ласка, що давачі працюють.</string>
+    <string name="proximity_sensor_calibration_message">Переконайтесь, будь ласка, що датчики працюють.</string>
     <string name="halo_title">Гало</string>
     <string name="halo_summary_on">Відкрити Гало</string>
     <string name="halo_summary_off">Закрити Гало</string>
@@ -2605,7 +2605,7 @@
     <string name="phone_memory_title">"Пам'ять пристрою"</string>
     <string name="memory_others">Інші</string>
     <string name="sdcard_storage_title">SD-картка</string>
-    <string name="sensor_settings">Розумні давачі</string>
+    <string name="sensor_settings">Розумні датчики</string>
     <string name="sensor_call_setting">Під час виклику</string>
     <string name="sensor_other_setting">Інші</string>
     <string name="sensor_smart_answer">Розумна відповідь</string>
@@ -2714,9 +2714,11 @@
 	<string name="bird_hand_title">Режим під праву або ліву руку</string>
     <string name="lewa_applock_title">Блокування додатків</string>
     <string name="lewa_applock_summary">Необхідно вказати пароль перед блокуванням</string>
-    <string name="locale_language_zh_cn">Китайска (скор.)</string>
+    <string name="locale_language_uk">Українська</string>
+	<string name="locale_language_ru">Російська</string>
+	<string name="locale_language_en">Англійска</string>
+	<string name="locale_language_zh_cn">Китайска (скор.)</string>
     <string name="locale_language_zh_tw">Китайска</string>
-    <string name="locale_language_en">Англійска</string>
     <string name="wizard_language_setting">Вибір мови</string>
     <string name="wizard_network_setting">Вибір мережі</string>
     <string name="wizard_account_setting">Lewa-акаунт</string>
@@ -3068,6 +3070,6 @@
     <string name="flip_2_mute_summary">Доступ до додаткових налаштувань</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калібрування G-сенсору/акселерометру</string>
-	<string name="two_finger_update_brightness">Зміна яскравості 2 торканями</string>
+	<string name="two_finger_update_brightness">Зміна яскравості 2 пальцями</string>
     <string name="two_finger_update_brightness_description">Зміна яскравості проводячи двома пальцями верх або вниз</string>
 </resources>

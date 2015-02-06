@@ -5,6 +5,7 @@
     <string name="voice_command_select_title">Вибрати команду</string>
     <string name="voice_command_launch_app_title">Запустити додаток</string>
     <string name="reset_command_title">Скинути команду</string>
+	<string name="playback_failed">Вибачте, але файл не вдалось відкрити</string>
     <string name="reset_command_prompt">Поточна команда буде скинута і її неможна буде відновити</string>
     <string name="reset_command_prompt_last">Голосова команда буде скинута. Дисплей блокування буде замінений на стандартний</string>
     <string name="voice_unlock_options_title">Налаштування</string>
@@ -45,5 +46,4 @@
     <string name="time_out_message">Немає голосового сигналу в продовж 5 секунд. Будь ласка, попробуйте заново</string>
     <string name="during_call_title">Запис недоступний</string>
     <string name="during_call_message">Запис голосової команди недоступна під час виклику</string>
-    <string name="playback_failed">Вибачте, але файл не вдалось відкрити</string>
 </resources>

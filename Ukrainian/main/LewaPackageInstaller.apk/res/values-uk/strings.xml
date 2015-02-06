@@ -27,6 +27,8 @@
 	<string name="launch">Відкрити</string>
 	<string name="unknown_apps_dlg_title">Установку заблоковано</string>
 	<string name="unknown_apps_dlg_text">З міркувань безпеки на Вашому пристрої заблоковано встановлення програм, отриманих не з Google Play Маркету</string>
+	
+	
 	<string name="ok">ОК</string>
 	<string name="settings">Налаштування</string>
 	<string name="allow_source_dlg_title">Дозволити додавання нового джерела для додатків?</string>
@@ -64,6 +66,7 @@
 	<string name="allPerms">Всі</string>
 	<string name="privacyPerms">Конфіденційність</string>
 	<string name="devicePerms">Доступ до пристрою</string>
+	<string name="securityPerms">Безпека</string>
 	<string name="no_new_perms">Це оновлення не потребує нових дозволів</string>
 	<string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВЕ: </font></string>
 	<string name="perms_description_app">Надано %1$s.</string>

@@ -230,6 +230,12 @@
 	<string name="GPIO_Data_High">Високий.</string>
 	<string name="GPIO_Data_Low">Низький</string>
 	<string name="GPIO_Edit_Value">0</string>
+    <string name="msdc_get_fail_title">Помилка</string>
+	<string name="msdc_get_fail_message">Отримати не вдалося</string>
+	<string name="msdc_set_ok_title">Вдало</string>
+	<string name="msdc_set_ok_message">Встановлено</string>
+	<string name="msdc_set_fail_title">Помилка</string>
+	<string name="msdc_set_fail_message">Встановити не вдалося</string>
     <string name="msdc_btn_text">OK</string>
     <string name="msdc_drive_set">Driving Set</string>
     <string name="msdc_hop_set">Hopping Set</string>
@@ -322,6 +328,14 @@
 	<string name="hqa_cpustress_apmcu_start">Початок</string>
 	<string name="hqa_cpustress_apmcu_stop">Зупинка</string>
 	<string name="hqa_cpustress_apmcu_result">Результат:</string>
+	<string name="hqa_cpustress_apmcu_result_l2c">L2C: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_neon">NEON: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_vfp">VFP: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_ca9">MaxPower: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_dhry">Dhrystone: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_memcpy">L2 MEMCPY: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_fdct">FDCT: %1$d/%2$d %3$3.2f%%</string>
+    <string name="hqa_cpustress_apmcu_result_imdct">IMDCT: %1$d/%2$d %3$3.2f%%</string>
 	<string name="hqa_cpustress_clockswitch_name">Перемикач часу</string>
 	<string name="hqa_cpustress_clockswitch_enabledebug">Включити повідомлення налагодження</string>
 	<string name="hqa_cpustress_clockswitch_settimeout">Встановити таймаут</string>
@@ -472,10 +486,7 @@
     <string name="Audio_Headset_Jak_Headset">Headset</string>
 	<string name="Camera">Камера</string>
 	<string name="Camera_Preview">Camera_Preview</string>
-	<string name="capture">Захоплення :</string>
-	<string name="cannot_connect_camera">"Не вдається підключитися до камери."</string>
 	<string name="start_preview_failed">Збій!</string>
-	<string name="camera_error_title">Помилка камери</string>
 	<string name="dialog_ok">Ок</string>
 	<string name="af_mode_dailog_title">Вст. AF режиму</string>
 	<string name="step_dailog_title">Встановити крок</string>
@@ -851,7 +862,7 @@ ISO item used to set camera’s iso value.
 	<string name="Latency">Затримка (мс)</string>
 	<string name="Enable">Увімк.</string>
 	<string name="Disable">Вимк.</string>
-	<string name="Set">Встанов.</string>
+	<string name="Set">Встан.</string>
 	<string name="set_working_mode">Робочий режим</string>
 	<string name="my3g324m_configuration">3G324M конфігурація</string>
 	<string name="auto_answer">Автоматична відповідь</string>
@@ -1189,12 +1200,6 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="rat_not_exit_usim">EF_RAT_NOT_EXIST_IN_USIM</string>
 	<string name="rat_for_other_case">EF_RAT_FOR_OTHER_CASE</string>
 	<string name="rat_sim1">SIM1</string>
-	<string name="msdc_get_fail_title">Помилка</string>
-	<string name="msdc_get_fail_message">Отримати не вдалося</string>
-	<string name="msdc_set_ok_title">Вдало</string>
-	<string name="msdc_set_ok_message">Встановлено</string>
-	<string name="msdc_set_fail_title">Помилка</string>
-	<string name="msdc_set_fail_message">Встановити не вдалося</string>
 	<string name="networkinfo_check">Перевірте Інформацію</string>
 	<string name="networkinfo_msg">Будь ласка, виберіть елементи, які ви хочете перевірити.</string>
 	<string name="open_file_title">Помилка</string>
@@ -1215,6 +1220,8 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="te_devtool_title">BSPTelephonyDevTool</string>
 	<string name="hotswap_devtool_title">HotSwapDevTool</string>
 	<string name="configure_check">Перевірте Налаштування</string>
+	<string name="configure_check2_send_test">CTSC(送测手机检查)</string>
+    <string name="configure_check2_self_test">CTSC(自测配置检查)</string>
 	<string name="network_select">Налаштування мережі</string>
 	<string name="cdma_network_select">Вибір мережі CDMA </string>
 	<string name="query_preferred_fail">Запит/Встановити Режим Мережі Не Вдалося!!!</string>
@@ -1311,6 +1318,7 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="captureImage">Захопл. зображення</string>
 	<string name="autoCalibration">Автокалібровка</string>
 	<string name="setting">Налаштування :</string>
+	<string name="capture">Захоплення :</string>
 	<string name="capture_picture">Захоплення</string>
 	<string name="led_flash">Режим Строба</string>
 	<string name="tv_flicker">Дрижання</string>
@@ -1363,6 +1371,8 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="auto_clibr_manual_start">Початокова позиція:</string>
 	<string name="auto_clibr_manual_end">Кінцева позиція:</string>
 	<string name="auto_clibr_iso_tips">ISO не вибране, використовуються значення за замовчуванням: Auto!</string>
+	<string name="cannot_connect_camera">"Не можливо підключитися до камери."</string>
+    <string name="camera_error_title">Помилка камери</string>
 	<string name="pref_camera_flashmode_no_flash">no_flash</string>
 	<string name="not_enough_space">Ваша SD карта заповнена.</string>
 	<string name="pano_file_name_format">"’PANO’_yyyyMMdd_HHmmssSSS"</string>

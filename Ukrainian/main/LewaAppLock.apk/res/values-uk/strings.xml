@@ -57,7 +57,7 @@
 	
 	<string name="lockpattern_need_to_unlock_wrong">Повторити:</string>
 	
-    <string name="lockpattern_recording_intro_header">Накресліть графічний ключ разблокування</string>
+    <string name="lockpattern_recording_intro_header">Накресліть графічний ключ</string>
     <string name="lockpattern_recording_intro_footer">Для довідки виберіть \"Меню\"</string>
     <string name="lockpattern_recording_inprogress">По закінченю відпустіть палець</string>
     <string name="lockpattern_recording_incorrect_too_short">"З'єднайте точки (як мінімум %d). Повторіть спробу:"</string>
@@ -106,11 +106,11 @@
     <string name="input_again">Забути</string>
     <string name="user_delete_button">Видалити</string>
     <string name="app_lock_settings">Налаштування</string>
-    <string name="lewa_applock_summary">Відкриття заблокованого додатка потребує паролю і включення екрану блокує додаток знову</string>
+    <string name="lewa_applock_summary">Відкриття блокованого додатка потребує паролю і включення екрану блокує додаток знову</string>
     <string name="lewa_applock_title">Блокування додатків</string>
     <string name="applock_password_title">Зміна паролю</string>
-    <string name="app_lock_header">Заблоковані додатки</string>
-    <string name="lewa_app_locked">Заблоковано</string>
+    <string name="app_lock_header">" Блоковано додатки"</string>
+    <string name="lewa_app_locked">Блоковано</string>
     <string name="lewa_app_unlocked">Розблоковано</string>
     <string name="icon_loading">Завантаження</string>
     <string name="lewa_pim_name">Контакти</string>

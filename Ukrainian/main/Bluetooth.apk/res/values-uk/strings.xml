@@ -89,8 +89,8 @@
     <string name="btopp_live_folder">Отримано по Bluetooth</string>
     <string name="download_success">Отримано: %1$s</string>
     <string name="upload_success">Відправлено: %1$s</string>
-    <string name="inbound_history_title">Вхідні передачі</string>
-    <string name="outbound_history_title">Вихідні передачі</string>
+    <string name="inbound_history_title">Вхідні файли</string>
+    <string name="outbound_history_title">Вихідні файли</string>
     <string name="no_transfers">Немає даних</string>
     <string name="transfer_clear_dlg_msg">Всі елементи будуть видалені із списку</string>
     <string name="outbound_noti_title">Bluetooth: відправлені файли</string>
@@ -117,7 +117,7 @@
     <string name="unknownName">Невідоме ім\'я</string>
     <string name="localPhoneName">Моя назва</string>
     <string name="defaultnumber">000000</string>
-    <string name="hello">Hello, World! (перевірка зв\'язку)</string>
+    <string name="hello">Привіт світ! (перевірка зв\'язку)</string>
     <string name="app_name">Передача по Bluetooth</string>
     <string name="insert_record">Встановити запис</string>
     <string name="update_record">Підтвердити запис</string>

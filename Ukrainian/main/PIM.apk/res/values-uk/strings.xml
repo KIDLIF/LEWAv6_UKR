@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
     <string name="config_import_vcard_type">За замовчуванням</string>
     <string name="config_export_vcard_type">За замовчуванням</string>
-    <string name="dev_info_title">Назва телефону</string>
+    
+	
+	
+	
+	
+	
+	
+	
+	<string name="dev_info_title">Назва телефону</string>
     <string name="dev_info_model">Модель</string>
     <string name="dev_info_version">Версія</string>
     <string name="dev_info_inner_version">Внутрішня версія</string>
@@ -274,6 +284,7 @@
     <string name="vcard_export_will_start_message">Експорт %s невдовзі розпочнеться.</string>
     <string name="vcard_export_request_rejected_message">Запит на експорт даних vCard відхилений. Повторіть спробу пізніше.</string>
     <string name="vcard_unknown_filename">контакт</string>
+	
     <string name="confirm_export_title">Експорт контактів</string>
     <string name="confirm_export_message">Список контактів буде експортовано у файл \"%s\".</string>
     <string name="exporting_contact_failed_title">Збій експорту</string>
@@ -454,7 +465,7 @@
     <string name="group_edit_field_hint_text">Назва групи</string>
     <string name="contact_status_update_attribution">з допомогою %1$s</string>
     <string name="contact_status_update_attribution_with_date">%1$s з допомогою %2$s</string>
-    <string name="description_star">обране</string>
+    <string name="description_star">Обране</string>
     <string name="edit_contact">Редагувати контакт</string>
     <string name="local_invisible_directory">Інше</string>
     <string name="aggregation_suggestion_join_dialog_message">"Обєднати поточний контакт з вибраним контактом?"</string>
@@ -478,11 +489,13 @@
     <string name="menu_settings">Налаштування</string>
     <string name="menu_help">Допомога</string>
     <string name="preference_displayOptions">Варіанти відображення</string>
+	
     <string name="hint_findContacts">Знайти контакти</string>
     <string name="non_phone_caption">Номер телефону</string>
     <string name="non_phone_add_to_contacts">Додати до контактів</string>
     <string name="activity_title_confirm_add_detail">Додати до контакту</string>
     <string name="non_phone_close">Закрити</string>
+	
     <string name="date_year_toggle">Вказати рік</string>
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Завантаження…</string>
@@ -502,7 +515,8 @@
     <string name="profile_display_name">Налаштувати профіль</string>
     <string name="enter_contact_name">"Ім'я контакту"</string>
     <string name="view_updates_from_group">Оновлення</string>
-    <string name="notification_voicemail_callers_list">%1$s %2$s</string>
+    <string name="notification_action_voicemail_play">Відтворення</string>
+	
     <string name="notification_new_voicemail_ticker">Нове голосове повідомлення: %1$s</string>
     <string name="voicemail_playback_error">Не вдалося відтворити повідомлення.</string>
     <string name="voicemail_buffering">Буферизація…</string>
@@ -525,6 +539,7 @@
     <string name="voicemail_speed_normal">Середня швидкість</string>
     <string name="voicemail_speed_faster">Висока швидкість</string>
     <string name="voicemail_speed_fastest">Максимальна швидкість</string>
+	
     <string name="group_name_hint">Назва групи</string>
     <string name="nfc_vcard_file_name">Отримано з NFC</string>
     <string name="menu_show_outgoing_only">Відображати лише вихідні дзвінки</string>
@@ -548,6 +563,7 @@
     <string name="description_send_message">Відправити SMS/MMS: %1$s</string>
     <string name="description_dial_phone_number">Зателефонувати: %1$s</string>
     <string name="description_quick_contact_for">Швидкий виклик: %1$s</string>
+	
     <string name="user_profile_contacts_list_header">Я</string>
     <string name="local_profile_title">Мій профіль</string>
     <string name="external_profile_title">Мій профіль %1$s</string>
@@ -597,6 +613,7 @@
     <string name="import_export_title">Імпорт/Експорт</string>
     <string name="title_contacts_settings">Налаштування</string>
     <string name="menu_add_to_contacts">Додати до контактів</string>
+	
     <string name="t9_sort_title">Сортування T9</string>
     <string name="t9_sort_summary">Виберіть фільтрування результатів T9</string>
     <string name="t9_sort_name">Спочатку збіг імен</string>
@@ -624,6 +641,9 @@
     <string name="label_loaderframents">Контакт</string>
     <string name="title_stick_photo">Змінити фото контакту</string>
     <string name="message_sd_card_min_size">Бракує місця на SD-картці</string>
+	
+	
+	
     <string name="menu_del_contacts">Видалення контактів</string>
     <string name="move">Перемістити</string>
     <string name="OK">ОК</string>
@@ -719,6 +739,7 @@
     <string name="deleteConfirmation_title">Видалити контакт?</string>
     <string name="prompt_contact_dual_control_1">Натисніть та перетягуйте вліво</string>
     <string name="prompt_contact_dual_control_2">Переключитися на іншу SIM-картку</string>
+	
     <string name="dialpad_empty_text">Нічого немає</string>
     <string name="group_member">Члени групи</string>
     <string name="no_visible_groups">У Вас немає видимих груп</string>
@@ -727,7 +748,7 @@
     <string name="email_error">Необхідно встановити програму електронної пошти або налаштувати обліковий запис!</string>
     <string name="send_groupsms_no_number_more">Для кількох контактів %1$s %2$s відсутній допустимий номер телефону.</string>
     <string name="send_groupsms_no_number_1">Для %1$s відсутній допустимий номер телефону</string>
-    <string name="send_groupsms_no_number_2">Для %1$s %2$s відсутній допустимий номер телефону</string>
+   <string name="send_groupsms_no_number_2">Для %1$s %2$s відсутній допустимий номер телефону</string>
     <string name="send_groupsms_no_email_more">%1$s та ще %2$s контактів не мають допустимої ел.адреси</string>
     <string name="send_groupsms_no_email_1">%1$s не має допустимої адреси ел.пошти</string>
     <string name="send_groupsms_no_email_2">%1$s та %2$s не мають допустимої адреси ел.пошти</string>
@@ -859,6 +880,8 @@
     <string name="call_ip_dial">IP-виклик</string>
     <string name="gemini_sim_management_title">Керування SIM-картками</string>
     <string name="menu_call_log_filter">Фільтр журналу дзвінків</string>
+	
+	
     <string name="all_resources">Всі ресурси</string>
     <string name="all_calls">Всі виклики</string>
     <string name="received_calls">Вхідні</string>
@@ -883,12 +906,12 @@
     <string name="user_profile_cannot_sd_card">Не можна поділитися вмістом у такий спосіб.</string>
     <string name="file_already_on_sd_card">"Файл вже знаходиться на картці пам'яті."</string>
     <string name="imexport_bridge_sd_card">SD-картка</string>
-    <string name="label_smart_avatar">Розумний аватар</string>
-    <string name="label_avatar_colorful">Кольоровий</string>
-    <string name="label_avatar_simple">Простий</string>
+    <string name="label_smart_avatar">Розумна аватарка</string>
+    <string name="label_avatar_colorful">Кольорова</string>
+    <string name="label_avatar_simple">Проста</string>
     <string name="title_change_warning">Нагадування</string>
     <string name="dialpad_prompt_title">Хочете швидко шукати контакти?</string>
-    <string name="dialpad_prompt_text">Наприклад: Тарас Шевченко. Виберіть 6 і 8</string>
+    <string name="dialpad_prompt_text">Наприклад: Guo Jing. Виберіть 4 і 5</string>
     <string name="dialog_choose_storage">Виберіть місце сховища</string>
     <string name="inner_version_info">Інформація про версію：</string>
     <string name="external_version">Зовнішня версія:</string>
@@ -1002,7 +1025,8 @@
     <string name="replace">Замінити</string>
     <string name="remove">Видалити</string>
     <string name="send">Відправити</string>
-    <string name="mms">MMS</string>
+	
+    <string name="send_mms">Відправити MMS</string>
     <string name="all_threads">Всі ланцюжки</string>
     <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
     <string name="open_keyboard_to_compose_message">Відкрийте клавіатуру, щоб ввести повідомлення</string>
@@ -1014,6 +1038,7 @@
     <string name="failed_to_add_media">Неможливо додати %1$s до повідомлення.</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір зображення.</string>
     <string name="resize_image_error_information">Пробачте, навіть після зменшення зображення завелике для відправки.</string>
+	
     <string name="discard_message_reason">Повідомлення буде видалено, оскільки не вказано жодного коректного адресату.</string>
     <string name="has_invalid_recipient">Некоректний одержувач: &lt;%1$s</string>
     <string name="invalid_destination">Некоректна адреса одержувача.</string>
@@ -1214,6 +1239,7 @@
     <string name="sending_message">Відправка…</string>
     <string name="pick_too_many_recipients">Занадто багато одержувачів</string>
     <string name="adding_recipients">Додавання одержувачів…</string>
+	
     <string name="message_count_format">%1$s</string>
     <string name="message_count_notification">Нових повідомлень: %1$s</string>
     <string name="error_state">Помилковий стан</string>
@@ -1224,11 +1250,15 @@
     <string name="attachment_slideshow">Слайд-шоу</string>
     <string name="attachment_video">Відео</string>
     <string name="attachment_picture">Зображення</string>
+	
+	
+	
     <string name="message_empty_text">Нічого немає</string>
     <string name="sms_recommend_message">Шаблони</string>
     <string name="message_early">Раніше</string>
     <string name="message_today">Сьогодні</string>
     <string name="message_yesterday">Вчора</string>
+	
     <string name="notify_type_message">Сповіщення SMS/MMS</string>
 	<string name="verify_code_type_message">Повідомлення з кодом підтверждення</string>
     <string name="menu_unread_all">Позначити всі як непереглянуті</string>
@@ -1248,7 +1278,8 @@
     <string name="pref_title_import_msg">Імпорт SMS</string>
     <string name="pref_summary_export_msg">Експорт SMS на SD-картку</string>
     <string name="pref_title_export_msg">Експорт SMS</string>
-    <string name="hint">Поле для відповіді…</string>
+	
+    <string name="hint">Поле для відповіді…</string>	
     <string name="alter_title">Корисні поради</string>
     <string name="alter_message">Ви дійсно бажаєте видалити це повідомлення?</string>
     <string name="alter_negtive">Скасувати</string>
@@ -1263,6 +1294,7 @@
     <string name="menu_mms_timer_text">Таймер</string>
     <string name="mms_menu_quick_text">Швидкий текст</string>
     <string name="mms_timer_dialog_title">Встановити час відправки SMS</string>
+	
     <string name="mms_timer_add_error">Помилка таймера, не раніше системного часу</string>
     <string name="mms_nomal_message">Текст повідомлення</string>
     <string name="attach_select_local_video">локальне відео</string>
@@ -1322,6 +1354,7 @@
     <string name="menu_insert_text_vcard">Додати контакт</string>
     <string name="contact_organization">Організація</string>
     <string name="contact_address">Адреса</string>
+	
     <string name="message_compose_menu_resend_label">Перенадіслати</string>
     <string name="save_message_to_sim">Зберегти на SIM-картку</string>
     <string name="max_recipients_title">Досягнуто ліміту</string>
@@ -1387,8 +1420,6 @@
 	<string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Відправити звіт про доставку при каждому отриманому повідомлені</string>
     <string name="multi_waiting_msg">Очікуваня...</string>
-    <string name="menu_omacp">Налаштування повідомлень</string>
-    <string name="Insert_sdcard">Установіть SD-карту</string>
     <string name="menu_print">Друк</string>
     <string name="printContact">Роздрукувати контакт через</string>
     <string name="no_way_to_print">Немає додатків для друку.</string>
@@ -1471,6 +1502,7 @@
     <string name="select_quick_text">Виберіть швидкий текст</string>
     <string name="add">Додати</string>
     <string name="more_recipients">одержувач(і)</string>
+    <string name="Insert_sdcard">Встановіть SD-карту</string>
     <string name="service_center_label">"Центр служби: "</string>
     <string name="cu_subject">Lemei Тема</string>
     <string name="pref_title_mms_creation_mode">Режим створення</string>
@@ -1493,6 +1525,7 @@
     <string name="pref_summary_wappush_sl_autoloading">Автоматично відкривати при отриманні повідомлення про запуск сервісу (SL)</string>
     <string name="create_new_message">Написати повідомлення</string>
     <string name="menu_send_sms">Надіслати повідомлення %s</string>
+	<string name="menu_omacp">Налаштування повідосмлень</string>
     <string name="menu_undelivered_messages">Недоставлені повідомлення</string>
     <string name="broadcast_from_to">Від %1$s до %2$s</string>
     <string name="anonymous_recipient">Анонім</string>

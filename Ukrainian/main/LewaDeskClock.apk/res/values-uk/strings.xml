@@ -16,6 +16,7 @@
 	<string name="hide_clock">Сховати годинник</string>
 	<string name="label">Опис</string>
 	<string name="default_label">Будильник</string>
+	<string name="default_label_for_alert">Сповіщення про будильник</string>
 	<string name="set_alarm">Встановити будильник</string>
 	<string name="alarm_vibrate">Вібросигнал</string>
 	<string name="alarm_repeat">Дні тижня</string>
@@ -118,6 +119,7 @@
 	<string name="time_zh_str">Київ</string>
 	<string name="early_time">Менше на %1$s год.</string>
 	<string name="later_time">Більше на %1$s год.</string>
+	<string name="current_timezone">Поточний часовой пояс</string>
 	<string name="lab">Коло</string>
 	<string name="left_text">Наступний будильник：</string>
 	<string name="alarm_day">дн.</string>
@@ -134,12 +136,4 @@
 	<string name="set_timezone">Налаштування</string>
 	<string name="please_select_one_more_citys">Вкажіть хоча б одне місто</string>
 	<string name="turn_snooze">Відкласти сигнал перевертанням</string>
-	<string name="repeat_everyday">Щодня</string>
-	<string name="repeat_none">Не повторювати</string>
-	<string name="alarm_alert_snooze_until">Період встановлено: %s</string>
-	<string name="voice_ui_title">Керування голосом</string>
-	<string name="voice_ui_content_text">Керування голосом старту будильника</string>
-	<string name="alarm_command_summary_format">"Ви можете сказати %1$s або %2$s 
-Відкласти або вимкнути сигнал."</string>
-	<string name="alarm_command_summary_format_land">Сказати %1$s або %2$s Відкласти або вимкнути сигнал.</string>
 </resources>

@@ -21,10 +21,10 @@
 	<string name="automatic_brightness">Автояскравість</string>
 	<string name="dev_key_bglight">Підсвітка клавіатури</string>
 	<string name="dev_clear_memory">Очищення пам’яті після блокування екрану</string>
-	<string name="spm_date">"д."</string>
-	<string name="spm_hour">"г."</string>
-	<string name="spm_minute">"х."</string>
-	<string name="spm_seconds">"с."</string>
+	<string name="spm_date">"д. "</string>
+	<string name="spm_hour">"г. "</string>
+	<string name="spm_minute">"х. "</string>
+	<string name="spm_seconds">" с. "</string>
 	<string name="spm_auto">Автоматично</string>
 	<string name="spm_time_to_use">Застосувати</string>
 	<string name="spm_remain_lower_one_hour">Менш, ніж година</string>
@@ -130,4 +130,5 @@
 	<string name="spm_inti_statusbar_entry">Увійти знову</string>
 	<string name="spm_inti_statusbar_exit">Тимчасово вийти</string>
 	<string name="spm_trickle_charge_title">Заряджання пристрою</string>
+	<string name="allowsavetime_toast">Час початку і кінця співпадає</string>
 </resources>

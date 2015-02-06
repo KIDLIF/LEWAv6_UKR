@@ -16,7 +16,7 @@
         <item>Експерт</item>
     </string-array>
     <string-array name="ui_prefer_values">
-        <item>Error</item>
+        <item>Помилка</item>
         <item>1</item>
         <item>2</item>
     </string-array>

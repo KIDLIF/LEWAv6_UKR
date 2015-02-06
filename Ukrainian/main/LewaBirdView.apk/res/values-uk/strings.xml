@@ -10,20 +10,28 @@
     <string name="noalarm">Будильник</string>
     <string name="off">Вимк</string>
     <string name="on">Увім</string>
-    <string name="alarm">Будил.</string>
+    <string name="alarm">Будильник</string>
     <string name="power_on">Збер.</string>
     <string name="power_surplus">Залишилося</string>
     <string name="power_full">Заряджання</string>
     <string name="power_isfull">Заряджено</string>
-    <string name="power_h">г</string>
-    <string name="power_m">х</string>
+    <string name="power_h">г.</string>
+    <string name="power_m">х.</string>
     <string name="torch">Ліхтарик</string>
     <string name="safe_scanning">Перевірка...</string>
     <string name="safe_scanning_error">Помилка сканування, спробуйте пізніше</string>
     <string name="safe_status_one">Безпечно</string>
     <string name="safe_status_two">дня(ів) без перевірки</string>
     <string name="safe_status_three">Перевірити</string>
+	<string name="operation_choose">Вибір режиму</string>
+    <string name="pre_operation_mode">" "</string>
+    <string name="left_sliding">Слайд вліво блокує додаток</string>
+    <string name="right_sliding">Слайд вправо блокує додаток</string>
+    <string name="alarm_tips">Тривале натискання може бути застосовано в будильнику</string>
+    <string name="long_click_tips">Тривале натискання для перегляду інформації додатка</string>
     <string name="clean_toast_str0">Оптимізовано</string>
     <string name="clean_toast_str1">"Звільнено %1$d МБ пам’яті
 Доступно %2$d МБ"</string>
+    <string name="pre_sense_mode">Автоматичне переключення фліпом</string>
+    <string name="pre_summary_sense_mode">Доступні Налаштування> жест встановюється окремо</string>
 </resources>

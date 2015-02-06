@@ -535,6 +535,7 @@
 	<string name="search_slow_warning_title">Очікування результатів</string>
 	<string name="search_slow_warning_message">Очікування відповіді від сервера може зайняти багато часу.</string>
 	<string name="action_bar_mailbox_list_title">Теки</string>
+	
 	<string name="require_manual_sync_message">Для цього облікового запису відключена фонова синхронізація в роумінгу.</string>
     <string name="Send_From_My">"Відправлено з мого "</string>
 	<string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;</string>

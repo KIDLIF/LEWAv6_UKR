@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
+
+
+
     <string name="simui_intenet_call">Інтернет-виклик</string>
     <string name="gemini_sim_mode_progress_activating_message">Активація…</string>
     <string name="gemini_sim_mode_progress_deactivating_message">Деактивация…</string>
@@ -229,8 +234,10 @@
     <string name="vt_call_settings">Налаштування відеодзвінка</string>
     <string name="vt_local_video_rep">Заміна відеосигналу</string>
     <string name="vt_pic_replace_local_description">Поставити зображення для відображення, коли камера не використовується</string>
-    <string name="mo_code_unconditional_cf_active">Безумовна переадресація активована</string>
-    <string name="mo_code_some_cf_active">Умовна переадресація виклику</string>
+    <string name="mo_code_unconditional_cf_active">Безумовна переадресація активована
+</string>
+    <string name="mo_code_some_cf_active">Умовна переадресація виклику
+</string>
     <string name="mo_code_call_forwarded">Виклик переадресований</string>
     <string name="mo_code_call_is_waiting">Очікування виклику</string>
     <string name="mo_code_cug_call">Закрита група користувачів</string>
@@ -336,14 +343,22 @@
     <string name="throttle_status_subtext">"%1$s (%2$d٪) з %3$s (максимум)
 Наступний період почнеться через %4$d дн. (%5$s)"</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) з %3$s (максимум)</string>
+	
+	
+	
+	
     <string name="username">Ім\'я користувача</string>
     <string name="password">Пароль</string>
     <string name="display_name">Коротке ім\'я</string>
     <string name="proxy_address">Проксі адреса</string>
     <string name="port">Порт</string>
     <string name="transport">Протокол</string>
+	
     <string name="set_primary">Встановити головним</string>
     <string name="advanced_settings_container">розширені налаштування</string>
+	
+	
+	
     <string name="throttle_time_frame_subtext">"%1$d٪ періоду пройшло. 
 Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="phoneAppLabel">Телефон</string>
@@ -892,6 +907,7 @@
     <string name="dtmf_tone_enable_title">Тон набору сенсорної панелі</string>
     <string name="dial_pad_autocomplete">Автозавершення</string>
     <string name="preference_category_ringtone">Мелодія виклику</string>
+	
     <string name="voice_call_ringtone_title">Мелодія виклику</string>
     <string name="voice_call_ringtone_setting_title">Налаштування мелодії виклику</string>
     <string name="hasblockwarning">Неможливо додати номер, так як він вже в списку</string>

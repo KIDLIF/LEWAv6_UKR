@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
     <string-array name="max_phone_record_size">
         <item>50 MБ</item>
         <item>100 MБ</item>
@@ -8,24 +10,66 @@
         <item>1 ГБ</item>
         <item>Без обмежень</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (авторежим)</item>
         <item>Тільки WCDMA</item>
         <item>Тільки GSM</item>
     </string-array>
+	
+	
+	
+	
+	
     <string-array name="umts_network_preferences_choices">
         <item>GSM/WCDMA (авторежим)</item>
         <item>Тільки WCDMA</item>
     </string-array>
+	
+	
+	
+	
     <string-array name="lte_usim_prefer_network_mode_choices">
         <item>4G/3G/2G (Авто)</item>
         <item>3G/2G (Авто)</item>
         <item>Тільки 2G</item>
     </string-array>
+	
+	
+	
+	
+	
     <string-array name="lte_sim_prefer_network_mode_choices">
         <item>3G/2G (Авто)</item>
         <item>Тільки 2G</item>
     </string-array>
+	
+	
+	
+	
     <string-array name="language_list_values">
         <item>Усі мови</item>
         <item>Німецька</item>
@@ -71,7 +115,7 @@
         <item>GSM/WCDMA пріоритет</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>Английська</item>
+        <item>Англійська</item>
         <item>Французська</item>
         <item>Іспанська</item>
         <item>Японська</item>
@@ -99,4 +143,5 @@
         <item>Гитара</item>
         <item>Тихо</item>
     </string-array>
+	
 </resources>

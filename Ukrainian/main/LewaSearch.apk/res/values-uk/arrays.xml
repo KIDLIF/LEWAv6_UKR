@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ids_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="chinese_name_array">
         <item>通话设置</item>
         <item>百变主题</item>
@@ -13,5 +20,31 @@
         <item>Перехоплювач</item>
         <item>Оновлення</item>
         <item>Налаштування голосового виклику</item>
+    </string-array>
+    <string-array name="action_name_array">
+        <item>android.intent.action.MAIN</item>
+        <item>android.intent.action.MAIN</item>
+        <item>android.intent.action.MAIN</item>
+        <item>android.intent.action.MAIN</item>
+        <item>android.intent.action.MAIN</item>
+    </string-array>
+    <string-array name="package_name_array">
+        <item>com.android.phone/.CallFeaturesSetting</item>
+        <item>com.lewa.themechooser/.ThemeChooser</item>
+        <item>com.lewa.intercept/.MainActivity</item>
+        <item>com.lewa.updater/.UpdaterActivity</item>
+        <item>com.android.phone/.CallFeaturesSetting</item>
+    </string-array>
+    <string-array name="ignore_activity_array">
+        <item>com.android.settings.Settings$WifiPrioritySettingsActivity</item>
+        <item>com.android.settings.Settings$WifiGprsSelectorActivity</item>
+        <item>com.android.settings.Settings$AccountSyncSettingsActivity</item>
+        <item>com.android.settings.Settings$DataUsageSummaryActivity</item>
+        <item>com.android.settings.Settings$WapPushSettings</item>
+        <item>com.android.settings.Settings$SimDataRoamingSettings</item>
+        <item>com.android.settings.Settings$SimManagementActivity</item>
+        <item>com.android.settings.Settings$SetAlarmActivity</item>
+        <item>com.android.settings.Settings$SimListEntranceActivity</item>
+        <item>com.android.settings.Settings$AndroidBeamSettingsActivity</item>
     </string-array>
 </resources>

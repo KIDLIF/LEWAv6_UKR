@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Вибране відео</string>
+    <string name="app_name">Обране відео</string>
     <string name="ok">ОК</string>
     <string name="cancel">Скасувати</string>
     <string name="delete_dialog_title">Видалити вибране</string>

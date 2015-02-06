@@ -10,6 +10,16 @@
         <item>Акордеон</item>
         <item>Карусель</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string-array name="large_screen_layout">
         <item>4 * 4</item>
         <item>4 * 5</item>
@@ -52,6 +62,10 @@
         <item>0.9f</item>
         <item>1.0f</item>
     </string-array>
+	
+	
+	
+	
     <string-array name="app_category">
         <item>Життя</item>
         <item>Спілкування</item>
@@ -76,5 +90,16 @@
         <item>Пазли</item>
         <item>Настільні</item>
     </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <array name="wallpapers" />
 </resources>

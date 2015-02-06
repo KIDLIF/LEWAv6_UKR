@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="selectNone">Скасувати</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string name="title_actionbar_selected_items">%s вибрано</string>
     <string name="back_killed_message">Закрито</string>
+	
+	
+	
     <string name="data_usage_warning_body">Увага, за тарифним планом залишилося лише %s</string>
     <string name="global_actions_toggle_airplane_mode">У літаку</string>
     <string name="global_action_power_off">Вимкнути телефон</string>
@@ -15,6 +28,19 @@
     <string name="power_off">Вимикання</string>
     <string name="shutdown_progress">Вимикається…</string>
     <string name="shutdown_confirm">Телефон буде вимкнено</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     <string name="data_usage_warning_title">Трафік не має достатніх повідомлень</string>
     <string name="fixed_line">Фікс. лінія</string>
     <string name="hour">год.</string>
@@ -29,8 +55,25 @@
     <string name="no_network">Немає підключення до мережі</string>
     <string name="suggest_to">Рекомендується перейти до:</string>
     <string name="check_network">Перевірте мережу</string>
+	
+	
+	
+	
+	
+	
     <string name="safe_media_volume_warning">"Підняти гучність вище безпечного рівня? 
 Прослуховування музики на максимальному рівні може завдати шкоди слуху"</string>
+
+
+
+
+
+
+    <string name="force_close">Закрити вікно</string>
+    <string name="report">Відправити звіт</string>
+    <string name="report_success">Звіт про помилку відправлено, дякую за Ваш відгук</string>
+    <string name="report_fail">Звіт не відправлено</string>
+    <string name="report_network_error">Немає інтернету</string>
     <string name="the_spring_festival">Китайський Новий рік</string>
     <string name="lantern_festival">Фестиваль ліхтарів</string>
     <string name="the_dragon_boat_festival">Свято човнів-драконів</string>
@@ -120,6 +163,8 @@
     <string name="lock_screen_drag_here">Перетягніть сюди для розблокування</string>
     <string name="lock_screen_dismiss">Відхилити</string>
     <string name="lock_screen_snooze">Сон</string>
+	<string name="lock_screen_pm">ДП</string>
+    <string name="lock_screen_am">ПП</string>
     <string name="ringtone_custom">Корист.</string>
     <string name="ringtone_silent_summary">Тихий</string>
     <string name="capital_on">УВІМ.</string>
@@ -127,11 +172,17 @@
     <string name="storage_phone">Внутрішнє сховище</string>
     <string name="text_pastelist">Буфер обміну</string>
     <string name="select">Вибір</string>
+	
+	
+	
+	
+	
     <string name="inadvertmode_title">Запобігання натисканям</string>
     <string name="inadvertmode_tip_msg1">Не закривайте верх екрану</string>
     <string name="inadvertmode_force_quit">Для виходу натисніть Увім. + Гучність вгору</string>
     <string name="translate">Переклад</string>
     <string name="add">додати</string>
     <string name="call">Виклик</string>
+    <string name="sms">SMS</string>
     <string name="mail">Електронна пошта</string>
 </resources>

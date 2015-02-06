@@ -201,6 +201,11 @@
 	<string name="bluetooth_hid_unplug_confirm">Бажаєте від\'єднати бездротовий пристрій %1$s?</string>
 	<string name="bluetooth_hid_auth_confirm">Бажаєте підтвердити запит від бездротового пристрою"% 1$s?</string>
 	<string name="bluetooth_hid_summary_disconnecting">Від\'єднання…</string>
+	
+	
+	
+	
+	
 	<string name="bluetooth_map_server_authorize_request_ticker">Запит авторизації Remote Message Access</string>
 	<string name="bluetooth_map_server_authorize_request_title">Запит авторизації Remote Message Access</string>
 	<string name="bluetooth_map_server_authorize_request_message">Виберіть, щоб дозволити з\'єднання Remote Message Access</string>

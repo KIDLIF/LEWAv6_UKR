@@ -354,10 +354,13 @@
     <string name="confCall">Конференц-виклик</string>
     <string name="call_lost">Виклик перерваний</string>
     <string name="ok">ОК</string>
-    <string name="audio_mode_speaker">Дінамик</string>
-    <string name="audio_mode_earpiece">Дінамик гарнітуры</string>
-    <string name="audio_mode_wired_headset">Дротова гарнітура</string>
-    <string name="audio_mode_bluetooth">Bluetooth</string>
+    <string name="audio_mode_speaker">Динамик
+</string>
+    <string name="audio_mode_earpiece">Динамик гарнітури
+</string>
+    <string name="audio_mode_wired_headset">Провідна гарнітура</string>
+    <string name="audio_mode_bluetooth">Bluetooth
+</string>
     <string name="wait_prompt_str">"Відправити наступні тональні сигнали?
 "</string>
     <string name="pause_prompt_str">"Відправлення тональних сигналів

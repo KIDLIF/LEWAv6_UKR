@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
     <string name="status_bar_date_formatter">"%1$s 
 %2$s"</string>
     <string name="gemini_default_sim_always_ask">Завжди питати</string>
@@ -77,8 +79,8 @@
     <string name="status_bar_settings_mute_label">ВИМК.</string>
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="status_bar_settings_notifications">Повідомлення</string>
-    <string name="status_bar_settings_battery_meter_format">%d%%</string>
-    <string name="status_bar_network_name_separator"> | </string>
+	
+	
     <string name="bluetooth_tethered">Bluetooth з’єднано</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
     <string name="status_bar_use_physical_keyboard">Фізична клавіатура</string>
@@ -163,8 +165,9 @@
     <string name="notifications_off_title">Повідомлення вимкнено</string>
     <string name="notifications_off_text">Натисніть тут, щоб знову увімкнути повідомлення</string>
     <string name="accessibility_rotation_lock_off">Екран буде повертатися автоматично</string>
-    <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
-    <string name="status_bar_settings_battery_meter_min_format">%d</string>
+	
+	
+	<string name="guid">Зрозумів</string>
     <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
     <string name="otg_connect">USB-накопичувач підключений</string>
     <string name="otg_unmount">Безпечне вилучення</string>
@@ -172,6 +175,7 @@
     <string name="title_toggle_sound">Без звуку</string>
     <string name="title_toggle_lockscreen">Блок. екрану</string>
     <string name="switchwidgetsettings_notice_title">Не більше 10 іконок</string>
+	
     <string name="tab_notifications">Повідомлення</string>
     <string name="tab_switches">Перемикачі</string>
     <string name="title_buttons">Кнопки</string>
@@ -204,11 +208,14 @@
     <string name="switchwidgetsettings_switch_off">закрити</string>
     <string name="statusbarsettings">Налаштування панелі сповіщень</string>
     <string name="double_statusbar_setting">Двосторінкова панель стану</string>
-    <string name="twelve_hour_time_format_nopm">h:mm</string>
-    <string name="settings_double_status">key_double_status</string>
+
+	
+	
+	
     <string name="widget_setting">Перемикачі</string>
     <string name="usagedata_setting">Показувати витрату трафіку</string>
     <string name="netspeed_setting">Показувати швидкість мережі</string>
+	
     <string name="today_usage">Сьогодні:</string>
     <string name="month_left_usage">Залишилося:</string>
     <string name="recent_totalmem">Всього пам’яті:</string>
@@ -238,6 +245,7 @@
 Версія:"</string>
     <string name="notifilter_cloudloading">Триває завантаження онлайн-бази…</string>
     <string name="notifilter_cloudlasttime">Останнє оновлення:</string>
+	
     <string name="accessibility_halo">Створити повідомлення Halo</string>
     <string name="halo_dismiss">Скасувати повідомлення</string>
     <string name="halo_hide">Сховати</string>
@@ -257,18 +265,26 @@
     <string name="halo_signal_bars_2">2 СМУЖКИ</string>
     <string name="halo_signal_bars_1">1 СМУЖКА</string>
     <string name="halo_signal_bars_none">НЕМАЄ СМУЖОК</string>
+	
     <string name="menu_actionbar_selected_items">%s вибрано</string>
     <string name="reboot_now_confirm">Так</string>
     <string name="reboot_later_confirm">Ні</string>
     <string name="reboot">Перезавантаження</string>
     <string name="reboot_message">Потрібно перезавантажити</string>
+	
+	
     <string name="shake_clean_title">Очищення струшуванням</string>
     <string name="shake_clean_summary">Швидке очищення повідомлень струшуванням</string>
+	
+	
+	
+	
     <string name="usage_title">Використання трафіку</string>
     <string name="widget_disabled_mobile">Передача даних виключена</string>
     <string name="widget_data_pack_warning">Вкажіть тарифний план</string>
     <string name="widget_exceed">Превышено</string>
     <string name="not_set">Не вказано</string>
+	
     <string name="widget_remain">Залишилось</string>
     <string name="widget_today_usage">Сьогодні</string>
     <string name="netusage">Трафік</string>

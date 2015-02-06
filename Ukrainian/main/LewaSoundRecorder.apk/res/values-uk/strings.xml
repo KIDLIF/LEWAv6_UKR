@@ -14,6 +14,8 @@
     <string name="accept">Використати цей запис</string>
     <string name="discard">Відмінити</string>
     <string name="button_ok">ОК</string>
+	
+	
     <string name="audio_db_title_format">dd.MM.yyyy HH:mm:ss</string>
     <string name="audio_db_artist_name">Ваші записи</string>
     <string name="audio_db_album_name">Аудіозаписи</string>
@@ -46,8 +48,10 @@
     <string name="recording_paused">Запис призупинено</string>
     <string name="record_title">Запис</string>
     <string name="play_title">Відтворення</string>
-    <string name="time_zero">00:00</string>
+	
     <string name="delete_selected">Обрано %s</string>
+	
+	
     <string name="is_recording_can_not_use_play_function">Під час запису неможливо використовувати відтворення</string>
     <string name="is_playing_can_not_use_record_function">Програється аудіофайл, неможливо використовувати запис</string>
     <string name="menu_actionbar_selected_items">%s обрано</string>
@@ -55,6 +59,7 @@
     <string name="menu_multichoice_clear_select">Відмінити все</string>
     <string name="recording_notitication">Запис</string>
     <string name="pause_record">Пауза</string>
+	
     <string name="tv_prompt">Підказка: натисніть клавішу Додому для програвання запису</string>
     <string name="sounder_file">Запис файлів</string>
 	<string name="filename_to_save">"Ім\'я файла: "</string>
@@ -63,6 +68,7 @@
     <string name="play_record">Відтворення запису</string>
     <string name="cancel_save_toast_display">Відказ від збереження запису</string>
     <string name="playing_record_toast">Відтворення</string>
+	
     <string name="default_name_saved">Зберегти з іменем по замовчуванню</string>
     <string name="too_short_to_save">Час запису занадто короткий, не вдається зберегти</string>
     <string name="storage_problem_stop_record">Помилка накопичувача, запис перервано</string>

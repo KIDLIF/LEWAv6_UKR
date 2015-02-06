@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="picasa_upload">Завантажчик Picasa</string>
+    <string name="share_to_picasa">Picasa</string>
     <string name="picasa_title_for_single">Завантажити фото або відео</string>
     <string name="picasa_title_for_multiple">Завантажити %d фото або відео</string>
     <string name="picasa_upload_caption">Підпис</string>
@@ -30,6 +32,7 @@
     <string name="picasa_upload_state_duplicate">Копія</string>
     <string name="picasa_upload_state_cancelling">Скасування</string>
     <string name="picasa_upload_state_missing_file">Файл відсутній</string>
+	
     <string name="picasa_upload_actionbar_tab_active_uploads">Активні завантаження</string>
     <string name="picasa_upload_actionbar_tab_history">Історія</string>
     <string name="new_album_dialog_title">Створити альбом</string>
