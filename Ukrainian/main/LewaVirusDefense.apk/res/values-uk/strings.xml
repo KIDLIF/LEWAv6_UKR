@@ -69,7 +69,7 @@
 	<string name="scan_state_start">Сканування...</string>
 	<string name="scan_state_cloud">Онлайн-сканування...</string>
 	<string name="scan_state_end">Перевірку завершено</string>
-	<string name="scan_schedule_notice">Повідомлення провеки</string>
+	<string name="scan_schedule_notice">Повідомлення перевірки</string>
 	<string name="scan_schedule_notice_summary">Почати перевірку пристрою?</string>
 	<string name="delete_notice">Видалити цей файл?</string>
 	<string name="cloud_scan_error">Помилка онлайн-сканування!</string>
