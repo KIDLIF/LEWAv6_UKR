@@ -910,7 +910,7 @@
     <string name="label_avatar_colorful">Кольорова</string>
     <string name="label_avatar_simple">Проста</string>
     <string name="title_change_warning">Нагадування</string>
-    <string name="dialpad_prompt_title">Хочете швидко шукати контакти?</string>
+    <string name="dialpad_prompt_title">Хочете швидко знаходити контакти?</string>
     <string name="dialpad_prompt_text">Наприклад: Guo Jing. Виберіть 4 і 5</string>
     <string name="dialog_choose_storage">Виберіть місце сховища</string>
     <string name="inner_version_info">Інформація про версію：</string>

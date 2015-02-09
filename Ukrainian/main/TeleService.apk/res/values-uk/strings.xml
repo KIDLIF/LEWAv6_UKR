@@ -146,9 +146,9 @@
     <string name="cdma_cfu_dialog_sum">Завжди використовувати цей номер</string>
     <string name="dual_mic_title">Шумозаглушування</string>
     <string name="dual_mic_summary">Приглушування ​​фонового шуму під час розмови</string>
-    <string name="minutereminder_title">Хвилинне нагадування</string>
-    <string name="minutereminder_turnoff">Вимкнути хвилинне нагадування</string>
-    <string name="minutereminder_turnon">Увімкнути нагадування на 50-й секунді кожної хвилини</string>
+    <string name="minutereminder_title">Щохвилинне нагадування</string>
+    <string name="minutereminder_turnoff">Вимкнено щохвилинне нагадування</string>
+    <string name="minutereminder_turnon">Увімнено нагадування на 50-й секунді кожної хвилини</string>
     <string name="minutereminder_summary">Нагадування на 50-й секунді кожної хвилини</string>
     <string name="voice_call_settings">Налаштування голосових викликів</string>
     <string name="enable_sip_dialog_message">Інтернет-виклики вімкнені, увімкнути їх?</string>

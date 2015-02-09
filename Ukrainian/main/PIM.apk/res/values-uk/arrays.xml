@@ -373,6 +373,6 @@
         <item>Через 30 днів</item>
         <item>Через 20 днів</item>
         <item>Через 10 днів</item>
-        <item>Не удалять</item>
+        <item>Не видаляти</item>
     </string-array>
 </resources>
