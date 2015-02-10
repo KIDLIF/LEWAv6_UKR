@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs">
+        <item>Настройки процесора</item>
+        <item>Процесор</item>
+        <item>Акумулятор</item>
+        <item>"Налаштування пам'яті"</item>
+        <item>Налаштування напруги</item>
+        <item>Розширені настройки</item>
+        <item>Статистика частот</item>
+        <item>Про диск</item>
+        <item>Інструменти</item>
+    </string-array>
+    <string-array name="oom_values">
+        <item>Дуже Легкий</item>
+        <item>Легкий</item>
+        <item>Середній</item>
+        <item>Аграсивний</item>
+        <item>Дуже Агресивний</item>
+    </string-array>
+    <string-array name="residual_info">
+        <item>Містить системні логфайли</item>
+        <item>Містить логфайли пошкоджених додатків</item>
+        <item>Містить часто генеровані логфайли</item>
+        <item>Містить статистику про запущені додатки</item>
+        <item>"Містить список 'додаток невідповідає'"</item>
+        <item>Містить тимчасові файли</item>
+    </string-array>
+    <string-array name="batt_status">
+        <item>статус не вказаний</item>
+        <item>статус не вказаний</item>
+        <item>зарядка</item>
+        <item>розрядка</item>
+        <item>повний</item>
+        <item>не заряджається</item>
+    </string-array>
+    <string-array name="asens">
+        <item>Високий</item>
+        <item>Низкий</item>
+    </string-array>
+    <string-array name="mc_ps_array">
+        <item>Виключено</item>
+        <item>Включено</item>
+        <item>Агресивний</item>
+    </string-array>
+</resources>
