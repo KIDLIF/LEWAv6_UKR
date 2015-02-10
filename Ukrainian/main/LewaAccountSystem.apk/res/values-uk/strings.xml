@@ -3,7 +3,7 @@
     <string name="account_name">Обліковий запис Lewa</string>
     <string name="lewaAccountSystem">Обліковий запис Lewa</string>
     <string name="login_activity_title">Логін %1$s</string>
-    <string name="login_name_hint">Вход із помощью имени пользователя, номера телефону або адреса ел. пошти</string>
+    <string name="login_name_hint">Вхід із допомогою імені користувача, номера телефону або адреса ел. пошти</string>
     <string name="login">Логін</string>
     <string name="register">Реєстрація</string>
     <string name="next">Далі</string>
