@@ -1337,7 +1337,7 @@
     <string name="display_manager_built_in_display_name">Вбудований екран</string>
     <string name="display_manager_hdmi_display_name">Екран HDMI</string>
     <string name="display_manager_overlay_display_name">Накладення № %1$d</string>
-    <string name="display_manager_overlay_display_title">%1$s: %2$d х %3$d, %4$d точок/дюйм</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$d х %3$d, %4$d крапок/дюйм</string>
     <string name="wifi_display_notification_title">Бездротовий проектор підключений</string>
     <string name="wifi_display_notification_message">Зображення передається на інший пристрій</string>
     <string name="wifi_display_notification_disconnect">Вимкнути</string>

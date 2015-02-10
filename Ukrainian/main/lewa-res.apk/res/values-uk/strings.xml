@@ -78,11 +78,11 @@
     <string name="lantern_festival">Фестиваль ліхтарів</string>
     <string name="the_dragon_boat_festival">Свято човнів-драконів</string>
     <string name="double_seventh_day">Танабата</string>
-    <string name="the_mid_autumn_festival">Свято середини осені</string>
+    <string name="the_mid_autumn_festival">"Св'ято середини осені"</string>
     <string name="the_double_ninth_festival">Чун Енг фестиваль</string>
     <string name="the_laba_rice_porridge_festival">Лаба</string>
     <string name="new_years_day">Новий рік</string>
-    <string name="valentines_day">День святого Валентина</string>
+    <string name="valentines_day">"День св'ятого Валентина"</string>
     <string name="international_womens_day">Жіночий день</string>
     <string name="arbor_day">День деревонасадження</string>
     <string name="fools_day">День Дурня</string>
