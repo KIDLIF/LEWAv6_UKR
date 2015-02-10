@@ -43,7 +43,7 @@
     <string name="cannot_add_more_screen">Не можна додати більше екранів</string>
     <string name="cannot_delete_more_screen">Немає стільниц для видалення</string>
     <string name="menu_preview">Стільниці</string>
-    <string name="menu_edit">Віджети</string>
+    <string name="menu_edit">Меню лаунчера</string>
     <string name="menu_theme">Теми</string>
     <string name="menu_wallpaper">Шпалери</string>
     <string name="menu_settings">Налаштування системи</string>
@@ -101,7 +101,7 @@
     <string name="admin_description">Дозволити віджету запускати екран блокування</string>
     <string name="add_widget">Додати віджет</string>
     <string name="folder_not_empty_hint">Тека не порожня. Будь ласка, спробуйте пізніше після її очищення</string>
-	<string name="screen_not_space_available">Немаєє місця на поточній стільниці</string>
+	<string name="screen_not_space_available">Немає місця на поточній стільниці</string>
     <string name="server_game_category">Моя гра</string>
     <string name="server_lifestyle_category">Поради</string>
     <string name="server_secrity_category">Система</string>
