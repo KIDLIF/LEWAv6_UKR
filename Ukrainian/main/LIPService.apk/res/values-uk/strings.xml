@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LIP-сервіс</string>
+
+    <string name="download">Завантаження</string>
+    <string name="notification_have_update">Можно оновити!</string>
+    <string name="notification_update_all">Додатки</string>
+    <string name="notification_update_game">Гри</string>
+    <string name="notification_etc">далі</string>
+    <string name="notification_have_new_version">Є нова версія</string>
+    <string name="no_network">Не вдається підключитися до мережі</string>
+    <string name="in_the_mobile_network_environment">Використовується передача даних, можливе використання трафіку. Продовжити?</string>
+    <string name="download_prompt">Дозвіл завантаження</string>
+    <string name="confirm">Пвдтвердити</string>
+    <string name="cancel">Скасувати</string>
+    <string name="install">Встановлення</string>
+    <string name="download_now">Завантажити зараз</string>
+
+
+
+
+
+
+</resources>
