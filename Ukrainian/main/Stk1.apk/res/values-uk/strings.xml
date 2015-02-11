@@ -28,9 +28,9 @@
 	<string name="lable_play_tone">Відтворити звук</string>
 	<string name="lable_refresh">Оновити</string>
 	<string name="lable_select_item">Вибрати елемент</string>
-	<string name="lable_send_ss">Відправити SS</string>
-	<string name="lable_send_ussd">Відправити USSD</string>
-	<string name="lable_send_sms">Відправити SMS</string>
+	<string name="lable_send_ss">Відправлено SS</string>
+	<string name="lable_send_ussd">Відправлено USSD</string>
+	<string name="lable_send_sms">Відправлено SMS</string>
 	<string name="lable_send_dtmf">Надіслати DTMF</string>
 	<string name="lable_setup_event_list">Налаштувати список подій</string>
 	<string name="lable_setup_idle_modetext">Налаштувати текст режиму простою</string>
