@@ -19,7 +19,7 @@
     <string name="select_browser">Вибір браузера для пошуку</string>
     <string name="choose_browser">Виберіть браузер</string>
     <string name="info_setting_message">Повідомлення</string>
-    <string name="info_setting_message_str">Вміст повідомлення</string>
+    <string name="info_setting_message_str">Вміст повідомлень</string>
     <string name="info_setting_app">Додатки</string>
     <string name="info_setting_app_str">Встановлені додатки</string>
     <string name="info_setting_image">Зображення</string>

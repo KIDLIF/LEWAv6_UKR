@@ -298,8 +298,8 @@
 	<string name="usb_otg_card_available">Доступно: %1$s</string>
 	<string name="hide_file">Сховати приховані файли</string>
 	<string name="file_doesnt_exist">Файл не існує</string>
-	<string name="file_deleted">Вилучений</string>
-	<string name="file_pasted">Вставлений</string>
+	<string name="file_deleted">Видалено</string>
+	<string name="file_pasted">Вставлено</string>
 	<string name="menu_select_sdcard">Фільтр SD-карти</string>
 	<string name="menu_show_internal_sdcard">Відображати лише файли внутрішнього сховища</string>
 	<string name="menu_show_external_sdcard">Відображати лише файли SD-карти</string>
