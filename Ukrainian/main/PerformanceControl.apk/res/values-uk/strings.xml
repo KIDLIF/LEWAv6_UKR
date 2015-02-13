@@ -53,8 +53,8 @@
     <string name="ps_user_proc">Список своїх процесів (розділяти комою)</string>
     <string name="ps_sys_proc">Список системних процесів (розділяти комою)</string>
     <string name="no_proc">Пакетів немає</string>
-    <string name="prefcat_bln">ОПОВІЩЕННЯ ПІДСВІТКОЮ</string>
-    <string name="pt_bln">Оповіщення підсвіткою</string>
+    <string name="prefcat_bln">СПОВІЩЕННЯ ПІДСВІТКОЮ</string>
+    <string name="pt_bln">Сповіщення підсвіткою</string>
     <string name="blx_info">"Battery Life eXtender
 Автор Ezekeel"</string>
     <string name="prefcat_blx">BATTERY LIFE EXTENDER</string>
@@ -77,7 +77,7 @@
     <string name="pt_home_enabled">Фільтр кнопки Додому</string>
     <string name="ps_home_enabled">"Ігнорувати нажамання кнопки: %s"</string>
     <string name="home_allowed_irq_title">"Максимально дозволені пермальюання"</string>
-    <string name="home_report_wait_title">Оповіщення про час очікування (мс)</string>
+    <string name="home_report_wait_title">Сповіщення про час очікування (мс)</string>
     <string name="pkf_settings">Налаштування PKF</string>
     <string name="pt_menuback_enabled">Фільтр кнопок Меню/Назад</string>
     <string name="ps_menuback_enabled">"Ігнорувати нажимання кнопки: %s"</string>

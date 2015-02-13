@@ -21,6 +21,6 @@
     <string name="revert">Скасувати</string>
     <string name="schpwr_shutdown_message">Пристрій буде вимкнено через %s секунд(ы)</string>
     <string name="schpwr_shutdown_message_second">Пристрій буде вимкнено через %s секунду</string>
-    <string name="schedule_power_on">Увімкн.</string>
-    <string name="schedule_power_off">Вимкн.</string>
+    <string name="schedule_power_on">Увімкнення</string>
+    <string name="schedule_power_off">Вимкнення</string>
 </resources>

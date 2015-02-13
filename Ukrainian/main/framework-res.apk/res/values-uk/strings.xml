@@ -376,7 +376,7 @@
     <string name="permdesc_stopAppSwitches">Можливість заборонити користувачам перемикатися між додатками</string>
     <string name="permlab_runSetActivityWatcher">Запуск всіх програм</string>
     <string name="permdesc_runSetActivityWatcher">Додаток зможе відстежувати запуск системних процесів і керувати ними. Шкідливі програми зможуть отримати повний контроль над системою. Цей дозвіл необхідний лише для розробки і не потрібний у звичайному режимі.</string>
-    <string name="permlab_broadcastPackageRemoved">Відправляти оповіщення про видалення пакета</string>
+    <string name="permlab_broadcastPackageRemoved">Відправляти сповіщення про видалення пакета</string>
     <string name="permdesc_broadcastPackageRemoved">Додаток зможе розсилати повідомлення про видалення пакета додатку. Шкідливі програми зможуть таким чином припиняти роботу інших програм.</string>
     <string name="permlab_broadcastSmsReceived">Повідомлення про отримання SMS</string>
     <string name="permdesc_broadcastSmsReceived">Додаток зможе повідомляти про отримання SMS. Шкідливі програми зможуть таким чином підробляти вхідні SMS</string>

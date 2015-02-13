@@ -629,8 +629,8 @@
     <string name="t9_map_row_5">5jklмноп</string>
     <string name="t9_map_row_6">6mnoрсту</string>
     <string name="t9_map_row_7">7pqrsфхцч</string>
-    <string name="t9_map_row_8">8tuvшщь</string>
-    <string name="t9_map_row_9">9wxyzюя</string>
+    <string name="t9_map_row_8">8tuvшщ</string>
+    <string name="t9_map_row_9">9wxyzьюя</string>
     <string name="prompt_contact_myself">Я</string>
     <string name="menu_new">Новий</string>
     <string name="prompt_no_contacts_pepole">Ви не маєте контактів</string>
@@ -925,7 +925,7 @@
     <string name="yellowpages_detail_error_label">Помилка</string>
     <string name="yellowpages_detail_error_description">Допомога надається за номером телефону</string>
     <string name="label_yellowpages_mark">%s людей відмічено</string>
-	<string name="pref_title_auto_clean_notificion_mms">Автоматично видаляти оповіщення</string>
+	<string name="pref_title_auto_clean_notificion_mms">Автоматично видаляти сповіщення</string>
     <string name="addContactToAutoRecordConfirmation_message">Додати контакт в список автозапису розмов?</string>
     <string name="removeContactFromAutoRecordConfirmation_message">Видалити контакт із списка автозапису розмов?</string>
     <string name="also_open_auto_phone_record">Одночасний запис викликів</string>
@@ -1401,7 +1401,7 @@
     <string name="dialog_tip">Попередження</string>
     <string name="forward_tip">Підтримується тільки текст. Продовжити?</string>
     <string name="copy_text_success">Успішно скопійовано</string>
-    <string name="pref_summary_notify_enable">Оповіщення і перевірка коду підтвердження для входу</string>
+    <string name="pref_summary_notify_enable">Сповіщення і перевірка коду підтвердження для входу</string>
     <string name="pref_title_notify_enable">Відображаюча інформація</string>
     <string name="menu_prompt_quick_position">Прізвище</string>
     <string name="page">Сторінка %d:</string>
