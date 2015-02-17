@@ -1038,8 +1038,8 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="fd_text_config">Config</string>
     <string name="fd_text_r8">R8 FD :</string>
     <string name="fd_text_legacy">Legacy FD :</string>
-    <string name="fd_text_set">Set</string>
-    <string name="fd_text_send">Send FD</string>
+    <string name="fd_text_set">Вст.</string>
+    <string name="fd_text_send">Відправити FD</string>
     <string name="fd_text_config_fd">Config FD</string>
     <string name="fd_text_unit">0.1s</string>
 	<string name="TVOut">TV Out Chinese Test</string>
@@ -1135,9 +1135,9 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="settings_fs_normal_text">Нормальний:</string>
 	<string name="settings_fs_large_text">Великий:</string>
 	<string name="settings_fs_extralarge_text">Максимальн.:</string>
-	<string name="settings_fs_small_bound">(умовчання 0.85)</string>
-	<string name="settings_fs_large_bound">(умовчання 1.15)</string>
-	<string name="settings_fs_extralarge_bound">(умовчання 1.30)</string>
+	<string name="settings_fs_small_bound">(по замовчуванню 0.85)</string>
+	<string name="settings_fs_large_bound">(по замовчуванню 1.15)</string>
+	<string name="settings_fs_extralarge_bound">(по замовчуванню 1.30)</string>
 	<string name="settings_fs_ok">ТАК</string>
 	<string name="bandmodesim1_GSM">GSM Режим</string>
 	<string name="bandmodesim1_GSM_EGSM900">EGSM900</string>
@@ -1432,7 +1432,7 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="rf_desense_button_pause">Пауза</string>
 	<string name="rf_desense_button_start">Пуск</string>
 	<string name="rf_desense_dbm">dBm</string>
-	<string name="hspa_info_title">HSPA Info</string>
+	<string name="hspa_info_title">Інформація про HSPA</string>
 	<string name="hqa_lcm_name">LCM</string>
 	<string name="hqa_lcm_tm_status">ТМ статус</string>
 	<string name="hqa_lcm_cycle_tip">LCM цикл (5~55)</string>
