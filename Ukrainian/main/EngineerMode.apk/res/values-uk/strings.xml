@@ -1517,8 +1517,8 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="deep_idle_legacy_sleep">Legacy Sleep</string>
 	<string name="deep_idle_dormant_mode">Dormant Mode</string>
 	<string name="deep_idle_power_level">Deep Idle Power Level</string>
-	<string name="deep_idle_power_level_0">Level 0</string>
-	<string name="deep_idle_power_level_1">Level 1</string>
+	<string name="deep_idle_power_level_0">Рівень 0</string>
+	<string name="deep_idle_power_level_1">Рівень 1</string>
 	<string name="deep_idle_set_wakeup_timer">Встановити таймер пробудж.</string>
 	<string name="deep_idle_disable_timer">Вимк.таймер</string>
 	<string name="deep_idle_timer_val_tip">ms (15 - 1,000,000)</string>
@@ -1550,18 +1550,18 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="wfd_acs_tx">Enable auto channel selection</string>
 	<string name="wfd_video_capability">Video Capability</string>
 	<string name="wfd_vdo_max_resolution">Max Resolution</string>
-    <string name="wfd_vdo_720p_1">720p(30 frames/sec)</string>
-    <string name="wfd_vdo_720p_2">720p(60 frames/sec)</string>
-    <string name="wfd_vdo_1080p">1080p(30 frames/sec)</string>
+    <string name="wfd_vdo_720p_1">720p(30 кадрів/сек.)</string>
+    <string name="wfd_vdo_720p_2">720p(60 кадрів/сек.)</string>
+    <string name="wfd_vdo_1080p">1080p(30 кадрів/сек.)</string>
     <string name="wfd_vdo_setting_menu">Enable resolution setting menu</string>
     <string name="wfd_vdo_full_definition">Full definition</string>
     <string name="wfd_vdo_high_definition">High definition(60p)</string>
-    <string name="wfd_vdo_normal_definition">General(30p)</string>
+    <string name="wfd_vdo_normal_definition">Загальний(30p)</string>
     <string name="wfd_power_saving">Power Saving for Playing Video</string>
     <string name="wfd_power_saving_style_0">Screen off</string>
     <string name="wfd_power_saving_style_1">Screen dim</string>
     <string name="wfd_power_saving_style_2">Screen dim and show image</string>
-    <string name="wfd_power_saving_style_3">No power saving</string>
+    <string name="wfd_power_saving_style_3">Вимкнути енергозбереження</string>
     <string name="wfd_power_delay_time">Час затримки</string>
     <string name="wfd_security">Безпека</string>
     <string name="wfd_sec_content">DRM content</string>
@@ -1578,8 +1578,8 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="modem_switch_is_fdd">Поточний тип модему: FDD</string>
     <string name="modem_switch_is_tdd">Поточний тип модему: TDD</string>
     <string name="modem_switch_hint">Оберіть тип модему:</string>
-    <string name="modem_switch_fdd">FDD Modem</string>
-    <string name="modem_switch_tdd">TDD Modem</string>
+    <string name="modem_switch_fdd">FDD модем</string>
+    <string name="modem_switch_tdd">TDD модем</string>
     <string name="modem_switch_auto">Автовимикач</string>
     <string name="modem_switch_set">Вибір</string>
     <string name="nfc_dta">NFC DTA</string>
@@ -1604,41 +1604,41 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="psensor_calibration">Калібрування</string>
     <string name="psensor_change_threshold">Змініть поріг</string>
     <string name="sensor_ps_calibration_current_data">"PS:
-Threshold High:
-Threshold Low:"</string>
+Максимальний поріг:
+Мінімальний поріг:"</string>
     <string name="sensor_ps_calibration_current_data_format">"PS: %1$d
-Threshold High: %2$d
-Threshold Low: %3$d"</string>
-    <string name="sensor_ps_calibration_min_hint">"Put phone on a horizontal plane and click the button.
+Максимальний поріг: %2$d
+Мінімальний поріг: %3$d"</string>
+    <string name="sensor_ps_calibration_min_hint">"Покладіть трубку на горизонтальній площині і натисніть кнопку.
 NOTE: Donnot cover P-Sensor after button clicked."</string>
-    <string name="sensor_ps_calibration_get_min">Calculate min value</string>
-    <string name="sensor_ps_calibration_min_value">Min value:</string>
+    <string name="sensor_ps_calibration_get_min">Розрахувати мінімальне значення</string>
+    <string name="sensor_ps_calibration_min_value">Мінімальне значення:</string>
     <string name="sensor_ps_calibration_max_hint">Cover P-Sensor then click the button.</string>
-    <string name="sensor_ps_calibration_get_max">Calculate max value</string>
-    <string name="sensor_ps_calibration_max_value">Max value:</string>
-    <string name="sensor_ps_calibration_do_cali">Do calibration</string>
-    <string name="sensor_ps_calibration_clear_cali">Clear calibration</string>
-    <string name="sensor_ps_calibration_result">Result:</string>
-    <string name="sensor_ps_threshold_high">Threshold High (0~65535):</string>
-    <string name="sensor_ps_threshold_low">Threshold Low (0~65535):</string>
-    <string name="sensor_ps_change_threshold_set">Set</string>
+    <string name="sensor_ps_calibration_get_max">Розрахувати максимальне значення</string>
+    <string name="sensor_ps_calibration_max_value">Максимальне значення:</string>
+    <string name="sensor_ps_calibration_do_cali">Калібрування</string>
+    <string name="sensor_ps_calibration_clear_cali">Очистити калібрування</string>
+    <string name="sensor_ps_calibration_result">Результат:</string>
+    <string name="sensor_ps_threshold_high">Максимум (0~65535):</string>
+    <string name="sensor_ps_threshold_low">Мінімум (0~65535):</string>
+    <string name="sensor_ps_change_threshold_set">Застосувати</string>
     <string name="sensor_ps_threshold_prefix">0x</string>
     <string name="usbacm">USB ACM</string>
-    <string name="usbacm_open_gs0">Open GS0 port</string>
-    <string name="usbacm_open_gs1">Open GS1 port</string>
-    <string name="usbacm_open_gs2">Open GS2 port</string>
-    <string name="usbacm_open_gs3">Open GS3 port</string>
-    <string name="usbacm_close">Close port</string>
-    <string name="usbacm_open_succeed">Open port succeed</string>
-    <string name="usbacm_open_failed">Open port failed</string>
-    <string name="usbacm_close_succeed">Close port succeed</string>
-    <string name="usbacm_close_failed">Close port failed</string>
+    <string name="usbacm_open_gs0">Відкрити GS0 порт</string>
+    <string name="usbacm_open_gs1">Відкрити GS1 порт</string>
+    <string name="usbacm_open_gs2">Відкрити GS2 порт</string>
+    <string name="usbacm_open_gs3">Відкрити GS3 порт</string>
+    <string name="usbacm_close">Закрити порт</string>
+    <string name="usbacm_open_succeed">Порт відкрився вдало</string>
+    <string name="usbacm_open_failed">Порт відкрився з помилкою</string>
+    <string name="usbacm_close_succeed">Порт закрився вдало</string>
+    <string name="usbacm_close_failed">Порт закрився з помилкою</string>
     <string name="saber">Saber</string>
-    <string name="device_register_title">Device Register</string>
-    <string name="device_ct_sms_auto_reg">Send Auto Register Message</string>
-    <string name="device_register">Device Register</string>
-    <string name="ct_device_register">Device Register</string>
-    <string name="modem_warning_title">Modem Warning Setting</string>
+    <string name="device_register_title">Пристрій реєстрація</string>
+    <string name="device_ct_sms_auto_reg">Відправляти автоматично повідомлення про реєстрацію</string>
+    <string name="device_register">Пристрій реєстрація</string>
+    <string name="ct_device_register">Пристрій реєстрація</string>
+    <string name="modem_warning_title">УВАГА! Налаштування модему</string>
     <string name="modem_warning">Enable Yellow Screen for Modem Warning</string>
     <string name="cip_title">CIP</string>
     <string name="cip_prop_content">CIP Prop Content</string>
