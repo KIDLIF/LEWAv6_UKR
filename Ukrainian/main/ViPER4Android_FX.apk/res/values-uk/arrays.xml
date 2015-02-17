@@ -500,25 +500,25 @@
         <item>Умовний тип 4</item>
     </string-array>
     <string-array name="dynamicsystem_outputs_values">
-        <item>140</item>
-        <item>180</item>
-        <item>300</item>
-        <item>600</item>
-        <item>100</item>
-        <item>1200</item>
-        <item>1000</item>
-        <item>800</item>
-        <item>400</item>
-        <item>1200</item>
-        <item>1000</item>
-        <item>1100</item>
-        <item>1200</item>
-        <item>1200</item>
-        <item>1200</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>800</item>
+        <item>140;6200;40;60;10;80</item>
+        <item>180;5800;55;80;10;70</item>
+        <item>300;5600;60;105;10;50</item>
+        <item>600;5400;60;105;10;20</item>
+        <item>100;5600;40;80;50;50</item>
+        <item>1200;6200;40;80;0;20</item>
+        <item>1000;6200;40;80;0;10</item>
+        <item>800;6200;40;80;10;0</item>
+        <item>400;6200;40;80;10;0</item>
+        <item>1200;6200;50;90;15;10</item>
+        <item>1000;6200;50;90;30;10</item>
+        <item>1100;6200;60;100;20;0</item>
+        <item>1200;6200;50;100;10;50</item>
+        <item>1200;6200;60;100;0;30</item>
+        <item>1200;6200;40;80;0;30</item>
+        <item>1000;6200;60;100;0;0</item>
+        <item>1000;6200;60;120;0;0</item>
+        <item>1000;6200;80;140;0;0</item>
+        <item>800;6200;80;140;0;0</item>
     </string-array>
     <string-array name="vbass_mode">
         <item>Природний</item>

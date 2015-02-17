@@ -7,15 +7,15 @@
     <string name="bluetooth_title">BLUETOOTH</string>
     <string name="usb_title">USB</string>
     <string name="audio_effects">Аудіоефекти</string>
-    <string name="dsp_settings_headset">Настройка ефектів - Навушники</string>
-    <string name="dsp_settings_speaker">Настройка ефектів - Динамік</string>
-    <string name="dsp_settings_bluetooth">Настройка ефектів - Bluetooth</string>
-    <string name="dsp_settings_usb">Настройка ефектів - USB</string>
+    <string name="dsp_settings_headset">Налаштування ефектів - Навушники</string>
+    <string name="dsp_settings_speaker">Налаштування ефектів - Динамік</string>
+    <string name="dsp_settings_bluetooth">Налаштування ефектів - Bluetooth</string>
+    <string name="dsp_settings_usb">Налаштування ефектів - USB</string>
     <string name="pref_dsp_enable">Включити</string>
     <string name="pref_effect_title">Рівень</string>
     <string name="dialog_effect">Рівень</string>
     <string name="pref_force_enable_text">Примусово</string>
-    <string name="pref_force_enable_warn">"Примусове включення ViPER може вирішити проблему з неактивними ефектами. 
+    <string name="pref_force_enable_warn">"Примусове увімкнення ViPER може вирішити проблему з неактивними ефектами. 
 Але на деяких прошивках можливі відсутність звуку/швидкий розряд батареї. 
 Використовуйте на свій розсуд. Якщо описане вище відбудеться, вимкніть цю опцію."</string>
     <string name="pref_fx_master_title">Всі ефекти</string>
