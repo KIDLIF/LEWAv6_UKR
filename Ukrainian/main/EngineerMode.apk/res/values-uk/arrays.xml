@@ -31,13 +31,6 @@
         <item>576000</item>
         <item>921600</item>
     </string-array>
-
-
-
-
-
-
-
     <string-array name="bt_ble_test_pattern">
         <item>PRBS9</item>
         <item>11110000</item>
@@ -248,8 +241,8 @@
     <string-array name="modem_test_iot_options_6589">
         <item>NSN</item>
         <item>DCM CB</item>
-        </string-array>
-        <string-array name="modem_test_operator_options">
+    </string-array>
+    <string-array name="modem_test_operator_options">
         <item>MS_USIM_COMPATIPLE</item>
     </string-array>
     <string-array name="modem_test_operator_options_6589">
@@ -369,13 +362,13 @@
         <item>@string/audio_val_type_ring</item>
     </string-array>
     <string-array name="mode_level">
-        <item>Level 0</item>
-        <item>Level 1</item>
-        <item>Level 2</item>
-        <item>Level 3</item>
-        <item>Level 4</item>
-        <item>Level 5</item>
-        <item>Level 6</item>
+        <item>Рівень 0</item>
+        <item>Рівень 1</item>
+        <item>Рівень 2</item>
+        <item>Рівень 3</item>
+        <item>Рівень 4</item>
+        <item>Рівень 5</item>
+        <item>Рівень 6</item>
     </string-array>
     <string-array name="mode_fir">
         <item>FIR 0</item>
@@ -451,11 +444,6 @@
         <item>GSM only</item>
         <item>Not Specified</item>
     </string-array>
-
-
-
-
-
     <string-array name="mWcdmaNetworkLabels">
         <item>GSM/WCDMA (WCDMA preferred)</item>
         <item>GSM only</item>
@@ -674,8 +662,8 @@
         <item>Start Preview</item>
     </string-array>
     <string-array name="auto_calib_hdr_debug_value">
-        <item>OFF</item>
-        <item>ON</item>
+        <item>Викл.</item>
+        <item>Вкл.</item>
     </string-array>
     <string-array name="pref_camera_picturesize_entryvalues">
         <item>320x240</item>
