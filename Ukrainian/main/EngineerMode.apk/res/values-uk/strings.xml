@@ -24,18 +24,13 @@
 	<string name="dualtalk_bandmode">Dual Talk BandMode</string>
 	<string name="network_setting">Налаштування мережі</string>
 	<string name="modem_test">Тест модему</string>
-	<string name="rf_desense_test">RF De-sense Test</string>
 	<string name="fast_dormancy">Швидкий сон</string>
-	<string name="nfc_6605">NFC(MT6605)</string>
 	<string name="fm_receiver">FM-приймач</string>
 	<string name="fm_transmitter">FM-передавач</string>
 	<string name="display">Екран</string>
 	<string name="io">IO</string>
 	<string name="touchscreen">Сенсорний екран</string>
 	<string name="sd_card_test">Тест SD-карти</string>
-	<string name="sd_test_choose_storage">Тест сховища</string>
-    <string name="sd_test_stop_test_first">тест працює, будь ласка, припиніть його першим</string>
-    <string name="sd_test_sd_removed">sd card витягнено</string>
 	<string name="audio">Аудіо</string>
 	<string name="camera">Камера</string>
 	<string name="cpu_freq_test">Тест частоти CPU</string>
@@ -50,25 +45,15 @@
 	<string name="location_basedservice">Служби визначення розташування</string>
 	<string name="system_logger">Системний журнал</string>
 	<string name="tag_log">Tag-журнал</string>
-	<string name="mtk_logger">MTK-логгер</string>
-    <string name="ext_md_logger">ExtModemLog</string>
 	<string name="debug_utils">Утиліта налагодження</string>
 	<string name="swla">SWLA</string>
 	<string name="settings_font">Налаштування шрифтів</string>
 	<string name="cds_information">Інформація CDS</string>
 	<string name="thermal">Тепловий</string>
-	<string name="non_sleep_mode">Режим без сну</string>
-    <string name="non_sleep_disable">Виключити режим без сну</string>
-    <string name="non_sleep_enable">Включить режим без сну</string>
-    <string name="pch_data_prefer_title">Краща передача данмх</string>
-    <string name="pch_data_prefer_summary">Дозволити передачу даних на максимальій швидкості</string>
-    <string name="pch_data_prefer_message">"Краща передача даних використовується для поліпшення якості передачі даних в збитак принятих голосових викликів. Не рекомендується для використання.
-
-Ви хочете дозволити режим кращої передачі даних?"</string>
 	<string name="BatteryLog">Журнал батареї</string>
 	<string name="Log_Record_Interval">Інтервал запису деталі. [1-100]:</string>
 	<string name="battery_info_Log">Запис інформації батареї:</string>
-	<string name="battery_info_Log_Start">Почати</string>
+	<string name="battery_info_Log_Початок">Почати</string>
 	<string name="battery_info_Log_End">Зупинити</string>
 	<string name="battery_info_10">10</string>
 	<string name="battery_info_s">секунд</string>
@@ -139,8 +124,8 @@
 	<string name="TouchScreen_Settings_Value">0</string>
 	<string name="TouchScreen_Settings_sdcard">Вимк.</string>
 	<string name="TouchScreen_Settings_uart">Вимк.</string>
-	<string name="TouchScreen_Settings_TextUart">Увімкнути Uart-лог</string>
-	<string name="TouchScreen_Settings_TextSDcard">Увімкнути лог SD-карти</string>
+	<string name="TouchScreen_Settings_TextUart">Включити Uart-лог</string>
+	<string name="TouchScreen_Settings_TextSDcard">Включити лог SD-карти</string>
 	<string name="Display">Дисплей</string>
 	<string name="Display_lcd_Text">Підсвічування</string>
 	<string name="Display_lcd_on">LCD Увімк.</string>
@@ -194,11 +179,9 @@
 	<string name="pmu_btn_set">Вибір</string>
 	<string name="address_text">Адреса[Hex input:Fz0xxxxx]-&gt; [z00xxxxx]</string>
 	<string name="address6575_text">Адреса[Hex 00-FF]</string>
-	<string name="address6589_text">Адрес[Hex 0000-FFFF]</string>
 	<string name="warning_text">УВАГА: Неправильний параметр може призвести до системної помилки.</string>
 	<string name="value_text">Значення</string>
 	<string name="value6575_text">Значення[Hex 00-FF]</string>
-	<string name="value6589_text">Значение[Hex 0000-FFFF]</string>
 	<string name="pmu_info_text">PMU Інфо</string>
 	<string name="pmu_reg">PMU Правка</string>
 	<string name="battery_charge_info_text">Error</string>
@@ -230,16 +213,6 @@
 	<string name="GPIO_Data_High">Високий.</string>
 	<string name="GPIO_Data_Low">Низький</string>
 	<string name="GPIO_Edit_Value">0</string>
-    <string name="msdc_get_fail_title">Помилка</string>
-	<string name="msdc_get_fail_message">Отримати не вдалося</string>
-	<string name="msdc_set_ok_title">Вдало</string>
-	<string name="msdc_set_ok_message">Встановлено</string>
-	<string name="msdc_set_fail_title">Помилка</string>
-	<string name="msdc_set_fail_message">Встановити не вдалося</string>
-    <string name="msdc_btn_text">OK</string>
-    <string name="msdc_drive_set">Driving Set</string>
-    <string name="msdc_hop_set">Hopping Set</string>
-    <string name="msdc_sd3_test">SD3.0 Test</string>
 	<string name="New_MSDC">MSDC</string>
 	<string name="MSDC">MSDC</string>
 	<string name="MSDC_Get">Отримати</string>
@@ -247,28 +220,19 @@
 	<string name="NEW_MSDC_Get">Отримати</string>
 	<string name="NEW_MSDC_Set">Вст.</string>
 	<string name="MSDC_Current_cmd_spininer">Поточні дані</string>
-    <string name="NEW_MSDC_CLK">Clk</string>
-    <string name="NEW_MSDC_CMD">Cmd</string>
-    <string name="NEW_MSDC_DATA">Data</string>
-    <string name="NEW_MSDC_CLK_PU">Clk pu</string>
-    <string name="NEW_MSDC_CLK_PD">Clk pd</string>
-    <string name="NEW_MSDC_CMD_PU">Cmd pu</string>
-    <string name="NEW_MSDC_CMD_PD">Cmd pd</string>
-    <string name="NEW_MSDC_DATA_PU">Data pu</string>
-    <string name="NEW_MSDC_DATA_PD">Data pd</string>
+	<string name="NEW_MSDC_CLK_PU">Clk pu</string>
+	<string name="NEW_MSDC_CLK_PD">Clk pd</string>
+	<string name="NEW_MSDC_CMD_PU">Cmd pu</string>
+	<string name="NEW_MSDC_CMD_PD">Cmd pd</string>
+	<string name="NEW_MSDC_DATA_PU">Data pu</string>
+	<string name="NEW_MSDC_DATA_PD">Data pd</string>
 	<string name="MSDC_Current_data_spininer">Поточна команда</string>
 	<string name="NEW_MSDC_HOPPING_BIT">Стрибок bit</string>
 	<string name="NEW_MSDC_HOPPING_TIME">Час стрибка</string>
 	<string name="MSDC_HopSet_Get">ВЗЯТИ</string>
 	<string name="MSDC_HopSet_Set">ВСТ.</string>
 	<string name="MSDC_Select">MSDC Вибір</string>
-	<string name="MSDC_Driving">MSDC Driving</string>
 	<string name="MSDC_HopSet">MSDC Стрибки</string>
-	<string name="MSDC_Sd3test">MSDC SD3.0 Test</string>
-    <string name="msdc_sd3test_mode">SD3 mode</string>
-    <string name="msdc_sd3test_max_current">SD3 max current</string>
-    <string name="msdc_sd3test_drive">SD3 drive</string>
-    <string name="msdc_sd3test_power_control">SD3 power control</string>
 	<string name="Baseband">Baseband</string>
 	<string name="Baseband_addr_text">Адреси(Hex)</string>
 	<string name="Baseband_val_text">Значення(Hex)</string>
@@ -309,35 +273,19 @@
 	<string name="hqa_cpustress_radiobutton_test">Тестовий режим</string>
 	<string name="hqa_cpustress_radiobutton_single">Увімк. одне ядро</string>
 	<string name="hqa_cpustress_radiobutton_dual">Увімк. два ядра</string>
-	<string name="hqa_cpustress_radiobutton_triple">Увімк. 3 ядра</string>
-    <string name="hqa_cpustress_radiobutton_quad">Увімк. 4 ядра</string>
-    <string name="hqa_cpustress_radiobutton_octa">Увімк. 8 ядра</string>
 	<string name="hqa_cpustress_checkbox_thermal">Вимкнення Термальності</string>
 	<string name="hqa_cpustress_test_toast_threadhandler_error">Thread start error handler</string>
 	<string name="hqa_cpustress_apmcu_name">AP MCU</string>
 	<string name="hqa_cpustress_apmcu_loopcount">Кількість прогонів</string>
 	<string name="hqa_cpustress_apmcu_loopcount_value">1000</string>
-	<string name="hqa_cpustress_apmcu_l2c">Увімкнути L2C тест</string>
-	<string name="hqa_cpustress_apmcu_neon">Увімкнути Neon тест</string>
-	<string name="hqa_cpustress_apmcu_vfp">Увімкнути VFP тест</string>
-	<string name="hqa_cpustress_apmcu_ca9">Увімкнути CA9 Максимально-потужний тест</string>
-	<string name="hqa_cpustress_apmcu_dhrystone">Увімкнути Dhrystone тест</string>
-    <string name="hqa_cpustress_apmcu_memcpy">Увімкнути L2 MEMCPY тест</string>
-    <string name="hqa_cpustress_apmcu_fdct">Увімкнути FDCT тест</string>
-    <string name="hqa_cpustress_apmcu_imdct">Увімкнути IMDCT тест</string>
+	<string name="hqa_cpustress_apmcu_l2c">Включити L2C тест</string>
+	<string name="hqa_cpustress_apmcu_neon">Включити Neon тест</string>
+	<string name="hqa_cpustress_apmcu_ca9">Включити CA9 Максимально-потужний тест</string>
 	<string name="hqa_cpustress_apmcu_start">Початок</string>
 	<string name="hqa_cpustress_apmcu_stop">Зупинка</string>
 	<string name="hqa_cpustress_apmcu_result">Результат:</string>
-	<string name="hqa_cpustress_apmcu_result_l2c">L2C: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_neon">NEON: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_vfp">VFP: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_ca9">MaxPower: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_dhry">Dhrystone: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_memcpy">L2 MEMCPY: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_fdct">FDCT: %1$d/%2$d %3$3.2f%%</string>
-    <string name="hqa_cpustress_apmcu_result_imdct">IMDCT: %1$d/%2$d %3$3.2f%%</string>
 	<string name="hqa_cpustress_clockswitch_name">Перемикач часу</string>
-	<string name="hqa_cpustress_clockswitch_enabledebug">Увімкнути повідомлення налагодження</string>
+	<string name="hqa_cpustress_clockswitch_enabledebug">Включити повідомлення налагодження</string>
 	<string name="hqa_cpustress_clockswitch_settimeout">Встановити таймаут</string>
 	<string name="hqa_cpustress_clockswitch_s">сек</string>
 	<string name="hqa_cpustress_clockswitch_s_value">5</string>
@@ -347,9 +295,7 @@
 	<string name="hqa_cpustress_clockswitch_stop">Зупинка</string>
 	<string name="hqa_cpustress_clockswitch_switch26">Перемикнути у 26MHz</string>
 	<string name="hqa_cpustress_clockswitch_switch1g">Перемикнути у 1GHz</string>
-	<string name="hqa_cpustress_clockswitch_cpuspeed">CPU speed dynamic adjusting</string>
 	<string name="hqa_cpustress_clockswitch_command_error">Помилка команди, пропустити це</string>
-	<string name="hqa_cpustress_clockswitch_set">Set</string>
 	<string name="hqa_cpustress_swvideo_name">SW Відео кодек</string>
 	<string name="hqa_cpustress_swvideo_loopcount">Кількість прогонів</string>
 	<string name="hqa_cpustress_swvideo_loopcount_value">1000</string>
@@ -371,19 +317,6 @@
  Clock Switch: switch CA9 clock between CLKSQ and ARMPLL.
 
 "</string>
-    <string name="hqa_cpustress_help_msg_new">"Feature name: CPU Stress Test
-
- Used to do CPU stress test. It support for single core, dual core and quad core.
-
- There are 3 items for test: AP MCU, SW Video Codec, Clock Switch.
-
- AP MCU: contains VFP test, MaxPower test, Dhrystone test, L2 MEMCPY test, FDCT test and IMDCT test.
-
- SW Video Codec: run software video codec test.
-
- Clock Switch: switch clock between CLKSQ and ARMPLL.
-
-"</string>
 	<string name="Audio">Аудіо</string>
 	<string name="Audio_ModeSetting">Аудіо - Режим налаштувань</string>
 	<string name="Audio_ModeSetting_TextView">Значення 0~255</string>
@@ -394,11 +327,6 @@
 	<string name="Audio_SpEnhancement_EditText">0</string>
 	<string name="Audio_SpEnhancement_Button">Вст.</string>
 	<string name="Audio_DebugInfo">Аудіо - Інформація налагодження</string>
-	<string name="Audio_DebugSession">Audio_DebugSession</string>
-    <string name="Audio_MagiAsr_Text">Enable using Sound Recorder to verify MagiASR feature</string>
-    <string name="Audio_MagiAsr">MagiASR Режим перевірки Увімкнено</string>
-    <string name="Audio_AecRec_Text">Включити запис з AEC процесу</string>
-    <string name="Audio_AecRec">Запис з AEC увімкнено</string>
 	<string name="Audio_DebugInfo_ParameterText">Будь ласка, виберіть параметр:</string>
 	<string name="Audio_DebugInfo_ValueText">Будь ласка, виберіть значення:</string>
 	<string name="Audio_DebugInfo_EditText">0</string>
@@ -413,18 +341,14 @@
 	<string name="Audio_Level_Text">Рівень</string>
 	<string name="Audio_VOIPLogger_Enable">Увімк. VOIP перехід</string>
 	<string name="Audio_VOIPLogger_EnableText">Увімк. VOIP логгер:</string>
-	<string name="Audio_EPLDebug_FileText">File:/sdcard/mtklog/audio_dump/SPE_EPL.EPL</string>
-    <string name="Audio_EPLDebug_Enable">Enable AP Speech log</string>
 	<string name="Audio_MaxVol_Text">Макс рів. 0~160</string>
-	<string name="Audio_MaxVol_Text_headset">Макс гарнітура Vol. 0~160</string>
-    <string name="Audio_MaxVol_Text_speaker">Макс динамік Vol. 0~160</string>
 	<string name="Audio_MaxVol_Set">Ок.</string>
 	<string name="Audio_VOIPLogger_Info">Місцезнаходження файлу: sdcard/VOIP_DebugInfo</string>
 	<string name="Audio_CTM4WAYLogger_EnableText">Увімк. реєстратор CTM4WAY</string>
 	<string name="Audio_CTM4WAYLogger_Enable">Увімкнути</string>
 	<string name="Audio_KTone">K Тон</string>
-	<string name="Audio_KTone_StopBtn">Зупинка</string>
-	<string name="Audio_KTone_StartBtn">Початок</string>
+	<string name="Audio_KTone_ЗупинкаBtn">Зупинка</string>
+	<string name="Audio_KTone_ПочатокBtn">Початок</string>
 	<string name="Audio_KTone_Freq">Частота</string>
 	<string name="Audio_Fir_Title">Поточний FIR Тип</string>
 	<string name="Audio_ModeSetting_Title">Тип</string>
@@ -470,23 +394,12 @@
 	<string name="set_wb_failed">Збій встановлення WB даних.</string>
 	<string name="text_tip">Рівень 0~160</string>
 	<string name="fir_text">***NO FIR Selected***</string>
-	<string name="audio_val_type_sip">Sip</string>
-    <string name="audio_val_type_ring">Рінгтон</string>
-    <string name="audio_val_type_mic">Мікрофон</string>
-    <string name="audio_val_type_fmr">FM-радіо</string>
-    <string name="audio_val_type_sph">Sph</string>
-    <string name="audio_val_type_sph2">Sph2</string>
-    <string name="audio_val_type_sid">Sid</string>
-    <string name="audio_val_type_media">Мультимедія</string>
-    <string name="audio_val_type_matv">Matv</string>
-    <string name="Audio_Headset_Detect_Hint">Headset Jak Detection:</string>
-    <string name="Audio_Headset_Detect_Button">Detect</string>
-    <string name="Audio_Headset_None">Немає</string>
-    <string name="Audio_Headset_Jak_Headphone">Headphone</string>
-    <string name="Audio_Headset_Jak_Headset">Headset</string>
 	<string name="Camera">Камера</string>
 	<string name="Camera_Preview">Camera_Preview</string>
+	<string name="capture">Захоплення :</string>
+	<string name="cannot_connect_camera">"Не вдається підключитися до камери."</string>
 	<string name="start_preview_failed">Збій!</string>
+	<string name="camera_error_title">Помилка камери</string>
 	<string name="dialog_ok">Ок</string>
 	<string name="af_mode_dailog_title">Вст. AF режиму</string>
 	<string name="step_dailog_title">Встановити крок</string>
@@ -566,12 +479,12 @@ ISO item used to set camera’s iso value.
 	<string name="wifi_addr_text">addr(h,byte):</string>
 	<string name="wifi_addr_content">Error</string>
 	<string name="wifi_value_text">значення(h):</string>
-	<string name="wifi_value_content">Помилка</string>
+	<string name="wifi_value_content">Error</string>
 	<string name="wifi_read_word">Читання</string>
 	<string name="wifi_write_word">Запис</string>
 	<string name="wifi_stringaccess_text">Байтовий Рядок Доступу:</string>
 	<string name="wifi_addr_text_string">addr(h,byte):</string>
-	<string name="wifi_addr_content_string">Помилка</string>
+	<string name="wifi_addr_content_string">Error</string>
 	<string name="wifi_length_text_string">довжина(байт):</string>
 	<string name="wifi_length_content_string"/>
 	<string name="wifi_value_text_string">значення(h):</string>
@@ -601,7 +514,6 @@ ISO item used to set camera’s iso value.
 	<string name="wifi_dpd_info">Інфо</string>
 	<string name="wifi_wfa_enabler">Увімк. WFA тест в корист. інтерфейсі</string>
 	<string name="wifi_ctia_enabler">Увімк.  CTIA тест в корист. інтерфейсі</string>
-    <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in Wi-Fi hotspot</string>
 	<string name="wifi_help_msg">"Feature name: WiFi
 
  Used to do WiFi test and check WiFi status by RD.
@@ -619,24 +531,6 @@ ISO item used to set camera’s iso value.
  Switch: Some switches used by RD.
 
 "</string>
-    <string name="wifi_wps_test_mode">Enable WPS test mode</string>
-    <string name="wifi_ctia">WiFi CTIA</string>
-    <string name="wifi_ctia_test">CTIA Test Mode Setting</string>
-    <string name="wifi_ctia_test_summary">CTIA Test Mode configuration</string>
-    <string name="ctia_title">Wi-Fi Test Mode</string>
-    <string name="ctia_checkbox">Enable CTIA Test Mode</string>
-    <string name="ctia_dump_checkbox">Enable log for Mgmt Frame</string>
-    <string name="ctia_counter_checkbox">Enable log for Tx Rx Counter</string>
-    <string name="ctia_rate">Rate Selection</string>
-    <string name="ctia_flag">SW Flags</string>
-    <string name="ctia_interval">Period of Counter log(sec)</string>
-    <string name="ctia_id">ID</string>
-    <string name="ctia_value" />
-    <string name="ctia_label">0x</string>
-    <string name="ctia_default_val">0</string>
-    <string name="ctia_btn_get">GET</string>
-    <string name="ctia_btn_set">SET</string>
-    <string name="wifi_cancel">Скасувати</string>
 	<string name="NetworkInfo">Режими мережі</string>
 	<string name="NetworkInfo_Info">NetworkInfo_Info</string>
 	<string name="NetworkInfo_Cell">RR Cell Sel</string>
@@ -716,12 +610,8 @@ ISO item used to set camera’s iso value.
 	<string name="gemini_sim_management_title">Цифровий стандарт</string>
 	<string name="gemini_general_settings_title">Загальні параметри</string>
 	<string name="gemini_data_connection_progress_message">Будь ласка, зачекайте...</string>
-	<string name="device_mgr">Керування телефоном</string>
+	<string name="device_mgr">Керування пристроєм</string>
 	<string name="device_mgr_sms_auto_reg">SMS Автореєстратор</string>
-	<string name="device_mgr_dm_conf_switch">DM Налаштування конфігурацій</string>
-    <string name="device_mgr_dm_productive">Продуктивне середовище</string>
-    <string name="device_mgr_dm_test">Тест середови</string>
-    <string name="device_mgr_dm_reboot">Перезавантажити</string>
 	<string name="YGPS">GPS-навігація (YGPS)</string>
 	<string name="AGPS">A-GPS</string>
 	<string name="OK">Ок</string>
@@ -734,8 +624,7 @@ ISO item used to set camera’s iso value.
 	<string name="BT_open">Будь ласка, зачекайте увімкнення Bluetooth ...</string>
 	<string name="BT_close">Будь ласка, зачекайте вимкнення Bluetooth ...</string>
 	<string name="BT_exit_em">SSP Debug mode is open, exit EngineerMode Bluetooth test.</string>
-	<string name="BT_deinit">Будь ласка чекайте Bluetooth to deinit ...</string>
-	<string name="BT_data_fail">Передача даних не вдалась, повторіть.</string>
+	<string name="BT_data_fail">Transmit data failed, please try again.</string>
 	<string name="BT_tx_test">Тестова операція в процесі, будь ласка, почекайте ...</string>
 	<string name="BT_no_sig_rx_fail">Немає сигналу, rx тест не виконано.</string>
 	<string name="BT_0x6620">6620</string>
@@ -755,11 +644,11 @@ ISO item used to set camera’s iso value.
 	<string name="NSRX_StrFrequency">RX канал:[0,78]</string>
 	<string name="NSRX_StrPocketType">RX Тип пакету</string>
 	<string name="NSRX_StrAddress">Тестова адресаа:(Hex)</string>
-	<string name="NSRX_StartTest">Початок</string>
+	<string name="NSRX_ПочатокTest">Початок</string>
 	<string name="NSRX_StrPackCnt">RX к-ть пакетів:</string>
 	<string name="NSRX_StrPackErrRate">Помилка пакетів:</string>
 	<string name="NSRX_StrPackByteCnt">RX  байт-лічильник:</string>
-	<string name="NSRX_StrBitErrRate">Помилка бітрейту:</string>
+	<string name="NSRX_StrBitErrRate">Помилка Bit Rate:</string>
 	<string name="Bluetooth">Bluetooth</string>
 	<string name="BluetoothTitle">Bluetooth</string>
 	<string name="BTTXTitle">Bluetooth_Tx</string>
@@ -783,18 +672,16 @@ ISO item used to set camera’s iso value.
 	<string name="RxWritten">Записано</string>
 	<string name="RxPowerControl">Контроль живлення:</string>
 	<string name="RxPollPeriod">Період опитування:</string>
-	<string name="RxStart">Початок</string>
-	<string name="RxStop">Зупинка</string>
+	<string name="RxПочаток">Початок</string>
+	<string name="RxЗупинка">Зупинка</string>
 	<string name="RxSetPwr">Вст.</string>
 	<string name="RxAccessCode">Код доступу</string>
-    <string name="strTestMode">" "<b>Увімкнути тест режим</b>" "</string>
-    <string name="SSPDebugMode">" "<b>Увімкеути режим відкладки SSP</b>" "</string>
-	<string name="BtDebugFeatureTitle">BT Debug Feature</string>
-    <string name="BtDebugFeature">Enable BT debug feature</string>
+	<string name="strTestMode">" "</string>
+	<string name="SSPDebugMode">" "</string>
 	<string name="menu_done">Готово</string>
 	<string name="BLESet">Вст.</string>
-	<string name="BLEStart">Початок</string>
-	<string name="BLEStop">Зупинка</string>
+	<string name="BLEПочаток">Початок</string>
+	<string name="BLEЗупинка">Зупинка</string>
 	<string name="BLEScanInterval">Інтервал скан-я:</string>
 	<string name="BLEScanWindow">Вікно скан-я:</string>
 	<string name="BLETimeUnit">*0.625s</string>
@@ -862,7 +749,7 @@ ISO item used to set camera’s iso value.
 	<string name="Latency">Затримка (мс)</string>
 	<string name="Enable">Увімк.</string>
 	<string name="Disable">Вимк.</string>
-	<string name="Set">Встан.</string>
+	<string name="Set">Встанов.</string>
 	<string name="set_working_mode">Робочий режим</string>
 	<string name="my3g324m_configuration">3G324M конфігурація</string>
 	<string name="auto_answer">Автоматична відповідь</string>
@@ -905,61 +792,17 @@ ISO item used to set camera’s iso value.
 	<string name="desense_back_light">DesenseBackLight</string>
 	<string name="desense_classd_activity">DesenseClassDActivity</string>
 	<string name="desense_plls_activity">Desense PLLs</string>
-	<string name="desense_plls_detail">PLL Detail</string>
-    <string name="desense_freqhopping">Frequency Hopping Setting</string>
-    <string name="desense_mempll">MEMPLL Setting</string>
 	<string name="lcd_write_cycle">LCD цикли запису</string>
 	<string name="desense_text_set">Вст.</string>
-	<string name="desense_plls_error">Fail to enter De-Sense PLLs module</string>
-    <string name="desense_plls_updatefail">Fail to update PLLs status</string>
 	<string name="desense_back_light_frequency">PWM Част</string>
 	<string name="desense_back_light_duty">PWM Duty</string>
 	<string name="desense_sdlog_toggle_start">Працює</string>
 	<string name="desense_sdlog_toggle_end">Не запущ.</string>
-	<string name="desense_freqhopping_0x">0x</string>
-    <string name="desense_freqhopping_enable">Увімкн.</string>
-    <string name="desense_freqhopping_disable">Вимкн.</string>
-    <string name="desense_freqhopping_readall">Read All</string>
-    <string name="desense_freqhopping_hint_dds">DDS</string>
-    <string name="desense_freqhopping_hint_freq">Delta Freq</string>
-    <string name="desense_freqhopping_hint_time">Delta Time</string>
-    <string name="desense_freqhopping_hint_upper">Upper Limit</string>
-    <string name="desense_freqhopping_hint_down">Down Limit</string>
-    <string name="desense_mempll_200to266">200->266</string>
-    <string name="desense_mempll_266to200">266->200</string>
-    <string name="desense_mempll_266to333">266->333</string>
-    <string name="desense_mempll_333to266">333->266</string>
-    <string name="desense_freqhopping_notsupport">Not support Frequency Hopping Setting</string>
-    <string name="desense_freqhopping_set">Frequency Hopping set</string>
-    <string name="desense_freqhopping_geterror">Get Frequency Hopping message error</string>
-    <string name="desense_freqhopping_inputerror">Input error</string>
-    <string name="desense_freqhopping_dialog_title">INFO</string>
-    <string name="desense_mempll_notsupport">Not support MEMPLL Setting</string>
-    <string name="desense_mempll_geterror">Get current DRAMC error</string>
-    <string name="desense_mempll_set">MEMPLL set</string>
-    <string name="desense_text_thousand_sprt">‰</string>
-    <string name="desense_freqhopping_hopdeltafreq">Hop Delta Freq</string>
-    <string name="desense_freqhopping_hopdeltatime">Hop Delta Time</string>
-    <string name="desense_text_plus_sign">+</string>
-    <string name="desense_text_minus_sign">-</string>
-    <string name="desense_freqhopping_enable_ssc">Увімкнути SSC</string>
-    <string name="desense_freqhopping_disable_ssc">Вимкнути SSC</string>
-    <string name="desense_freqhopping_triger_hop">Trigger Hop</string>
-    <string name="desense_freqhopping_disable_hop">Вимкнути Hop</string>
-    <string name="desense_freqhopping_dump_all">Dump All</string>
-    <string name="desense_freqhopping_help">Help/?</string>
-    <string name="desense_freqhopping_hop_dds">Hop DDS</string>
-    <string name="desense_freqhopping_invalid_input">Invalid Input</string>
-    <string name="desense_freqhopping_operate_success">Success</string>
-    <string name="desense_freqhopping_system_warning">"Warning:
-System may behave unpredictably after you set wrong value"</string>
 	<string name="modem_test_none">Немає</string>
 	<string name="modem_test_cta">CTA</string>
 	<string name="modem_test_fta">FTA</string>
 	<string name="modem_test_iot">IOT</string>
 	<string name="modem_test_operator">ТЕСТ ОПЕРАТОРА</string>
-	<string name="modem_test_factory">Factory</string>
-    <string name="modem_test_integrity_off">Integrity Off</string>
 	<string name="cmmb_save">saveMfsFile</string>
 	<string name="cmmb_memset">memSpibuf</string>
 	<string name="cmmb_mts">МТС</string>
@@ -1028,20 +871,10 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="fd_textView">Увімкнення/вимикання SCRI/FD</string>
 	<string name="fd_turn_on">Вимкнути</string>
 	<string name="fd_turn_off">Вимкнути</string>
-	<string name="fd_turn_off_legacy">Turn On R8 FD &amp; Turn Off Legacy FD</string>
 	<string name="fd_ok">ТАК</string>
 	<string name="fd_simcard_text">СІМ-карта:</string>
 	<string name="fd_sim1_text">SIM1</string>
 	<string name="fd_sim2_text">SIM2</string>
-	<string name="fd_text_screen_on">Екран вкл.</string>
-    <string name="fd_text_screen_off">Екран викл.</string>
-    <string name="fd_text_config">Config</string>
-    <string name="fd_text_r8">R8 FD :</string>
-    <string name="fd_text_legacy">Legacy FD :</string>
-    <string name="fd_text_set">Вст.</string>
-    <string name="fd_text_send">Відправити FD</string>
-    <string name="fd_text_config_fd">Config FD</string>
-    <string name="fd_text_unit">0.1s</string>
 	<string name="TVOut">TV Out Chinese Test</string>
 	<string name="tv_system_title">ТВ-система</string>
 	<string name="TVOutEntry">TV-вихід</string>
@@ -1135,9 +968,9 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="settings_fs_normal_text">Нормальний:</string>
 	<string name="settings_fs_large_text">Великий:</string>
 	<string name="settings_fs_extralarge_text">Максимальн.:</string>
-	<string name="settings_fs_small_bound">(по замовчуванню 0.85)</string>
-	<string name="settings_fs_large_bound">(по замовчуванню 1.15)</string>
-	<string name="settings_fs_extralarge_bound">(по замовчуванню 1.30)</string>
+	<string name="settings_fs_small_bound">(умовчання 0.85)</string>
+	<string name="settings_fs_large_bound">(умовчання 1.15)</string>
+	<string name="settings_fs_extralarge_bound">(умовчання 1.30)</string>
 	<string name="settings_fs_ok">ТАК</string>
 	<string name="bandmodesim1_GSM">GSM Режим</string>
 	<string name="bandmodesim1_GSM_EGSM900">EGSM900</string>
@@ -1156,7 +989,7 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="bandmodesim1_UMTS_BAND_IX">WCDMA-1800</string>
 	<string name="bandmodesim1_UMTS_BAND_X">WCDMA-1700</string>
 	<string name="bandmodesim1_SET">ВСТАНОВИТИ</string>
-	<string name="BandStart">Режим мережі</string>
+	<string name="BandПочаток">Режим мережі</string>
 	<string name="BandModeSIM1">Режим мережі для СІМ1</string>
 	<string name="TDD_BandSel_GSM">GSM Режим</string>
 	<string name="TDD_GSM_EGSM900">EGSM900</string>
@@ -1191,8 +1024,6 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="set_fail_text">Закрити</string>
 	<string name="bandmode_sim1">SIM1</string>
 	<string name="bandmode_sim2">SIM2</string>
-	<string name="bandmode_sim3">SIM3</string>
-    <string name="bandmode_sim4">SIM4</string>
 	<string name="rat_query_preferred_type">Query Preferred type fail</string>
 	<string name="rat_3g_status">3G вимкнено</string>
 	<string name="rat_wcdmapreferred_support">Обраний WCDMA не підтримується</string>
@@ -1200,6 +1031,15 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="rat_not_exit_usim">EF_RAT_NOT_EXIST_IN_USIM</string>
 	<string name="rat_for_other_case">EF_RAT_FOR_OTHER_CASE</string>
 	<string name="rat_sim1">SIM1</string>
+	<string name="msdc_get_fail_title">Помилка</string>
+	<string name="msdc_get_fail_message">Отримати не вдалося</string>
+	<string name="msdc_set_ok_title">Вдало</string>
+	<string name="msdc_set_ok_message">Встановлено</string>
+	<string name="msdc_set_fail_title">Помилка</string>
+	<string name="msdc_set_fail_message">Встановити не вдалося</string>
+	<string name="msdc_btn_text">Ок</string>
+	<string name="msdc_drive_set">Driving Set</string>
+	<string name="msdc_hop_set">Hopping Set</string>
 	<string name="networkinfo_check">Перевірте Інформацію</string>
 	<string name="networkinfo_msg">Будь ласка, виберіть елементи, які ви хочете перевірити.</string>
 	<string name="open_file_title">Помилка</string>
@@ -1212,16 +1052,183 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="networkinfo_sim2">SIM2</string>
 	<string name="help">Довідка</string>
 	<string name="baseband_input_check">Please input the addr or length.</string>
-	<string name="number_format_check">Помилка: Поганий hex номер.</string>
+	<string name="number_format_check">Error: Bad hex number.</string>
 	<string name="length_check">Занадто мала  довжина.</string>
 	<string name="max_value_check">Максимальна довжина 1024</string>
 	<string name="pipe_check">Помилка</string>
 	<string name="information">Помилка</string>
 	<string name="te_devtool_title">BSPTelephonyDevTool</string>
-	<string name="hotswap_devtool_title">HotSwapDevTool</string>
 	<string name="configure_check">Перевірте Налаштування</string>
-	<string name="configure_check2_send_test">CTSC(送测手机检查)</string>
-    <string name="configure_check2_self_test">CTSC(自测配置检查)</string>
+	<string type="string" name="chipId">false</string>
+	<string type="string" name="ecoVersion">false</string>
+	<string type="string" name="patchSize">false</string>
+	<string type="string" name="patchDate">false</string>
+	<string name="rf_desense_test">RF De-sense Test</string>
+	<string name="nfc_6605">NFC(MT6605)</string>
+	<string name="sd_test_choose_storage">Тест Для Зберігання</string>
+	<string name="sd_test_stop_test_first">Тест працює, будь ласка, зупиніть його спочатку</string>
+	<string name="sd_test_sd_removed">sd-карту була видалено</string>
+	<string name="mtk_logger">MTK-логгер</string>
+	<string name="ext_md_logger">ExtModemLog</string>
+	<string name="non_sleep_mode">Режим без сну</string>
+	<string name="non_sleep_disable">Вимкнути режим без сну</string>
+	<string name="non_sleep_enable">Увімкнути режим без сну</string>
+	<string name="pch_data_prefer_title">Приорітетна передача даних</string>
+	<string name="pch_data_prefer_summary">Дозволити передачу даних на повній швидкості</string>
+	<string name="pch_data_prefer_message">"Краща передача даних використовується для поліпшення якості передачі даних на шкоду отримання голосових викликів. Не рекомендується для використання. 
+
+Ви хочете дозволити режим кращою передачі даних?"</string>
+	<string name="address6589_text">Адреса[Hex 0000-FFFF]</string>
+	<string name="value6589_text">Значення[Hex 0000-FFFF]</string>
+	<string name="msdc_sd3_test">SD3.0 тест</string>
+	<string name="NEW_MSDC_CLK">Clk</string>
+	<string name="NEW_MSDC_CMD">Cmd</string>
+	<string name="NEW_MSDC_DATA">Дані</string>
+	<string name="MSDC_Driving">MSDC Driving</string>
+	<string name="MSDC_Sd3test">MSDC SD3.0 тест</string>
+	<string name="msdc_sd3test_mode">SD3 mode</string>
+	<string name="msdc_sd3test_max_current">SD3 max current</string>
+	<string name="msdc_sd3test_drive">SD3 drive</string>
+	<string name="msdc_sd3test_power_control">SD3 power control</string>
+	<string name="hqa_cpustress_radiobutton_triple">Force triple core</string>
+	<string name="hqa_cpustress_radiobutton_quad">Force quad core</string>
+	<string name="hqa_cpustress_radiobutton_octa">Force octa core</string>
+	<string name="hqa_cpustress_apmcu_vfp">Включити VFP тесту</string>
+	<string name="hqa_cpustress_apmcu_dhrystone">Включити тест Dhrystone</string>
+	<string name="hqa_cpustress_apmcu_memcpy">Включити L2 MEMCPY тест</string>
+	<string name="hqa_cpustress_apmcu_fdct">Включити FDCT тест</string>
+	<string name="hqa_cpustress_apmcu_imdct">Включити IMDCT тест</string>
+	<string name="hqa_cpustress_apmcu_result_l2c">L2C: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_neon">NEON: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_vfp">VFP: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_ca9">MaxPower: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_dhry">Dhrystone: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_memcpy">L2 MEMCPY: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_fdct">FDCT: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_apmcu_result_imdct">IMDCT: %1$d/%2$d %3$3.2f%%</string>
+	<string name="hqa_cpustress_clockswitch_cpuspeed">CPU швидкість (динамічне регулювання)</string>
+	<string name="hqa_cpustress_clockswitch_set">Вибір</string>
+	<string name="hqa_cpustress_help_msg_new">"Feature name: CPU Stress Test
+
+ Used to do CPU stress test. It support for single core, dual core and quad core.
+
+ There are 3 items for test: AP MCU, SW Video Codec, Clock Switch.
+
+ AP MCU: contains VFP test, MaxPower test, Dhrystone test, L2 MEMCPY test, FDCT test and IMDCT test.
+
+ SW Video Codec: run software video codec test.
+
+ Clock Switch: switch clock between CLKSQ and ARMPLL.
+
+"</string>
+	<string name="Audio_DebugSession">Audio_DebugSession</string>
+	<string name="Audio_MagiAsr_Text">Enable using Sound Recorder to verify MagiASR feature</string>
+	<string name="Audio_MagiAsr">MagiASR Verify Mode Enable</string>
+	<string name="Audio_AecRec_Text">Enable recording with AEC processing</string>
+	<string name="Audio_AecRec">Record with AEC enable</string>
+	<string name="Audio_EPLDebug_FileText">File:/sdcard/mtklog/audio_dump/SPE_EPL.EPL</string>
+	<string name="Audio_EPLDebug_Enable">Enable AP Speech log</string>
+	<string name="Audio_MaxVol_Text_headset">Макс. гучність Гарнітури: 0~160</string>
+	<string name="Audio_MaxVol_Text_speaker">Макс. гучність Динаміку: 0~160</string>
+	<string name="audio_val_type_sip">Sip</string>
+	<string name="audio_val_type_ring">Рінгтон</string>
+	<string name="audio_val_type_mic">Mic</string>
+	<string name="audio_val_type_fmr">FMR</string>
+	<string name="audio_val_type_sph">Sph</string>
+	<string name="audio_val_type_sph2">Sph2</string>
+	<string name="audio_val_type_sid">Sid</string>
+	<string name="audio_val_type_media">Media</string>
+	<string name="audio_val_type_matv">Matv</string>
+	<string name="Audio_Headset_Detect_Hint">Виявлення гарнітури:</string>
+	<string name="Audio_Headset_Detect_Button">Виявити</string>
+	<string name="Audio_Headset_None">Немає</string>
+	<string name="Audio_Headset_Jak_Headphone">Навушники</string>
+	<string name="Audio_Headset_Jak_Headset">Гарнітура</string>
+	<string name="wifi_ap_wps2_support_enabler">Увімк. WPS2 тест та видалити захист WPA (Wi-Fi hotspot)</string>
+	<string name="wifi_wps_test_mode">Увімк. WPS у тестовому режимі</string>
+	<string name="wifi_ctia">Wi-Fi CTIA</string>
+	<string name="wifi_ctia_test">Налаштування тестового режиму CTIA</string>
+	<string name="wifi_ctia_test_summary">Конфігурація тестового режиму CTIA</string>
+	<string name="ctia_title">Тестовий режим Wi-Fi</string>
+	<string name="ctia_checkbox">Увімк. тестовий режим CTIA </string>
+	<string name="ctia_dump_checkbox">Увімкнути журнал для Mgmt Frame</string>
+	<string name="ctia_counter_checkbox">Увімкнути журнал для Tx Rx лічильника</string>
+	<string name="ctia_rate">Вибір Швидкості</string>
+	<string name="ctia_flag">SW Flags</string>
+	<string name="ctia_interval">Період журналу лічильника(сек.)</string>
+	<string name="ctia_id">ID</string>
+	<string name="ctia_value"/>
+	<string name="ctia_label">0x</string>
+	<string name="ctia_default_val">0</string>
+	<string name="ctia_btn_get">Отримати</string>
+	<string name="ctia_btn_set">Вибрати</string>
+	<string name="wifi_cancel">Скасувати</string>
+	<string name="device_mgr_dm_conf_switch">DM параметри конфігурації</string>
+	<string name="device_mgr_dm_productive">Виробниче середовище</string>
+	<string name="device_mgr_dm_test">Тестове середовище</string>
+	<string name="device_mgr_dm_reboot">Перезавантаження</string>
+	<string name="BT_deinit">Будь ласка, почекайте ...</string>
+	<string name="BtDebugFeatureTitle">BT-налагодження</string>
+	<string name="BtDebugFeature">Увімк. BT налагодження</string>
+	<string name="desense_plls_detail">PLL деталі</string>
+	<string name="desense_freqhopping">Frequency Hopping Setting</string>
+	<string name="desense_mempll">MEMPLL налаштування</string>
+	<string name="desense_plls_error">Fail to enter De-Sense PLLs module</string>
+	<string name="desense_plls_updatefail">Fail to update PLLs status</string>
+	<string name="desense_freqhopping_0x">0x</string>
+	<string name="desense_freqhopping_enable">Увімк.</string>
+	<string name="desense_freqhopping_disable">Вимк.</string>
+	<string name="desense_freqhopping_readall">Читати Все</string>
+	<string name="desense_freqhopping_hint_dds">DDS</string>
+	<string name="desense_freqhopping_hint_freq">Delta Freq</string>
+	<string name="desense_freqhopping_hint_time">Delta Time</string>
+	<string name="desense_freqhopping_hint_upper">Upper Limit</string>
+	<string name="desense_freqhopping_hint_down">Down Limit</string>
+	<string name="desense_mempll_200to266">200-&gt;266</string>
+	<string name="desense_mempll_266to200">266-&gt;200</string>
+	<string name="desense_mempll_266to333">266-&gt;333</string>
+	<string name="desense_mempll_333to266">333-&gt;266</string>
+	<string name="desense_freqhopping_notsupport">Not support Frequency Hopping Setting</string>
+	<string name="desense_freqhopping_set">Frequency Hopping set</string>
+	<string name="desense_freqhopping_geterror">Get Frequency Hopping message error</string>
+	<string name="desense_freqhopping_inputerror">Помилка вводу</string>
+	<string name="desense_freqhopping_dialog_title">INFO</string>
+	<string name="desense_mempll_notsupport">Not support MEMPLL Setting</string>
+	<string name="desense_mempll_geterror">Get current DRAMC error</string>
+	<string name="desense_mempll_set">MEMPLL set</string>
+	<string name="desense_text_thousand_sprt">‰</string>
+	<string name="desense_freqhopping_hopdeltafreq">Hop Delta Freq</string>
+	<string name="desense_freqhopping_hopdeltatime">Hop Delta Time</string>
+	<string name="desense_text_plus_sign">+</string>
+	<string name="desense_text_minus_sign">-</string>
+	<string name="desense_freqhopping_enable_ssc">Увімкн. SSC</string>
+	<string name="desense_freqhopping_disable_ssc">Вимкн. SSC</string>
+	<string name="desense_freqhopping_triger_hop">Trigger Hop</string>
+	<string name="desense_freqhopping_disable_hop">Disable Hop</string>
+	<string name="desense_freqhopping_dump_all">Dump All</string>
+	<string name="desense_freqhopping_help">Help/?</string>
+	<string name="desense_freqhopping_hop_dds">Hop DDS</string>
+	<string name="desense_freqhopping_invalid_input">Помилкове введення</string>
+	<string name="desense_freqhopping_operate_success">Вдало</string>
+	<string name="desense_freqhopping_system_warning">"Попередження: 
+система може поводитися непередбачувано після того, як ви встановите невірне значення"</string>
+	<string name="modem_test_factory">Заводський тест</string>
+	<string name="modem_test_integrity_off">Integrity Off</string>
+	<string name="fd_turn_off_legacy">Turn On R8 FD &amp; Turn Off Legacy FD</string>
+	<string name="fd_text_screen_on">Екран увімк.</string>
+	<string name="fd_text_screen_off">Екран вимк.</string>
+	<string name="fd_text_config">Config</string>
+	<string name="fd_text_r8">R8 FD :</string>
+	<string name="fd_text_legacy">Legacy FD :</string>
+	<string name="fd_text_set">Вибір</string>
+	<string name="fd_text_send">Відправити FD</string>
+	<string name="fd_text_config_fd">Config FD</string>
+	<string name="fd_text_unit">0.1s</string>
+	<string name="bandmode_sim3">SIM3</string>
+	<string name="bandmode_sim4">SIM4</string>
+	<string name="hotswap_devtool_title">HotSwapDevTool</string>
+	<string name="configure_check2_send_test">CTSC</string>
+	<string name="configure_check2_self_test">CTSC</string>
 	<string name="network_select">Налаштування мережі</string>
 	<string name="cdma_network_select">Вибір мережі CDMA </string>
 	<string name="query_preferred_fail">Запит/Встановити Режим Мережі Не Вдалося!!!</string>
@@ -1230,8 +1237,8 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="hqa_nfc_always_p2p_mode">Завжди в режимі peer-to-peer</string>
 	<string name="hqa_nfc_always_card_emulation_mode">Завжди в режимі емуляції карти</string>
 	<string name="hqa_nfc_polling_loop_mode">Режим циклічного опитування </string>
-	<string name="hqa_nfc_tx_carrier_signal">TX сигнал завжди увімкнений</string>
-	<string name="hqa_nfc_virtual_card_function">Функція віртуальної карти</string>
+	<string name="hqa_nfc_tx_carrier_signal">TX carrier signal always on</string>
+	<string name="hqa_nfc_virtual_card_function">Virtual card function</string>
 	<string name="hqa_nfc_pnfc_command">PNFC команда</string>
 	<string name="hqa_nfc_version_query">Версія запиту</string>
 	<string name="hqa_nfc_option">Варіанти</string>
@@ -1271,7 +1278,7 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="hqa_nfc_active_mode">Активний режим</string>
 	<string name="hqa_nfc_initiator">Ініціатор</string>
 	<string name="hqa_nfc_target">Цільовий</string>
-	<string name="hqa_nfc_disable_card_emul">Вимкнути Емуляцію Карти</string>
+	<string name="hqa_nfc_disable_card_emul">Diable Емуляцію Карти</string>
 	<string name="hqa_nfc_swio1">SWIO1</string>
 	<string name="hqa_nfc_swio2">SWIO2</string>
 	<string name="hqa_nfc_swio_se">SWIO_SE</string>
@@ -1303,22 +1310,21 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="hqa_nfc_url_pre">URL:http://www.</string>
 	<string name="hqa_nfc_dialog_wait_title">Очікування</string>
 	<string name="hqa_nfc_dialog_wait_message">Будь ласка, зачекайте ...</string>
-	<string name="hqa_nfc_connect_fail">Помилка зєднання сервера</string>
-	<string name="hqa_nfc_emulat_virtual_card">Функція віртуальної карти</string>
+	<string name="hqa_nfc_connect_fail">Connect server fail</string>
+	<string name="hqa_nfc_emulat_virtual_card">Virtual Card Function</string>
 	<string name="hqa_nfc_p2p_mode_ntf_title">Peer-to-Peer режим</string>
 	<string name="hqa_nfc_p2p_role_tip">Будь ласка виберіть принаймні одну P2P роль!</string>
 	<string name="hqa_nfc_mw_version">NFC МВт версія:</string>
 	<string name="hqa_nfc_fw_version">NFC FW версія:</string>
 	<string name="hqa_nfc_hw_version">NFC HW версія:</string>
 	<string name="hqa_nfc_set">Вибір</string>
-	<string name="hqa_nfc_option_force_download">Увімкнути змушене завантаження</string>
-	<string name="hqa_nfc_option_auto_check">Увімкнути автоматичну перевірку наявністі</string>
+	<string name="hqa_nfc_option_force_download">Enable Force Download</string>
+	<string name="hqa_nfc_option_auto_check">Enable Auto Check Presence</string>
 	<string name="hqa_nfc_dialog_warn">Помилка</string>
 	<string name="hqa_nfc_dialog_warn_message">Будь ласка, спочатку вимкніть NFC</string>
 	<string name="captureImage">Захопл. зображення</string>
 	<string name="autoCalibration">Автокалібровка</string>
-	<string name="setting">Налаштування :</string>
-	<string name="capture">Захоплення :</string>
+	<string name="setting">Установка :</string>
 	<string name="capture_picture">Захоплення</string>
 	<string name="led_flash">Режим Строба</string>
 	<string name="tv_flicker">Дрижання</string>
@@ -1371,8 +1377,6 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="auto_clibr_manual_start">Початокова позиція:</string>
 	<string name="auto_clibr_manual_end">Кінцева позиція:</string>
 	<string name="auto_clibr_iso_tips">ISO не вибране, використовуються значення за замовчуванням: Auto!</string>
-	<string name="cannot_connect_camera">"Не можливо підключитися до камери."</string>
-    <string name="camera_error_title">Помилка камери</string>
 	<string name="pref_camera_flashmode_no_flash">no_flash</string>
 	<string name="not_enough_space">Ваша SD карта заповнена.</string>
 	<string name="pano_file_name_format">"’PANO’_yyyyMMdd_HHmmssSSS"</string>
@@ -1432,7 +1436,7 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="rf_desense_button_pause">Пауза</string>
 	<string name="rf_desense_button_start">Пуск</string>
 	<string name="rf_desense_dbm">dBm</string>
-	<string name="hspa_info_title">Інформація про HSPA</string>
+	<string name="hspa_info_title">HSPA Info</string>
 	<string name="hqa_lcm_name">LCM</string>
 	<string name="hqa_lcm_tm_status">ТМ статус</string>
 	<string name="hqa_lcm_cycle_tip">LCM цикл (5~55)</string>
@@ -1479,19 +1483,19 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="dcm_text_peri">PERI</string>
 	<string name="dcm_text_misc">MISC</string>
 	<string name="dcm_text_mm">MM</string>
-    <string name="dcm_text_mfg">MFG</string>
-    <string name="dcm_text_0x">0x</string>
-    <string name="dcm_text_read">Read</string>
-    <string name="dcm_text_set">Set</string>
-    <string name="dcm_text_dump_regs">Dump Regs</string>
-    <string name="dcm_text_help">Допомогти?</string>
-    <string name="dcm_lpm_ref_clk_note">Note: 104M -> Max 20.64s</string>
-    <string name="dcm_lpm_hint_good_dur">Good Dur</string>
-    <string name="dcm_lpm_start">Початок</string>
-    <string name="dcm_lpm_stop">Зупинка</string>
-    <string name="dcm_lpm_total_time">TOTAL TIME</string>
-    <string name="dcm_lpm_low2high">LOW2HIGH</string>
-    <string name="dcm_lpm_high_dur">HIGH DUR</string>
+        <string name="dcm_text_mfg">MFG</string>
+        <string name="dcm_text_0x">0x</string>
+        <string name="dcm_text_read">Read</string>
+        <string name="dcm_text_set">Set</string>
+        <string name="dcm_text_dump_regs">Dump Regs</string>
+        <string name="dcm_text_help">Допомогти?</string>
+        <string name="dcm_lpm_ref_clk_note">Note: 104M -> Max 20.64s</string>
+        <string name="dcm_lpm_hint_good_dur">Good Dur</string>
+        <string name="dcm_lpm_start">Початок</string>
+        <string name="dcm_lpm_stop">Зупинка</string>
+        <string name="dcm_lpm_total_time">TOTAL TIME</string>
+        <string name="dcm_lpm_low2high">LOW2HIGH</string>
+        <string name="dcm_lpm_high_dur">HIGH DUR</string>
 	<string name="dcm_lpm_longest_high">LONGEST HIGH</string>
 	<string name="dcm_lpm_good_dur">GOOD DUR</string>
 	<string name="dcm_operate_success">Вдало</string>
@@ -1517,8 +1521,8 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="deep_idle_legacy_sleep">Legacy Sleep</string>
 	<string name="deep_idle_dormant_mode">Dormant Mode</string>
 	<string name="deep_idle_power_level">Deep Idle Power Level</string>
-	<string name="deep_idle_power_level_0">Рівень 0</string>
-	<string name="deep_idle_power_level_1">Рівень 1</string>
+	<string name="deep_idle_power_level_0">Level 0</string>
+	<string name="deep_idle_power_level_1">Level 1</string>
 	<string name="deep_idle_set_wakeup_timer">Встановити таймер пробудж.</string>
 	<string name="deep_idle_disable_timer">Вимк.таймер</string>
 	<string name="deep_idle_timer_val_tip">ms (15 - 1,000,000)</string>
@@ -1526,12 +1530,12 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="deep_idle_get_setting">Отримати налаштування</string>
 	<string name="deep_idle_invalid_timer_val">Invalid Timer Value</string>
 	<string name="cmas">CMAS</string>
-	<string name="clock_select_turn_on">Увімкнути функцію Trun</string>
-	<string name="clock_select_turn_off">Вимкнути функцію Trun</string>
+	<string name="clock_select_turn_on">Turn on the feature</string>
+	<string name="clock_select_turn_off">Trun off the feature</string>
 	<string name="ClockSelectionDes">Descriptions: Switch MODEM ADC sample clock to 64MHz when enter full rx/ double rx to avoid receiving ID on wrong channel. Use 32MHz MODEM ADC clock in other conditions.</string>
 	<string name="ClockSelectionTitle">BT RX ADC Clock selection</string>
-	<string name="uart_usb_switch">UART/USB переключатель</string>
-	<string name="uart_usb_switch_current">Поточний режим USB порту</string>
+	<string name="uart_usb_switch">UART/USB switch</string>
+	<string name="uart_usb_switch_current">Current USB Port Mode</string>
 	<string name="uart_usb_switch_force_switch">Force switch USB Port Mode to:</string>
 	<string name="uart_usb_switch_usb">USB</string>
 	<string name="uart_usb_switch_uart">UART</string>
@@ -1544,24 +1548,24 @@ System may behave unpredictably after you set wrong value"</string>
 	<string name="wfd_display_notif_time">Display notification time</string>
 	<string name="wfd_sqc_tx">Enable sqc info</string>
 	<string name="wfd_settings">WiFi дисплей</string>
-	<string name="wfd_Done">Виконано</string>
+	<string name="wfd_Done">Вмконано</string>
 	<string name="wfd_quality">Quality Enhancement</string>
 	<string name="wfd_qe_tx">Enable quality enhancement</string>
 	<string name="wfd_acs_tx">Enable auto channel selection</string>
 	<string name="wfd_video_capability">Video Capability</string>
 	<string name="wfd_vdo_max_resolution">Max Resolution</string>
-    <string name="wfd_vdo_720p_1">720p(30 кадрів/сек.)</string>
-    <string name="wfd_vdo_720p_2">720p(60 кадрів/сек.)</string>
-    <string name="wfd_vdo_1080p">1080p(30 кадрів/сек.)</string>
+    <string name="wfd_vdo_720p_1">720p(30 frames/sec)</string>
+    <string name="wfd_vdo_720p_2">720p(60 frames/sec)</string>
+    <string name="wfd_vdo_1080p">1080p(30 frames/sec)</string>
     <string name="wfd_vdo_setting_menu">Enable resolution setting menu</string>
     <string name="wfd_vdo_full_definition">Full definition</string>
     <string name="wfd_vdo_high_definition">High definition(60p)</string>
-    <string name="wfd_vdo_normal_definition">Загальний(30p)</string>
+    <string name="wfd_vdo_normal_definition">General(30p)</string>
     <string name="wfd_power_saving">Power Saving for Playing Video</string>
     <string name="wfd_power_saving_style_0">Screen off</string>
     <string name="wfd_power_saving_style_1">Screen dim</string>
     <string name="wfd_power_saving_style_2">Screen dim and show image</string>
-    <string name="wfd_power_saving_style_3">Вимкнути енергозбереження</string>
+    <string name="wfd_power_saving_style_3">No power saving</string>
     <string name="wfd_power_delay_time">Час затримки</string>
     <string name="wfd_security">Безпека</string>
     <string name="wfd_sec_content">DRM content</string>
@@ -1578,8 +1582,8 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="modem_switch_is_fdd">Поточний тип модему: FDD</string>
     <string name="modem_switch_is_tdd">Поточний тип модему: TDD</string>
     <string name="modem_switch_hint">Оберіть тип модему:</string>
-    <string name="modem_switch_fdd">FDD модем</string>
-    <string name="modem_switch_tdd">TDD модем</string>
+    <string name="modem_switch_fdd">FDD Modem</string>
+    <string name="modem_switch_tdd">TDD Modem</string>
     <string name="modem_switch_auto">Автовимикач</string>
     <string name="modem_switch_set">Вибір</string>
     <string name="nfc_dta">NFC DTA</string>
@@ -1604,41 +1608,41 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="psensor_calibration">Калібрування</string>
     <string name="psensor_change_threshold">Змініть поріг</string>
     <string name="sensor_ps_calibration_current_data">"PS:
-Максимальний поріг:
-Мінімальний поріг:"</string>
+Threshold High:
+Threshold Low:"</string>
     <string name="sensor_ps_calibration_current_data_format">"PS: %1$d
-Максимальний поріг: %2$d
-Мінімальний поріг: %3$d"</string>
-    <string name="sensor_ps_calibration_min_hint">"Покладіть трубку на горизонтальній площині і натисніть кнопку.
+Threshold High: %2$d
+Threshold Low: %3$d"</string>
+    <string name="sensor_ps_calibration_min_hint">"Put phone on a horizontal plane and click the button.
 NOTE: Donnot cover P-Sensor after button clicked."</string>
-    <string name="sensor_ps_calibration_get_min">Розрахувати мінімальне значення</string>
-    <string name="sensor_ps_calibration_min_value">Мінімальне значення:</string>
+    <string name="sensor_ps_calibration_get_min">Calculate min value</string>
+    <string name="sensor_ps_calibration_min_value">Min value:</string>
     <string name="sensor_ps_calibration_max_hint">Cover P-Sensor then click the button.</string>
-    <string name="sensor_ps_calibration_get_max">Розрахувати максимальне значення</string>
-    <string name="sensor_ps_calibration_max_value">Максимальне значення:</string>
-    <string name="sensor_ps_calibration_do_cali">Калібрування</string>
-    <string name="sensor_ps_calibration_clear_cali">Очистити калібрування</string>
-    <string name="sensor_ps_calibration_result">Результат:</string>
-    <string name="sensor_ps_threshold_high">Максимум (0~65535):</string>
-    <string name="sensor_ps_threshold_low">Мінімум (0~65535):</string>
-    <string name="sensor_ps_change_threshold_set">Застосувати</string>
+    <string name="sensor_ps_calibration_get_max">Calculate max value</string>
+    <string name="sensor_ps_calibration_max_value">Max value:</string>
+    <string name="sensor_ps_calibration_do_cali">Do calibration</string>
+    <string name="sensor_ps_calibration_clear_cali">Clear calibration</string>
+    <string name="sensor_ps_calibration_result">Result:</string>
+    <string name="sensor_ps_threshold_high">Threshold High (0~65535):</string>
+    <string name="sensor_ps_threshold_low">Threshold Low (0~65535):</string>
+    <string name="sensor_ps_change_threshold_set">Set</string>
     <string name="sensor_ps_threshold_prefix">0x</string>
     <string name="usbacm">USB ACM</string>
-    <string name="usbacm_open_gs0">Відкрити GS0 порт</string>
-    <string name="usbacm_open_gs1">Відкрити GS1 порт</string>
-    <string name="usbacm_open_gs2">Відкрити GS2 порт</string>
-    <string name="usbacm_open_gs3">Відкрити GS3 порт</string>
-    <string name="usbacm_close">Закрити порт</string>
-    <string name="usbacm_open_succeed">Порт відкрився вдало</string>
-    <string name="usbacm_open_failed">Порт відкрився з помилкою</string>
-    <string name="usbacm_close_succeed">Порт закрився вдало</string>
-    <string name="usbacm_close_failed">Порт закрився з помилкою</string>
+    <string name="usbacm_open_gs0">Open GS0 port</string>
+    <string name="usbacm_open_gs1">Open GS1 port</string>
+    <string name="usbacm_open_gs2">Open GS2 port</string>
+    <string name="usbacm_open_gs3">Open GS3 port</string>
+    <string name="usbacm_close">Close port</string>
+    <string name="usbacm_open_succeed">Open port succeed</string>
+    <string name="usbacm_open_failed">Open port failed</string>
+    <string name="usbacm_close_succeed">Close port succeed</string>
+    <string name="usbacm_close_failed">Close port failed</string>
     <string name="saber">Saber</string>
-    <string name="device_register_title">Пристрій реєстрація</string>
-    <string name="device_ct_sms_auto_reg">Відправляти автоматично повідомлення про реєстрацію</string>
-    <string name="device_register">Пристрій реєстрація</string>
-    <string name="ct_device_register">Пристрій реєстрація</string>
-    <string name="modem_warning_title">УВАГА! Налаштування модему</string>
+    <string name="device_register_title">Device Register</string>
+    <string name="device_ct_sms_auto_reg">Send Auto Register Message</string>
+    <string name="device_register">Device Register</string>
+    <string name="ct_device_register">Device Register</string>
+    <string name="modem_warning_title">Modem Warning Setting</string>
     <string name="modem_warning">Enable Yellow Screen for Modem Warning</string>
     <string name="cip_title">CIP</string>
     <string name="cip_prop_content">CIP Prop Content</string>
@@ -1676,10 +1680,6 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
     <string name="cw_test_cur_times_tx">Current times</string>
     <string name="cw_test_max_cnr">Макс. CNR=</string>
     <string name="cw_test_min_cnr">Mін. CNR=</string>
-	<item type="string" name="chipId">false</item>
-    <item type="string" name="ecoVersion">false</item>
-    <item type="string" name="patchSize">false</item>
-    <item type="string" name="patchDate">false</item>
     <string name="Memory">Пам’ять</string>
     <string name="WiFi">Wi-Fi мережа</string>
     <string name="WiFi_Tx_Text">Tx живлення (dBm):</string>
@@ -1691,7 +1691,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
     <string name="WiFi_Bandwidth">Смуга пропускання:</string>
     <string name="WiFi_Guard_Interval">Захисний інтервал:</string>
     <string name="WiFi_Go">Вперед</string>
-    <string name="WiFi_Stop">Зупинка</string>
+    <string name="WiFi_Зупинка">Зупинка</string>
     <string name="WiFi_WordAccess_Text">WORD Доступ:</string>
     <string name="WiFi_addr_Text">адреса(h,byte):</string>
     <string name="WiFi_value_Text">значення(h):</string>
@@ -1707,7 +1707,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
     <string name="WiFi_ClearBtn">Очистити</string>
     <string name="WiFi_Misc_Text">Вимірювання температури датчиком:</string>
     <string name="WiFi_Misc_GoBtn">Вперед</string>
-    <string name="WiFi_Misc_StopBtn">Зупинка</string>
+    <string name="WiFi_Misc_ЗупинкаBtn">Зупинка</string>
     <string name="WiFi_Misc_ClearBtn">Очистити</string>
     <string name="WiFi_MCR_Addr_Text">Адреса(h):</string>
     <string name="WiFi_MCR_Value_Text">Значення(h):</string>
