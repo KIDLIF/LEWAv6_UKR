@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">LewaDefaultTheme</string>
-    <string name="theme_name">Стандарта</string>
+    <string name="theme_name">Стандартна</string>
     <string name="style_appearance_name">lewadefault</string>
     <string name="author">Lewa OS</string>
     <string name="copyright">Lewa OS</string>

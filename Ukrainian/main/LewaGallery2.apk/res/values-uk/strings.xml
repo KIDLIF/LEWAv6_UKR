@@ -35,7 +35,7 @@
 	<string name="pref_camera_picturesize_entry_4096x3072">13 Мпікс.</string>
 	<string name="pref_camera_whitebalance_entry_twilight">Сутінки</string>
 	<string name="pref_camera_whitebalance_entry_shade">Тінь</string>
-	<string name="pref_camera_whitebalance_entry_warm_fluorescent">Люмин. осв. (тепл.)</string>
+	<string name="pref_camera_whitebalance_entry_warm_fluorescent">Люмін. осв. (тепл.)</string>
 	<string name="pref_camera_whitebalance_entry_tungsten">Лампа розжарювання</string>
 	<string name="pref_camera_normal_capture_default">normal</string>
 	<string name="pref_camera_capturemode_entry_normal">Звичайний</string>
@@ -776,7 +776,7 @@
 	<string name="model">Модель</string>
 	<string name="flash">Спалах</string>
 	<string name="aperture">Діафрагма</string>
-	<string name="focal_length">Фокус. расст.</string>
+	<string name="focal_length">Фокус. відст.</string>
 	<string name="white_balance">Баланс білого</string>
 	<string name="exposure_time">Витяг</string>
 	<string name="iso">ISO</string>

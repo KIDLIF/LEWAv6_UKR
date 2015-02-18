@@ -120,9 +120,9 @@
 	<string name="spm_custom_settings_intelli_batterylow_title">Повідомлення про низький заряд</string>
 	<string name="spm_custom_settings_intelli_batterylow_summy">"Попередження про низький заряд батареї. Поточне налаштування: "</string>
 	<string name="spm_battery_low_warnnig_title">Батарея розряджена!</string>
-	<string name="spm_battery_low_warnnig_msg">Увага! Рівень заряду менше</string>
-	<string name="spm_battery_low_warnnig_msg_1">Відкрити додаток Батарея+ ?</string>
-	<string name="spm_battery_low_warnnig_to_connect">Заряд батареї нижчий, ніж</string>
+	<string name="spm_battery_low_warnnig_msg">"Увага! Рівень заряду менше "</string>
+	<string name="spm_battery_low_warnnig_msg_1">" Відкрити додаток Батарея+ ?"</string>
+	<string name="spm_battery_low_warnnig_to_connect">"Заряд батареї нижчий, ніж "</string>
 	<string name="spm_battery_low_warnnig_to_connect_1">!</string>
 	<string name="spm_inti_statusbar_in">Режим економії енергії увімкнено</string>
 	<string name="spm_inti_statusbar_out">Режим економії енергії вимкнено</string>
