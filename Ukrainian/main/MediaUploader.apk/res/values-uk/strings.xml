@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="picasa_upload">Завантажчик Picasa</string>
+    <string name="picasa_upload">Завантажувач Picasa</string>
     <string name="share_to_picasa">Picasa</string>
     <string name="picasa_title_for_single">Завантажити фото або відео</string>
     <string name="picasa_title_for_multiple">Завантажити %d фото або відео</string>

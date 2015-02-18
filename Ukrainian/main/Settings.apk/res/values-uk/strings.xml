@@ -2361,7 +2361,7 @@
     <string name="gemini_dualsim_switch_title">Посунути для набору/відправки SMS</string>
     <string name="gemini_dualsim_switch_summary">Посунувши повзунок уліво ви зможете здійснити виклик/відправити SMS</string>
     <string name="silent_mode_title">Тихий режим</string>
-    <string name="device_lewa_version">"Версія LevaOS： "</string>
+    <string name="device_lewa_version">"Версія LewaOS： "</string>
     <string name="device_cpu">"Процесор： "</string>
     <string name="device_memory">"Пам'ять "</string>
     <string name="device_system_memory">"Оперативна пам'ять： "</string>

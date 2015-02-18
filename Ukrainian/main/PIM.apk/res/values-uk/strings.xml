@@ -625,7 +625,7 @@
     <string name="t9_add_to_contacts">Додати до контактів</string>
     <string name="t9_map_row_2">2abcабвгґ</string>
     <string name="t9_map_row_3">3defдеєжз</string>
-    <string name="t9_map_row_4">4ghiіїийкл</string>
+    <string name="t9_map_row_4">4ghiиіїйкл</string>
     <string name="t9_map_row_5">5jklмноп</string>
     <string name="t9_map_row_6">6mnoрсту</string>
     <string name="t9_map_row_7">7pqrsфхцч</string>
@@ -633,9 +633,8 @@
     <string name="t9_map_row_9">9wxyzьюя</string>
     <string name="prompt_contact_myself">Я</string>
     <string name="menu_new">Новий</string>
-    <string name="prompt_no_contacts_pepole">Ви не маєте контактів</string>
-    <string name="prompt_no_contacts_people_propose">"Ви можете імпортувати контакти з SIM-картки 
-або картки пам'яті"</string>
+    <string name="prompt_no_contacts_pepole">У Вас немає контактів</string>
+    <string name="prompt_no_contacts_people_propose">"Ви можете імпортувати контакти з SIM-картки або картки пам'яті"</string>
     <string name="hint_findAllContacts">Пошук серед %s контактів</string>
     <string name="group_entry_item">Групи контактів</string>
     <string name="label_loaderframents">Контакт</string>

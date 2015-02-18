@@ -292,7 +292,7 @@
 	<string name="sd_card_available">вільно %1$s</string>
 	<string name="external_sd_card_size">SD-карта: %1$s</string>
 	<string name="external_sd_card_available">Доступно: %1$s</string>
-	<string name="internal_sd_card_size">Внутрішнє сховище: %1$s</string>
+	<string name="internal_sd_card_size">Внутрішня: %1$s</string>
 	<string name="internal_sd_card_available">Доступно: %1$s</string>
 	<string name="usb_otg_card_size">USB-сховище: %1$s</string>
 	<string name="usb_otg_card_available">Доступно: %1$s</string>
