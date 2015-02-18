@@ -2,7 +2,7 @@
 <resources>
     <string name="account_name">Обліковий запис Lewa</string>
     <string name="lewaAccountSystem">Обліковий запис Lewa</string>
-    <string name="login_activity_title">Логін %1$s</string>
+    <string name="login_activity_title">%1$s</string>
     <string name="login_name_hint">"Введіть ім'я, номер або ел. адрес"</string>
     <string name="login">Увійти</string>
     <string name="register">Реєстрація</string>
