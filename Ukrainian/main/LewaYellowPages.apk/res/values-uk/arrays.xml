@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="yellowpages_group_items">
+        <item>Доставка їди</item>
+        <item>Готелі</item>
+        <item>Логістика</item>
+        <item>Банки</item>
+        <item>Потяги/Авіація</item>
+        <item>Прибирання</item>
+        <item>Переїзд</item>
+        <item>Работа</item>
+        <item>Техніка</item>
+        <item>Водіння</item>
+        <item>Електроенергія</item>
+        <item>Освіта</item>
+        <item>Горячі лінії</item>
+        <item>Обране</item>
+    </string-array>
+    <array name="yellowpages_nearby_categoty_items">
+        <item>Лакомка</item>
+        <item>Лакомка</item>
+        <item>Магазини</item>
+        <item>Відділеня банків</item>
+        <item>Продаж квитків</item>
+        <item>Домогосподарство</item>
+        <item>Переїзд</item>
+        <item>Кадрові агентства</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string-array name="hot_cities">
+        <item>Пекин</item>
+        <item>Чунцин</item>
+        <item>Чэнду</item>
+        <item>Гуанчжоу</item>
+        <item>Ханчжоу</item>
+        <item>Нанкин</item>
+        <item>Шанхай</item>
+        <item>Шэньчжэнь</item>
+        <item>Сучжоу</item>
+        <item>Шэньян</item>
+        <item>Тяньцзинь</item>
+        <item>Ухань</item>
+        <item>Сиань</item>
+    </string-array>
+</resources>

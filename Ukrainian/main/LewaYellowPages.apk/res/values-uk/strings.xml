@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="yellowpages_activity_title">Жовті сторінки</string>
+    <string name="yellowpages_correct_activity_title">Жовті сторінки</string>
+    <string name="list_loading">Завантаження...</string>
+    <string name="load_more_data">Завантажити ще</string>
+    <string name="hint_find_yellowpages">Пошук жовтих строрінок</string>
+    <string name="hint_findCity">Пошук міст</string>
+    <string name="frequently_phone">Приватні телефони</string>
+    <string name="living_service">Служба проживання</string>
+
+    <string name="label_auto_city">Місцезнаходження</string>
+    <string name="label_hot_city">Горячі міста</string>
+    <string name="menu_search_title">Пошук</string>
+    <string name="prompt_no_match_city">Для цього міста немає жовтих сторінок</string>
+    <string name="prompt_no_match_yellowpages">"Не вдається знайти жовті сторінки"</string>
+    <string name="prompt_no_any_favorite_phone">Немає обраних телефонів</string>
+    <string name="title_switch_city">Переключенння міст</string>
+    <string name="prompt_content_switch_city">Ви в місті %s, переключитися на поточне місто?</string>
+    <string name="button_switch">Перепідключення</string>
+    <string name="err_msg_network">Помилка мережі</string>
+    <string name="err_msg_no_data">Немає даних</string>
+    <string name="network_setting">Налаштування мережі</string>
+    <string name="refresh_retry">Оновити</string>
+    <string name="unit_meter">%s м.</string>
+    <string name="unit_kilometer">%s км.</string>
+</resources>

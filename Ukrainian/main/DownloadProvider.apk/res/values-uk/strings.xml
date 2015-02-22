@@ -41,10 +41,12 @@
 	<string name="download_percent">%d%%</string>
 	<string name="notification_title">%1$d завдання завантажується</string>
 	<string name="notification_title_pause">%1$d завдання призупинено</string>
-	<string name="notification_info_pause">пауза</string>
-	<string name="notification_info_wait_for_retry">очікування перепідключення</string>
-	<string name="notification_info_wait_for_network">очікування мережі</string>
-	<string name="notification_info_wait_for_wlan">очікування Wi-Fi</string>
-	<string name="notification_info_peding">очікування</string>
-	<string name="notification_info_fail">помилка</string>
+	<string name="notification_info_pause">Пауза</string>
+	<string name="notification_info_wait_for_retry">Очікування перепідключення</string>
+	<string name="notification_info_wait_for_network">Очікування мережі</string>
+	<string name="notification_info_wait_for_wlan">Очікування Wi-Fi</string>
+	<string name="notification_info_peding">Очікування</string>
+	<string name="notification_info_fail">Помилка</string>
+	<string name="notification_info_sdcard_insufficient_space_error">Недостатньо місця на SD-карті</string>
+    <string name="notification_info_insufficient_space_error">Недостатньо місця у внутрішньому сховищі</string>
 </resources>

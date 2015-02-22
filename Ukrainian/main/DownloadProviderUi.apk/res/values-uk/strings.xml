@@ -109,8 +109,12 @@
 	<string name="yesterday">Вчора</string>
 	<string name="last_month">Минулий місяць</string>
 	<string name="older">Старіше</string>
-	<string name="status_pause_for_network">очікування мережі</string>
+	<string name="status_pause_for_network">Очікування мережі</string>
 	<string name="status_pause_for_SDcard">Очікування SD-карти</string>
     <string name="SDcard_is_not_available">Немає SD-карти</string>
+	<string name="info_sdcard_insufficient_space">Недостатньо місця на SD-карті</string>
+    <string name="info_insufficient_space">Недостатньо місця у внутрішньому сховищі</string>
+    <string name="toast_sdcard_insufficient_space">Недостатньо місця на SD-карті для завершення завантаження</string>
+    <string name="toast_insufficient_space">Недостатньо місця у внутрішньому сховищі для завершення завантаження</string>
 </resources>
 
