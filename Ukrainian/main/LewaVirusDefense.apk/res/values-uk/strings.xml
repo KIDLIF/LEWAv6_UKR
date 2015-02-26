@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="virus_library_update_notice">Антівірусна застаріла!</string>
-    <string name="virus_library_update_adjust">Антівірусна застаріла, оновіть!</string>
+    <string name="virus_library_update_notice">Антівірусна база застаріла!</string>
+    <string name="virus_library_update_adjust">Антівірусна база застаріла, оновіть!</string>
     <string name="virus_library_settings">Налаштування оновлення</string>
     <string name="timing_of_virus_library_update">Оновлення антивірусної бази</string>
     <string name="virus_library_settings_summary">Автоматичне оновлення по Wi-Fi</string>
@@ -90,7 +90,7 @@
 	<string name="update_note_known">Готово</string>
 	<string name="update_tips">Регулярно оновлюйте антивірусні бази</string>
 	<string name="unupdate_tips">Ви давно не оновлювали антивірусну базу!</string>
-	<string name="update_version">Версіяантивірусної бази: %s</string>
+	<string name="update_version">Версія антивірусної бази: %s</string>
 	<string name="log_list_empty">Журнал відсутній</string>
 	<string name="log_virus_counts">Заражених: %s</string>
 	<string name="log_caution_counts">Загроз: %s</string>
