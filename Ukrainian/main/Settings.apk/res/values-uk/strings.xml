@@ -2725,7 +2725,8 @@
     <string name="wizard_cards_select">Вибір SIM-карти</string>
     <string name="wizard_cards_setting">Налаштування SIM-карти</string>
     <string name="detect_no_cards">SIM-карта не визначена</string>
-    <string name="data_usage_card_picker_msg">Виберіть SIM-карту по замовчуванню для передачі даних</string>
+    <string name="data_usage_card_picker_msg">Виберіть SIM-карту для передачі даних 
+	по замовчуванню</string>
     <string name="hint_data_usage_size">Ліміт трафіку</string>
     <string name="invalid_card_name">"Неправильне ім'я SIM-карти"</string>
     <string name="invalid_data_size">Неправильні дані</string>

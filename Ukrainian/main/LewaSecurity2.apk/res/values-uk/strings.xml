@@ -34,13 +34,13 @@
 	<string name="days">дн.</string>
 	<string name="hours">год.</string>
 	<string name="minutes">хв.</string>
-	<string name="state_optimizing">Оптимізація...</string>
+	<string name="state_optimizing">Перевірка...</string>
 	<string name="state_detecting">Перевірка...</string>
-	<string name="goto_details">Подивитись деталі</string>
+	<string name="goto_details">Звіт</string>
 	<string name="clearance_calculate_state">Підрахунок %s</string>
 	<string name="oneclick_optimize">Старт</string>
 	<string name="clearance_garbage_size">До видалення %1$s сміття</string>
-	<string name="clearance_garbage_cleared">%1$s непотрібних файлів видалено</string>
+	<string name="clearance_garbage_cleared">Видалено %1$s непотрібних файлів</string>
 	<string name="dialog_title">Повідомлення Центру безпеки</string>
 	<string name="dialog_message_check">Система сканує Ваш пристрій, Ви дійсно бажаєте вийти з Центру безпеки?</string>
 	<string name="dialog_message_optimize">Система оптимізує Ваш пристрій, Ви дійсно бажаєте вийти з Центру безпеки?</string>

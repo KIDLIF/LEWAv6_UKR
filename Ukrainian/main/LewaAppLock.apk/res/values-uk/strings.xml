@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="crypt_keeper_switch_input_method">Переключення методу вводу</string>
+    <string name="crypt_keeper_switch_input_method">Переключення способу вводу</string>
     <string name="lock_settings_picker_title">Тип блокування</string>
     <string name="backup_lock_settings_picker_title">Дод. спосіб блокування</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
@@ -8,9 +8,9 @@
     <string name="unlock_set_unlock_launch_picker_change_summary">Зміна або відключення графічного ключа, PIN-кода і пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрану</string>
     <string name="unlock_backup_info_summary">Виберіть альтернативний спосіб разблокування екрану</string>
-    <string name="unlock_set_unlock_off_title">Ні</string>
+    <string name="unlock_set_unlock_off_title">Без блокування</string>
 	
-    <string name="unlock_set_unlock_none_title">Відключено</string>
+    <string name="unlock_set_unlock_none_title">По замовчуванню</string>
     <string name="unlock_set_unlock_none_summary">Захист відключена</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Малий рівень захисту</string>
@@ -21,8 +21,8 @@
     <string name="unlock_set_unlock_password_title">Пароль</string>
     <string name="unlock_set_unlock_password_summary">Високий рівень захисту</string>
     <string name="unlock_set_unlock_disabled_summary">Заборонено адміністратором, політикою шифровання або сховище облікових  даних</string>
-    <string name="unlock_set_unlock_mode_off">Ні</string>
-    <string name="unlock_set_unlock_mode_none">Стандартний екран блокування</string>
+    <string name="unlock_set_unlock_mode_off">Без блокування</string>
+    <string name="unlock_set_unlock_mode_none">По замовчування</string>
     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
     <string name="unlock_set_unlock_mode_pattern">Захист графічним ключом</string>
     <string name="unlock_set_unlock_mode_pin">Захист PIN-кодом</string>
@@ -34,19 +34,19 @@
     <string name="unlock_change_lock_pattern_title">Змінити графічний ключ розблокування</string>
     <string name="unlock_change_lock_pin_title">Змінити PIN-код розблокування</string>
     <string name="unlock_change_lock_password_title">Змінити пароль розблокування</string>
-    <string name="lockpassword_password_too_short">Не менше %d символів</string>
+    <string name="lockpassword_password_too_short">Пароль повинен містити не менше %d символів</string>
     <string name="lockpassword_pin_too_short">PIN-код повинен містити не менше %d символів</string>
     <string name="lockpassword_press_continue">Після завершенння нажміть \"Продовжити\"</string>
     <string name="lockpassword_continue_label">Продовжити</string>
-    <string name="lockpassword_password_too_long">Не більше %d символів</string>
+    <string name="lockpassword_password_too_long">Пароль повинен містити не більше %d символів</string>
     <string name="lockpassword_pin_too_long">PIN-код повинен містити не більше %d символів</string>
     <string name="lockpassword_pin_contains_non_digits">PIN-код повинен складатися тільки з цифр від 0 до 9</string>
-    <string name="lockpassword_pin_recently_used">Адміністратор пристрою забороняє використання остатнього PIN-кода</string>
+    <string name="lockpassword_pin_recently_used">Не можна використовувати останній PIN-код</string>
     <string name="lockpassword_illegal_character">Пароль містить недоступні символи</string>
     <string name="lockpassword_password_requires_alpha">Пароль повинен містити хоча б одну букву</string>
     <string name="lockpassword_password_requires_digit">Пароль повинен містити хоча б одну цифру</string>
     <string name="lockpassword_password_requires_symbol">Пароль повинен містити хоча б один символ</string>
-    <string name="lockpassword_password_recently_used">Адміністратор пристрою забороняє використання остатнього пароля</string>
+    <string name="lockpassword_password_recently_used">Не можна використовувати останній пароль</string>
     <string name="lockpassword_ok_label">ОК</string>
     <string name="lockpassword_cancel_label">Скасувати</string>
     <string name="lockpattern_tutorial_cancel_label">Скасувати</string>
@@ -55,13 +55,13 @@
     <string name="lockpattern_change_lock_pin_label">Змінити PIN-код разблокування</string>
     <string name="lockpattern_need_to_unlock">Накресліть існуючий ключ</string>
 	
-	<string name="lockpattern_need_to_unlock_wrong">Повторити:</string>
+	<string name="lockpattern_need_to_unlock_wrong">Повторіть спробу:</string>
 	
     <string name="lockpattern_recording_intro_header">Накресліть графічний ключ</string>
     <string name="lockpattern_recording_intro_footer">Для довідки виберіть \"Меню\"</string>
     <string name="lockpattern_recording_inprogress">По закінченю відпустіть палець</string>
     <string name="lockpattern_recording_incorrect_too_short">"З'єднайте точки (як мінімум %d). Повторіть спробу:"</string>
-    <string name="lockpattern_pattern_entered_header">Графічний ключ разблокування записано!</string>
+    <string name="lockpattern_pattern_entered_header">Графічний ключ збережено!</string>
     <string name="lockpattern_need_to_confirm">Для підтвердження накресліть графічний ключ ще раз:</string>
     <string name="lockpattern_pattern_confirmed_header">Новий графичічний ключ разблокування:</string>
     <string name="lockpattern_confirm_button_text">Підтвердження</string>
@@ -71,15 +71,15 @@
     <string name="lockpattern_settings_title">Графічний ключ разблокування</string>
     <string name="lockpattern_settings_enable_title">Запитувати ключ</string>
     <string name="lockpattern_settings_enable_summary">Використовувати графічний ключ для захисту телефону</string>
-    <string name="lockpattern_settings_enable_visible_pattern_title">Показувати графічний ключ</string>
-    <string name="lockpattern_settings_enable_tactile_feedback_title">Вібрувати при дотику</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Показувати ключ</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вібрація</string>
     <string name="lockpattern_settings_enable_power_button_instantly_locks">Блокування клавішей живлення</string>
     <string name="lockpattern_settings_choose_lock_pattern">Встановити ключ</string>
     <string name="lockpattern_settings_change_lock_pattern">Змінити ключ</string>
     <string name="lockpattern_settings_help_how_to_record">Як накреслити графічний ключ разблокування</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Занадто багато невдалих спроб!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторіть спробу через %d с.</string>
-    <string name="lock_setup">Налаштування завершено</string>
+    <string name="lock_setup">Блокування завершено</string>
     <string name="app_name">Lewa Блокувальник</string>
     <string name="cancel">Повтор</string>
     <string name="unlock_set_unlock_screen_title">Використання локскріна</string>
@@ -102,8 +102,8 @@
 	
 	
 	
-    <string name="please_input_pwd">Ввід пароля</string>
-    <string name="input_again">Забути</string>
+    <string name="please_input_pwd">Введіть пароль</string>
+    <string name="input_again">Скасувати</string>
     <string name="user_delete_button">Видалити</string>
     <string name="app_lock_settings">Налаштування</string>
     <string name="lewa_applock_summary">Відкриття блокованого додатка потребує паролю і включення екрану блокує додаток знову</string>

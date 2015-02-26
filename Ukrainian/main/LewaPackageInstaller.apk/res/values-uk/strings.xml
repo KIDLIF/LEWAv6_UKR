@@ -10,11 +10,11 @@
 	<string name="installing">Встановлюється...</string>
 	<string name="install_done">Додаток встановлено</string>
 	<string name="install_confirm_question">Встановити цей додаток?</string>
-	<string name="install_confirm_question_no_perms">Бажаєте встановити цей додаток? Він не вимагає спеціальних дозволів</string>
-	<string name="install_confirm_question_update">Бажаєте встановити це оновлення встановленого додатка? Ваші персональні дані збережуться. Оновлений додаток отримає доступ до:</string>
-	<string name="install_confirm_question_update_system">Бажаєте встановити оновлення вбудованого додатка? Ваші персональні дані збережуться. Оновлений додаток отримає доступ до:</string>
-	<string name="install_confirm_question_update_no_perms">Бажаєте встановити це оновлення встановленого додатка? Ваші персональні дані збережуться. Воно не вимагає спеціальних дозволів</string>
-	<string name="install_confirm_question_update_system_no_perms">Ви хочете встановити це оновлення встановленого додатка? Ваші персональні дані збережуться. Воно не вимагає спеціальних дозволів</string>
+	<string name="install_confirm_question_no_perms">Бажаєте встановити цей додаток?</string>
+	<string name="install_confirm_question_update">Бажаєте встановити це оновлення встановленого додатка?</string>
+	<string name="install_confirm_question_update_system">Бажаєте встановити оновлення вбудованого додатка?</string>
+	<string name="install_confirm_question_update_no_perms">Бажаєте встановити це оновлення встановленого додатка?</string>
+	<string name="install_confirm_question_update_system_no_perms">Ви хочете встановити це оновлення встановленого додатка?</string>
 	<string name="install_failed">Додаток не встановлено</string>
 	<string name="install_failed_invalid_apk">Файл пошкоджений</string>
 	<string name="install_failed_inconsistent_certificates">Пакет з такою назвою вже встановлений і має конфліктний підпис</string>
@@ -26,11 +26,11 @@
 	<string name="install_failed_msg">Встановити додаток %1$s не вдалося</string>
 	<string name="launch">Відкрити</string>
 	<string name="unknown_apps_dlg_title">Установку заблоковано</string>
-	<string name="unknown_apps_dlg_text">З міркувань безпеки на Вашому пристрої заблоковано встановлення програм, отриманих не з Google Play Маркету</string>
-	
-	
+	<string name="unknown_apps_dlg_text">З міркувань безпеки на Вашому пристрої заблоковано встановлення додатків,
+
+отриманих не з Google Play Маркету</string>
 	<string name="ok">ОК</string>
-	<string name="settings">Налаштування</string>
+	<string name="settings">Відкрити</string>
 	<string name="allow_source_dlg_title">Дозволити додавання нового джерела для додатків?</string>
 	<string name="allow_source_dlg_text">"%1$s хоче встановити інші додатки. 
 

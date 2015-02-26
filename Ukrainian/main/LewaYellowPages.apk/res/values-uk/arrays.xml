@@ -81,18 +81,18 @@
 
 
     <string-array name="hot_cities">
-        <item>Пекин</item>
-        <item>Чунцин</item>
-        <item>Чэнду</item>
+        <item>Пекін</item>
+        <item>Чунцін</item>
+        <item>Ченду</item>
         <item>Гуанчжоу</item>
         <item>Ханчжоу</item>
-        <item>Нанкин</item>
+        <item>Нанкін</item>
         <item>Шанхай</item>
-        <item>Шэньчжэнь</item>
+        <item>Шеньчжень</item>
         <item>Сучжоу</item>
-        <item>Шэньян</item>
-        <item>Тяньцзинь</item>
+        <item>Шеньян</item>
+        <item>Тяньцзінь</item>
         <item>Ухань</item>
-        <item>Сиань</item>
+        <item>Сіань</item>
     </string-array>
 </resources>

@@ -635,6 +635,7 @@
     <string name="menu_new">Новий</string>
     <string name="prompt_no_contacts_pepole">У Вас немає контактів</string>
     <string name="prompt_no_contacts_people_propose">"Ви можете імпортувати контакти з SIM-картки або картки пам'яті"</string>
+	
     <string name="hint_findAllContacts">Пошук серед %s контактів</string>
     <string name="group_entry_item">Групи контактів</string>
     <string name="label_loaderframents">Контакт</string>
@@ -711,7 +712,7 @@
     <string name="block_voice_incoming_call">Безпосереднє блокування вхідних голосових дзвінків</string>
     <string name="block_video_incoming_call">Безпосереднє блокування вхідних відеодзвінків</string>
     <string name="menu_manually_refresh">Оновити</string>
-    <string name="add_to_blacklist">Додати до чорного списку</string>
+    <string name="add_to_blacklist">В чорний список</string>
     <string name="clear_from_blacklist">Видалити з чорного списку</string>
     <string name="add_to_autorecord_list">Додати до автозапису</string>
     <string name="clear_from_autorecord_list">Видалити з автозапису</string>
@@ -961,7 +962,19 @@
     <string name="mark_express">Курєр</string>
     <string name="mark_takeout">Не відповідати</string>
     <string name="mark_custom">Користувацький</string>
-    <string name="more_string">+%1$s</string>
+    <string name="time_0_3">AM</string>
+    <string name="time_4_6">AM</string>
+    <string name="time_7_9">AM</string>
+    <string name="time_10_11">AM</string>
+    <string name="time_12">PM</string>
+    <string name="time_13_16">PM</string>
+    <string name="time_17_18">PM</string>
+    <string name="time_19_23">PM</string>
+    <string name="sim_num_no">Скасувати</string>
+    <string name="sim_num_ok">ОК</string>
+    <string name="sim_num_title">Виберіть число</string>
+    <string name="group_name_exceed_limit">"Ім'я групи перевищело розмір"</string>
+	
     <string name="copy_email">Копіювати адресу ел.пошти</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Виконано</string>
@@ -1184,9 +1197,9 @@
     <string name="sms_full_body">"Вхідне повідомлення відхилене через переповнення пам'яті. Видаліть старі повідомлення."</string>
     <string name="sms_rejected_title">SMS відхилено.</string>
     <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини.</string>
-    <string name="type_audio">аудіо</string>
-    <string name="type_picture">зображення</string>
-    <string name="type_video">відео</string>
+    <string name="type_audio">Аудіо</string>
+    <string name="type_picture">Зображення</string>
+    <string name="type_video">Відео</string>
     <string name="confirm">Підтвердити</string>
     <string name="message_send_read_report">Буде відправлено звіт про прочитання.</string>
     <string name="message_queued">У даний момент відправити повідомлення неможливо. Повідомлення буде відправлено, коли послуга стане доступною.</string>
