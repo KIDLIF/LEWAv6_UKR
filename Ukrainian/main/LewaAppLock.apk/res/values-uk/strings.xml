@@ -22,7 +22,7 @@
     <string name="unlock_set_unlock_password_summary">Високий рівень захисту</string>
     <string name="unlock_set_unlock_disabled_summary">Заборонено адміністратором, політикою шифровання або сховище облікових  даних</string>
     <string name="unlock_set_unlock_mode_off">Без блокування</string>
-    <string name="unlock_set_unlock_mode_none">По замовчування</string>
+    <string name="unlock_set_unlock_mode_none">По замовчуванню</string>
     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
     <string name="unlock_set_unlock_mode_pattern">Захист графічним ключом</string>
     <string name="unlock_set_unlock_mode_pin">Захист PIN-кодом</string>
