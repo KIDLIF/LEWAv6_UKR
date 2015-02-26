@@ -1306,7 +1306,7 @@
     <string name="menu_mms_timer_text">Таймер</string>
     <string name="mms_menu_quick_text">Швидкий текст</string>
     <string name="mms_timer_dialog_title">Встановити час відправки SMS</string>
-	
+    <string name="mms_timer_text_formart" formatted="false">%s-%s-%s</string>
     <string name="mms_timer_add_error">Помилка таймера, не раніше системного часу</string>
     <string name="mms_nomal_message">Текст повідомлення</string>
     <string name="attach_select_local_video">локальне відео</string>
