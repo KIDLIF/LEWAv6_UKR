@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+ 
+ 
+ 
+ 
+ 
+    <string name="app_name">Оновлення системи</string>
+    <string name="none_package">Немає дійсного оновлення пакетів.</string>
+    <string name="new_version_query">Перевірка оновлень ...</string>
+    <string name="menu_stats_refresh">Оновлення</string>
+    <string name="network_error">Збій мережеве підключення</string>
+    <string name="server_version_error">Помилка сервера: Будь ласка, оновіть вихідний серверний код.</string>
+    <string name="no_new_version">Немає нових версій.</string>
+    <string name="not_support_version">Ваш пристрій не підтримує цю версію</string>
+    <string name="query_sd_insufficient_space">Недостатньо місця для% S</string>
+    <string name="ota_category_title">OTA</string>
+    <string name="sd_category_title">SD-CARD</string>
+    <string name="ota_preference_summary">Оновлення системи знаходиться на сервері</string>
+    <string name="notes_summary">Оновлення прошивки може підвищити стабільність і виправити помилки.</string>
+    <string name="ask_for_install_ota">Хотіли б ви встановити системне оновлення зараз?</string>
+    <string name="warning_install_ota">"Ви не зможете використовувати свій телефон і хдійснювати екстрені виклики під час установки. Будь ласка, не знімайте акумулятор і SD-карту і не вимикайте телефон."</string>
+    <string name="ask_for_install_sd">Пакет з оновленням було знайдено в SD-карті, встановити його?</string>
+    <string name="warning_install_sd">"Ви не зможете використовувати свій телефон і здійснювати екстрені виклики під час установки. Будь ласка, не знімайте акумулятор і SD-карту  і не вимикайте телефон.
+Перед початком установки переконайтеся, що пакет котрий буде завантажено з офіційного веб-сайту не пошкоджений"</string>
+    <string name="ask_for_download_ota">Ви бажаєте завантажити оновлення оптимізації системи?</string>
+    <string name="warning_download_ota">"Ми рекомендуєм використовувати безкоштовну точку доступу Wi-Fi або безлімітний тарифний план для установки цього оновлення. Завантаження за допомогою мобільних мереж може призвести до стягування плати.
+Будь ласка, зробіть резервну копію даних перед оновленням."</string>
+    <string name="notification_content_title">Оновлення системи</string>
+    <string name="downloading_title">Завантаження ...</string>
+    <string name="wifi_only_check">Тільки Wi-Fi</string>
+    <string name="download_per_info_M">%1$d%% %2$.2f / %3$.2f (Mб)</string>
+    <string name="download_per_info_K">%1$d%% %2$.2f / %3$.2f (Kб)</string>
+    <string name="download_per_info_B">%1$d%% %2$d / %3$d (Байт)</string>
+    <string name="btn_install">Встановлювати</string>
+    <string name="btn_cancel">Скасувати</string>
+    <string name="btn_download">Завантажити та встановити</string>
+    <string name="btn_resume">Завантажити</string>
+    <string name="warn_data_cost_title">Завантажити оновлення</string>
+    <string name="warn_data_cost_content">Завантаження за допомогою мобільних мереж може призвести до стягування плати. Ви хочете продовжити?</string>
+    <string name="warn_data_cost_yes">Так</string>
+    <string name="warn_data_cost_no">Ні</string>
+    <string name="notification_download_complete_title">Оновлення системи завершено</string>
+    <string name="notification_download_complete_context">Натисніть, щоб встановити оновлення системи.</string>
+    <string name="sdcard_crash_or_unmount">Помилка SD-карти. Будь ласка, перевірте вашу SD-карту і спробуйте ще раз.</string>
+    <string name="unmount_sdcard">Помилка монтування SD-карта, будь ласка, перевірте її.</string>
+    <string name="insufficient_space_content">"Для встановлення необхідно %s байтів пам'яті. Будь ласка, звільнити простір, щоб продовжити."</string>
+    <string name="size_M">(%1$.2f Mб)</string>
+    <string name="size_K">(%1$.2f Kб)</string>
+    <string name="size_B">(%1$.2f Байт)</string>
+    <string name="install_sd_title">Встановити оновлення</string>
+    <string name="install_sd_message">Будь ласка, переконайтеся, що пакет котрий буде завантажено з офіційного веб-сайту не пошкоджений. В іншому випадку це може викликати проблеми в системі.</string>
+    <string name="install_reminder_now">Встановити зараз</string>
+    <string name="install_reminder_not_now">Не зараз</string>
+    <string name="notification_content_text_completed">Вдало завантажено</string>
+    <string name="unknown_per">Невідомий</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="unknown_error_content">Невідома помилка. Будь ласка, залиште цю сторінку і спробуйте ще раз.</string>
+    <string name="insufficient_space_title">Немає достатньо місця</string>
+    <string name="error_sdcard">Помилка SD-карти</string>
+    <string name="insufficient_space">Немає достатньо місця на SD-карті.</string>
+    <string name="package_deleted_error">Оновлення системи зупинилося, через це оновлення вважається недійсним.</string>
+    <string name="cancel_download_title">Скасувати завантаження</string>
+    <string name="cancel_download_content">Ця операція видалить завантажений файл.</string>
+    <string name="change_network_title">Завантажити</string>
+    <string name="change_network_content">Цей APN не підтримує завантаження, потрібно змінити APN або включити Wi-Fi?</string>
+    <string name="change_network_wifi_btn">Використати Wi-F</string>
+    <string name="change_network_apn_btn">Змінити APN</string>
+    <string name="change_network_discard_btn">Вимкнути</string>
+    <string name="package_error_title">Встановити вдалося</string>
+    <string name="package_error_message_invalid">Будь ласка, перевірте оновлення і завантажити знову.</string>
+    <string name="package_error_message_insuff">Немає достатньо місця по телефону.</string>
+    <string name="package_error_message_crash">Не вдалося отримати доступ в розділ даних.</string>
+    <string name="package_error_message_full">Потрібний повний пакет для зміни в розділі</string>
+    <string name="updateSuccess">Вітаємо! Ваш телефон був вдало оновлено до версії %s.</string>
+    <string name="updateFailed">Не вдалося оновити до версії %s.</string>
+    <string name="package_unzip">Пакет заархівовано ...</string>
+    <string name="package_unzip_error">Помилка розархівації</string>
+    <string name="installing_message">Ваш телефон буде вимкнено ...</string>
+    <string name="install_sd_info">"Потрібно скопіюйвати пакет в пам'ять телефону, щоб продовжити оновлення.
+Немає достатньо місця на вашому телефоні."</string>
+    <string name="sdcard_crash_or_unmount_when_install">Оновлення системи зупинилося, через демонтовану SD-карту.</string>
+    <string name="sdcard_inserted">Ви хочете перевірити вашу карту SD, на пакети оновлень?</string>
+    <string name="new_version_detected">Доступне оновлення системи</string>
+    <string name="sdcard_unmount">SD-карта демонтована</string>
+    <string name="cta_warning">System supports firmware upgrade only from official website or server. If user uses 3rd party ROM image and/or any other root method to upgrade firmware, it will cause phone unstable. Please be noted user should take all responsibility for all these behaviors.</string>
+</resources>

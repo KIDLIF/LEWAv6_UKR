@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_data_items">
+        <item>SMS</item>
+        <item>Контакти</item>
+        <item>Журнал викликів</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="group_item">
+        <item>Система</item>
+        <item>Корист.</item>
+    </string-array>
+    <string-array name="group_item_0">
+        <item>Система</item>
+    </string-array>
+    <string-array name="group_item_1">
+        <item>Корист.</item>
+    </string-array>
+    <string-array name="months">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Кві</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+</resources>
