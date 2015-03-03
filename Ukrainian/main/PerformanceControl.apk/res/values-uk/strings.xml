@@ -289,7 +289,7 @@
     <string name="pt_update">Що нового?</string>
     <string name="ps_zram_info">Zram буде зупинено щоб змінити розмір диска</string>
     <string name="prefcat_wifi_pm">ЕнергоЗбереження WiFi</string>
-    <string name="pt_wifi_pm">WiFi ЭС</string>
+    <string name="pt_wifi_pm">WiFi ЕЗ</string>
     <string name="prefcat_mc_ps">БАГАТОЯДЕРНЕ ЗБЕРЕЖЕННЯ ЕНЕРГІЇ</string>
     <string name="pt_mc_ps">Багатоядерне збереження енергії</string>
     <string name="mt_io_ctrl">Налаштування IO Планувальник</string>
