@@ -290,7 +290,7 @@
     <string name="netusage">Трафік</string>
     <string name="single_page_title">Одна сторінка</string>
     <string name="single_page_summary">Одна сторінка з сповіщеннями</string>
-    <string name="block_notification">Блокування сповіщень</string>
+    <string name="block_notification">Блокув. сповіщ.</string>
     <string name="notifications_empty">Немає сповіщень</string>
     <string name="pref_title_action_updown">Жести стільниці</string>
     <string name="pref_summary_action_updown">Протягніть вниз на стільниці для відкриття сповіщень</string>  
