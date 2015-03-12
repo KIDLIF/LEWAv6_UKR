@@ -10,7 +10,7 @@
     <string name="alert_slot_error">Невірний слот</string>
     <string name="alert_network_error">Помилка мережі</string>
     <string name="phone_closed">Відсутня мережа. Увімкніть та спробуйте ще раз</string>
-    <string name="label_province">Провінція</string>
+    <string name="label_province">Область</string>
     <string name="label_city">Місто</string>
     <string name="label_carrier">Оператор</string>
     <string name="label_brand">Бренд</string>
@@ -18,7 +18,7 @@
     <string name="label_data_left">Залишилося</string>
     <string name="label_data_used">Використано</string>
     <string name="label_partner">Технічна підтримка: Tencent Mobile Manager</string>
-	<string name="usage_data_province">Вибір провінції</string>
+	<string name="usage_data_province">Вибір області</string>
     <string name="usage_data_city">Вибір міста</string>
     <string name="usage_data_carrier">Вибір оператора</string>
     <string name="usage_data_brand">Вибір типу SIM</string>
