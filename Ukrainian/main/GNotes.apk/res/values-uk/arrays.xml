@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_fow_lab">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Субота</item>
+    </string-array>
+    <string-array name="calendar_fow_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+	<string-array name="font_size_scheme_label">
+        <item>Величезний</item>
+        <item>Великий</item>
+        <item>Середній</item>
+        <item>Малий</item>
+        <item>Крихітний</item>
+    </string-array>
+    <string-array name="font_size_scheme_value">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="g_repeats">
+        <item>Одноразова подія</item>
+        <item>Щодня</item>
+        <item>"Кожного будний (Пон-П'ят)"</item>
+        <item>Щотижня (кожен %1$s)</item>
+        <item>Щомісяця (кожен %1$s %2$s)</item>
+        <item>Щомісяця (%1$s)</item>
+        <item>Щорічно (%1$s)</item>
+    </string-array>
+    <integer-array name="notesbook_colors">
+        <item>0xffcc6600</item>
+        <item>-65536</item>
+        <item>-16711936</item>
+        <item>0xff006699</item>
+        <item>-16776961</item>
+        <item>-256</item>
+        <item>-16711681</item>
+        <item>-65281</item>
+    </integer-array>
+    <string-array name="ordinal_labels">
+        <item>перший</item>
+        <item>другий</item>
+        <item>третій</item>
+        <item>четвертий</item>
+        <item>останній</item>
+    </string-array>
+    <string-array name="share_item_option">
+        <item>Видалити</item>
+        <item>Повторити</item>
+    </string-array>
+    <string-array name="sync_image_size_entries_email">
+        <item>Повний(повний розмір)</item>
+        <item>Великий (~100K)</item>
+        <item>Середній (~50K)</item>
+        <item>Маленький (~20K)</item>
+    </string-array>
+    <string-array name="sync_image_size_entries_sbj">
+        <item>Великий (~100K)</item>
+        <item>Середній (~50K)</item>
+        <item>Маленький (~20K)</item>
+    </string-array>
+    <string-array name="sync_image_size_values_email">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="sync_image_size_values_sbj">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="theme_label">
+        <item>Стандартна</item>
+        <item>Темна</item>
+    </string-array>
+    <string-array name="theme_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+	    <string-array name="login_erro_content">
+        <item>"Невірний пароль або ім'я користувача"</item>
+        <item>"Ім'я користувача не існує"</item>
+        <item>Потрібно оновити</item>
+        <item>Помилка входу!</item>
+    </string-array>
+    <string-array name="register_erro_content">
+        <item>"Невірне ім'я  користувача"</item>
+        <item>"Дублювати ім'я користувача!"</item>
+        <item>Потрібно оновити</item>
+        <item>Пароль запрошення не дійсний!</item>
+        <item>Помилка регістації!</item>
+    </string-array>
+</resources>
