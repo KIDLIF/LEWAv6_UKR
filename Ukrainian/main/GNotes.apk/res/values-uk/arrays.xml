@@ -27,7 +27,7 @@
     <string-array name="g_repeats">
         <item>Одноразова подія</item>
         <item>Щодня</item>
-        <item>"Кожного будний (Пон-П'ят)"</item>
+        <item>"Кожного буднього (Пон-П'ят)"</item>
         <item>Щотижня (кожен %1$s)</item>
         <item>Щомісяця (кожен %1$s %2$s)</item>
         <item>Щомісяця (%1$s)</item>
