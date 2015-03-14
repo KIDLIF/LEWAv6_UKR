@@ -162,8 +162,8 @@
 	<string name="scanning_virus">Сканування на віруси......</string>
 	<string name="apply">Застосовувати</string>
 	<string name="applying_theme_title">Застосування...</string>
-	<string name="applying_theme_message">Установка теми%s...</string>
-	<string name="applying_wallpaper_message">Установка шпалер%s...</string>
+	<string name="applying_theme_message">Установка теми %s ...</string>
+	<string name="applying_wallpaper_message">Установка шпалер %s ...</string>
 	<string name="applying_theme_success">Тема встановлена успішно!</string>
 	<string name="applying_wallpaper_success">Шпалери встановлені успішно!</string>
 	<string name="wallpaper">Шпалери</string>

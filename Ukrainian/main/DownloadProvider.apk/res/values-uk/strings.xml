@@ -20,21 +20,21 @@
 	<string name="permdesc_downloadWithoutNotification">Додаток зможе завантажувати файли через диспетчер завантажень без повідомлення користувача</string>
 	<string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
 	<string name="permdesc_accessAllDownloads">Додаток зможе відкривати і змінювати завантаження незалежно від того, через яку програму вони були завантажені</string>
-	<string name="download_unknown_title">&lt;Без назви&gt;</string>
-	<string name="notification_filename_separator">&quot;, &quot;</string>
-	<string name="notification_filename_extras">&quot; і ще %d&quot;</string>
+	<string name="download_unknown_title">&lt;Без назви></string>
+	<string name="notification_filename_separator">", "</string>
+	<string name="notification_filename_extras">" і ще %d"</string>
 	<string name="notification_download_complete">Завантаження завершено</string>
 	<string name="notification_download_failed">Не вдалося завантажити файл</string>
 	<string name="notification_need_wifi_for_size">Завантаження лише по Wi-Fi</string>
 	<string name="notification_paused_in_background">Завантаження припинено</string>
 	<string name="wifi_required_title">Занадто великий файл для завантаження через 2G/3G</string>
-	<string name="wifi_required_body" formatted="false">&quot;Для завершення завантаження файлу розміром %s необхідно підключення до мережі Wi-Fi. 
+	<string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s необхідно підключення до мережі Wi-Fi. 
 
-Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s &quot;</string>
+Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s"</string>
 	<string name="wifi_recommended_title">Поставити до черги для завантаження пізніше?</string>
-	<string name="wifi_recommended_body" formatted="false">&quot;Якщо завантажити %s зараз, батарея може швидко розрядитися. Також не виключено перевищення трафіку і, як результат, збільшення витрат. 
+	<string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Також не виключено перевищення трафіку і, як результат, збільшення витрат. 
 
-Щоб виконати завантаження пізніше через Wi-Fi, натисніть %s&quot;</string>
+Щоб виконати завантаження пізніше через Wi-Fi, натисніть %s"</string>
 	<string name="button_queue_for_wifi">Додати до черги</string>
 	<string name="button_cancel_download">Скасувати</string>
 	<string name="button_start_now">Запустити</string>

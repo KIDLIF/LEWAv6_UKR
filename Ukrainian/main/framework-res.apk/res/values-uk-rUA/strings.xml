@@ -38,7 +38,7 @@
     <string name="db_wal_sync_mode">Повна</string>
     <string name="config_useragentprofile_url" />
     <string name="config_isoImagePath" />
-    <string name="config_ntpServer">ru.pool.ntp.org</string>
+    <string name="config_ntpServer">ua.pool.ntp.org</string>
     <string name="config_wimaxServiceJarLocation" />
     <string name="config_wimaxNativeLibLocation" />
     <string name="config_wimaxManagerClassname" />
@@ -1139,7 +1139,7 @@
     <string name="select_keyboard_layout_notification_message">Натисніть, щоб вибрати розкладку клавіатури</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style">&lt;u>варіанти&lt;/u></string>
+    <string name="candidates_style"><u>варіанти</u></string>
     <string name="ext_media_checking_notification_title">Підготовка носія інформації</string>
     <string name="ext_media_checking_notification_message">Перевірка помилок…</string>
     <string name="ext_media_nofs_notification_title">Порожній носій інформації</string>

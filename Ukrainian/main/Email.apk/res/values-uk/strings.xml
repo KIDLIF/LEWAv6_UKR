@@ -538,7 +538,7 @@
 	
 	<string name="require_manual_sync_message">Для цього облікового запису відключена фонова синхронізація в роумінгу.</string>
     <string name="Send_From_My">"Відправлено з мого "</string>
-	<string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;</string>
+	<string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
 	<string name="single_new_message_notification_big_text">"%1$s 
 %2$s"</string>
 	<string name="choosertitle_sharevia">Спосіб надсилання</string>
