@@ -9,8 +9,8 @@
     <string name="mt_plus25">Збільшити на 25 mV</string>
     <string name="mt_minus25">Зменшити на 25 mV</string>
     <string name="current_speed">Поточна Частота</string>
-    <string name="current_max">Максимум:</string>
-    <string name="current_min">Мінімум:</string>
+    <string name="current_max">"Максимум: "</string>
+    <string name="current_min">"Мінімум: "</string>
     <string name="governor">Говернор</string>
     <string name="io">Планувальник IO</string>
     <string name="sob">Автозавантаження</string>
