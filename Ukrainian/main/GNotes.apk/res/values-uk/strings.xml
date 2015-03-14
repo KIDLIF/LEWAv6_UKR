@@ -124,7 +124,7 @@
     <string name="datepicker_btn_today">Сьогодні</string>
     <string name="datepicker_btn_tomorrow">Завтра</string>
     <string name="db_backup_restore_success">Завершено</string>
-    <string name="db_backup_restore_title">Відновлення даних</string>
+	<string name="db_backup_restore_title">Відновлення даних</string>
 	<string name="db_update_title">Зачекайте…</string>
     <string name="db_update_summary">Оновлення даних, зачекайте…</string>
     <string name="dbbackup_restore_found">Знайдено дані на вашому телефоні, відновити зараз?</string>

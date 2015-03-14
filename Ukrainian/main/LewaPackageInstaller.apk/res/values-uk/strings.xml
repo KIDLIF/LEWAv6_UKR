@@ -8,7 +8,7 @@
 	<string name="cancel">Скасувати</string>
 	<string name="unknown">Невідомо</string>
 	<string name="installing">Встановлюється...</string>
-	<string name="install_done">Додаток встановлено</string>
+	<string name="install_done">" встановлено"</string>
 	<string name="install_confirm_question">Встановити цей додаток?</string>
 	<string name="install_confirm_question_no_perms">Бажаєте встановити цей додаток?</string>
 	<string name="install_confirm_question_update">Бажаєте встановити це оновлення встановленого додатка?</string>
