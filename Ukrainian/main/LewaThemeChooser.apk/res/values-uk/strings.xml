@@ -55,7 +55,7 @@
     <string name="can_not_find_app">Не вдається знайти додаток!</string>
     <string name="import_other_app">Імпорт</string>
     <string name="theme_count">Ця тема містить %s модулів</string>
-    <string name="theme_details">деталі теми</string>
+    <string name="theme_details">Подробиці теми</string>
     <string name="no_modules_to_apply">Немає модулів для застосування</string>
     <string name="theme_lockscreen_local">Локально</string>
     <string name="theme_lockscreen_online">Онлайн</string>
@@ -71,7 +71,7 @@
     <string name="theme_font_online">Онлайн</string>
     <string name="live_wallpaper_local">Локально</string>
     <string name="live_wallpaper_online">Онлайн</string>
-    <string name="theme_info_detail">Деталі</string>
+    <string name="theme_info_detail">Подробиці</string>
     <string name="sdcardfull">SD-карта переповнена, неможливо завантажити ескіз</string>
     <string name="sdcard_removed">SD-карта витягнута, неможливо завантажити ескіз</string>
     <string name="init_install_theme">Ініціалізація теми, будь ласка, зачекайте</string>

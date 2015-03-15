@@ -281,7 +281,7 @@
     <string name="toucht10">Доторкніться для пробудження</string>
     <string name="applied_ok">Значення були успішно застосовані</string>
     <string name="chk_update">Перевірка оновлень…</string>
-    <string name="is_update">Доступне оновлення! Нажміть для завантаження.</string>
+    <string name="is_update">Доступне оновлення! Натисніть для завантаження.</string>
     <string name="no_update">Оновлень немає</string>
     <string name="no_param">Без параметрів</string>
     <string name="no_download_manager">Менеджер Завантажень недоступний!</string>

@@ -10,7 +10,7 @@
     <string name="screenshot_saving_title">Збереження...</string>
     <string name="screenshot_saving_text">Збереження...</string>
     <string name="screenshot_saved_title">Скріншот збережено</string>
-    <string name="screenshot_saved_text">Нажміть, щоб переглянути</string>
+    <string name="screenshot_saved_text">Натисніть, щоб переглянути</string>
     <string name="screenshot_failed_title">Не вдалось зробити скріншот</string>
     <string name="screenshot_failed_text">Не вдалось зробити скріншот. Сховище заповнене</string>
     <string name="saving_screenshot_failed_title">Не вдалось зберегти скріншот</string>

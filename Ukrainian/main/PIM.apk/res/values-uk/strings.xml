@@ -42,7 +42,7 @@
     <string name="insertContactDescription">Створити контакт</string>
     <string name="editGroupDescription">Редагувати групу</string>
     <string name="insertGroupDescription">Створити групу</string>
-    <string name="contactDetailAbout">Деталі</string>
+    <string name="contactDetailAbout">Подробиці</string>
     <string name="contactDetailUpdates">Оновлення</string>
     <string name="searchHint">Пошук контактів</string>
     <string name="menu_search">Пошук</string>
@@ -215,8 +215,8 @@
     <string name="dialer_useDtmfDialpad">Скористатись екранною клавіатурою</string>
     <string name="dialer_returnToInCallScreen">Повернутися до очікуючого виклику</string>
     <string name="dialer_addAnotherCall">Додати виклик</string>
-    <string name="callDetailTitle">Деталі виклику</string>
-    <string name="toast_call_detail_error">Не вдалося отримати деталі виклику.</string>
+    <string name="callDetailTitle">Подробиці виклику</string>
+    <string name="toast_call_detail_error">Не вдалося отримати подробиці виклику.</string>
     <string name="type_incoming">Вхідний дзвінок</string>
     <string name="type_outgoing">Вихідний дзвінок</string>
     <string name="type_missed">Пропущений дзвінок</string>
@@ -724,7 +724,7 @@
     <string name="contact_name">"Ім'я"</string>
     <string name="contact_tel">Телефон</string>
     <string name="contact_email">Електронна пошта</string>
-    <string name="add_contact_detail">Додати деталі контакту</string>
+    <string name="add_contact_detail">Додати подробиці контакту</string>
     <string name="nickname">Псевдонім</string>
     <string name="company_info">Компанія</string>
     <string name="message_send_of_late">раніше</string>
@@ -1137,8 +1137,8 @@
     <string name="select_conversations">Виберіть ланцюжки</string>
     <string name="no_conversations">Немає ланцюжків</string>
     <string name="loading_conversations">Завантаження розмов</string>
-    <string name="cannot_get_details">Не вдається отримати деталі</string>
-    <string name="message_details_title">Деталі повідомленні</string>
+    <string name="cannot_get_details">Не вдається отримати подробиці</string>
+    <string name="message_details_title">Подробиці повідомлення</string>
     <string name="message_type_label">"Тип: "</string>
     <string name="text_message">Текстове повідомлення (SMS)</string>
     <string name="multimedia_message">Мультимедійне повідомлення (MMS)</string>
@@ -1425,7 +1425,7 @@
     <string name="switch_data_subscription_success">успішно</string>
     <string name="switch_data_subscription_failed">невдало</string>
     <string name="abort_mms">Повідомлення: Скасування MMS</string>
-    <string name="abort_mms_text ">Нажміть для скасування</string>
+    <string name="abort_mms_text ">Натисніть для скасування</string>
     <string name="progress_mms_title">Передача MMS в процесі</string>
     <string name="progress_mms">Повідомлення: передача MMS...</string>
     <string name="progress_mms_text ">Торкніться для повтору</string>
@@ -1639,7 +1639,7 @@
     <string name="viewer_title_sms">SMS</string>
     <string name="viewer_title_wappush">Wappush</string>
     <string name="viewer_title_cb">Інформаційне повідомлення</string>
-    <string name="slideshow_details">Деталі</string>
+    <string name="slideshow_details">Подробиці</string>
     <string name="open">Відкрити</string>
     <string name="delete_all_confirm">Видалити всі повідомлення?</string>
     <string name="folder_recipient">Одержувач: </string>

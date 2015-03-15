@@ -146,7 +146,7 @@
     <string name="detail_note_not_exist">Примітку не знайдено</string>
     <string name="detail_set_reminder">Встановити нагадування</string>
     <string name="detail_text_hint">Натисніть для введення тексту</string>
-	<string name="detail_title">Деталі</string>
+	<string name="detail_title">Подробиці</string>
     <string name="detail_msg">"Слів: %1$d
 Дата змінення: %2$s
 Дата створення: %3$s"</string>
@@ -205,7 +205,7 @@
     <string name="file_contents">"Зміст: "</string>
     <string name="file_file">Файл</string>
     <string name="file_folder">Тека</string>
-    <string name="file_info">"Деталі: "</string>
+    <string name="file_info">"Подробиці: "</string>
     <string name="file_lastmodified">"Остання зміна: "</string>
     <string name="file_name">"Ім'я: "</string>
     <string name="file_not_exist">Файл не знайдено</string>
@@ -259,7 +259,7 @@
     <string name="list_title_new_note">Нова примітка</string>
     <string name="local_sync_warn_message">Зайдіть в обліковий запис Lewa, щоб синхринізувати</string>
     <string name="lock_and_exit">Блокувати і вийти</string>
-	<string name="lock_header_text">Накресліть ключ, щоб розблокувати \"%1$s\"(Натисніть “Додому” для виходу)</string>
+	<string name="lock_header_text">Накресліть ключ, щоб розблокувати \"%1$s\"</string>
 	<string name="lock_header_text_passcode">Введіть PIN-код, щоб розблокувати \"%1$s\"</string>
 	<string name="lock_titlebar_confirm_title">Розблокування</string>
     <string name="lock_titlebar_choose_title">Встановлення блокування</string>
@@ -290,7 +290,7 @@
     <string name="manually_sync">Ручна синхронізація</string>
     <string name="manually_sync_summary">Синхронізація даних за потребою</string>
     <string name="max_length_reached">Досягнуто максимальної довжини</string>
-	<string name="menu_detail">Деталі</string>
+	<string name="menu_detail">Подробиці</string>
     <string name="menu_filebrowser_exit">Вихід</string>
     <string name="menu_filebrowser_home">Додому</string>
     <string name="menu_filebrowser_refresh">Оновити</string>
@@ -300,7 +300,9 @@
     <string name="menu_text_select_all">Вибрати всі</string>
     <string name="message_compose_error_invalid_email">Невірна адреса електронної пошти</string>
     <string name="message_compose_error_no_recipients">Ви повинні додати одержувача</string>
+	<string name="message_set_password">Лист для скидання пароля був відправлений на вашу поточну електрону пошту. Будь ласка, встановіть на GNotes новий пароль.</string>
     <string name="move">""</string>
+	<string name="more_repeat_reminder"><a href="">Повторити нагадування?</a></string>
     <string name="move2sd_warning">Ви встановили додаток GNotes на SD-карти, тому деякі функції не працюватимуть (наприклад: Віджети, Нагадування і т.д.). Отримати детальну інформацію можна за адресою:&lt;br>&lt;a href=\"http://developer.android.com/guide/appendix/install-location.html#ShouldNot\">http://developer.android.com/…&lt;/a> &lt;br>&lt;br> Будь ласка перемістіть його в пристрій.</string>
     <string name="network_unabled">Будь ласка, перевірте свій стан підключення</string>
 	<string name="need_account_dialog_title">Увімкнення Блокування</string>
@@ -393,7 +395,7 @@
     <string name="recording">Запис ...</string>
     <string name="recording_stopped">Запис зупинена</string>
     <string name="register_failed">Реєстрація не вдалося</string>
-    <string name="register_gnotes_title">Зареєструватися аккаунт GNotes</string>
+    <string name="register_gnotes_title">Реєстрація в GNotes</string>
     <string name="register_remind_text">Переконайтеся, що адреса електронної пошти доступний. Вашу адресу електронної пошти єдиний спосіб отримати пароль.</string>
     <string name="remind_clear">Відмінити нагадування</string>
     <string name="remind_set_success">Нагадування встановлено</string>
@@ -508,7 +510,7 @@
     <string name="ui_login_label">"Ім'я користувача"</string>
     <string name="ui_login_username_label">"Ім'я користувача"</string>
     <string name="ui_password_label">Пароль</string>
-    <string name="ui_register_password_label">Пароль:6-20 знаків</string>
+    <string name="ui_register_password_label">Пароль: 6-20 знаків</string>
     <string name="ui_register_username_label">"Ім'я користувача: Ваш мейл"</string>
     <string name="undo">Відміна</string>
     <string name="undo_describe">Примітка видалена</string>

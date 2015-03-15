@@ -2643,7 +2643,7 @@
     <string name="show_gesture_title">Жест</string>
     <string name="gestures_click_title">Введення</string>
     <string name="gestures_click_content">Двійний тап для пробудження екрану</string>
-    <string name="gesture_app_null">Немає додатка, нажміть для вибору</string>
+    <string name="gesture_app_null">Немає додатка, натисніть для вибору</string>
     <string name="screen_gestures_settings_summary">Закрити або включити інформаційний екран із жестами, різні жести можуть запускати користувацькі додатки</string>
     <string name="activity_rounded_corner_title">Заокруглені кути вікон</string>
     <string name="led_settings">Індикація</string>

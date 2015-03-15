@@ -38,7 +38,7 @@
 	<string name="usage_adjust_failure">Помилка синхронізації</string>
 	<string name="usage_adjust_later">Синхронізувати пізніше</string>
 	<string name="usage_default">SIM-карта за замовчуванням</string>
-	<string name="detail_title">Деталізація використання</string>
+	<string name="detail_title">Подробиці використання</string>
 	<string name="ranking_title">Контроль</string>
 	<string name="firewall_title">Міжмережевий екран</string>
 	<string name="pref_title">Параметри</string>
@@ -52,19 +52,20 @@
 	<string name="pref_adjust_settings">Автоматична синхронізація</string>
 	<string name="pref_adjust_regularly">Період виміру</string>
 	<string name="background_warning_title">Фоновий трафік</string>
-	<string name="background_warning_content">"Передано &gt;5 MБ, 
+	<string name="background_warning_content">"Передано &gt;1 MБ, 
 перевірте додатки"</string>
 	<string name="background_warning_close_content">В разі вимкнення попередження про фоновий трафік, Ви не матимете інформації. Це може призвести до неконтрольованих витрат трафіку за 2G/3G. Ви дійсно бажаєте вимкнути?</string>
 	<string name="pref_data_warning">Налаштування рівня попередження</string>
 	<string name="notify_data_warning">Залишилося мало трафіку</string>
 	<string name="pref_data_warning_prepend">"Коли трафіку залишиться "</string>
-	<string name="pref_data_warning_append"> ,слід попередити мене</string>
+	<string name="pref_data_warning_append">"
+, слід попередити мене"</string>
 	<string name="pref_data_warning_unset">Будь ласка, спочатку встановіть ліміт трафіку</string>
 	<string name="pref_category_common">Загальні параметри</string>
 	<string name="pref_background_antitheft">Контроль трафіку</string>
 	<string name="pref_background_antitheft_summary">Автоматично вимикати трафік 2G/3G з 01:00 до 07:00</string>
 	<string name="pref_background_warning">Фонове попередження</string>
-	<string name="pref_background_warning_summary">Попереджати, якщо фоновий трафік 2G/3G перевищує 5 МБ</string>
+	<string name="pref_background_warning_summary">Попереджати, якщо фоновий трафік 2G/3G перевищує 1 МБ</string>
 	<string name="pref_clear_history">Очистити історію</string>
 	<string name="pref_clear_history_confirm">Ви дійсно бажаєте перезапустити телефон для очищення історії використання трафіку?</string>
 	<string name="reboot">Перезапуск</string>
@@ -121,7 +122,7 @@
 	<string name="daily_usage_no_warning">Не попереджати</string>
 	<string name="daily_usage_recommand">(повтор)</string>
 	<string name="continue_use">Продовжити використання</string>
-	<string name="see_details">Деталі</string>
+	<string name="see_details">Подробиці</string>
 	<string name="data_default">2G/3G</string>
 	<string name="show_system_app">Показувати системні додатки</string>
 	<string name="donot_show_system_app">Не показувати системні додатки</string>

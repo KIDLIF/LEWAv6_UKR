@@ -32,7 +32,7 @@
     <string name="check_update">Перевірити оновлення</string>
     <string name="install_from_sd">Встановити з SD-карти</string>
     <string name="error_empty">"Немає пакетів оновлення в теці.
-Вони повинні зберігатися в кореневій теці"</string>
+Вони повинні зберігатися в коріневій теці"</string>
     <string name="select_file">Виберіть файл</string>
     <string name="download_failure">Помилка завантаження</string>
     <string name="file_list_title">Встановити з SD-карти</string>

@@ -12,7 +12,7 @@
 	<string name="antitheft">Антикрадій</string>
 	<string name="start_instantly">Встановлення</string>
 	<string name="antiseft_settings">Налаштування</string>
-	<string name="iam">Я %s,</string>
+	<string name="iam">Я, %s,</string>
 	<string name="invalid_phone_number">Невірний номер телефону</string>
 	<string name="invalid_user_info">Інформація про користувача не може бути порожньою</string>
 	<string name="password_no_match">Невірний пароль, спробуйте ще раз</string>
@@ -89,13 +89,13 @@
 	<string name="password_title">Зміна пароля</string>
 	<string name="password_show">Показати пароль</string>
 	<string name="password_format">Введіть від 4 до 16 символів або цифр</string>
-	<string name="password_step_title">1.встановіть пароль</string>
+	<string name="password_step_title">1.Встановіть пароль</string>
 	<string name="password_step_title_sub">Він використовується для входу в Антикрадій, для віддаленого доступу і розблокування пристрою</string>
 	<string name="password_digits">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
 	<string name="password_got">Пароль успішно відновлено, і це %s</string>
 	<string name="security_number_step_title">2.Безпечний номер телефону</string>
 	<string name="security_number_step_title_sub">Він використовується для нагадування пароля, і віддаленого доступу</string>
-	<string name="security_number_edit_hint">Формат номерів +79ххххххххх для Росії і Казахстану, +375ххххххххх для Білорусі і +380ххххххххх для України. Рекомендується використовувати номер телефону близької людини.</string>
+	<string name="security_number_edit_hint">Формат номерів +380ххххххххх для України, +79ххххххххх для Росії і Казахстану, +375ххххххххх для Білорусі. Рекомендується використовувати номер телефону близької людини.</string>
 	<string name="user_info_step_title">3.Термінове повідомлення</string>
 	<string name="user_info_step_title_sub">Надсилає повідомлення на безпечний номер в разі зміни SIM-карти</string>
 	<string name="user_info_inner_hint1">Я</string>
@@ -113,7 +113,7 @@
 	<string name="tips4_get_password_failed">Номер неправильний, неможливо запросити пароль</string>
 	<string name="tips4_password_error">Неправильний пароль, спробуйте ще раз</string>
 	<string name="tecent">Технічна підтримка Tencent mobile phone</string>
-	<string name="all_commands_hint">Я використовую Антикрадій, будь ласка, збережіть для мене команди: #QQDeleteAll#пароль - стирання даних, #QQLock#пароль - блокування пристрою, #QQLocate#пароль - місцезнаходження, #QQPIN#безпечний номер - надіслати пароль</string>
+	<string name="all_commands_hint">" використовую Антикрадій, будь ласка, збережіть для мене команди: #QQDeleteAll#пароль - стирання даних, #QQLock#пароль - блокування пристрою, #QQLocate#пароль - місцезнаходження, #QQPIN#безпечний номер - надіслати пароль"</string>
 	<string name="input_antitheft_password">Будь ласка, введіть свій пароль</string>
 	<string name="prompt_insert_sim">Вставте SIM-карту</string>
 	<string name="command_not_none">Команда не може бути порожньою</string>

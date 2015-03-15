@@ -600,7 +600,7 @@
 	<string name="media_detail">Відомості про носії інформації</string>
 	<string name="detail_title">Назва: %1$s</string>
 	<string name="detail_copyright">Авторське право: %1$s</string>
-	<string name="detail_session">Деталі про сеанс: %1$s</string>
+	<string name="detail_session">Подробиці про сеанс: %1$s</string>
 	<string name="stereo">Стерео</string>
 	<string name="single_track">Моно</string>
 	<string name="delete_all">Видалити всі</string>

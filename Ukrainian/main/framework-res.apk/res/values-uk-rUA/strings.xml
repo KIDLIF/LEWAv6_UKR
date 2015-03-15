@@ -15,7 +15,7 @@
     <string name="search_go">Пошук</string>
     <string name="selectAll">Вибрати все</string>
     <string name="unknownName">(Невідомо)</string>
-    <string name="untitled">(Немає назви)</string>
+    <string name="untitled">(Без назви)</string>
     <string name="VideoView_error_button">ОК</string>
     <string name="VideoView_error_text_unknown">Не вдалося відтворити відео</string>
     <string name="VideoView_error_title">Помилка</string>

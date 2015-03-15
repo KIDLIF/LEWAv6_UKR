@@ -275,7 +275,7 @@
 	<string name="message_view_invite_toast_maybe">Ви відповіли \"може бути\" на це запрошення.</string>
 	<string name="message_view_invite_toast_no">Запрошення відхилено.</string>
 	<string name="message_view_show_details">Показати відомості</string>
-	<string name="message_view_message_details_dialog_title">Деталі</string>
+	<string name="message_view_message_details_dialog_title">Подробиці</string>
 	<string name="attachment_info_dialog_default_title">Про прикріплений файл</string>
 	<string name="attachment_info_dialog_wifi_title">Необхідно підключення Wi-Fi</string>
 	<string name="attachment_info_wifi_settings">Налаштування Wi-Fi</string>

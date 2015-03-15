@@ -36,7 +36,7 @@
     <string name="unlock_change_lock_password_title">Змінити пароль розблокування</string>
     <string name="lockpassword_password_too_short">Пароль повинен містити не менше %d символів</string>
     <string name="lockpassword_pin_too_short">PIN-код повинен містити не менше %d символів</string>
-    <string name="lockpassword_press_continue">Після завершенння нажміть \"Продовжити\"</string>
+    <string name="lockpassword_press_continue">Після завершенння натисніть \"Продовжити\"</string>
     <string name="lockpassword_continue_label">Продовжити</string>
     <string name="lockpassword_password_too_long">Пароль повинен містити не більше %d символів</string>
     <string name="lockpassword_pin_too_long">PIN-код повинен містити не більше %d символів</string>

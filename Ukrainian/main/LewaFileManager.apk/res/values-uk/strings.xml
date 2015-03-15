@@ -167,7 +167,7 @@
 	<string name="cleanfinished">Очищення завершено</string>
 	<string name="cleancount">%s тек видалено</string>
 	<string name="click_more_detail">Докладніше</string>
-	<string name="click_hide_detail">Приховати деталі</string>
+	<string name="click_hide_detail">Приховати подробиці</string>
 	<string name="show_hidden_file">Показати приховані файли</string>
 	<string name="file_name">Назва файлу</string>
 	<string name="dont">Немає</string>
