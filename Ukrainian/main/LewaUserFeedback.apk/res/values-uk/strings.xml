@@ -5,7 +5,7 @@
    <string name="action_settings">Налаштування</string>
    <string name="because_of_concerns_about">Стурбованість з приводу</string>
    <string name="so_listen">Слухайте</string>
-   <string name="thank_for_your_feedback">Дякую вам за відгук! Це зробити Lewa кращим</string>
+   <string name="thank_for_your_feedback">Дякую вам за відгук! Це зробити LEW-у кращим</string>
    <string name="system_app">Система</string>
    <string name="non_system_app">Користувацькі</string>
    <string name="serach_app">Введіть назву</string>
@@ -14,14 +14,14 @@
    <string name="frequently_asked_questions"> FAQ</string>
    <string name="commit">Відправити</string>
    <string name="add_screenshots">"Додати скріншот (не більше 5): "</string>
-   <string name="enter_problem">Якщо Ви не знайшли відповідь в FAQ, введіть Ваше запитання напряму (на китайскій або англійскомій)</string>
+   <string name="enter_problem">Якщо Ви не знайшли відповідь в FAQ, введіть Ваше запитання напряму (на китайській або англійській мові)</string>
    <string name="abandon_this_operation">Скасування дії</string>
    <string name="unsave">Дії не збережуться. Ви впевнені?</string>
    <string name="cancle">Скасувати</string>
    <string name="confirm_abandonment">Підтвердіть відказ</string>
    <string name="committing">Відправлення...</string>
    <string name="text_score">Використовуйте системні дані</string>
-   <string name="text_problem">Відпішіть Вашу проблему (на китайскій або англійскій)</string>
+   <string name="text_problem">Відпішіть Вашу проблему (на китайській або англійській)</string>
    <string name="loading">Завантаження. Очікуйте...</string>
    <string name="connect_error">"Помилка з'єднання"</string>
    <string name="ok">ОК</string>
@@ -35,7 +35,7 @@
    <string name="error_repeat">Відправити повторно</string>
    <string name="error_unknow">Невідома помилка</string>
    <string name="label">Відгуки користувачів</string>
-   <string name="null_commit">Введіть Ваш відгук або додайте скриншоти</string>
+   <string name="null_commit">Введіть Ваш відгук або додайте скріншоти</string>
    <string name="time_out">"Таймаут з'єднання"</string>
    <string name="network_setting">Налаштування мережі</string>
    <string name="network_refresh">Оновити</string>
