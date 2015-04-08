@@ -1500,7 +1500,7 @@
     <string name="applications_settings_summary">Керування додатками, створення ярликів швидкого запуску</string>
     <string name="applications_settings_header">Налаштування програми</string>
     <string name="install_applications">Невідомі джерела</string>
-    <string name="install_unknown_applications">Дозволити встановлення програм з Google Play Маркету</string>
+    <string name="install_unknown_applications">Дозволити встановлення додатків не лише з Google Play Маркету</string>
     <string name="install_all_warning">"Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що ви несете повну відповідальність за шкоду, заподіяну телефону, і втрати даних, пов'язані з використанням цих програм."</string>
     <string name="verify_applications">Перевіряти додатки</string>
     <string name="verify_applications_summary">Заборонити встановлення додатків, які можуть спричинити шкоду пристрою, або попереджувати про них</string>
@@ -2099,10 +2099,10 @@
     <string name="debug_monitoring_category">Моніторинг</string>
     <string name="strict_mode">Не вимикати екран</string>
     <string name="strict_mode_summary">Підсвічувати екран під час тривалих операцій</string>
-    <string name="pointer_location">Розташування покажчика</string>
+    <string name="pointer_location">Розташування дотиків</string>
     <string name="pointer_location_summary">Екран, що показує дані про дотик</string>
-    <string name="show_touches">Показувати торкання</string>
-    <string name="show_touches_summary">"Показувати зоровий зворотний зв'язок для торкань"</string>
+    <string name="show_touches">Показувати дотики</string>
+    <string name="show_touches_summary">"Показувати зоровий зворотний зв'язок для дотиків"</string>
     <string name="show_screen_updates">Показувати оновлення екрану</string>
     <string name="show_screen_updates_summary">Миготіння оновлених областей екрану</string>
     <string name="show_hw_screen_updates">Показувати оновлення екрану</string>

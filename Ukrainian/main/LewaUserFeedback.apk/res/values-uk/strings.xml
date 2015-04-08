@@ -18,7 +18,7 @@
    <string name="abandon_this_operation">Скасування дії</string>
    <string name="unsave">Дії не збережуться. Ви впевнені?</string>
    <string name="cancle">Скасувати</string>
-   <string name="confirm_abandonment">Підтвердіть відказ</string>
+   <string name="confirm_abandonment">Так</string>
    <string name="committing">Відправлення...</string>
    <string name="text_score">Використовуйте системні дані</string>
    <string name="text_problem">Відпішіть Вашу проблему (на китайській або англійській)</string>
