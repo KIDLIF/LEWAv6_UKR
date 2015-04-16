@@ -139,17 +139,6 @@
     <string name="dlg_cancel_update_msg_not_finish">Попередня версія завантажена неповністю. Скасувати її завантаження і почати скачування більш нової версії?</string>
     <string name="reboot_to_recovery">Перезавантаження в рекавері</string>
     <string name="reboot_to_recovery_msg">Для входу в рекавері необхідно перезавантажити пристрій. Продовжити?</string>
-    <string name="share_version_info">Поділитися інформацією про нову версію</string>
-    <string name="share_to_sina_weibo">Поділитися з Sina Weibo</string>
-    <string name="download_sina_weibo">Sina Weibo (скачування)</string>
-    <string name="share_to_tencent_weibo">Поділитися з Tencent Weibo</string>
-    <string name="download_tencent_weibo">Tencent Weibo (скачування)</string>
-    <string name="share_to_renren">Поділитися з Renren</string>
-    <string name="download_renren">Renren (скачування)</string>
-    <string name="share_to_qzone">Поділитися з QZone</string>
-    <string name="download_qzone">QZone (скачування)</string>
-    <string name="no_share_app_find">Вибачте, але у Вас не встановлено додаток для обміну</string>
-    <string name="share_with_friends">Поделіться З друзями！</string>
     <string name="dlg_low_power_notify_title">Малий заряд батареї</string>
     <string name="dlg_low_power_notify_msg">Батарея заряджена мене, ніж на 30%. Рекомендується запустити оновлення після зарядки батареї</string>
     <string name="btn_ignore">Пропустити</string>
@@ -365,7 +354,6 @@
     <string name="cancle_select">Скасувати</string>
     <string name="return_main">Назад</string>
     <string name="report">Звіт бекапу</string>
-    <string name="backup_time">"Час бекапу: "</string>
     <string name="delete_notice">Замітка</string>
     <string name="delete_msg">Видалити виділення?</string>
     <string name="delete_ok">ОК</string>
@@ -385,7 +373,6 @@
     <string name="restore_notice_title">Відновлення</string>
     <string name="restore_notice_message">Виявлено перед оновленням бекап. Відновити дані?</string>
     <string name="menu_restore">Відновлення</string>
-    <string name="report_save">Зберегти</string>
     <string name="report_abanded">Відмова</string>
     <string name="report_error">Порожньо</string>
     <string name="permission_error">Помилка доступу</string>

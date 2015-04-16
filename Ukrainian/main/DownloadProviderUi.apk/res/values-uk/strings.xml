@@ -34,7 +34,7 @@
 	<string name="select_all">Вибрати все</string>
 	<string name="selected_count">Вибрано %1$d</string>
 	<string name="download_share_dialog">Спосіб надсилання</string>
-	<string name="download_percent">%d%%</string>
+
 	<string name="dialog_title">Завантаження</string>
 	<string name="paused_dialog_msg">Бажаєте поставити на паузу завантаження?</string>
 	<string name="resume_dialog_msg">Бажаєте відновити завантаження?</string>
@@ -116,5 +116,6 @@
     <string name="info_insufficient_space">Недостатньо місця у внутрішньому сховищі</string>
     <string name="toast_sdcard_insufficient_space">Недостатньо місця на SD-карті для завершення завантаження</string>
     <string name="toast_insufficient_space">Недостатньо місця у внутрішньому сховищі для завершення завантаження</string>
+	<string name="theme_is_applied">Тема використовується</string>
 </resources>
 

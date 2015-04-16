@@ -23,12 +23,12 @@
     <string name="safe_status_one">Безпечно</string>
     <string name="safe_status_two">дня(ів) без перевірки</string>
     <string name="safe_status_three">Перевірити</string>
-	<string name="operation_choose">Вибір режиму</string>
-    <string name="pre_operation_mode">" "</string>
-    <string name="left_sliding">Слайд вліво блокує додаток</string>
-    <string name="right_sliding">Слайд вправо блокує додаток</string>
-    <string name="alarm_tips">Тривале натискання може бути застосовано в будильнику</string>
-    <string name="long_click_tips">Тривале натискання для перегляду інформації додатка</string>
+	<string name="operation_choose">Виберіть стиль диспетчера</string>
+    <string name="pre_operation_mode">Попередній перегляд</string>
+    <string name="left_sliding">&lt;&lt; Закріпити</string>
+    <string name="right_sliding">Закріпити &gt;&gt;</string>
+    <string name="alarm_tips">Зажміть для входу в будильник</string>
+    <string name="long_click_tips">Зажміть для подробиць</string>
     <string name="clean_toast_str0">Оптимізовано</string>
     <string name="clean_toast_str1">"Звільнено %1$d МБ пам’яті
 Доступно %2$d МБ"</string>

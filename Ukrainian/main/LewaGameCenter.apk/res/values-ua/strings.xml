@@ -159,5 +159,10 @@
     <string name="has_been_newest_version">Сама остання версія:)</string>
     <string name="sure">Так</string>
     <string name="check_new_version">Пошук нової версії, зачекайте</string>
-    <string name="my_app">Мої гри</string>
+    <string name="my_app">Мої додатки</string>
+	<string name="donot_open">Тимчасово відкрито</string>
+    <string name="immediately_open">Запустити негайно</string>
+    <string name="zero_flow_update_tips">Автоматичне оновлення через Wi-Fi</string>
+    <string name="auto_update_tips">Автоматично оновлення без турбот про трафік і батарею</string>
+    <string name="I_know">Зрозумів</string>
 </resources>

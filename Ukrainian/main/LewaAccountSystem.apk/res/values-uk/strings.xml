@@ -3,6 +3,7 @@
     <string name="account_name">Обліковий запис Lewa</string>
     <string name="lewaAccountSystem">Обліковий запис Lewa</string>
     <string name="login_activity_title">%1$s</string>
+	<string name="authorize_login_activity_title">%1$s вхід</string>
     <string name="login_name_hint">"Введіть ім'я, номер або ел. адрес"</string>
     <string name="login">Увійти</string>
     <string name="register">Реєстрація</string>
@@ -197,7 +198,144 @@
     <string name="dialog_sex_female">Жінка</string>
     <string name="dialog_sex_secret">Секрет</string>
     <string name="dialog_age_title">Вказати день народження</string>
-    <string name="dialog_age_secret_label">"Не показувати мій вік"</string>
+    <string name="dialog_age_secret_label">Приватно</string>
+	<string name="test_start">Старт</string>
+    <string name="test_stop">Стоп</string>
+    <string name="test_auto">Авто</string>
+    <string name="test_icon">Іконка</string>
+    <string name="test_running">Запустити?</string>
+    <string name="test_lastsynctime">Остання синхр.</string>
+    <string name="test_result">Результат</string>
+    <string name="test_contacts">Контакти</string>
+    <string name="test_calllog">Журнал викликів</string>
+    <string name="test_sms">SMS</string>
+    <string name="test_mms">MMS</string>
+    <string name="test_init">Елемент</string>
+    <string name="cloud_main_label">Центр синхронізації</string>
+    <string name="cloud_main_sync_backup">Синхронізація и бекап</string>
+    <string name="cloud_main_contact">Контакти</string>
+    <string name="cloud_main_sms">SMS</string>
+    <string name="cloud_main_mms">MMS</string>
+    <string name="cloud_main_call_log">Журнал викликів</string>
+    <string name="cloud_main_sync_setting">Налаштування</string>
+    <string name="cloud_main_last_sync">Остання синхронізація</string>
+    <string name="cloud_main_last_store">Останній бекап</string>
+    <string name="cloud_main_voluntarily">Авто</string>
+    <string name="cloud_main_management_data">Увійдіть <a href="http://www.labi.com">http://www.labi.com</a>для керування Вашою інформацією в Хмарі</string>
+    <string name="cloud_contact_sync">Синхронізація контактів</string>
+    <string name="cloud_contact_auto_sync">Автомат. синхронізація контактів</string>
+    <string name="cloud_contact_wifi_sync_head_sculpture">"Синхронизація фото контактов тільки по Wi-Fi"</string>
+    <string name="cloud_contact_sync_rules">Правила синхронізапції</string>
+    <string name="cloud_contact_sync_rules_text">"Синхронізація збереже контакти на пристрої на Хмарі
+При редагуванні контактів на пристої, вони автоматично оновляються у Хмарі
+При редагуванні контактів у Хмарі, вони автоматично оновляються на пристої
+При редагуванні контактів на пристої, вони автоматично оновляються на іншому пристрої з цим же обліковим записом
+При редагуванні контактів на пристрої і у Хмарі, перевага змін у Хмарі"</string>
+    <string name="cloud_contact_are_">Синхронізація %1$s</string>
+    <string name="cloud_contact_local">Контакти пристрою</string>
+    <string name="cloud_contact_cloud">Контакти Хмари</string>
+    <string name="cloud_s_contact">Контактів: %1$s</string>
+    <string name="cloud_sms_sync">Бекап SMS</string>
+    <string name="cloud_sms_auto_sync">Автоматичний бекап SMS</string>
+    <string name="cloud_sms_sync_rules">Правила бекапу SMS</string>
+    <string name="cloud_sms_sync_rules_text">"Автоматичний бекап SMS
+ SMS, видалене на пристрої, не видаляється з Хмари
+ SMS, видалене на Хмарі, видаляється з пристрою
+Якщо обліковий запис має SMS на Хмарі, буде відновлено 200 SMS (Більше - вручну)"</string>
+    <string name="cloud_sms_store_settings">Налаштування відновлення SMS</string>
+    <string name="cloud_sms_are_">SMS %1$s</string>
+    <string name="cloud_sms_local">SMS на пристрої</string>
+    <string name="cloud_sms_cloud">SMS на Хмарі</string>
+    <string name="cloud_s_sms">%1$s SMS</string>
+    <string name="cloud_mms_sync">Бекап MMS</string>
+    <string name="cloud_mms_auto_sync">Автоматичний бекап MMS</string>
+    <string name="cloud_mms_wifi_auto_sync">Автоматичний бекап MMS тілько через Wi-Fi</string>
+    <string name="cloud_mms_sync_rules">Правила бекапу MMS</string>
+    <string name="cloud_mms_sync_rules_text">"Автоматичний бекап MMS
+Автоматичний бекап MMS тільки через Wi-Fi
+MMS, видалене на пристрої, не видаляється на Хмарі"</string>
+    <string name="cloud_mms_are_">MMS %1$s</string>
+    <string name="cloud_mms_local">MMS на пристрої</string>
+    <string name="cloud_mms_cloud">MMS на Хмарі</string>
+    <string name="cloud_s_mms">%1$s MMS</string>
+    <string name="cloud_call_log_sync">Бекап журналу викликів</string>
+    <string name="cloud_call_log_auto_sync">Автоматичний бекап журналу викликів</string>
+    <string name="cloud_call_log_sync_rules">Правила бекапу журналу викликів</string>
+    <string name="cloud_call_log_sync_rules_text">"Автоматичний бекап журналу викликів
+Елемент журналу викликів, видалений на пристрої, не видаляється на Хмарі
+Елемент журналу викликів, видалений на пристрої, не видаляється на пристрої
+Якщо обліковий запис має бекап журналу викликів на Хмарі, буде відновлено 200 елементів (Більше - вручну)"</string>
+    <string name="cloud_call_log_store_settings">Налаштування бекапу журналу викликів</string>
+    <string name="cloud_call_log_are_">Журнал викликів %1$s</string>
+    <string name="cloud_call_log_local">Журнал викликів у Пристрої</string>
+    <string name="cloud_call_log_cloud">Журнал викликів у Хмарі</string>
+    <string name="cloud_s_call_log">%1$s елементів</string>
+    <string name="cloud_sync_setting">Налаштування синхронізації</string>
+    <string name="cloud_sync_setting_level">Зупинка синхронізації при заряді менше 10%</string>
+    <string name="cloud_sync_setting_display_notification">Запит при автоматичній синхронізації і бекапі</string>
+    <string name="cloud_sync_setting_service_description">Про додаток</string>
+    <string name="cloud_sync">Синхронізація</string>
+    <string name="cloud_backup">Бекап</string>
+    <string name="cloud_store">Відновлення</string>
+    <string name="cloud_people"> елем.</string>
+    <string name="cloud_article">Елемент</string>
+    <string name="cloud_synchronizing">Синхронізація</string>
+    <string name="cloud_are_store">Відновлення</string>
+    <string name="cloud_are_backup">Бекап</string>
+    <string name="cloud_cancel_">Скасування %1$s</string>
+    <string name="cloud_has_been_completed">, завершено %1$d%%</string>
+    <string name="cloud_whether_cancel">Ви впевнені, що бажаєте скасувати синхронізацію?</string>
+    <string name="cloud_continue_">Продовжити %1$s</string>
+    <string name="cloud_confirm_cancel">Скасувати</string>
+    <string name="cloud_confirm">ОК</string>
+    <string name="cloud_cancel">Скасувати</string>
+    <string name="cloud__canceled">%1$s скасовано</string>
+    <string name="cloud__cancel">%1$s скасування</string>
+    <string name="cloud_sync_cancel">Скасування синхронізації</string>
+    <string name="cloud__complete">%1$s завершено</string>
+    <string name="cloud__complete2">%1$s завершено</string>
+    <string name="cloud__not_complete">%1$s не завершено</string>
+    <string name="cloud_network_error_sync_not_complete">Помилка мережі, синхронізацію не завершено</string>
+    <string name="cloud_sync_network_error_data_sync">Помилка мережі, %1$s не завершено, завершено тільки %2$s</string>
+    <string name="cloud_to_set_network">Налаштування мережі</string>
+    <string name="cloud_sync_network_error">Помилка мережі</string>
+    <string name="cloud_server_error_sync_not_complete">Помилка сервера, синхронізацію не завершено</string>
+    <string name="cloud_sync_server_error_data_sync">Помилка сервера, %1$s не завершено, завершено тільки %2$s</string>
+    <string name="cloud_close">Закрити</string>
+    <string name="cloud_server_error">Помилка підключення до серверу</string>
+    <string name="cloud_manual_sync">Синхронізувати зараз</string>
+    <string name="cloud_manual_backup">Бекап зараз</string>
+    <string name="cloud_are_auto_sync">Синхронізація</string>
+    <string name="cloud_add">Нове</string>
+    <string name="cloud_modify">Змінити</string>
+    <string name="cloud_delete">Видалити</string>
+    <string name="cloud_add_count">Нове: %1$d%2$s</string>
+    <string name="cloud_modify_count">Змінити: %1$d%2$s</string>
+    <string name="cloud_delete_count">Видалити: %1$d%2$s</string>
+    <string name="cloud_got_it">Зпрозуміло</string>
+    <string name="cloud_network_error">Помилка мережі</string>
+    <string name="cloud_auto_sync_complete">Автоматична синхронізація завершена</string>
+    <string name="cloud_auto_sync_fail">Автоматична синхронізація невдала</string>
+    <string name="cloud_auto_sync_part_complete">Автоматична синхронізація завершена частково</string>
+    <string name="cloud_click_look_sync_result">Натисніть для подробиць</string>
+    <string name="cloud_click_look_fail_reason">Натисніть для подробиць</string>
+    <string name="cloud_click_to_sync_center">Натисніть для входу в Центр синхронізації</string>
+    <string name="cloud_to_complete_the">Завершено %1$s</string>
+    <string name="cloud_to_fail_the">Не вдалося %1$s</string>
+    <string name="cloud_fail_reason">Не вдалося: %1$s</string>
+    <string name="cloud_unknown">Невідомо</string>
+    <string name="cloud_local">Пристрій</string>
+    <string name="cloud_cloud">Хмара</string>
+    <string name="cloud_gprs_prompt">Передача даних</string>
+    <string name="cloud_gprs_continue_sync">Ви впевнені, що бажаєте зробити бекап з використанням передачі даних?</string>
+    <string name="cloud_labi_provide_support">Надано Labi.com</string>
+    <string name="cloud_to_cloud_administration">Перейдіть по адресі <a href="http://www.labi.com">http://www.labi.com</a>для керування обліковим записом</string>
+    <string name="cloud_level_prompt_title">Низький заряд батареи</string>
+    <string name="cloud_level_prompt_message">"Низький заряд батареї, підключіть зарядне.
+
+Впевнені, що бажаєте продовжити?"</string>
+    <string name="cloud_sync_canceled_data_sync">%1$s скасовано, завершено тільки %2$s</string>
+    <string name="cloud_immediately_s">Ви впевнені %1$s?</string>
 	<string name="lewa_account_offline_title">Вхід в обліковий запис не здійснено</string>
     <string name="lewa_account_offline_msg">Вхід в обліковий запис не здійснено, зайдіть</string>
     <string name="lewa_account_offline_login">Вхід в обліковий запис</string>
@@ -205,4 +343,7 @@
     <string name="remote_email_error">Невірний адрес ел. пошти</string>
     <string name="remote_email_verified">Адрес ел. пошти не підтверджено</string>
     <string name="remote_unverified_email">Адрес ел. пошти не підтверждено, увійдіть в свою пошту і завершіть перевірку</string>
+	<string name="retrieve_password">Пароль забутий</string>
+    <string name="loading">Завантаження...</string>
+    <string name="cloud_setting">Налаштування хмари</string>
 </resources>
