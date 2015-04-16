@@ -31,7 +31,7 @@
     <string name="create_playlist">Створити плейлист</string>
     <string name="top_list">ТОП-список</string>
     <string name="text_song_num">%1$d пісень</string>
-	<string name="text_album_num">%1$d альбомів</string>
+    <string name="text_album_num">%1$d альбомів</string>
     <string name="edit_playlist_success_toast_text">%1$d пісень додано до %2$s</string>
     <string name="remove_playlistsong_success_toast_text">%1$d пісень видалено з %2$s</string>
     <string name="check_song_number">%1$d вибрано</string>
@@ -117,7 +117,7 @@
     <string name="sleep_tip">Будь ласка, встановіть таймер для зупинки (у хв)</string>
     <string name="sleep_set_ok">Відтворення зупиниться через %1$d хв.</string>
     <string name="sleep_close_ok">Таймер сну зупинено</string>
-	<string name="sleep_start_ok">Таймер сну запущено</string>
+    <string name="sleep_start_ok">Таймер сну запущено</string>
 	
 	
     <string name="ok">ОК</string>
@@ -144,7 +144,7 @@
     <string name="setting_download_title">Завантаження та онлайн-відтворення</string>
     <string name="setting_download_summary">Тільки Wi-Fi</string>
 	
-    <string name="musicsettings">Налаштування програми Музика</string>
+    <string name="musicsettings">Налаштування додатка Музика</string>
     <string name="setting_download">Параметри завантаження</string>
     <string name="setting_basic">Базова настройка</string>
     <string name="setting_bg_title">Змінити фон</string>
@@ -282,7 +282,7 @@
     <string name="file_filter">Фільтр файлів</string>
     <string name="filter_songs">Фільтр коротких пісень</string>
     <string name="filter_songs_hint">Фільтрація аудіофайлів з невеликою тривалістю (менше 1 хвилини)</string>
-	<string name="EQ">Еквалайзер</string>
+    <string name="EQ">Еквалайзер</string>
     <string name="adjust_EQ">Регулювати еквалайзер</string>
     <string name="folder">Джерело</string>
     <string name="choose_folder">Вибір тек(и) з музикою</string>
@@ -294,7 +294,7 @@
     <string name="title_browse">Онлайн</string>
     <string name="title_artist">Виконавець</string>
     <string name="title_album">Альбом</string>
-	<string name="title_local">Локально</string>
+    <string name="title_local">Локально</string>
     <string name="title_mine">Моє</string>
     <string name="synchron_title">Сканування музики</string>
     <string name="synchron_message">Сканування...</string>
@@ -313,7 +313,7 @@
     <string name="download_lrc_off_hint">Завантаження текстів пісень вимкнена</string>
     <string name="loadlrc">Завантаження......</string>
     <string name="no_network">Мережа недоступна</string>
-	<string name="no_network_text">Немає мережі, попробуйте пізніше</string>
+    <string name="no_network_text">Немає мережі, попробуйте пізніше</string>
     <string name="lrc_down_notfound">Тексти пісень не знайдені</string>
     <string name="playcurrent_failed">%s не підтримується: непідтримуваний формат або відсутній файл</string>
 	

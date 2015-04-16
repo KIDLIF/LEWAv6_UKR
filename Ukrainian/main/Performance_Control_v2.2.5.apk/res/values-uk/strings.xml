@@ -142,7 +142,7 @@
     <string name="sh_msg">Залиште порожнім щоб нічого невиконувалось</string>
     <string name="clear">Очистити</string>
     <string name="yes">Так</string>
-    <string name="wait">Будь ласка, почекайте…</string>
+    <string name="wait">Будь ласка, зачекайте…</string>
     <string name="prefcat_wipe_cache">КЕШ і DALVIK КЕШ</string>
     <string name="wipe_cache_title">Очистити кеш і dalvik кэш</string>
     <string name="ps_wipe_cache">"Розділ Кеш: %s"</string>
@@ -158,7 +158,7 @@
     <string name="dir_parent">Parent DIR</string>
     <string name="dir">DIR</string>
     <string name="bkexit">"Натисніть знову, щоб вийти"</string>
-	<string name="kernelbtn">Kernel</string>
+    <string name="kernelbtn">Kernel</string>
     <string name="recoverybtn">Recovery</string>
     <string name="prefcat_residual_files">"ВИДАЛИТИ ФАЙЛИ, ЩО ЗАЛИШИЛИСЬ"</string>
     <string name="residual_files_title">"Очистити файли, що залишилися"</string>
@@ -256,7 +256,7 @@
     <string name="ps_logs">Записати лог в %s.</string>
     <string name="mpdecision">MPDECISION</string>
     <string name="pt_mpdecision">Увімкнути MPDecision</string>
-	<string name="msmhotplug">Горячі підключення MSM</string>
+    <string name="msmhotplug">Горячі підключення MSM</string>
     <string name="pt_msmhotplug">Увімкнути гарячі підключення</string>
     <string name="intelliplug">INTELLIPLUG</string>
     <string name="pt_intelliplug">Enable Intelliplug</string>
@@ -325,7 +325,7 @@
     <string name="ps_krait_lo">Застосувати для частот менших за поріг | Поточний: %s μV</string>
     <string name="donor">Допомогти з допомогою PayPal</string>
     <string name="paypal">Якщо ви вважаєте цей додаток корисним</string>
-	<string name="liveoc">Разгін ЦП</string>
+    <string name="liveoc">Разгін ЦП</string>
     <string name="oc_value">Розмір рагону ЦП (%)</string>
     <string name="oc_target_low">Мала Ціль Розгону ЦП</string>
     <string name="oc_target_high">Велика Ціль Розгону ЦП</string>

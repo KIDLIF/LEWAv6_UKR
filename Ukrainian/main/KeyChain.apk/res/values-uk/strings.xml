@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Основний ланцюжок</string>
-	<string name="title_no_certs">Сертифікатів не знайдено</string>
-	<string name="title_select_cert">Виберіть сертифікат</string>
-	<string name="requesting_application">Додаток %s запросив сертифікат. Після вибору сертифіката додаток зможе використовувати ідентичність з серверами в поточний момент і в майбутньому</string>
-	<string name="requesting_server">Цей додаток ідентифікував  сервер %s, але з додатком слід відкрити доступ до даного сертифікату тільки в тому випадку, якщо додаток є довіреним</string>
-	<string name="install_new_cert_message">Сертифікати можна встановити з  файлу PKCS#12 з розширенням %1$s або %2$s, що знаходиться на зовнішньому носії</string>
-	<string name="install_new_cert_button_label">Встановити</string>
-	<string name="allow_button">Дозволити</string>
-	<string name="deny_button">Відхилити</string>
+    <string name="app_name">Основний ланцюжок</string>
+    <string name="title_no_certs">Сертифікатів не знайдено</string>
+    <string name="title_select_cert">Виберіть сертифікат</string>
+    <string name="requesting_application">Додаток %s запросив сертифікат. Після вибору сертифіката додаток зможе використовувати ідентичність з серверами в поточний момент і в майбутньому</string>
+    <string name="requesting_server">Цей додаток ідентифікував  сервер %s, але з додатком слід відкрити доступ до даного сертифікату тільки в тому випадку, якщо додаток є довіреним</string>
+    <string name="install_new_cert_message">Сертифікати можна встановити з  файлу PKCS#12 з розширенням %1$s або %2$s, що знаходиться на зовнішньому носії</string>
+    <string name="install_new_cert_button_label">Встановити</string>
+    <string name="allow_button">Дозволити</string>
+    <string name="deny_button">Відхилити</string>
 </resources>

@@ -31,9 +31,9 @@
     <string name="storage_full">Пам\'ять заповнена</string>
     <string name="sd_no">Вставте SD-картку.</string>
     <string name="recording_fail">Помилка в записі</string>
-    <string name="recorder_occupied">Мікрофон зайнятий іншою програмою</string>
+    <string name="recorder_occupied">Мікрофон зайнятий іншим додатком</string>
     <string name="playing_fail">Помилка відтворення</string>
-    <string name="player_occupied">Плеєр занятий іншою програмою.</string>
+    <string name="player_occupied">Плеєр занятий іншим додатком.</string>
     <string name="recording_doc_deleted">Записаний файл був видалений.</string>
     <string name="saving_fail">Збій запису</string>
     <string name="deleting_fail">Збій видалення</string>
@@ -64,5 +64,5 @@
     <string name="review_message">Відкликання повідомлення</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="audio_db_artist_name">Ваші записи</string>
-    <string name="error_app_internal">Внутрішня помилка програми.</string>
+    <string name="error_app_internal">Внутрішня помилка додатка.</string>
 </resources>

@@ -66,8 +66,8 @@
     <string name="status_bar_do_not_disturb_button">Не турбувати</string>
     <string name="status_bar_please_disturb_button">Показати повідомлення</string>
     <string name="status_bar_recent_remove_item_title">Видалення зі списку</string>
-    <string name="status_bar_recent_inspect_item_title">Про програму</string>
-    <string name="status_bar_accessibility_dismiss_recents">Закрити недавні програми</string>
+    <string name="status_bar_recent_inspect_item_title">Про додаток</string>
+    <string name="status_bar_accessibility_dismiss_recents">Закрити недавні додатки</string>
     <string name="status_bar_no_notifications_title">Немає повідомлень</string>
     <string name="status_bar_ongoing_events_title">Поточні</string>
     <string name="invalid_charger">Заряджання по USB не підтримується.
@@ -96,7 +96,7 @@
     <string name="compat_mode_on">Підігнати під розмір екрану</string>
     <string name="compat_mode_off">Розтягнути на весь екран</string>
     <string name="compat_mode_help_header">Масштаб і сумісність</string>
-    <string name="compat_mode_help_body">Якщо програма розрахована на екран менших розмірів, поряд з годинником з’являться засоби для масштабування</string>
+    <string name="compat_mode_help_body">Якщо додаток розрахований на екран менших розмірів, поряд з годинником з’являться засоби для масштабування</string>
     <string name="usb_preference_title">Параметри передачі через USB</string>
     <string name="use_mtp_button_title">Підключити як мультимедійний програвач (MTP)</string>
     <string name="use_ptp_button_title">Підключити як камеру (PTP)</string>
@@ -104,7 +104,7 @@
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Домівка</string>
     <string name="accessibility_menu">Меню</string>
-    <string name="accessibility_recent">Недавні програми</string>
+    <string name="accessibility_recent">Недавні додатки</string>
     <string name="accessibility_ime_switch_button">Кнопка перемикання способу введення</string>
     <string name="accessibility_compatibility_zoom_button">Кнопка масштабування (режим сумісності)</string>
     <string name="accessibility_compatibility_zoom_example">Зменшення зображення для збільшення вільного місця на екрані</string>
@@ -161,13 +161,13 @@
     <string name="gps_notification_found_text">Координати по GPS</string>
     <string name="accessibility_clear_all">Видалити всі повідомлення.</string>
     <string name="dreams_dock_launcher">Активація екранної заставки</string>
-    <string name="status_bar_notification_inspect_item_title">Про програму</string>
+    <string name="status_bar_notification_inspect_item_title">Про додаток</string>
     <string name="notifications_off_title">Повідомлення вимкнено</string>
     <string name="notifications_off_text">Натисніть тут, щоб знову увімкнути повідомлення</string>
     <string name="accessibility_rotation_lock_off">Екран буде повертатися автоматично</string>
 	
 	
-	<string name="guid">Зрозумів</string>
+    <string name="guid">Зрозумів</string>
     <string name="otg_to_filemanager">Натисніть для запуску файлового менеджера</string>
     <string name="otg_connect">USB-накопичувач підключений</string>
     <string name="otg_unmount">Безпечне вилучення</string>
@@ -224,8 +224,8 @@
     <string name="trans_statusbar_setting">Прозора панель</string>
     <string name="poputip_title1">Це повідомлення від</string>
     <string name="poputip_title2">Бан</string>
-    <string name="poputip_title3">Всі повідомлення для цієї програми</string>
-    <string name="poputip_title4">Перегляд відомостей з цієї програми</string>
+    <string name="poputip_title3">Всі повідомлення для цього додатка</string>
+    <string name="poputip_title4">Перегляд відомостей з цього додатка</string>
     <string name="poputip_toast">Забанені повідомлення %s</string>
     <string name="notifilter_setting">Фільтр повідомлень</string>
     <string name="notifilter_activity_title">Налаштування фільтру повідомлень</string>

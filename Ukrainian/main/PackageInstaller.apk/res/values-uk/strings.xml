@@ -10,9 +10,9 @@
     <string name="installing">Встановлення...</string>
     <string name="install_done">Додаток встановлено</string>
     <string name="install_confirm_question">Встановити цей додаток?</string>
-    <string name="install_confirm_question_no_perms">Ви хочете встановити цю програму? Воно не вимагає спеціальних дозволів</string>
-    <string name="install_confirm_question_update">Ви хочете встановити це оновлення встановленого додатка ? Ваші персональні дані збережуться. Оновлене додаток отримає доступ до:</string>
-    <string name="install_confirm_question_update_system">Ви хочете встановити оновлення вбудованого програми ? Ваші персональні дані збережуться. Оновлене додаток отримає доступ до:</string>
+    <string name="install_confirm_question_no_perms">Ви хочете встановити цей додаток? Воно не вимагає спеціальних дозволів</string>
+    <string name="install_confirm_question_update">Ви хочете встановити це оновлення встановленого додатка? Ваші персональні дані збережуться. Оновлене додаток отримає доступ до:</string>
+    <string name="install_confirm_question_update_system">Ви хочете встановити оновлення вбудованого додатка? Ваші персональні дані збережуться. Оновлене додаток отримає доступ до:</string>
     <string name="install_confirm_question_update_no_perms">Ви хочете встановити це оновлення встановленого додатка ? Ваші персональні дані збережуться. Воно не вимагає спеціальних дозволів</string>
     <string name="install_confirm_question_update_system_no_perms">Ви хочете встановити це оновлення встановленого додатка ? Ваші персональні дані збережуться. Воно не вимагає спеціальних дозволів</string>
     <string name="install_failed">Додаток не встановлено</string>
@@ -51,7 +51,7 @@
     <string name="uninstall_activity_text">%1$s є частиною наступного додатка:</string>
     <string name="uninstall_application_text">Додаток буде видалено</string>
     <string name="uninstall_application_text_all_users">Ви хотите видалити цей додаток для <b>всіх</b> користувачів? Додаток і його дані будуть видалені для <b>всіх</b> користувачів пристрою.</string>
-    <string name="uninstall_update_text">Буде відновлена вихідна версія додатку</string>
+    <string name="uninstall_update_text">Буде відновлена вихідна версія додатка</string>
     <string name="uninstalling">Видалення...</string>
     <string name="uninstall_done">Видалення завершено</string>
     <string name="uninstall_failed">Помилка при видалені</string>

@@ -18,8 +18,8 @@
     <string name="abs__shareactionprovider_share_with_application">Відправити %s</string>
     <string name="account_email_plain_hint">Вхід в обліковий запис Gmail:</string>
     <string name="account_email_xoauth_hint">XOAuth доступна тільки для Gmail і Google пошти</string>
-	<string name="account_email_title">Облік. запис електр. пошти</string>
-	<string name="account_empty_setup">Вибрати обл. запис</string>
+    <string name="account_email_title">Облік. запис електр. пошти</string>
+    <string name="account_empty_setup">Вибрати обл. запис</string>
     <string name="account_index_title">Вибір облікового запису</string>
     <string name="account_info_account">Обл. запис</string>
     <string name="account_info_account_free">Безкоштовний акаунт</string>
@@ -31,7 +31,7 @@
     <string name="account_info_switch">Перейти на suibiji.com</string>
     <string name="account_info_switch_summary_sbj">Синхронізація з GNotes, відвідайте https://suibiji.com для перегляду і редагування приміток.</string>
     <string name="account_info_title">Інформація про обліковий запис</string>
-	<string name="account_index_email">Електронна пошта</string>
+    <string name="account_index_email">Електронна пошта</string>
     <string name="account_index_email_summary">Синхронізація даних із електроною поштою</string>
     <string name="action_mode_select">%1$s обрано</string>
     <string name="add_attach_audio_success">Аудіо додано</string>
@@ -50,7 +50,7 @@
     <string name="auth_wait">Будь ласка, зачекайте</string>
     <string name="auto_sync">Автоматична синхронізація</string>
     <string name="auto_sync_summary">"Замість того, щоб вручну натискати кнопку Синхронізувати"</string>
-	<string name="authorize_faild_title">Помилка авторизації</string>
+    <string name="authorize_faild_title">Помилка авторизації</string>
     <string name="authorize_faild_message">Помилка виникла при синхринізації з Вашим обліковим записом. Повторіть авторизацію.</string>
     <string name="authorize_faild_retry">Повторити</string>
     <string name="authorize_faild_reauthorize">Ре-авторизація</string>
@@ -82,7 +82,7 @@
     <string name="book_name_already_exist">Вже існує</string>
     <string name="book_name_not_legal">"Вони не можуть містити \\ / ' \" : * ? &lt; > і |"</string>
     <string name="book_name_too_long">Повинно бути менше 20 символів</string>
-	<string name="book_unlock_header_text_passcode">Введіть PIN-код, щоб видалити блокування \"%1$s\"</string>
+    <string name="book_unlock_header_text_passcode">Введіть PIN-код, щоб видалити блокування \"%1$s\"</string>
     <string name="book_unlock_header_text">Накресліть графічний ключ, щоб видалити блокування \"%1$s\"</string>
     <string name="btn_account_sign_up">Увійти</string>
     <string name="btn_confirm_server">Вхід</string>
@@ -97,7 +97,7 @@
     <string name="btn_text_modified_time">Редагувати</string>
     <string name="btn_text_note">Створити</string>
     <string name="ca_no_reminder">Немає нагадування</string>
-	<string name="calendar_reminder_clear">Немає нагадування</string>
+    <string name="calendar_reminder_clear">Немає нагадування</string>
     <string name="calendar_no_date">Немає Дати</string>
     <string name="cancel">Відмінити</string>
     <string name="check_update_already_new">Це остання версія.</string>
@@ -124,8 +124,8 @@
     <string name="datepicker_btn_today">Сьогодні</string>
     <string name="datepicker_btn_tomorrow">Завтра</string>
     <string name="db_backup_restore_success">Завершено</string>
-	<string name="db_backup_restore_title">Відновлення даних</string>
-	<string name="db_update_title">Зачекайте…</string>
+    <string name="db_backup_restore_title">Відновлення даних</string>
+    <string name="db_update_title">Зачекайте…</string>
     <string name="db_update_summary">Оновлення даних, зачекайте…</string>
     <string name="dbbackup_restore_found">Знайдено дані на вашому телефоні, відновити зараз?</string>
     <string name="dbbackup_restore_success">Завершено, перезапустіть додаток</string>
@@ -146,7 +146,7 @@
     <string name="detail_note_not_exist">Примітку не знайдено</string>
     <string name="detail_set_reminder">Встановити нагадування</string>
     <string name="detail_text_hint">Натисніть для введення тексту</string>
-	<string name="detail_title">Подробиці</string>
+    <string name="detail_title">Подробиці</string>
     <string name="detail_msg">"Слів: %1$d
 Дата змінення: %2$s
 Дата створення: %3$s"</string>
@@ -161,7 +161,7 @@
     <string name="dialog_message_permission_network">"Потрібен доступ до мережі, може стягуватися плата. Дозволити GNotes доступ до мережі?"</string>
     <string name="dialog_message_permission_remember">"Запам'ятати"</string>
     <string name="dialog_message_set_default">Примітки будуть додані в цю папку віджета</string>
-	<string name="dialog_message_sync_remind_gnotes">Ви можете налаштувати ваш обліковий запис для синхронізації GNotes, налаштувати зараз?</string>
+    <string name="dialog_message_sync_remind_gnotes">Ви можете налаштувати ваш обліковий запис для синхронізації GNotes, налаштувати зараз?</string>
     <string name="dialog_message_transfer">Передавайте свої нотатки по телефону на цей обліковий запис.</string>
     <string name="dialog_move_back_title">Увага</string>
     <string name="dialog_no_invatecode_message_gnotes">На жаль, квота регістра була заповнена сьогодні, спробуйте ще раз завтра, або перейдіть до Google+ для отримання коду запрошення.</string>
@@ -175,17 +175,17 @@
     <string name="dialog_title_no_storage">"Недостатньо пам'яті"</string>
     <string name="dialog_title_permission">Увага!</string>
     <string name="dialog_title_transfer">Примітки передачі</string>
-	<string name="dailog_title_sync_remind_gnotes">Налаштування</string>
-	<string name="dailog_message_sync_remind_gnotes">Ви повинні налаштувати свій облік. запис для синхронізації, налаштувати зараз?</string>
+    <string name="dailog_title_sync_remind_gnotes">Налаштування</string>
+    <string name="dailog_message_sync_remind_gnotes">Ви повинні налаштувати свій облік. запис для синхронізації, налаштувати зараз?</string>
     <string name="dialog_upgrade_content">Ваша версія застаріла, будь ласка, оновіть зараз.</string>
     <string name="display_options">Парамерти відображення</string>
     <string name="don_t_show_again">Більше не показувати</string>
     <string name="drag_notes">Примітки</string>
-	<string name="enter_locked_book_header_text_passcode">Введіть PIN-код, щоб розблокувати \"%1$s\"</string>
+    <string name="enter_locked_book_header_text_passcode">Введіть PIN-код, щоб розблокувати \"%1$s\"</string>
     <string name="enter_locked_book_header_text">Накресліть графічний ключ, щоб розблокувати \"%1$s\"</string>
     <string name="email_format_error">Будь ласка, введіть дійсну адресу електронної пошти</string>
     <string name="empty_password">Будь ласка, введіть правильний пароль</string>
-    <string name="error_app_internal">Внутрішня помилка додатку</string>
+    <string name="error_app_internal">Внутрішня помилка додатка</string>
     <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
     <string name="ex_email_add_notes_error">Помилка додавання приміток</string>
     <string name="ex_email_del_notes_error">Помилка видалення приміток</string>
@@ -244,8 +244,8 @@
     <string name="gnotes_widget_config_title">Налаштування віджета</string>
     <string name="google_play_not_find">Google Play не знайдено.</string>
     <string name="graffiti">Графіті</string>
-	<string name="query_invitation_code_failed">код запрошення не знайдено.</string>
-	<string name="quick_add_note">Створити Примітку</string>
+    <string name="query_invitation_code_failed">код запрошення не знайдено.</string>
+    <string name="quick_add_note">Створити Примітку</string>
     <string name="handwriting">Рукописна примітка</string>
     <string name="html_back">Назад</string>
     <string name="image_browser_not_found">Фото не знайдено</string>
@@ -259,9 +259,9 @@
     <string name="list_title_new_note">Нова примітка</string>
     <string name="local_sync_warn_message">Зайдіть в обліковий запис Lewa, щоб синхринізувати</string>
     <string name="lock_and_exit">Блокувати і вийти</string>
-	<string name="lock_header_text">Накресліть ключ, щоб розблокувати \"%1$s\"</string>
-	<string name="lock_header_text_passcode">Введіть PIN-код, щоб розблокувати \"%1$s\"</string>
-	<string name="lock_titlebar_confirm_title">Розблокування</string>
+    <string name="lock_header_text">Накресліть ключ, щоб розблокувати \"%1$s\"</string>
+    <string name="lock_header_text_passcode">Введіть PIN-код, щоб розблокувати \"%1$s\"</string>
+    <string name="lock_titlebar_confirm_title">Розблокування</string>
     <string name="lock_titlebar_choose_title">Встановлення блокування</string>
     <string name="lockpattern_need_to_unlock">Накресліть збережений ключ</string>
     <string name="lockpattern_need_to_unlock_footer" />
@@ -290,7 +290,7 @@
     <string name="manually_sync">Ручна синхронізація</string>
     <string name="manually_sync_summary">Синхронізація даних за потребою</string>
     <string name="max_length_reached">Досягнуто максимальної довжини</string>
-	<string name="menu_detail">Подробиці</string>
+    <string name="menu_detail">Подробиці</string>
     <string name="menu_filebrowser_exit">Вихід</string>
     <string name="menu_filebrowser_home">Додому</string>
     <string name="menu_filebrowser_refresh">Оновити</string>
@@ -300,12 +300,12 @@
     <string name="menu_text_select_all">Вибрати всі</string>
     <string name="message_compose_error_invalid_email">Невірна адреса електронної пошти</string>
     <string name="message_compose_error_no_recipients">Ви повинні додати одержувача</string>
-	<string name="message_set_password">Лист для скидання пароля був відправлений на вашу поточну електрону пошту. Будь ласка, встановіть на GNotes новий пароль.</string>
+    <string name="message_set_password">Лист для скидання пароля був відправлений на вашу поточну електрону пошту. Будь ласка, встановіть на GNotes новий пароль.</string>
     <string name="move">""</string>
-	<string name="more_repeat_reminder"><a href="">Повторити нагадування?</a></string>
+    <string name="more_repeat_reminder"><a href="">Повторити нагадування?</a></string>
     <string name="move2sd_warning">Ви встановили додаток GNotes на SD-карти, тому деякі функції не працюватимуть (наприклад: Віджети, Нагадування і т.д.). Отримати детальну інформацію можна за адресою:&lt;br>&lt;a href=\"http://developer.android.com/guide/appendix/install-location.html#ShouldNot\">http://developer.android.com/…&lt;/a> &lt;br>&lt;br> Будь ласка перемістіть його в пристрій.</string>
     <string name="network_unabled">Будь ласка, перевірте свій стан підключення</string>
-	<string name="need_account_dialog_title">Увімкнення Блокування</string>
+    <string name="need_account_dialog_title">Увімкнення Блокування</string>
     <string name="need_account_dialog_content">Щоб отримати дані у випадку, якщо ви забули пароль, ви повинні налаштувати ваш обліковий запис. Увійти в обліковий запис, щоб налаштувати?</string>
     <string name="no_videoplayer">Помилка відкриття відео-плеєра</string>
     <string name="note_create_time">Час створення</string>
@@ -316,7 +316,7 @@
     <string name="note_music_by_widget">Музику додано</string>
     <string name="note_paint_by_widget">Графіку додано</string>
     <string name="note_photo_by_widget">Фото вдало додано</string>
-	<string name="notesbook_default_name">Блокнот</string>
+    <string name="notesbook_default_name">Блокнот</string>
     <string name="notebook_set_default">По замовчуванню</string>
     <string name="notesbooks_all_folder">Всі</string>
     <string name="notesbooks_default_folder">По замовчуванню</string>
@@ -329,12 +329,12 @@
     <string name="ok">Так</string>
     <string name="option_delete_confirm_summary">Показувати діалог підтвердження видалення</string>
     <string name="option_delete_confirm_title">Підтвердження видалення</string>
-	<string name="option_menu_listview">Список</string>
+    <string name="option_menu_listview">Список</string>
     <string name="option_menu_thumbnail_view">Мініатюри</string>
     <string name="paint_del_all">Ви впевнені?</string>
     <string name="paint_del_warning">Очистити все</string>
     <string name="paint_saving_fail_msg">Помилка збереження</string>
-	<string name="passcode_first_input">Введіть Ваш PIN-код</string>
+    <string name="passcode_first_input">Введіть Ваш PIN-код</string>
     <string name="passcode_second_input">Повторіть Ваш PIN-код</string>
     <string name="passcode_twice_different">PIN-коди не співпадають</string>
     <string name="passcode_input_wrong">Повторіть ще раз</string>
@@ -342,18 +342,18 @@
     <string name="pick_photo">Виберіть фотографію з галереї</string>
     <string name="plain">Користувач/Пароль</string>
     <string name="plain_btn_confirm">Увійти в систему</string>
-	<string name="plain_step_second">Шифрування і перевірка імені/паролю…</string>
+    <string name="plain_step_second">Шифрування і перевірка імені/паролю…</string>
     <string name="pref_account_summary">Синхронізації Ваших даних</string>
     <string name="pref_dialog_font_schemes">Шрифт</string>
     <string name="pref_summary_font_schemes">Розмір шрифту</string>
     <string name="pref_summary_theme">Виберіть тему</string>
-	<string name="plain_text">Текст</string>
+    <string name="plain_text">Текст</string>
     <string name="pref_title_font_schemes">Шрифт</string>
     <string name="pref_title_theme">Тема</string>
     <string name="preferences_about_title">Про</string>
     <string name="preferences_about_summary">Версія, оновлення, відгуки...</string>
     <string name="preferences_awaiting_authorization">Будь ласка, зачекайте авторизації</string>
-	<string name="preferences_authorize_faild">Помилка авторизації</string>
+    <string name="preferences_authorize_faild">Помилка авторизації</string>
     <string name="preferences_application">Додатки</string>
     <string name="preferences_backup">Бекап</string>
     <string name="preferences_backup_summary">"Резервування та Відновлення даних"</string>
@@ -363,7 +363,7 @@
     <string name="preferences_deauth_title">Видалити авторизацію</string>
 
 
-	<string name="preferences_feed_back_title">Відгук</string>
+    <string name="preferences_feed_back_title">Відгук</string>
     <string name="preferences_feed_back_summary">Відправка електр. листа. Але, будь ласка, прочитайте спочатку довідку.</string>
 	
     <string name="preferences_help_summary">FAQ, Про, Новини, тощо ...</string>
@@ -382,11 +382,11 @@
     <string name="preferences_security_lock_application_title">Блокування додатків</string>
     <string name="preferences_security_lock_title">Блокувати</string>
     <string name="preferences_security_setting">Безпека</string>
-	<string name="preferences_security_setting_summary">Блокування графічним ключом або PIN-кодом</string>
+    <string name="preferences_security_setting_summary">Блокування графічним ключом або PIN-кодом</string>
     <string name="preferences_share_app_subject">Відправити GNotes</string>
     <string name="preferences_share_app_summary">Відправити цей додатком друзям</string>
     <string name="preferences_share_app_title">Відправлення</string>
-	<string name="preferences_status_bar">Ярлик в Сповіщенях</string>
+    <string name="preferences_status_bar">Ярлик в Сповіщенях</string>
     <string name="premium_user_dialog_cancel">Скасувати</string>
     <string name="premium_user_dialog_sign_in">Увійти в систему</string>
     <string name="premium_user_dialog_title">Тільки Преміум користувач</string>
@@ -430,10 +430,10 @@
     <string name="security_index_passcode_summary">Блокування PIN-кодом</string>
     <string name="security_index_pattern">Графічний ключ</string>
     <string name="security_index_pattern_summary">Блокувати графічним ключом</string>
-	<string name="server_account_label">Обліковий запис GNotes</string>
-	<string name="server_needs_connecting">Синхронізація даних із www.suibiji.com</string>
+    <string name="server_account_label">Обліковий запис GNotes</string>
+    <string name="server_needs_connecting">Синхронізація даних із www.suibiji.com</string>
     <string name="server_step_second">Підключення до сервера...</string>
-	<string name="set_security_title">Встановити блокування</string>
+    <string name="set_security_title">Встановити блокування</string>
     <string name="settings">Налаштування</string>
     <string name="share">""</string>
     <string name="share_content">"Привіт. Я хочу поділитися з вами дуже класним додатком 'Примітки'. Його можна завантажити за адресою http://goo.gl/WX0wY"</string>
@@ -450,7 +450,7 @@
     <string name="sign_error_invite_code_error">Код запрошення анулювано</string>
     <string name="sign_error_not_exist_username">"Користувача не існує"</string>
     <string name="sign_in_failed">Помилка входу</string>
-	<string name="sign_in_with_email">Лише 1 електр. пошту.</string>
+    <string name="sign_in_with_email">Лише 1 електр. пошту.</string>
     <string name="sign_out_fail_message">Передати свої замітки не вдалося, спробуйте ще раз або вийдіть не передаваючи примітки.</string>
     <string name="sign_up_failed">Зареєструватися не вдалося</string>
     <string name="signin_lewa_account_message">Увійти в обліковий запис Lewa?</string>
@@ -463,7 +463,7 @@
     <string name="sort_by">Сортування</string>
     <string name="sort_create_time">По часі створення</string>
     <string name="sort_modify_time">По часі змінення</string>
-	<string name="smmary_sync_server">Синхронізація з Обліковим записом GNotes</string>
+    <string name="smmary_sync_server">Синхронізація з Обліковим записом GNotes</string>
     <string name="stop_record_first">"Неможливо відтворити під час запису"</string>
     <string name="storage_is_full">Сховище повністю заповнене</string>
 
@@ -474,7 +474,7 @@
     <string name="sync_options_summary">Ручна синхронізація, розмір зображення ...</string>
     <string name="sync_remind_btn_cancle">Відмінити</string>
     <string name="sync_remind_btn_ok">Добре</string>
-	<string name="sync_setting">Синхронізація</string>
+    <string name="sync_setting">Синхронізація</string>
     <string name="sync_wifi_only_summary">Синхронізація приміток тільки по Wi-Fi</string>
     <string name="sync_wifi_only_title">Тільки Wi-Fi</string>
     <string name="take_photo">Сфотографувати</string>
@@ -483,7 +483,7 @@
     <string name="text_sync_message_error">Не вдалося синхронізуватися</string>
     <string name="text_sync_message_syncing">Синхронізації</string>
     <string name="timer_format" formatted="false">%02d:%02d%</string>
-	<string name="title_account_gnotes">Обліковий запис GNotes</string>
+    <string name="title_account_gnotes">Обліковий запис GNotes</string>
     <string name="title_bar_attach">Вкладення</string>
     <string name="title_bar_camera">Камера</string>
     <string name="title_bar_graffiti">Графіті</string>
@@ -504,7 +504,7 @@
     <string name="toast_no_storage">"Не має вільної пам'яті на вашому пристрої"</string>
     <string name="toast_save_recording">Запис збережено</string>
     <string name="toast_share_sync_failed">Не вдалося синхронізації, спробуйте ще раз</string>
-	<string name="ui_authen_success_title">Завершено</string>
+    <string name="ui_authen_success_title">Завершено</string>
     <string name="ui_authen_success_content">"Ваші примітки будуть синхронізовані з Gmail під ярликом \"Notes\"</string>
     <string name="ui_connected_label">Обліковий запис</string>
     <string name="ui_login_label">"Ім'я користувача"</string>
@@ -529,7 +529,7 @@
     <string name="widget_single_note_1x1">Порожній</string>
     <string name="widget_single_note_conf_title">Вибір примітки для добавлення</string>
     <string name="widget_single_note_name">Примітки (2×2)</string>
-	<string name="widget_single_note_name_1x1">Примітки (1×1)</string>
+    <string name="widget_single_note_name_1x1">Примітки (1×1)</string>
     <string name="widget_single_note_name_4x4">Примітки (4×4)</string>
     <string name="wifi_remind_btn_cancle">Ні</string>
     <string name="wifi_remind_btn_ok">Так</string>
@@ -541,5 +541,5 @@
     <string name="xoauth_btn_confirm">Дозволити</string>
     <string name="xoauth_step_first">1. Натисніть "Дозволити" кнопку для підключення до облік. запису Gmail.</string>
     <string name="xoauth_step_second">2. Після відкриття діалогового вікна, напичатайте ...</string>
-	<string name="xoauth_token_failed">Помилка отримання дозволу</string>
+    <string name="xoauth_token_failed">Помилка отримання дозволу</string>
 </resources>

@@ -154,7 +154,7 @@
     <string name="eq_preset_vocal_booster">Посилити вокал</string>
     <string name="eq_preset_custom">Вручну</string>
     <string name="text_ir_dir_isempty">ViPER4Android: папка імпульсів %1$s порожня.</string>
-    <string name="text_token_lost">ViPER4Android: одна з програм виконала запит на відключення аудіоефектів, V4A буде тимчасово вимнений.</string>
+    <string name="text_token_lost">ViPER4Android: один з додатків виконав запит на відключення аудіоефектів, V4A буде тимчасово вимнений.</string>
     <string name="text_enabled">Увімкнено</string>
     <string name="text_disabled">Вимкнено</string>
     <string name="text_headset">Навушники</string>

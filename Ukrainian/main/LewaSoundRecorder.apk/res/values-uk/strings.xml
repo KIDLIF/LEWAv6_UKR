@@ -21,9 +21,9 @@
     <string name="audio_db_album_name">Аудіозаписи</string>
     <string name="audio_db_playlist_name">Мої записи</string>
     <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
-    <string name="error_app_internal">Внутрішня помилка програми</string>
+    <string name="error_app_internal">Внутрішня помилка додатка</string>
     <string name="error_mediadb_new_record">Не вдалося зберегти аудіозапис</string>
-    <string name="error_app_recorder_occupied">Диктофон зайнятий іншою програмою</string>
+    <string name="error_app_recorder_occupied">Диктофон зайнятий іншим додатком</string>
     <string name="unknown_artist_name">Невідомий виконавець</string>
     <string name="error_app_failed_title">Помилка запису</string>
     <string name="tell_save_record_success">Збережено</string>
@@ -62,7 +62,7 @@
 	
     <string name="tv_prompt">Підказка: натисніть клавішу Додому для програвання запису</string>
     <string name="sounder_file">Запис файлів</string>
-	<string name="filename_to_save">"Ім\'я файла: "</string>
+    <string name="filename_to_save">"Ім\'я файла: "</string>
     <string name="save_confirm">Зберегти</string>
     <string name="cancel_save">Скасувати</string>
     <string name="play_record">Відтворення запису</string>

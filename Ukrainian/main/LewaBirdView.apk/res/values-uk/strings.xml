@@ -23,7 +23,7 @@
     <string name="safe_status_one">Безпечно</string>
     <string name="safe_status_two">дня(ів) без перевірки</string>
     <string name="safe_status_three">Перевірити</string>
-	<string name="operation_choose">Виберіть стиль диспетчера</string>
+    <string name="operation_choose">Виберіть стиль диспетчера</string>
     <string name="pre_operation_mode">Попередній перегляд</string>
     <string name="left_sliding">&lt;&lt; Закріпити</string>
     <string name="right_sliding">Закріпити &gt;&gt;</string>

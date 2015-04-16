@@ -18,7 +18,7 @@
     <string name="label_data_left">Залишилося</string>
     <string name="label_data_used">Використано</string>
     <string name="label_partner">Технічна підтримка: Tencent Mobile Manager</string>
-	<string name="usage_data_province">Вибір області</string>
+    <string name="usage_data_province">Вибір області</string>
     <string name="usage_data_city">Вибір міста</string>
     <string name="usage_data_carrier">Вибір оператора</string>
     <string name="usage_data_brand">Вибір типу SIM</string>

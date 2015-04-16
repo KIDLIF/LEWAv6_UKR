@@ -369,7 +369,7 @@
         <item>10 сек</item>
         <item>Інше...</item>
     </string-array>
-	<string-array name="pref_auto_clean_notificion_mms_entries">
+    <string-array name="pref_auto_clean_notificion_mms_entries">
         <item>Через 30 днів</item>
         <item>Через 20 днів</item>
         <item>Через 10 днів</item>

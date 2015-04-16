@@ -14,7 +14,7 @@
     <string name="note_pull_down">Вниз для оновлення</string>
     <string name="note_release_refresh">Перевірка оновлення</string>
     <string name="note_refresh_loading">Оновлення</string>
-    <string name="update_waiting">Збір даних, почекайте…</string>
+    <string name="update_waiting">Збір даних, зачекайте…</string>
     <string name="no_network">Перевірте підключення до мережі</string>
     <string name="no_data">Даруйте, немає даних</string>
     <string name="request_fail">Даруйте, не вдалося отримати дані</string>
@@ -57,7 +57,7 @@
     <string name="taday">Сьогодні</string>
     <string name="tomorrow">Завтра</string>
     <string name="time">Час</string>
-	<string name="time_4x2">Час</string>
+    <string name="time_4x2">Час</string>
     <string name="lunar">Місячний</string>
     <string name="weather_no_data">Немає даних</string>
     <string name="weather_unknown">Невідомо</string>
@@ -69,7 +69,7 @@
     <string name="pressure_unit"> гПа</string>
     <string name="visibility_unit"> км</string>
     <string name="no_more_city_add">Не можна додати більше міст</string>
-	<string name="already_city_add">Додано повторні міста</string>
+    <string name="already_city_add">Додано повторні міста</string>
     <string name="fields_add_fail">Можна додати не більше 4</string>
     <string name="latest">У вас вже останні дані</string>
     <string name="fields_add_success">“%s” додано</string>
@@ -78,12 +78,12 @@
     <string name="late_night">Пізня ніч</string>
     <string name="before_dawn">Світанок</string>
     <string name="Morning">Ранок</string>
-	<string name="am">AM</string>
+    <string name="am">AM</string>
     <string name="noon">Полудень</string>
     <string name="pm">PM</string>
     <string name="nightfall">Темрява</string>
     <string name="evening">Вечір</string>
-	<string name="app_name_weather_time">Погола</string>
+    <string name="app_name_weather_time">Погола</string>
     <string name="netWorkInvalid">Помилка мережі</string>
     <string name="no_city_data">Не додано міста</string>
     <string name="noWeatherInfo">Немає інформації</string>

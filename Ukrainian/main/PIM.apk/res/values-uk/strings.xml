@@ -8,11 +8,11 @@
    <string name="processing">Обработка</string>
    <string name="download">Завантаження</string>
    <string name="download_fail">Завантаження пакету установки не вдалось</string>
-   <string name="cancel_install_msp">Скасування встановлення додатку</string>
-   <string name="cancel_install_alipay">Скасування встановлення додатку</string>
+   <string name="cancel_install_msp">Скасування встановлення додатка</string>
+   <string name="cancel_install_alipay">Скасування встановлення додатка</string>
    <string name="redo">Повтор</string>
-   <string name="install_msp">Потрібного додатку поки не встановлено</string>
-   <string name="install_alipay">Потрібного додатку поки не встановлено</string>
+   <string name="install_msp">Потрібного додатка поки не встановлено</string>
+   <string name="install_alipay">Потрібного додатка поки не встановлено</string>
    <string name="yulore_superyellowpage_intent_not_found">Операція не вдалась​</string>
    <string name="yulore_superyellowpage_enter_code">Код</string>
    <string name="yulore_superyellowpage_enter_tel">Введіть номер телефону</string>
@@ -97,7 +97,7 @@
 	
 	
 	
-	<string name="dev_info_title">Назва телефону</string>
+    <string name="dev_info_title">Назва телефону</string>
     <string name="dev_info_model">Модель</string>
     <string name="dev_info_version">Версія</string>
     <string name="dev_info_inner_version">Внутрішня версія</string>
@@ -515,7 +515,7 @@
     <string name="account_type_format">Контакт %1$s</string>
     <string name="from_account_format">з %1$s</string>
     <string name="use_photo_as_primary">Використовувати це фото</string>
-    <string name="contact_read_only">Неможливо редагувати з цього додатку</string>
+    <string name="contact_read_only">Неможливо редагувати з цього додатка</string>
     <string name="no_contact_details">Відсутня додаткова інформація про цей контакт.</string>
     <string name="group_read_only">Неможливо редагувати на цьому телефоні.</string>
     <string name="display_options_sort_list_by">Впорядкувати контакти</string>
@@ -830,7 +830,7 @@
     <string name="no_visible_groups">У Вас немає видимих груп</string>
     <string name="no_valid_number_in_group">У цій групі немає контакту з допустимим номером телефону</string>
     <string name="no_valid_email_in_group">У цій групі немає контакту з допустимою адресою ел. пошти</string>
-    <string name="email_error">Необхідно встановити програму електронної пошти або налаштувати обліковий запис!</string>
+    <string name="email_error">Необхідно встановити додаток електронної пошти або налаштувати обліковий запис!</string>
     <string name="send_groupsms_no_number_more">Для кількох контактів %1$s %2$s відсутній допустимий номер телефону.</string>
     <string name="send_groupsms_no_number_1">Для %1$s відсутній допустимий номер телефону</string>
    <string name="send_groupsms_no_number_2">Для %1$s %2$s відсутній допустимий номер телефону</string>
@@ -1010,7 +1010,7 @@
     <string name="yellowpages_detail_error_label">Помилка</string>
     <string name="yellowpages_detail_error_description">Допомога надається за номером телефону</string>
     <string name="label_yellowpages_mark">%s людей відмічено</string>
-	<string name="pref_title_auto_clean_notificion_mms">Автоматично видаляти сповіщення</string>
+    <string name="pref_title_auto_clean_notificion_mms">Автоматично видаляти сповіщення</string>
     <string name="addContactToAutoRecordConfirmation_message">Додати контакт в список автозапису розмов?</string>
     <string name="removeContactFromAutoRecordConfirmation_message">Видалити контакт із списка автозапису розмов?</string>
     <string name="also_open_auto_phone_record">Одночасний запис викликів</string>
@@ -1037,7 +1037,7 @@
     <string name="detail_qq_call">Голосове спілкування (бесплатно по Wi-Fi)</string>
     <string name="detail_chat_app">Wechat</string>
     <string name="detail_chat_hint">IM</string>	
-	<string name="mark_phone_number">Мітка</string>
+    <string name="mark_phone_number">Мітка</string>
     <string name="mark_phone_number_already">Відмічено</string>
     <string name="cancel_mark_phone_number">Отменить метку</string>
     <string name="mark_fraud">Злодій</string>
@@ -1047,19 +1047,19 @@
     <string name="mark_express">Курєр</string>
     <string name="mark_takeout">Не відповідати</string>
     <string name="mark_custom">Створити свій ярлик</string>
-    
-    
-    
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
     <string name="sim_num_no">Скасувати</string>
     <string name="sim_num_ok">ОК</string>
     <string name="sim_num_title">Виберіть число</string>
     <string name="group_name_exceed_limit">"Ім'я групи перевищело розмір"</string>
-	<string name="query_sim_balance_title">Запит</string>
+    <string name="query_sim_balance_title">Запит</string>
     <string name="query_sim_balance_content">Буде відправлено повідомлення оператору для перевірки балансу</string>
     <string name="send_sim_balance_message">Відправка SMS для перевірки балансу</string>
     <string name="not_support_query_sim_balance">Опція не підтримується SIM-картою</string>
@@ -1360,10 +1360,10 @@
     <string name="message_yesterday">Вчора</string>
 	
     <string name="notify_type_message">Сповіщення SMS/MMS</string>
-	<string name="verify_code_type_message">Повідомлення з кодом підтверждення</string>
+    <string name="verify_code_type_message">Повідомлення з кодом підтверждення</string>
     <string name="menu_unread_all">Позначити всі як непереглянуті</string>
     <string name="menu_actionbar_selected_items">%s вибрано</string>
-	<string name="menu_actionbar_selected_items_mms">%s вибрано (до 100)</string>
+    <string name="menu_actionbar_selected_items_mms">%s вибрано (до 100)</string>
     <string name="multichoice_no_select_alert">Не вибрано жодного елементу.</string>
     <string name="pref_summary_notification_enabled">Відображати сповіщення про повідомлення в рядку стану</string>
     <string name="pref_key_sms_realtime_summary_dialog">Автоматично виводити отримані повідомлення у спливаючому вікні</string>
@@ -1494,7 +1494,7 @@
     <string name="banner_sms_promo_title_initial">SMS/MMS не Ваш SMS-додаток</string>
     <string name="banner_sms_promo_title_application">%s Ваш SMS-додаток</string>
     <string name="banner_sms_promo_message">Це можна змінити у налаштуваннях</string>
-	<string name="menu_delete_str">Видалити</string>
+    <string name="menu_delete_str">Видалити</string>
     <string name="menu_transfer_str">Вперед</string>
     <string name="menu_copy_str">Копіювати</string>
     <string name="menu_more_str">Ще</string>
@@ -1517,7 +1517,7 @@
     <string name="progress_mms_title">Передача MMS в процесі</string>
     <string name="progress_mms">Повідомлення: передача MMS...</string>
     <string name="progress_mms_text ">Торкніться для повтору</string>
-	<string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
+    <string name="pref_title_mms_enable_to_send_delivery_reports">Відправка звіту про доставку</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Відправити звіт про доставку при каждому отриманому повідомлені</string>
     <string name="multi_waiting_msg">Очікуваня...</string>
     <string name="menu_print">Друк</string>
@@ -1625,7 +1625,7 @@
     <string name="pref_summary_wappush_sl_autoloading">Автоматично відкривати при отриманні повідомлення про запуск сервісу (SL)</string>
     <string name="create_new_message">Написати повідомлення</string>
     <string name="menu_send_sms">Надіслати повідомлення %s</string>
-	<string name="menu_omacp">Налаштування повідосмлень</string>
+    <string name="menu_omacp">Налаштування повідосмлень</string>
     <string name="menu_undelivered_messages">Недоставлені повідомлення</string>
     <string name="broadcast_from_to">Від %1$s до %2$s</string>
     <string name="anonymous_recipient">Анонім</string>
@@ -1834,7 +1834,7 @@
     <string name="mms_video_message_text">Відео</string>
     <string name="mms_ims_menu_mode_in_call">Режим виклику</string>
     <string name="mms_ims_menu_mode_in_normal">Нормальний режим</string>
-    <string name="mms_ims_open_wait">Відкриваю інформацію, будь ласка, почекайте…</string>
+    <string name="mms_ims_open_wait">Відкриваю інформацію, будь ласка, зачекайте…</string>
     <string name="prefs_ims_service_title">Сервіс безкоштовних повідомлень</string>
     <string name="mms_ims_attachment_type_error">Мультимедійний додаток не підтримує відправку листів LEWA.</string>
     <string name="mms_attachment_type_error">Мультимедійний додаток не підтримує MMS.</string>

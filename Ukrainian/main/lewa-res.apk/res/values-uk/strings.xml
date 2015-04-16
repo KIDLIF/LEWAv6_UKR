@@ -163,7 +163,7 @@
     <string name="lock_screen_drag_here">Перетягніть сюди для розблокування</string>
     <string name="lock_screen_dismiss">Відхилити</string>
     <string name="lock_screen_snooze">Сон</string>
-	<string name="lock_screen_pm">ДП</string>
+    <string name="lock_screen_pm">ДП</string>
     <string name="lock_screen_am">ПП</string>
     <string name="ringtone_custom">Корист.</string>
     <string name="ringtone_silent_summary">Тихий</string>

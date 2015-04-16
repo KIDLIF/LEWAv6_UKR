@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="modes_array">
+    <string-array name="modes_array">
 		<item>Перехоплення викликів і повідомлень</item>
 		<item>Перехоплення викликів</item>
 		<item>Перехоплення повідомлень</item>
 	</string-array>
-	<string-array name="black_items">
+    <string-array name="black_items">
 		<item>Номери для перехоплення</item>
 		<item>Групи для перехоплення</item>
 	</string-array>
-	<string-array name="number_list">
+    <string-array name="number_list">
 		<item>Чорний список</item>
 		<item>Білий список</item>
 	</string-array>
-	<string-array name="block_information_list">
+    <string-array name="block_information_list">
 		<item>Повідомлення</item>
 		<item>Дзвінки</item>
 	</string-array>

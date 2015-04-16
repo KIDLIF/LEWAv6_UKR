@@ -10,7 +10,7 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-	<string-array name="font_size_scheme_label">
+    <string-array name="font_size_scheme_label">
         <item>Величезний</item>
         <item>Великий</item>
         <item>Середній</item>

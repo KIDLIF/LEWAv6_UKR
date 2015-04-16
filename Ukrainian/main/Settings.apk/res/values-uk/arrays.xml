@@ -235,7 +235,7 @@
     <string-array name="usage_stats_display_order_types">
         <item>Час використання</item>
         <item>Підрахувати</item>
-        <item>Назва додатку</item>
+        <item>Назву додатка</item>
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
@@ -515,12 +515,12 @@
         <item>8 сек.</item>
         <item>9 сек.</item>
     </string-array>
-	<string-array name="shake_entries">
+    <string-array name="shake_entries">
         <item>Велика</item>
         <item>Стандартна</item>
         <item>Маленька</item>
     </string-array>
-	<string-array name="bird_hand_entries">
+    <string-array name="bird_hand_entries">
         <item>Під ліву руку</item>
         <item>Під праву руку</item>
         <item>Перемикається</item>

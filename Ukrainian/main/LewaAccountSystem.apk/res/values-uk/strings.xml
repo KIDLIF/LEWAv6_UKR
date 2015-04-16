@@ -3,7 +3,7 @@
     <string name="account_name">Обліковий запис Lewa</string>
     <string name="lewaAccountSystem">Обліковий запис Lewa</string>
     <string name="login_activity_title">%1$s</string>
-	<string name="authorize_login_activity_title">%1$s вхід</string>
+    <string name="authorize_login_activity_title">%1$s вхід</string>
     <string name="login_name_hint">"Введіть ім'я, номер або ел. адрес"</string>
     <string name="login">Увійти</string>
     <string name="register">Реєстрація</string>
@@ -199,7 +199,7 @@
     <string name="dialog_sex_secret">Секрет</string>
     <string name="dialog_age_title">Вказати день народження</string>
     <string name="dialog_age_secret_label">Приватно</string>
-	<string name="test_start">Старт</string>
+    <string name="test_start">Старт</string>
     <string name="test_stop">Стоп</string>
     <string name="test_auto">Авто</string>
     <string name="test_icon">Іконка</string>
@@ -336,14 +336,14 @@ MMS, видалене на пристрої, не видаляється на Х
 Впевнені, що бажаєте продовжити?"</string>
     <string name="cloud_sync_canceled_data_sync">%1$s скасовано, завершено тільки %2$s</string>
     <string name="cloud_immediately_s">Ви впевнені %1$s?</string>
-	<string name="lewa_account_offline_title">Вхід в обліковий запис не здійснено</string>
+    <string name="lewa_account_offline_title">Вхід в обліковий запис не здійснено</string>
     <string name="lewa_account_offline_msg">Вхід в обліковий запис не здійснено, зайдіть</string>
     <string name="lewa_account_offline_login">Вхід в обліковий запис</string>
     <string name="lewa_account_offline_cancel">Скасувати</string>
     <string name="remote_email_error">Невірний адрес ел. пошти</string>
     <string name="remote_email_verified">Адрес ел. пошти не підтверджено</string>
     <string name="remote_unverified_email">Адрес ел. пошти не підтверждено, увійдіть в свою пошту і завершіть перевірку</string>
-	<string name="retrieve_password">Пароль забутий</string>
+    <string name="retrieve_password">Пароль забутий</string>
     <string name="loading">Завантаження...</string>
     <string name="cloud_setting">Налаштування хмари</string>
 </resources>

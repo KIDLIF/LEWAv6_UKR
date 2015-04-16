@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permlab_bluetoothShareManager">Доступ до диспетчеру завантажень</string>
-    <string name="permdesc_bluetoothShareManager">Програма отримає доступ до диспетчеру обміну файлами по Bluetooth і зможе використати його для передачі файлів.</string>
+    <string name="permdesc_bluetoothShareManager">Додаток отримає доступ до диспетчеру обміну файлами по Bluetooth і зможе використати його для передачі файлів.</string>
     <string name="permlab_bluetoothWhitelist">Білий список Bluetooth-пристроїв</string>
-    <string name="permdesc_bluetoothWhitelist">Програма отримає доступ до тимчасового білого списку Bluetooth-пристроїв, на адресу яких дозволено відправлення файлів без підтвердження користувача</string>
+    <string name="permdesc_bluetoothWhitelist">Додаток отримає доступ до тимчасового білого списку Bluetooth-пристроїв, на адресу яких дозволено відправлення файлів без підтвердження користувача</string>
     <string name="permlab_handoverStatus">Стан передачі по Bluetooth</string>
     <string name="permdesc_handoverStatus">Дозволяє отримувати інформацію про стан передачі по Bluetooth</string>
     <string name="bt_share_picker_label">Bluetooth</string>
@@ -59,7 +59,7 @@
     <string name="upload_fail_cancel">Скасувати</string>
     <string name="bt_error_btn_ok">ОК</string>
     <string name="unknown_file">Невідомий файл</string>
-    <string name="unknown_file_desc">"Немає програм для роботи з файлами цього типу. 
+    <string name="unknown_file_desc">"Немає додатків для роботи з файлами цього типу. 
 "</string>
     <string name="not_exist_file">Немає файлу</string>
     <string name="not_exist_file_desc">"Файл не існує. 

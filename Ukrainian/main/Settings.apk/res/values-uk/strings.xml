@@ -12,9 +12,9 @@
     <string name="bluetooth_ftp_profile_summary_connected">Підключено для передачі файлів</string>
     <string name="mtp_transfer_unmount_error_text">SD-картка не може бути розмонтована під час передачі файлів</string>
     <string name="mtp_transfer_erase_error_text">SD-картка не може бути очищена під час передачі файлів</string>
-    <string name="launch_error">Не вдалося запустити програму!</string>
+    <string name="launch_error">Не вдалося запустити додаток!</string>
     <string name="dlg_confirm_unmount_usb_title">Вимкнути USB-накопичувач?</string>
-    <string name="dlg_confirm_unmount_usb_text">Якщо ви відключите USB-накопичувач, деякі програми зупиняться і будуть недоступні, доки ви не підключите USB-накопичувач.</string>
+    <string name="dlg_confirm_unmount_usb_text">Якщо ви відключите USB-накопичувач, деякі додатки зупиняться і будуть недоступні, доки ви не підключите USB-накопичувач.</string>
     <string name="dlg_error_unmount_usb_title" />
     <string name="dlg_error_unmount_usb_text">Не вдається відключити USB-накопичувач. Спробуйте пізніше.</string>
     <string name="unmount_usb_inform_text">USB-накопичувач буде відключений.</string>
@@ -178,7 +178,7 @@
     <string name="mota_system_update_summary">Перевірте оновлення системи на сервері</string>
     <string name="software_updates_more_title">Оновлення програмного забезпечення</string>
     <string name="software_updates_more_summary">Перевірити наявність нової версії програмного забезпечення</string>
-    <string name="software_updates_scomo_summary">Перевірити нову версію програми</string>
+    <string name="software_updates_scomo_summary">Перевірити нову версію додатка</string>
     <string name="scomo_settings_title">Служба оновлення</string>
     <string name="battery_level">%s%%</string>
     <string name="screen_timeout_CU">Час очікування екрану</string>
@@ -254,7 +254,7 @@
     <string name="gemini_3g_modem_switch_confirm_message">На цю SIM-картку будуть підключені послуги 3G. Продовжити? Переконайтеся, що обрана SIM-картка підтримує 3G.</string>
     <string name="gemini_3g_disable_warning">В обраній SIM-картці відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в меню Параметри</string>
     <string name="gemini_3g_disable_warning_cu">В обраній SIM-картці відсутня підтримка послуги 3G. Це може привести до уповільнення завантаження даних. Параметри послуги 3G можна змінити в меню Параметри</string>
-    <string name="gemini_wap_push_permission_head">Після увімкнення служби Auto-push користувач може приймати повідомлення розсилок, піддаючи небезпеці працюючі програми і збільшуючи трафік даних. Зазвичай, служба Auto-push вмикає повідомлення про ел. пошту, керування пристроями, службову індикацію, завантаження служби та забезпечення розсилки.</string>
+    <string name="gemini_wap_push_permission_head">Після увімкнення служби Auto-push користувач може приймати повідомлення розсилок, піддаючи небезпеці працюючі додатки і збільшуючи трафік даних. Зазвичай, служба Auto-push вмикає повідомлення про ел. пошту, керування пристроями, службову індикацію, завантаження служби та забезпечення розсилки.</string>
     <string name="gemini_wap_push_permission_tail">Прийняти цю угоду?</string>
     <string name="gemini_wap_push_permission_title">Угода служби Auto-push</string>
     <string name="gemini_wap_push_permission">Служба Auto-push</string>
@@ -291,8 +291,8 @@
     <string name="gemini_sim_lock_radio_off_message_sim2">SIM2 вимкнена.</string>
     <string name="akp_installer_settings_title">Встановлювач APK</string>
     <string name="akp_installer_settings_summary">Встановіть APK з SD-картки</string>
-    <string name="launch_main_label">Запуск програми</string>
-    <string name="launch_main">Запуск програми за основною дією</string>
+    <string name="launch_main_label">Запуск додатка</string>
+    <string name="launch_main">Запуск додатка за основною дією</string>
     <string name="launch_activitie">Запуск</string>
     <string name="move_app_to_where">Перемістити на: %s</string>
     <string name="wifi_no_cert_for_wapi">Не вдалося знайти сертифікації для поточного з’єднання AP</string>
@@ -345,7 +345,7 @@
     <string name="MobileNetwork_SIM1_Active">SIM1 активна</string>
     <string name="MobileNetwork_SIM2_Active">SIM2 активна</string>
     <string name="dlg_mount_external_sd_title">Підключити SD-картку?</string>
-    <string name="dlg_mount_external_sd_summary">При підключенні SD-картки деякі програми, що використовуються можуть зупинити своє виконання</string>
+    <string name="dlg_mount_external_sd_summary">При підключенні SD-картки деякі додатки, що використовуються можуть зупинити своє виконання</string>
     <string name="tethered_ipv6_title">Налаштування точки доступу і сполучення</string>
     <string name="tethered_ipv6_title_nohotspot">Налаштування роздачі</string>
     <string name="tethered_ipv4v6">(Протокол IPv6 доступний)</string>
@@ -435,7 +435,7 @@
     <string name="beam_share_clear_item_dailog_title">Видалити</string>
     <string name="beam_share_clear_item_dailog_message">Об’єкт буде видалено.</string>
     <string name="nfc_p2p_mode">Режим P2P</string>
-    <string name="nfc_p2p_mode_summary">Відправка або отримання контенту додатку</string>
+    <string name="nfc_p2p_mode_summary">Відправка або отримання контенту додатка</string>
     <string name="nfc_tag_mode_category">Режим тегів</string>
     <string name="nfc_rw_tag_title">Читання та запис тегів</string>
     <string name="nfc_rw_tag_summary">Читання з тегу або запис у тег</string>
@@ -634,11 +634,11 @@
     <string name="bluetooth_show_received_files">Отримані файли</string>
     <string name="device_picker">Вибір Bluetooth-пристрою</string>
     <string name="bluetooth_permission_request">Запит дозволу на увімкнення Bluetooth</string>
-    <string name="bluetooth_ask_enablement">Програма запитує дозвіл увімкнути Bluetooth. Дозволити?</string>
-    <string name="bluetooth_ask_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_lasting_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одній з програм потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement">Додаток запитує дозвіл увімкнути Bluetooth. Дозволити?</string>
+    <string name="bluetooth_ask_discovery">Одному з додатків потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_lasting_discovery">Одному з додатків потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Одному з додатків потрібно, щоб Ваш телефон був видимий для інших пристроїв протягом %1$d сек. Увімкнути Bluetooth?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному з додатків потрібно, щоб Ваш телефон був видимий для інших пристроїв. Увімкнути Bluetooth?</string>
     <string name="bluetooth_turning_on">Увімкнення Bluetooth…</string>
     <string name="bluetooth_turning_off">Вимкнення Bluetooth…</string>
     <string name="bluetooth_auto_connect">Автоматичне підключення</string>
@@ -677,7 +677,7 @@
     <string name="proxy_error_empty_port">У полі адреси порту має бути введене значення.</string>
     <string name="proxy_error_empty_host_set_port">Поле з адресою порту повинно бути залишено порожнім, якщо поле вузла порожнє.</string>
     <string name="proxy_error_invalid_port">Зазначений порт не є дійснии.</string>
-    <string name="proxy_warning_limited_support">HTTP проксі використовується в браузері, але не може використовуватися іншими програмами.</string>
+    <string name="proxy_warning_limited_support">HTTP проксі використовується в браузері, але не може використовуватися іншими додатками.</string>
     <string name="radio_info_signal_location_label">Розташування:</string>
     <string name="radio_info_neighboring_location_label">Найближчі CID:</string>
     <string name="radio_info_cellinfo_label">Індекс мережі:</string>
@@ -793,7 +793,7 @@
     <string name="crypt_keeper_encrypt_title">Зашифрувати пристрій</string>
     <string name="crypt_keeper_encrypt_summary">Запит PIN-коду або пароля для дешифрування при кожному увімкненні</string>
     <string name="crypt_keeper_encrypted_summary">Зашифроване</string>
-    <string name="crypt_keeper_desc">"Шифрування доступно для облікових записів, налаштувань, завантажених програм та їх даних, а також для мультимедійних та інших файлів. Після шифрування даних при кожному вмиканні пристрою необхідно буде вводити PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб вимкнути шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені. 
+    <string name="crypt_keeper_desc">"Шифрування доступно для облікових записів, налаштувань, завантажених додатків та їх даних, а також для мультимедійних та інших файлів. Після шифрування даних при кожному вмиканні пристрою необхідно буде вводити PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб вимкнути шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені. 
 
 Шифрування триватиме не менше однієї години. Перед його запуском необхідно приєднати зарядний пристрій і не вимикати його до закінчення операції. У разі переривання шифрування будуть втрачені всі дані або їх частина"</string>
     <string name="crypt_keeper_button_text">Зашифрувати пристрій</string>
@@ -969,11 +969,11 @@
     <string name="android_beam_off_summary">Вимкнено</string>
     <string name="android_beam_disabled_summary">Недоступне, так як вимкнений зв’язок малого радіусу дії</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_explained">"Коли увімкнена ця функція, дані програм можна передавати на інші пристрої з підтримкою зв’язку малого радіусу дії. Наприклад, відправляти сторінки браузера, відео з YouTube, контакти та інші відомості. 
+    <string name="android_beam_explained">"Коли увімкнена ця функція, дані додатка можна передавати на інші пристрої з підтримкою зв’язку малого радіусу дії. Наприклад, відправляти сторінки браузера, відео з YouTube, контакти та інші відомості. 
 
 Просто розташуйте пристрої поблизу (наприклад, вирівняйте їх задні панелі) і торкніться екрану. Передані дані залежать від додатка"</string>
     <string name="nsd_quick_toggle_title">Виявлення мережевих служб</string>
-    <string name="nsd_quick_toggle_summary">Дозволяє програмам на інших пристроях виявляти програми на цьому пристрої</string>
+    <string name="nsd_quick_toggle_summary">Дозволяє додаткам на інших пристроях виявляти додатки на цьому пристрої</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">Увімкнути Wi-Fi</string>
     <string name="wifi_settings">Wi-Fi</string>
@@ -1307,14 +1307,14 @@
     <string name="memory_clear_cache_message">Це призведе до видалення кешу усіх додатків</string>
     <string name="mtp_ptp_mode_summary">MTP або PTP мережа активна</string>
     <string name="dlg_confirm_unmount_title">Вимкнути SD-картку?</string>
-    <string name="dlg_confirm_unmount_text">Якщо вимкнути SD-картку, деякі програми перестануть працювати і можуть залишатися недоступними до її підключення.</string>
+    <string name="dlg_confirm_unmount_text">Якщо вимкнути SD-картку, деякі додатки перестануть працювати і можуть залишатися недоступними до її підключення.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">Не вдалося вимкнути SD-картку. Повторіть спробу пізніше</string>
     <string name="unmount_inform_text">SD-картка буде вимкнена.</string>
     <string name="sd_ejecting_title">Витягання</string>
     <string name="sd_ejecting_summary">Виконується витягання</string>
     <string name="storage_low_title">Закінчується вільне місце</string>
-    <string name="storage_low_summary">Деякі системні функції (наприклад, синхронізація) можуть працювати неправильно. Спробуйте звільнити простір. Для цього видаліть або приберіть з офлайн-перегляду програми та мультимедійний контент.</string>
+    <string name="storage_low_summary">Деякі системні функції (наприклад, синхронізація) можуть працювати неправильно. Спробуйте звільнити простір. Для цього видаліть або приберіть з офлайн-перегляду додатка та мультимедійний контент.</string>
     <string name="storage_menu_usb">USB-підключення до комп’ютера</string>
     <string name="storage_title_usb">USB-підключення до комп’ютера</string>
     <string name="usb_connection_category">Як підключити</string>
@@ -1370,8 +1370,8 @@
     <string name="master_clear_desc">"Будуть видалені всі дані з внутрішньої пам’яті пристрою, в тому числі:
 
 "<li>Обліковий запис Google</li>"
-"<li>Системні дані, програми і параметри</li>"
-"<li>Завантажені програми</li></string>
+"<li>Системні дані, додатки і параметри</li>"
+"<li>Завантажені додатки</li></string>
     <string name="master_clear_accounts">"\u0009
 
 В даний час Ви виконали вхід в такі акаунти:
@@ -1384,7 +1384,7 @@
     <string name="erase_external_storage">Очистити SD</string>
     <string name="erase_external_storage_description">Видалити з SD всі дані, в тому числі музику і фотографії</string>
     <string name="master_clear_button_text">Скидання налаштувань</string>
-    <string name="master_clear_final_desc">Видалити усю особисту інформацію та завантажені програми без можливості відновлення?</string>
+    <string name="master_clear_final_desc">Видалити усю особисту інформацію та завантажені додатки без можливості відновлення?</string>
     <string name="master_clear_final_button_text">Стерти всі</string>
     <string name="master_clear_gesture_prompt">Накреслити графічний ключ</string>
     <string name="master_clear_gesture_explanation">Для підтвердження скидання налаштувань необхідно накреслити графічний ключ</string>
@@ -1425,10 +1425,10 @@
     <string name="network_settings_title">Мобільна мережа</string>
     <string name="location_title">Моє розташування</string>
     <string name="location_network_based">За координатами мережі</string>
-    <string name="location_neighborhood_level">Дозволити програмам використовувати Wi-Fi і мобільні мережі для визначення приблизного розташування</string>
+    <string name="location_neighborhood_level">Дозволити додаткам використовувати Wi-Fi і мобільні мережі для визначення приблизного розташування</string>
     <string name="location_neighborhood_level_wifi">Місце розташування визначається з допомогою Wi-Fi</string>
     <string name="location_gps">Супутники GPS</string>
-    <string name="location_street_level">Дозволити програмам використовувати GPS для точного визначення місцезнаходження</string>
+    <string name="location_street_level">Дозволити додаткам використовувати GPS для точного визначення місцезнаходження</string>
     <string name="assisted_gps">Використовувати A-GPS</string>
     <string name="assisted_gps_enabled">Використовувати сервер для функції A-GPS (зняти прапорець для зниження мережевого трафіку)</string>
     <string name="assisted_gps_disabled">Використовувати сервер для функції A-GPS (зняти прапорець для покращення швидкодії GPS)</string>
@@ -1495,18 +1495,18 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторіть спробу через %d с.</string>
     <string name="activity_not_found">Додаток не встановлений</string>
     <string name="manageapplications_settings_title">Керування додатками</string>
-    <string name="manageapplications_settings_summary">Керування встановленими програмами та їх видалення</string>
+    <string name="manageapplications_settings_summary">Керування встановленими додатками та їх видалення</string>
     <string name="applications_settings">Додатки</string>
     <string name="applications_settings_summary">Керування додатками, створення ярликів швидкого запуску</string>
-    <string name="applications_settings_header">Налаштування програми</string>
+    <string name="applications_settings_header">Налаштування додатка</string>
     <string name="install_applications">Невідомі джерела</string>
     <string name="install_unknown_applications">Дозволити встановлення додатків не лише з Google Play Маркету</string>
-    <string name="install_all_warning">"Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що ви несете повну відповідальність за шкоду, заподіяну телефону, і втрати даних, пов'язані з використанням цих програм."</string>
+    <string name="install_all_warning">"Ваші особисті дані і дані телефону більш уразливі для атак додатків з невідомих джерел. Ви погоджуєтеся з тим, що ви несете повну відповідальність за шкоду, заподіяну телефону, і втрати даних, пов'язані з використанням цих додатків."</string>
     <string name="verify_applications">Перевіряти додатки</string>
     <string name="verify_applications_summary">Заборонити встановлення додатків, які можуть спричинити шкоду пристрою, або попереджувати про них</string>
     <string name="advanced_settings">Додатково</string>
     <string name="advanced_settings_summary">Увімкнути додаткові налаштування</string>
-    <string name="application_info_label">Про програму</string>
+    <string name="application_info_label">Про додаток</string>
     <string name="storage_label">"Пам'ять"</string>
     <string name="auto_launch_label">Запуск за замовчуванням</string>
     <string name="auto_launch_label_generic">За замовчуванням</string>
@@ -1535,7 +1535,7 @@
     <string name="clear_activities">Видалити налаштування за замовчуванням</string>
     <string name="screen_compatibility_text">Можливо, додаток не призначений для вашого екрану. Тут можна налаштувати параметри його відображення.</string>
     <string name="ask_compatibility">Запитувати під час запуску</string>
-    <string name="enable_compatibility">Масштабувати програми</string>
+    <string name="enable_compatibility">Масштабувати додатками</string>
     <string name="unknown">Невідомо</string>
     <string name="sort_order_alpha">Сортувати за іменем</string>
     <string name="sort_order_size">Сортувати за розміром</string>
@@ -1545,12 +1545,12 @@
     <string name="reset_app_preferences_title">Скинути налаштування?</string>
     <string name="reset_app_preferences_desc">"Буде скинуто наступні налаштування:
 
- "<li>Блоковані програми</li>"
- "<li>Блоковані повідомлення програм</li>"
- "<li>Типові дії для програм</li>"
- "<li>Обмеження другорядних даних для програм</li>"
+ "<li>Блоковані додатки</li>"
+ "<li>Блоковані повідомлення додатків</li>"
+ "<li>Типові дії для додатків</li>"
+ "<li>Обмеження другорядних даних для додатків</li>"
 
- Дані програм не видалятимуться."</string>
+ Дані додатків не видалятимуться."</string>
     <string name="reset_app_preferences_button">Так</string>
     <string name="manage_space_text">"Керування пам'яттю"</string>
     <string name="filter">Фільтр</string>
@@ -1561,19 +1561,19 @@
     <string name="filter_apps_onsdcard">На SD-картці</string>
     <string name="disabled">Вимкнено</string>
     <string name="not_installed">Не встановлено</string>
-    <string name="no_applications">Немає програм</string>
+    <string name="no_applications">Немає додатків</string>
     <string name="internal_storage">"Внутрішня пам'ять"</string>
     <string name="sd_card_storage">SD-картка</string>
     <string name="recompute_size">Повторне обчислення розміру…</string>
-    <string name="clear_data_dlg_title">Видалити дані програми?</string>
-    <string name="clear_data_dlg_text">Всі дані цієї програми будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, облікові записи тощо</string>
+    <string name="clear_data_dlg_title">Видалити дані додатка?</string>
+    <string name="clear_data_dlg_text">Всі дані цього додатка будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, облікові записи тощо</string>
     <string name="dlg_ok">ОК</string>
     <string name="dlg_cancel">Скасувати</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">Додаток не знайдено у списку встановлених</string>
     <string name="clear_data_failed">Дані не видалені</string>
     <string name="app_factory_reset_dlg_title">Видалити оновлення?</string>
-    <string name="app_factory_reset_dlg_text">Всі оновлення для програми будуть видалені</string>
+    <string name="app_factory_reset_dlg_text">Всі оновлення для додатка будуть видалені</string>
     <string name="clear_failed_dlg_title">Стерти дані</string>
     <string name="clear_failed_dlg_text">Не вдалося видалити дані</string>
     <string name="security_settings_desc">У цього додатка є доступ до наступної інформації на пристрої:</string>
@@ -1586,7 +1586,7 @@
     <string name="security_settings_premium_sms_desc">Відправити SMS?</string>
     <string name="computing_size">Обчислення…</string>
     <string name="invalid_size_value">Не вдалося обчислити розмір пакета</string>
-    <string name="empty_list_msg">Немає програм сторонніх розробників</string>
+    <string name="empty_list_msg">Немає додатків сторонніх розробників</string>
     <string name="version_text">Версія %1$s</string>
     <string name="move_app">Перемістити</string>
     <string name="move_app_to_internal">Перемістити у телефон</string>
@@ -1598,13 +1598,13 @@
     <string name="invalid_location">Неприпустиме місце встановлення</string>
     <string name="system_package">Системні оновлення можна встановити на зовнішньому носії</string>
     <string name="force_stop_dlg_title">Примусова зупинка</string>
-    <string name="force_stop_dlg_text">Примусове закриття програми може відбитися на його функціональності</string>
+    <string name="force_stop_dlg_text">Примусове закриття додатка може відбитися на його функціональності</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Не вдалося перемістити додаток %1$s</string>
     <string name="app_install_location_title">Рекомендоване місце встановлення</string>
-    <string name="app_install_location_summary">Зміна бажаного місця установки для нових програм</string>
+    <string name="app_install_location_summary">Зміна бажаного місця установки для нових додатків</string>
     <string name="app_disable_dlg_title">Вимкнути додаток?</string>
-    <string name="app_disable_dlg_text">Вимкнення вбудованої служби може порушити роботу інших програм</string>
+    <string name="app_disable_dlg_text">Вимкнення вбудованої служби може порушити роботу інших додатків</string>
     <string name="app_special_disable_dlg_title">Вимкнути?</string>
     <string name="app_special_disable_dlg_text">Якщо вимкнути вбудований додаток, інші додатки можуть працювати неправильно. Окрім того, будуть видалені всі дані.</string>
     <string name="app_disable_notifications_dlg_title">Вимкнути повідомлення?</string>
@@ -1628,7 +1628,7 @@
     <string name="running_processes_item_description_s_p">%1$d процес та %2$d сервіси</string>
     <string name="running_processes_item_description_p_s">%1$d процеси та %2$d сервіс</string>
     <string name="running_processes_item_description_p_p">%1$d процеси та %2$d сервіси</string>
-    <string name="runningservicedetails_settings_title">Запущена програма</string>
+    <string name="runningservicedetails_settings_title">Запущений додаток</string>
     <string name="no_services">Неактивний</string>
     <string name="runningservicedetails_services_title">Служби</string>
     <string name="runningservicedetails_processes_title">Процеси</string>
@@ -1696,7 +1696,7 @@
     <string name="testing_battery_info">Інформація про батарею</string>
     <string name="testing_sim_toolkit">Меню SIM</string>
     <string name="quick_launch_title">Швидкий запуск</string>
-    <string name="quick_launch_summary">Налаштування гарячих клавіш для запуску програм</string>
+    <string name="quick_launch_summary">Налаштування гарячих клавіш для запуску додатків</string>
     <string name="quick_launch_assign_application">Призначити додаток</string>
     <string name="quick_launch_no_shortcut">Немає ярлика</string>
     <string name="quick_launch_shortcut">Пошук в %1$s</string>
@@ -1734,15 +1734,15 @@
     <string name="allow_mock_location">Фіктивні розташування</string>
     <string name="allow_mock_location_summary">Дозволити використання фіктивних розташуваннь</string>
     <string name="adb_warning_title">Дозволити налагодження по USB?</string>
-    <string name="adb_warning_message">"Налагодження по USB призначене лише для розробників. Воно використовується для копіювання даних між комп'ютером і пристроєм, встановлення програм на пристрій без попередження та читання даних журналу."</string>
+    <string name="adb_warning_message">"Налагодження по USB призначене лише для розробників. Воно використовується для копіювання даних між комп'ютером і пристроєм, встановлення додатків на пристрій без попередження та читання даних журналу."</string>
     <string name="dev_settings_warning_title">Зміна налаштувань</string>
-    <string name="dev_settings_warning_message">Тільки для розробників. Зміна цих параметрів може призвести до збоїв або неправильної роботи приcтрою та програм.</string>
+    <string name="dev_settings_warning_message">Тільки для розробників. Зміна цих параметрів може призвести до збоїв або неправильної роботи приcтрою та додатків.</string>
     <string name="verify_apps_over_usb_title">Встановлення через USB</string>
     <string name="verify_apps_over_usb_summary">Перевіряти безпечніть додатків, що встановлюються через ADB/ADT</string>
     <string name="enforce_read_external_title">Захистити SD-картку</string>
     <string name="enforce_read_external_summary">Запитувати дозвіл для читання даних з SD-картки</string>
     <string name="enforce_read_external_confirm_title">Захистити SD-картку?</string>
-    <string name="enforce_read_external_confirm_message">"Якщо SD-картка захищена, програми повинні запитувати дозвіл для зчитування даних з неї. 
+    <string name="enforce_read_external_confirm_message">"Якщо SD-картка захищена, додатки повинні запитувати дозвіл для зчитування даних з неї. 
 
 Деякі функції можуть не працювати. В цьому випадку дочекайтеся, поки вони не оновляться."</string>
     <string name="gadget_picker_title">Вибір гаджету</string>
@@ -1806,7 +1806,7 @@
     <string name="accessibility_no_services_installed">Немає встановлених служб</string>
     <string name="accessibility_service_no_apps_title">Потрібно читання з екрану?</string>
     <string name="accessibility_service_no_apps_message">"Додаток TalkBack забезпечує мовний зворотній зв'язок для допомоги користувачам з вадами зору. Встановити це додаток з Android Market (безкоштовно)?"</string>
-    <string name="accessibility_script_injection_security_warning_summary">Дозволити програмам встановлювати сценарії від Google, які зроблять свій веб-вміст доступнішим?</string>
+    <string name="accessibility_script_injection_security_warning_summary">Дозволити додаткам встановлювати сценарії від Google, які зроблять свій веб-вміст доступнішим?</string>
     <string name="accessibility_service_default_description">Опис не наведено.</string>
     <string name="settings_button">Налаштування</string>
     <string name="power_usage_summary_title">Батарея</string>
@@ -1852,8 +1852,8 @@
     <string name="usage_type_on_time">Час роботи</string>
     <string name="usage_type_no_coverage">Час відсутності сигналу</string>
     <string name="battery_action_stop">Зупинити</string>
-    <string name="battery_action_app_details">Про програму</string>
-    <string name="battery_action_app_settings">Налаштування програми</string>
+    <string name="battery_action_app_details">Про додаток</string>
+    <string name="battery_action_app_settings">Налаштування додатка</string>
     <string name="battery_action_display">Налаштування екрану</string>
     <string name="battery_action_wifi">Налаштування Wi-Fi</string>
     <string name="battery_action_bluetooth">Налаштування Bluetooth</string>
@@ -1870,8 +1870,8 @@
     <string name="battery_sugg_bluetooth_headset">Спробуйте підключитися до іншого Bluetooth-пристрою</string>
     <string name="battery_desc_apps">Споживання батареї додатками</string>
     <string name="battery_sugg_apps_info">Зупиніть або видаліть додаток</string>
-    <string name="battery_sugg_apps_gps">Вмикайте і вимикайте GPS вручну, щоб програми не могли використовувати цю функцію</string>
-    <string name="battery_sugg_apps_settings">Програма може мати налаштування режиму економії батареї</string>
+    <string name="battery_sugg_apps_gps">Вмикайте і вимикайте GPS вручну, щоб додатки не могли використовувати цю функцію</string>
+    <string name="battery_sugg_apps_settings">Додаток може мати налаштування режиму економії батареї</string>
     <string name="battery_desc_users">Споживання батареї</string>
     <string name="menu_stats_unplugged">"%1$s з моменту від'єднання від живлення"</string>
     <string name="menu_stats_last_unplugged">З моменту останнього вимкнення %1$s</string>
@@ -1890,7 +1890,7 @@
     <string name="tts_settings">Налаштування синтезу мови з тексту</string>
     <string name="tts_settings_title">Синтез мови</string>
     <string name="use_default_tts_settings_title">Тільки мої налаштування</string>
-    <string name="use_default_tts_settings_summary">Налаштування за замовчуванням перевизначають налаштування програм</string>
+    <string name="use_default_tts_settings_summary">Налаштування за замовчуванням перевизначають налаштування додатків</string>
     <string name="tts_default_settings_section">Налаштування за замовчуванням</string>
     <string name="tts_default_synth_title">Система за замовчуванням</string>
     <string name="tts_default_synth_summary">Вибір системи синтезу мови за промовчанням</string>
@@ -1972,11 +1972,11 @@
     <string name="backup_section_title">Резервне копіювання та відновлення</string>
     <string name="personal_data_section_title">Особисті дані</string>
     <string name="backup_data_title">Резервне копіювання даних</string>
-    <string name="backup_data_summary">Резервне копіювання даних програм, паролів Wi-Fi та інших параметрів на сервера Google</string>
+    <string name="backup_data_summary">Резервне копіювання даних додатків, паролів Wi-Fi та інших параметрів на сервера Google</string>
     <string name="backup_configure_account_title">Резервне копіювання запису</string>
     <string name="backup_configure_account_default_summary">Немає облікового запису що зберігає в цей момент дані резервної копії</string>
     <string name="auto_restore_title">Автоматичне відновлення</string>
-    <string name="auto_restore_summary">В разі перевстановлення програми відновлювати резервну копію параметрів і даних</string>
+    <string name="auto_restore_summary">В разі перевстановлення додатка відновлювати резервну копію параметрів і даних</string>
     <string name="local_backup_password_title">Пароль для резервних копій</string>
     <string name="local_backup_password_summary_none">Повні резервні копії робочого столу в даний час не захищені</string>
     <string name="local_backup_password_summary_change">Оберіть для зміни або видалення пароля для повних резервних копій робочого столу</string>
@@ -2042,8 +2042,8 @@
     <string name="background_data">Фоновий режим</string>
     <string name="background_data_summary">Синхронізація, відправка та отримання даних завжди доступні</string>
     <string name="background_data_dialog_title">Вимкнути фоновий режим?</string>
-    <string name="background_data_dialog_message">Вимкнення фонового режиму обміну даними економить заряд батареї і зменшує обсяг трафіку, однак деякі програми можуть використовувати цей режим навіть після його відключення</string>
-    <string name="sync_automatically">Синхронізувати дані програм</string>
+    <string name="background_data_dialog_message">Вимкнення фонового режиму обміну даними економить заряд батареї і зменшує обсяг трафіку, однак деякі додатки можуть використовувати цей режим навіть після його відключення</string>
+    <string name="sync_automatically">Синхронізувати дані додатків</string>
     <string name="sync_enabled">Синхронізація увімкнена</string>
     <string name="sync_disabled">Синхронізація вимкнена</string>
     <string name="sync_error">Помилка синхронізації</string>
@@ -2069,7 +2069,7 @@
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Видалити обліковий запис?</string>
     <string name="really_remove_account_message">"Видалення облікового запису призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
-    <string name="remove_account_failed">Обліковий запис потрібен для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (це знищить всі особисті дані). Це можна зробити в розділі \"Налаштування > \"Резервне копіювання та відновлення\"</string>
+    <string name="remove_account_failed">Обліковий запис потрібен для доступу до деяких додатків. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (це знищить всі особисті дані). Це можна зробити в розділі \"Налаштування > \"Резервне копіювання та відновлення\"</string>
     <string name="provider_label">Підписка на розсилки оператора</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Не вдалося синхронізувати дані</string>
@@ -2087,10 +2087,10 @@
     <string name="hdcp_checking_title">Перевірка HDCP</string>
     <string name="hdcp_checking_dialog_title">Порядок перевірки HDCP</string>
     <string name="debug_debugging_category">Налагодження</string>
-    <string name="debug_app">Вибір програми налагодження</string>
+    <string name="debug_app">Вибір додатка налагодження</string>
     <string name="debug_app_not_set">Додаток не обрано</string>
     <string name="debug_app_set">Додаток для відладки: %1$s</string>
-    <string name="select_application">Оберіть програми</string>
+    <string name="select_application">Оберіть додатки</string>
     <string name="no_application">Нічого</string>
     <string name="wait_for_debugger">Очікування відладчика</string>
     <string name="wait_for_debugger_summary">"Додаток очікує з'єднання з відладчиком перед запуском"</string>
@@ -2138,7 +2138,7 @@
     <string name="immediately_destroy_activities_summary">Знищувати всі дії при виході користувача</string>
     <string name="app_process_limit_title">Обмеження фонових процесів</string>
     <string name="show_all_anrs">Показати всі ANR</string>
-    <string name="show_all_anrs_summary">Показувати всі діалоги ANR (додаток не відповідає) для фонових програм</string>
+    <string name="show_all_anrs_summary">Показувати всі діалоги ANR (додаток не відповідає) для фонових додатків</string>
     <string name="data_usage_summary_title">Мобільний трафік</string>
     <string name="data_usage_cycle">Цикл використання трафіку</string>
     <string name="data_usage_menu_roaming">Передача даних в роумінгу</string>
@@ -2150,7 +2150,7 @@
     <string name="data_usage_menu_auto_sync">Автосинхронізація даних</string>
     <string name="data_usage_change_cycle">Змінити цикл…</string>
     <string name="data_usage_pick_cycle_day">День місяця для скидання циклу використанняи трафіку:</string>
-    <string name="data_usage_empty">Немає програм, що використовують трафік в цей період.</string>
+    <string name="data_usage_empty">Немає додатків, що використовують трафік в цей період.</string>
     <string name="data_usage_label_foreground">Пріоритетний трафік</string>
     <string name="data_usage_label_background">Фоновий трафік</string>
     <string name="data_usage_app_restricted">доступ обмежений</string>
@@ -2169,14 +2169,14 @@
     <string name="data_usage_enable_mobile">Мобільний трафік</string>
     <string name="data_usage_enable_3g">2G-3G-трафік</string>
     <string name="data_usage_enable_4g">4G-трафік</string>
-    <string name="data_usage_app_settings">Переглянути параметри програми.</string>
+    <string name="data_usage_app_settings">Переглянути параметри додатка.</string>
     <string name="data_usage_app_restrict_background">Обмежити фоновий трафік</string>
     <string name="data_usage_app_restrict_background_summary">Заборона фонових даних мобільних мереж. Буде вимкнено, якщо є Wi-Fi.</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Для обм.фон.траф.,спочатку потрібно задати ліміт моб.трафіку.</string>
     <string name="data_usage_app_restrict_dialog_title">Обмежити фоновий трафік?</string>
-    <string name="data_usage_app_restrict_dialog">"Якщо немає доступу до Wi-Fi, ця функція може призупинити програми, що використовують фоновий режим. 
+    <string name="data_usage_app_restrict_dialog">"Якщо немає доступу до Wi-Fi, ця функція може призупинити додатки, що використовують фоновий режим. 
 
-Відповідні параметри можна знайти в налаштуваннях цих програм."</string>
+Відповідні параметри можна знайти в налаштуваннях цих додатків."</string>
     <string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливо тільки за умови лімітування мобільного трафіку.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Увімкнути автосинхронизацію?</string>
     <string name="data_usage_auto_sync_on_dialog">"Всі зміни, внесені до облікових записів на комп'ютері, будуть автоматично скопійовані на телефон. 
@@ -2196,7 +2196,7 @@
 
 Щоб уникнути додаткових витрат намагайтеся не наближатись до цього ліміту, оскільки оператор і ваш телефон можуть по-різному враховувати трафік."</string>
     <string name="data_usage_restrict_background_title">Обмежити фоновий трафік?</string>
-    <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі по мобільній мережі, деякі програми і служби не будуть працювати без підключення до мережі Wi-Fi.</string>
+    <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі по мобільній мережі, деякі додатки і служби не будуть працювати без підключення до мережі Wi-Fi.</string>
     <string name="data_usage_restrict_background_multiuser">"В разі заборони передачі даних у фоновому режимі, деякі додатки та служби можуть не працювати, доки Ви не підключитесь до мережі Wi-Fi.
 
 Це стосуватиметься усіх користувачів цього телефону."</string>
@@ -2204,13 +2204,13 @@
 "<font size="12">увага</font></string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">Ліміт</font></string>
-    <string name="data_usage_uninstalled_apps">Видалені програми</string>
+    <string name="data_usage_uninstalled_apps">Видалені додатки</string>
     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
     <string name="data_usage_received_sent">Отримано: %1$s</string>
     <string name="data_usage_total_during_range">Трафік за період %2$s: %1$s</string>
     <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафік, підрахований пристроєм). Дані оператора можуть відрізнятися.</string>
     <string name="data_usage_metered_title">Точки доступу до мобільної мережі</string>
-    <string name="data_usage_metered_body">"Оберіть мережі Wi-Fi з тарифікацією трафіку. Можливо, програми не зможуть використовувати їх для роботи у фоновому режимі. Крім того, перш ніж завантажити великий обсяг даних, може з'явитись попередження."</string>
+    <string name="data_usage_metered_body">"Оберіть мережі Wi-Fi з тарифікацією трафіку. Можливо, додатки не зможуть використовувати їх для роботи у фоновому режимі. Крім того, перш ніж завантажити великий обсяг даних, може з'явитись попередження."</string>
     <string name="data_usage_metered_mobile">Мобільні мережі</string>
     <string name="data_usage_metered_wifi">Мережі Wi-Fi</string>
     <string name="data_usage_metered_wifi_disabled">Щоб обрати точку доступу, увімкніть Wi-Fi</string>
@@ -2493,8 +2493,8 @@
     <string name="hifi_on_title">Як увімкнути Hi-Fi?</string>
     <string name="hifi_on_msg">Коли під’єднані навушники, зайдіть у Налаштування/Звук і увімкніть там опцію Hi-Fi</string>
     <string name="hifi_quicksetting_msg">Перш ніж насолодитись Hi-Fi-звуком під’єднайте навушники!</string>
-    <string name="uep_detail">Програма досвідчених користувачів спрямована на поліпшення досвіду використання мобільної системи та призначена для розробників, щоби вони могли створювати принципово нові продукти та покращити якість існуючих сервісів</string>
-    <string name="participate_uep">Участь у програмі</string>
+    <string name="uep_detail">Додаток досвідчених користувачів спрямована на поліпшення досвіду використання мобільної системи та призначена для розробників, щоби вони могли створювати принципово нові продукти та покращити якість існуючих сервісів</string>
+    <string name="participate_uep">Участь у додатку</string>
     <string name="uep_title">Досвідчений користувач</string>
     <string name="privacy_policy">Политіка конфіденційності</string>
     <string name="agreement_title">Сервісна угода</string>
@@ -2711,11 +2711,11 @@
     <string name="lw_dialog_reboot_cancel">Скасувати</string>
     <string name="lock_screen_message">Відображати повідомлення</string>
     <string name="lock_screen_message_summary">Відображення на локскріні повідомлень, інформації про виклики</string>
-	<string name="bird_hand_title">Режим під праву або ліву руку</string>
+    <string name="bird_hand_title">Режим під праву або ліву руку</string>
     <string name="lewa_applock_title">Блокування додатків</string>
     <string name="lewa_applock_summary">Необхідно вказати пароль перед блокуванням</string>
-	<string name="locale_language_en">Англійска</string>
-	<string name="locale_language_zh_cn">Китайська (скор.)</string>
+    <string name="locale_language_en">Англійска</string>
+    <string name="locale_language_zh_cn">Китайська (скор.)</string>
     <string name="locale_language_zh_tw">Китайська</string>
     <string name="wizard_language_setting">Вибір мови</string>
     <string name="wizard_network_setting">Вибір мережі</string>
@@ -3069,6 +3069,6 @@
     <string name="flip_2_mute_summary">Доступ до додаткових налаштувань</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калібрування G-сенсору/акселерометру</string>
-	<string name="two_finger_update_brightness">Зміна яскравості 2 пальцями</string>
+    <string name="two_finger_update_brightness">Зміна яскравості 2 пальцями</string>
     <string name="two_finger_update_brightness_description">Зміна яскравості проводячи двома пальцями верх або вниз</string>
 </resources>

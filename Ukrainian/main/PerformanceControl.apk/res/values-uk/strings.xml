@@ -142,7 +142,7 @@
     <string name="sh_msg">Залиште порожнім щоб нічого невиконувалось</string>
     <string name="clear">Очистити</string>
     <string name="yes">Так</string>
-    <string name="wait">Будь ласка, почекайте…</string>
+    <string name="wait">Будь ласка, зачекайте…</string>
     <string name="prefcat_wipe_cache">КЕШ і DALVIK КЕШ</string>
     <string name="wipe_cache_title">Очистити кеш і dalvik кэш</string>
     <string name="ps_wipe_cache">"Розділ Кеш: %s"</string>

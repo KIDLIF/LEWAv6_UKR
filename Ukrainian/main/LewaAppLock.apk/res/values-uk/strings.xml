@@ -55,7 +55,7 @@
     <string name="lockpattern_change_lock_pin_label">Змінити PIN-код разблокування</string>
     <string name="lockpattern_need_to_unlock">Накресліть існуючий ключ</string>
 	
-	<string name="lockpattern_need_to_unlock_wrong">Повторіть спробу:</string>
+    <string name="lockpattern_need_to_unlock_wrong">Повторіть спробу:</string>
 	
     <string name="lockpattern_recording_intro_header">Накресліть графічний ключ</string>
     <string name="lockpattern_recording_intro_footer">Для довідки виберіть \"Меню\"</string>

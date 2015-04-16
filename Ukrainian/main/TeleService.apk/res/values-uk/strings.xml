@@ -307,7 +307,7 @@
     <string name="voice_command_notification_message">Голосове управління увімкнено</string>
     <string name="callFailed_simError_cdma">Немає UIM/SIM або помилка UIM/SIM</string>
     <string name="callFailed_simError">SIM-картку не встановлено або помилка SIM-картки</string>
-	<string name="callFailed_simError_title">Помилка SIM-карти</string>
+    <string name="callFailed_simError_title">Помилка SIM-карти</string>
     <string name="callFailed_simError_slotNumber">Немає SIM-картки або помилка SIM-картки в слоті %d</string>
     <string name="callFailed_cdma_notEmergency">Тільки екстрені</string>
     <string name="buttonTxtContinue">Продовжити</string>
@@ -363,7 +363,7 @@
 Наступний період починається через %2$d дн. (%3$s)"</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="emergencyDialerIconLabel">Екстрений виклик</string>
-	<string name="emergencyCall">Екстрений виклик</string>
+    <string name="emergencyCall">Екстрений виклик</string>
     <string name="emergency_119_name">Пожарна</string>
     <string name="emergency_110_name">Міліція</string>
     <string name="emergency_120_name">Центр спасіння</string>
@@ -957,7 +957,7 @@
     <string name="delete_select_auto_record_contacts">Видалення вибраних контактів</string>
     <string name="delete_select_auto_record_contacts_confirm">Ви бажаєте видалити вибрані контакти зі списку автозапису викликів?</string>
     <string name="deleting">Видалення......</string>
-	<string name="importing_record_contact">Імпорт обраних контактів...</string>
+    <string name="importing_record_contact">Імпорт обраних контактів...</string>
     <string name="select_contacts_existed_in_auto_record_contacts_list">Обрані контакти вже в списку</string>
     <string name="input_contacts_existed_in_auto_record_contacts_list">Обраний контакт вже в списку</string>
 </resources>

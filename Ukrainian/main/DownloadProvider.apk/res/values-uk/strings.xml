@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="download_title">Завантаження</string>
-	<string name="cancel">Скасувати</string>
-	<string name="ok">OK</string>
-	<string name="download_file_already_exist">Файл вже існує, перезаписати?</string>
-	<string name="notification_download_complete_op01">Файл збережений до:</string>
-	<string name="app_label">Диспетчер завантаження</string>
-	<string name="permlab_downloadManager">Доступ до менеджера завантажень</string>
-	<string name="permdesc_downloadManager">Додаток отримає доступ до менеджера завантажень і зможе завантажувати файли через нього. Шкідливі програми зможуть у такий спосіб переривати завантаження і переглядати особисту інформацію</string>
-	<string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантажень</string>
-	<string name="permdesc_downloadManagerAdvanced">Додаток отримає доступ до розширених функцій менеджера завантажень. Шкідливі програми зможуть у такий спосіб переривати завантаження і переглядати особисту інформацію</string>
-	<string name="permlab_downloadCompletedIntent">Відправлення сповіщення про завантаження</string>
-	<string name="permdesc_downloadCompletedIntent">Додаток зможе надсилати сповіщення про завершення завантаження. Шкідливі програми зможуть у такий спосіб заважати роботі додатків, що завантажують файли</string>
-	<string name="permlab_seeAllExternal">Перегляд всіх завантажень на SD-карті</string>
-	<string name="permdesc_seeAllExternal">Додаток отримає доступ до завантажень на SD-карті незалежно від того, через яку програму вони були завантажені</string>
-	<string name="permlab_downloadCacheNonPurgeable">Резервування місця в кеші</string>
-	<string name="permdesc_downloadCacheNonPurgeable">Додаток зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджеру завантажень потрібно більше місця</string>
-	<string name="permlab_downloadWithoutNotification">Завантаження файлів без сповіщення</string>
-	<string name="permdesc_downloadWithoutNotification">Додаток зможе завантажувати файли через диспетчер завантажень без повідомлення користувача</string>
-	<string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
-	<string name="permdesc_accessAllDownloads">Додаток зможе відкривати і змінювати завантаження незалежно від того, через яку програму вони були завантажені</string>
-	<string name="download_unknown_title">&lt;Без назви></string>
-	<string name="notification_filename_separator">", "</string>
-	<string name="notification_filename_extras">" і ще %d"</string>
-	<string name="notification_download_complete">Завантаження завершено</string>
-	<string name="notification_download_failed">Не вдалося завантажити файл</string>
-	<string name="notification_need_wifi_for_size">Завантаження лише по Wi-Fi</string>
-	<string name="notification_paused_in_background">Завантаження припинено</string>
-	<string name="wifi_required_title">Занадто великий файл для завантаження через 2G/3G</string>
-	<string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s необхідно підключення до мережі Wi-Fi. 
+    <string name="download_title">Завантаження</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ok">OK</string>
+    <string name="download_file_already_exist">Файл вже існує, перезаписати?</string>
+    <string name="notification_download_complete_op01">Файл збережений до:</string>
+    <string name="app_label">Диспетчер завантаження</string>
+    <string name="permlab_downloadManager">Доступ до менеджера завантажень</string>
+    <string name="permdesc_downloadManager">Додаток отримає доступ до менеджера завантажень і зможе завантажувати файли через нього. Шкідливі додатки зможуть у такий спосіб переривати завантаження і переглядати особисту інформацію</string>
+    <string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантажень</string>
+    <string name="permdesc_downloadManagerAdvanced">Додаток отримає доступ до розширених функцій менеджера завантажень. Шкідливі додатки зможуть у такий спосіб переривати завантаження і переглядати особисту інформацію</string>
+    <string name="permlab_downloadCompletedIntent">Відправлення сповіщення про завантаження</string>
+    <string name="permdesc_downloadCompletedIntent">Додаток зможе надсилати сповіщення про завершення завантаження. Шкідливі додатки зможуть у такий спосіб заважати роботі додатків, що завантажують файли</string>
+    <string name="permlab_seeAllExternal">Перегляд всіх завантажень на SD-карті</string>
+    <string name="permdesc_seeAllExternal">Додаток отримає доступ до завантажень на SD-карті незалежно від того, через який додаток вони були завантажені</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервування місця в кеші</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Додаток зможе завантажувати файли в кеш завантаження (який не може бути автоматично очищений), якщо менеджеру завантажень потрібно більше місця</string>
+    <string name="permlab_downloadWithoutNotification">Завантаження файлів без сповіщення</string>
+    <string name="permdesc_downloadWithoutNotification">Додаток зможе завантажувати файли через диспетчер завантажень без повідомлення користувача</string>
+    <string name="permlab_accessAllDownloads">Доступ до всіх завантажень</string>
+    <string name="permdesc_accessAllDownloads">Додаток зможе відкривати і змінювати завантаження незалежно від того, через який додаток вони були завантажені</string>
+    <string name="download_unknown_title">&lt;Без назви></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" і ще %d"</string>
+    <string name="notification_download_complete">Завантаження завершено</string>
+    <string name="notification_download_failed">Не вдалося завантажити файл</string>
+    <string name="notification_need_wifi_for_size">Завантаження лише по Wi-Fi</string>
+    <string name="notification_paused_in_background">Завантаження припинено</string>
+    <string name="wifi_required_title">Занадто великий файл для завантаження через 2G/3G</string>
+    <string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s необхідно підключення до мережі Wi-Fi. 
 
 Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s"</string>
-	<string name="wifi_recommended_title">Поставити до черги для завантаження пізніше?</string>
-	<string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Також не виключено перевищення трафіку і, як результат, збільшення витрат. 
+    <string name="wifi_recommended_title">Поставити до черги для завантаження пізніше?</string>
+    <string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Також не виключено перевищення трафіку і, як результат, збільшення витрат. 
 
 Щоб виконати завантаження пізніше через Wi-Fi, натисніть %s"</string>
-	<string name="button_queue_for_wifi">Додати до черги</string>
-	<string name="button_cancel_download">Скасувати</string>
-	<string name="button_start_now">Запустити</string>
-	<string name="download_percent">%d%%</string>
-	<string name="notification_title">%1$d завдання завантажується</string>
-	<string name="notification_title_pause">%1$d завдання призупинено</string>
-	<string name="notification_info_pause">Пауза</string>
-	<string name="notification_info_wait_for_retry">Очікування перепідключення</string>
-	<string name="notification_info_wait_for_network">Очікування мережі</string>
-	<string name="notification_info_wait_for_wlan">Очікування Wi-Fi</string>
-	<string name="notification_info_peding">Очікування</string>
-	<string name="notification_info_fail">Помилка</string>
-	<string name="notification_info_sdcard_insufficient_space_error">Недостатньо місця на SD-карті</string>
+    <string name="button_queue_for_wifi">Додати до черги</string>
+    <string name="button_cancel_download">Скасувати</string>
+    <string name="button_start_now">Запустити</string>
+    <string name="download_percent">%d%%</string>
+    <string name="notification_title">%1$d завдання завантажується</string>
+    <string name="notification_title_pause">%1$d завдання призупинено</string>
+    <string name="notification_info_pause">Пауза</string>
+    <string name="notification_info_wait_for_retry">Очікування перепідключення</string>
+    <string name="notification_info_wait_for_network">Очікування мережі</string>
+    <string name="notification_info_wait_for_wlan">Очікування Wi-Fi</string>
+    <string name="notification_info_peding">Очікування</string>
+    <string name="notification_info_fail">Помилка</string>
+    <string name="notification_info_sdcard_insufficient_space_error">Недостатньо місця на SD-карті</string>
     <string name="notification_info_insufficient_space_error">Недостатньо місця у внутрішньому сховищі</string>
-	<string name="notification_info_insufficient_space_error">Недостатньо місця</string>
+    <string name="notification_info_insufficient_space_error">Недостатньо місця</string>
 </resources>

@@ -169,7 +169,7 @@
     <string name="permdesc_accessAllDownloads">Додаток зможе відкривати і змінювати завантаження незалежно від того, через який додаток вони були завантажені</string>
     <string name="download_unknown_title">&lt;Без назви></string>
 	
-	<string name="notification_filename_extras">" і ще %d"</string>
+    <string name="notification_filename_extras">" і ще %d"</string>
     <string name="notification_download_complete">Завантаження завершено</string>
     <string name="notification_download_failed">Не вдалося завантажити файл</string>
     <string name="notification_need_wifi_for_size">Завантаження тільки по Wi-Fi</string>
@@ -331,8 +331,8 @@
     <string name="start_backup">Початок бекапу</string>
     <string name="start_restore">Початок відновлення</string>
     <string name="title_restore">Відновлення</string>
-    <string name="backup_service_is_error">Помилка програми!</string>
-    <string name="restore_service_is_error">Помилка програми!</string>
+    <string name="backup_service_is_error">Помилка додатка!</string>
+    <string name="restore_service_is_error">Помилка додатка!</string>
     <string name="backup_restore_prompt">Не перезавантажуйте і не вимикайте пристрій</string>
     <string name="backuping">Бекап</string>
     <string name="backup_doing">Створення бекапу</string>

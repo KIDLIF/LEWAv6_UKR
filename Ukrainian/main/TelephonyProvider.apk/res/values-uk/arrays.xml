@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="default_quick_texts">
+    <string-array name="default_quick_texts">
 		<item>Ти де?</item>
 		<item>Що робиш?</item>
 		<item>Терміново подзвони мені!</item>

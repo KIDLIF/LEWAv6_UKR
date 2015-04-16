@@ -292,7 +292,7 @@
     <string name="hqa_cpustress_name">Стрес тест CPU</string>
     <string name="hqa_cpustress_toast_load_notsupport">Навантаження не підтримується</string>
     <string name="hqa_cpustress_dialog_waiting_title">Очікування</string>
-    <string name="hqa_cpustress_dialog_waiting_message">Будь ласка, почекайте, для отримання статусу...</string>
+    <string name="hqa_cpustress_dialog_waiting_message">Будь ласка, зачекайте, для отримання статусу...</string>
     <string name="hqa_cpustress_dialog_error_title">Помилка</string>
     <string name="hqa_cpustress_dialog_error_message">ІД діалогового вікна неправильно</string>
     <string name="hqa_cpustress_toast_mode">Будь ласка, виберіть режим</string>
@@ -494,7 +494,7 @@
     <string name="raw_type_dailog_title">Вст. Raw тип</string>
     <string name="flicker_dailog_title">Вст. Стабілізації дрижання</string>
     <string name="iso_dailog_title">Вибір ISO</string>
-    <string name="full_scan_tip">Сканування, будь ласка, почекайте......</string>
+    <string name="full_scan_tip">Сканування, будь ласка, зачекайте......</string>
     <string name="sdcard_error_tip">Будь ласка, переконайтеся, що sdcard доступна!</string>
     <string name="camera_help_msg">"Feature name: Camera.
 
@@ -736,7 +736,7 @@ ISO item used to set camera’s iso value.
     <string name="BT_exit_em">SSP Debug mode is open, exit EngineerMode Bluetooth test.</string>
     <string name="BT_deinit">Please wait for Bluetooth to deinit ...</string>
     <string name="BT_data_fail">Transmit data failed, please try again.</string>
-    <string name="BT_tx_test">Тестова операція в процесі, будь ласка, почекайте ...</string>
+    <string name="BT_tx_test">Тестова операція в процесі, будь ласка, зачекайте ...</string>
     <string name="BT_no_sig_rx_fail">Немає сигналу, rx тест не виконано.</string>
     <string name="BT_0x6620">6620</string>
     <string name="BT_0x6622">6622</string>
@@ -990,7 +990,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="USB_IF_Proto_AUUT_Text">A-UUT</string>
     <string name="USB_IF_Proto_BUUT_Text">B-UUT</string>
     <string name="USB_IF_TD5_9_Text">TD5.9</string>
-    <string name="USB_IF_stop">Зупиняю, будь ласка, почекайте ...</string>
+    <string name="USB_IF_stop">Зупиняю, будь ласка, зачекайте ...</string>
     <string name="USB_Ex_Test_Text">Додатковий тест</string>
     <string name="USB_EX_ITEM1_Text">TEST_SE0_NAK</string>
     <string name="USB_EX_ITEM2_Text">TEST_J</string>
