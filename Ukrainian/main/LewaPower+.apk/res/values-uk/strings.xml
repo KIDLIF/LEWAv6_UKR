@@ -4,8 +4,8 @@
     <string name="config_initial_charge_times_usb">74, 74, 74, 74, 74, 74, 74, 74, 74, 64, 169, 169, 129, 190, 230, 150, 180, 190, 150, 170, 210, 138, 89, 89, 150, 169, 150, 140, 150, 150, 160, 160, 160, 170, 130, 100, 259, 100, 149, 200, 199, 140, 180, 170, 100, 200, 70, 140, 99, 100, 79, 170, 160, 150, 140, 200, 160, 150, 179, 180, 88, 210, 179, 150, 179, 110, 200, 169, 160, 130, 190, 179, 70, 150, 60, 60, 210, 170, 150, 160, 160, 169, 150, 169, 159, 170, 150, 160, 149, 179, 169, 149, 138, 140, 70, 130, 110, 80, 330, 200, 3446</string>
     <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">Батарея+</string>
-    <string name="spm_notification_tag_title">Поради щодо керування живленням:</string>
-    <string name="spm_notification_low_power_title">Коли рівень заряду батареї буде нижчий за %s пристрій автоматично перейде у режим економії енергії</string>
+    <string name="spm_notification_tag_title">Підказки:</string>
+    <string name="spm_notification_low_power_title">Коли рівень заряду батареї стане нижчий за %s, пристрій автоматично перейде у режим економії енергії</string>
     <string name="spm_notification_sleep_time_title">Автоматичний режим сну, економія енергії під час сну</string>
     <string name="dev_bluetooth">Bluetooth</string>
     <string name="dev_gps">GPS</string>

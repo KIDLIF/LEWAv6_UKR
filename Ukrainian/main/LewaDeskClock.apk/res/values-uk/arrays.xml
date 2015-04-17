@@ -2,7 +2,7 @@
 <resources>
     <string-array name="snooze_time">
         <item>5 хвилин</item>
-        <item>10 хвилин (за замовчуванням)</item>
+        <item>10 хвилин (по замовчуванню)</item>
         <item>15 хвилин</item>
         <item>20 хвилин</item>
         <item>30 хвилин</item>

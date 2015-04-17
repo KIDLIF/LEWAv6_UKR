@@ -56,7 +56,7 @@
     <string name="volume_button_setting_title">Гучність</string>
     <string name="volume_button_dialog_title">Функція клавіш</string>
     <string name="volume_button_setting_summary">Визначити функцію цієї клавіші під час дзвінка будильника</string>
-    <string name="default_ringtone_setting_title">Встановити мелодію дзвінка за замовчуванням</string>
+    <string name="default_ringtone_setting_title">Встановити мелодію дзвінка по замовчуванню</string>
     <string name="alarm_button_description">Будильник</string>
     <string name="gallery_button_description">Галерея</string>
     <string name="music_button_description">Музика</string>
@@ -126,7 +126,7 @@
     <string name="alarm_hour">год.</string>
     <string name="alarm_minute">хв.</string>
     <string name="alarm_second">с.</string>
-    <string name="snooze_time_summary">10 хвилин (за замовчуванням)</string>
+    <string name="snooze_time_summary">10 хвилин (по замовчуванню)</string>
     <string name="snooze_time">Відкласти</string>
     <string name="snooze_minutes">" хвилин"</string>
     <string name="one_count">лише один раз</string>

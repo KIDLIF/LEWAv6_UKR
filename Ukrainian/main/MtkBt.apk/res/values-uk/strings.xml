@@ -45,9 +45,9 @@
     <string name="toast_connect_fail">Помилка з\'єднання</string>
     <string name="toast_get_printer_attr_fail">Помилка отримання сумісності принтера</string>
     <string name="toast_get_printer_attr">Отримую інформацію про сумісність</string>
-    <string name="toast_get_default_value">Отримати налаштування за замовчуванням</string>
+    <string name="toast_get_default_value">Отримати налаштування по замовчуванню</string>
     <string name="print">друк</string>
-    <string name="get_default_value">Налаштування за замовчуванням</string>
+    <string name="get_default_value">Налаштування по замовчуванню</string>
     <string name="paper_size">Розмір паперу</string>
     <string name="number_of_copies">Кількість копій</string>
     <string name="sides">Налаштування полів</string>

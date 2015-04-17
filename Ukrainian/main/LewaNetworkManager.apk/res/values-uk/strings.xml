@@ -37,7 +37,7 @@
     <string name="usage_adjust_success">Успішна синхронізація</string>
     <string name="usage_adjust_failure">Помилка синхронізації</string>
     <string name="usage_adjust_later">Синхронізувати пізніше</string>
-    <string name="usage_default">SIM-карта за замовчуванням</string>
+    <string name="usage_default">SIM-карта по замовчуванню</string>
     <string name="detail_title">Подробиці використання</string>
     <string name="ranking_title">Контроль</string>
     <string name="firewall_title">Міжмережевий екран</string>

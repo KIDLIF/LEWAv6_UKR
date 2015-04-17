@@ -35,7 +35,7 @@
     <string name="agps_str_allow">Дозволити</string>
     <string name="agps_str_deny">Відхилити</string>
     <string name="agps_str_error">Помилка</string>
-    <string name="AGPS_DEFAULT_STRING">Рядок A-GPS за замовчуванням</string>
+    <string name="AGPS_DEFAULT_STRING">Рядок A-GPS по замовчуванню</string>
     <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Помилка підключення до мережі</string>
     <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Неприпустимий PUSH-вміст</string>
     <string name="AGPS_CAUSE_NOT_SUPPORTED">Операція не підтримується</string>
@@ -147,13 +147,13 @@
     <string name="silent_settings_title">Без звуку</string>
     <string name="meeting_settings_title">Нарада</string>
     <string name="outdoor_settings_title">Вулиця</string>
-    <string name="apn_predefine_change_dialog_notice">Ви впевнені, що хочете зберегти? Зміна налаштувань за замовчуванням може викликати проблеми з підключенням!</string>
+    <string name="apn_predefine_change_dialog_notice">Ви впевнені, що хочете зберегти? Зміна налаштувань по замовчуванню може викликати проблеми з підключенням!</string>
     <string name="sound_category_feedback_title">Система</string>
     <string name="sound_category_calls_title">Вхідні дзвінки</string>
     <string name="voice_call_title">Мелодія дзвінка голосового виклику</string>
-    <string name="voice_call_summary">Встановлення мелодії дзвінка для вхідних голосових викликів за замовчуванням</string>
+    <string name="voice_call_summary">Встановлення мелодії дзвінка для вхідних голосових викликів по замовчуванню</string>
     <string name="video_call_title">Мелодія дзвінка відеовиклику</string>
-    <string name="video_call_summary">Встановлення мелодії дзвінка для вхідних відеовикликів за замовчуванням</string>
+    <string name="video_call_summary">Встановлення мелодії дзвінка для вхідних відеовикликів по замовчуванню</string>
     <string name="sip_call_title">Мелодія SIP-виклику</string>
     <string name="sip_call_summary">Встановлення мелодії для SIP-виклику</string>
     <string name="Phone_vibrate_summary">Вібрація під час вхідного виклику</string>
@@ -198,7 +198,7 @@
     <string name="hdmi_replace_mhl">MHL</string>
     <string name="display_settings_scences_title">Сцени</string>
     <string name="mtk_thememanager_title">Тема</string>
-    <string name="default_name">За замовчуванням</string>
+    <string name="default_name">По замовчуванню</string>
     <string name="custom_theme_name">Нова [%1$s]</string>
     <string name="loading">Завантаження…</string>
     <string name="sim_enter_pin_hints">(Введіть 4-8 цифр)</string>
@@ -214,7 +214,7 @@
     <string name="drm_reset_dialog_msg">Ця дія призведе до видалення всіх ліцензій на цьому пристрої. Продовжити?</string>
     <string name="drm_reset_toast_msg">Ліцензії успішно видалені.</string>
     <string name="gemini_sim_info_title">Інформація про SIM-картки</string>
-    <string name="gemini_default_sim_title">SIM-картка за замовчуванням</string>
+    <string name="gemini_default_sim_title">SIM-картка по замовчуванню</string>
     <string name="gemini_general_settings_title">Загальні налаштування</string>
     <string name="gemini_roaming_settings_title">Роумінг</string>
     <string name="gemini_data_roaming_title">Передача даних в роумінгу</string>
@@ -333,7 +333,7 @@
     <string name="schedule_power_on_off_settings_title">Планувальник живлення</string>
     <string name="usb_bicr_title">Вбудований CD-ROM</string>
     <string name="usb_bicr_summary">Показати віртуальний CD-ROM з корисним програмним забезпеченням</string>
-    <string name="select_memory">Використовувати за замовчуванням</string>
+    <string name="select_memory">Використовувати по замовчуванню</string>
     <string name="ipo_title">Швидке завантаження</string>
     <string name="ipo_summary_on">Швидке завантаження вимкнено</string>
     <string name="ipo_summary_off">Швидке завантаження увімкнено</string>
@@ -363,7 +363,7 @@
     <string name="wifi_ap_wps_dialog_title">Підключення WPS</string>
     <string name="wifi_ap_wps_mode_title">Режим WPS</string>
     <string name="wifi_ap_wps_pin_title">Уведіть PIN-код клієнта</string>
-    <string name="wifi_ap_reset_OOB_title">Відновити налаштування мережі за замовчуванням: SSID, захист та пароль (заводські параметри WPS)</string>
+    <string name="wifi_ap_reset_OOB_title">Відновити налаштування мережі по замовчуванню: SSID, захист та пароль (заводські параметри WPS)</string>
     <string name="wifi_ap_reset_OOB">Зкинути OOB</string>
     <string name="wifi_ap_max_connection_title">Максимальна кількість підключень</string>
     <string name="wifi_ap_connected_title">Підключені користувачі</string>
@@ -487,7 +487,7 @@
     <string name="apn_port_warning">Значення порту повинно бути від 1 до 65535!</string>
     <string name="usb_tethering_select_version">Оберіть версію ОС комп’ютера</string>
     <string name="oobe_sim_info_title">Керування SIM</string>
-    <string name="oobe_default_sim_title">Встановити SIM за замовчуванням</string>
+    <string name="oobe_default_sim_title">Встановити SIM по замовчуванню</string>
     <string name="clear_motion_summary">Покращення плавності відео</string>
     <string name="clear_motion_title">ClearMotionTM</string>
     <string name="wifi_hotspot_suspend_optimizations">Оптимізація Wi-Fi-модему</string>
@@ -651,7 +651,7 @@
     <string name="date_and_time">Налаштування дати і часу</string>
     <string name="choose_timezone">Вибір часового поясу</string>
     <string name="default_date_format">dd.MM.yyyy</string>
-    <string name="normal_date_format">За замовчуванням ( %s)</string>
+    <string name="normal_date_format">По замовчуванню ( %s)</string>
     <string name="display_preview_label">Попередній перегляд:</string>
     <string name="display_font_size_label">Розмір тексту:</string>
     <string name="intent_sender_data_label">Дані:</string>
@@ -666,7 +666,7 @@
     <string name="proxy_port_hint">8080</string>
     <string name="proxy_exclusionlist_label">Не використовувати проксі для</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_defaultView_text">Налаштування за замовчуванням</string>
+    <string name="proxy_defaultView_text">Налаштування по замовчуванню</string>
     <string name="proxy_action_text">Готово</string>
     <string name="proxy_hostname_label">Ім’я хоста проксі-сервера</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -1362,9 +1362,9 @@
     <string name="error_apn_empty">Необхідно вказати точку доступу</string>
     <string name="error_mcc_not3">Поле MCC має містити 3 цифри</string>
     <string name="error_mnc_not23">Поле MNC повинно містити 2 або 3 цифри</string>
-    <string name="restore_default_apn">Відновлення налаштувань точок доступу за замовчуванням</string>
-    <string name="menu_restore">Налаштування за замовчуванням</string>
-    <string name="restore_default_apn_completed">Налаштування за замовчуванням відновлені</string>
+    <string name="restore_default_apn">Відновлення налаштувань точок доступу по замовчуванню</string>
+    <string name="menu_restore">Налаштування по замовчуванню</string>
+    <string name="restore_default_apn_completed">Налаштування по замовчуванню відновлені</string>
     <string name="master_clear_title">Скидання налаштувань</string>
     <string name="master_clear_summary">Повернення до заводських налаштувань і видалення всіх даних з пам’яті телефону.</string>
     <string name="master_clear_desc">"Будуть видалені всі дані з внутрішньої пам’яті пристрою, в тому числі:
@@ -1508,8 +1508,8 @@
     <string name="advanced_settings_summary">Увімкнути додаткові налаштування</string>
     <string name="application_info_label">Про додаток</string>
     <string name="storage_label">"Пам'ять"</string>
-    <string name="auto_launch_label">Запуск за замовчуванням</string>
-    <string name="auto_launch_label_generic">За замовчуванням</string>
+    <string name="auto_launch_label">Запуск по замовчуванню</string>
+    <string name="auto_launch_label_generic">По замовчуванню</string>
     <string name="screen_compatibility_label">Сумісність екрану</string>
     <string name="permissions_label">Дозволи</string>
     <string name="cache_header_label">Кеш</string>
@@ -1529,10 +1529,10 @@
     <string name="enable_text">Увімкнути</string>
     <string name="clear_user_data_text">Стерти дані</string>
     <string name="app_factory_reset">Видалити оновлення</string>
-    <string name="auto_launch_enable_text">Цей додаток за замовчуванням використовується для деяких дій</string>
+    <string name="auto_launch_enable_text">Цей додаток по замовчуванню використовується для деяких дій</string>
     <string name="always_allow_bind_appwidgets_text">Ви дозволили цим додатком створювати віджети і отримувати доступ до даних</string>
-    <string name="auto_launch_disable_text">Значення за замовчуванням не встановлені</string>
-    <string name="clear_activities">Видалити налаштування за замовчуванням</string>
+    <string name="auto_launch_disable_text">Значення по замовчуванню не встановлені</string>
+    <string name="clear_activities">Видалити налаштування по замовчуванню</string>
     <string name="screen_compatibility_text">Можливо, додаток не призначений для вашого екрану. Тут можна налаштувати параметри його відображення.</string>
     <string name="ask_compatibility">Запитувати під час запуску</string>
     <string name="enable_compatibility">Масштабувати додатками</string>
@@ -1670,7 +1670,7 @@
     <string name="keyboard_layout_dialog_title">Розкладка клавіатури</string>
     <string name="keyboard_layout_dialog_setup_button">Налаштування розкладок клавіатури</string>
     <string name="keyboard_layout_dialog_switch_hint">Для зміни натисніть CTRL + Пробіл</string>
-    <string name="keyboard_layout_default_label">За замовчуванням</string>
+    <string name="keyboard_layout_default_label">По замовчуванню</string>
     <string name="keyboard_layout_picker_title">Розкладка клавіатури</string>
     <string name="user_dict_settings_titlebar">Словник користувача</string>
     <string name="user_dict_single_settings_title">Користувацький словник</string>
@@ -1708,7 +1708,7 @@
     <string name="quick_launch_display_mode_shortcuts">Ярлики</string>
     <string name="input_methods_settings_title">Введення тексту</string>
     <string name="input_method">Спосіб введення</string>
-    <string name="current_input_method">За замовчуванням</string>
+    <string name="current_input_method">По замовчуванню</string>
     <string name="input_method_selector">Вибір способу введення</string>
     <string name="input_method_selector_show_automatically_title">Автоматично</string>
     <string name="input_method_selector_always_show_title">Завжди показувати</string>
@@ -1890,9 +1890,9 @@
     <string name="tts_settings">Налаштування синтезу мови з тексту</string>
     <string name="tts_settings_title">Синтез мови</string>
     <string name="use_default_tts_settings_title">Тільки мої налаштування</string>
-    <string name="use_default_tts_settings_summary">Налаштування за замовчуванням перевизначають налаштування додатків</string>
-    <string name="tts_default_settings_section">Налаштування за замовчуванням</string>
-    <string name="tts_default_synth_title">Система за замовчуванням</string>
+    <string name="use_default_tts_settings_summary">Налаштування по замовчуванню перевизначають налаштування додатків</string>
+    <string name="tts_default_settings_section">Налаштування по замовчуванню</string>
+    <string name="tts_default_synth_title">Система по замовчуванню</string>
     <string name="tts_default_synth_summary">Вибір системи синтезу мови за промовчанням</string>
     <string name="tts_default_rate_title">Швидкість мови</string>
     <string name="tts_default_rate_summary">Швидкість читання тексту</string>
@@ -1924,7 +1924,7 @@
     <string name="tts_notif_engine_install_title">Модуль синтезу мови встановлений</string>
     <string name="tts_notif_engine_install_message">Увімкніть новий модуль</string>
     <string name="tts_engine_settings_button">Налаштування синтезу мови з тексту</string>
-    <string name="tts_engine_preference_section_title">Система за замовчуванням</string>
+    <string name="tts_engine_preference_section_title">Система по замовчуванню</string>
     <string name="tts_general_section_title">Загальні</string>
     <string name="gadget_title">Керування живленням</string>
     <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
@@ -2069,7 +2069,7 @@
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Видалити обліковий запис?</string>
     <string name="really_remove_account_message">"Видалення облікового запису призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
-    <string name="remove_account_failed">Обліковий запис потрібен для доступу до деяких додатків. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (це знищить всі особисті дані). Це можна зробити в розділі \"Налаштування > \"Резервне копіювання та відновлення\"</string>
+    <string name="remove_account_failed">Обліковий запис потрібен для доступу до деяких додатків. Щоб видалити його, потрібно відновити на пристрої налаштування по замовчуванню (це знищить всі особисті дані). Це можна зробити в розділі \"Налаштування > \"Резервне копіювання та відновлення\"</string>
     <string name="provider_label">Підписка на розсилки оператора</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Не вдалося синхронізувати дані</string>
@@ -2404,7 +2404,7 @@
     <string name="success_msg">Вітання! Ви вивчили Класичну модель.</string>
     <string name="remeber_head">"Запам'ятайте"</string>
     <string name="remeber_tail">перетягнути уліво</string>
-    <string name="default_gprs_title">Оберіть SIM-картку за замовчуванням для GPRS</string>
+    <string name="default_gprs_title">Оберіть SIM-картку по замовчуванню для GPRS</string>
     <string name="could_modify_in_simmanagement">Можна змінити у керуванні SIM-картками</string>
     <string name="sim_china_mobile">CMCC</string>
     <string name="sim_china_telecom">CTCC</string>
@@ -2600,8 +2600,8 @@
     <string name="thumb_search_msg">З допомогою пошуку жестами Ви можете користуватись інтелектуальним пошуком необхідної інформації в браузері</string>
     <string name="internal_storage_title">"Внутрішня пам'ять"</string>
     <string name="calculate_size">Підрахунок місця для очищення …</string>
-    <string name="memory_preferred">За замовчуванням</string>
-    <string name="default_memory_title">"Пам'ять за замовчуванням"</string>
+    <string name="memory_preferred">По замовчуванню</string>
+    <string name="default_memory_title">"Пам'ять по замовчуванню"</string>
     <string name="phone_memory_title">"Пам'ять пристрою"</string>
     <string name="memory_others">Інші</string>
     <string name="sdcard_storage_title">SD-картка</string>
@@ -2714,7 +2714,7 @@
     <string name="bird_hand_title">Режим під праву або ліву руку</string>
     <string name="lewa_applock_title">Блокування додатків</string>
     <string name="lewa_applock_summary">Необхідно вказати пароль перед блокуванням</string>
-    <string name="locale_language_en">Англійска</string>
+    <string name="locale_language_en">Англійська</string>
     <string name="locale_language_zh_cn">Китайська (скор.)</string>
     <string name="locale_language_zh_tw">Китайська</string>
     <string name="wizard_language_setting">Вибір мови</string>
@@ -2762,8 +2762,8 @@
     <string name="hdmi_notification_title">HDMI-кабель підключений</string>
     <string name="hdmi_notification_content">Клікніть для налаштування HDMI</string>
     <string name="gemini_data_connection_and_video_call">"З'єднання для передачі даних"</string>
-    <string name="data_default_sim_title">Дані за замовчуванням</string>
-    <string name="voice_sms_default_sim_title">Виклик/SMS за замовчуванням</string>
+    <string name="data_default_sim_title">Дані по замовчуванню</string>
+    <string name="voice_sms_default_sim_title">Виклик/SMS по замовчуванню</string>
     <string name="show_dev_countdown">Ви майже досягли мети. Лишилося декілька кроків: %1$d.</string>
     <string name="bluetooth_visibility">Виявлення дозволено</string>
     <string name="bluetooth_not_discoverable">Дозволити виявлення пристрою</string>
@@ -2997,7 +2997,7 @@
     <string name="save_theme">Збереження теми</string>
     <string name="save_theme_message">Зберегти поточну тему?</string>
     <string name="saving_theme">Збереження теми…</string>
-    <string name="default_theme">за замовчуванням</string>
+    <string name="default_theme">по замовчуванню</string>
     <string name="preload_theme">Презавантаженняа</string>
     <string name="external_theme">зовнішня</string>
     <string name="switch_theme_warning">Переключитись на тему: %s?</string>

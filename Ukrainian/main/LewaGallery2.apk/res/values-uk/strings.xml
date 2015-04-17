@@ -130,7 +130,7 @@
     <string name="pref_camera_continuous_number_large">99 знімків</string>
     <string name="panorama_guide_shutter">Натисніть кнопку спуску для панорамного знімка</string>
     <string name="panorama_guide_capture">Перемістіть пристрій для перекривання двох ліній</string>
-    <string name="pref_camera_image_properties_default">За замовчуванням</string>
+    <string name="pref_camera_image_properties_default">По замовчуванню</string>
     <string name="pref_camera_image_properties_title">Параметри зображення</string>
     <string name="pref_camera_antibanding_entry_off">@string/pref_camera_hdr_off</string>
     <string name="pref_camera_picturesize_ratio_entry_16_9">16:9</string>
@@ -145,7 +145,7 @@
     <string name="pref_video_hdr_default">off</string>
     <string name="pref_video_hdr_entry_off">@string/pref_camera_hdr_off</string>
     <string name="pref_video_hdr_entry_on">@string/pref_camera_hdr_on</string>
-    <string name="pref_camera_facebeauty_properties_default">За замовчуванням</string>
+    <string name="pref_camera_facebeauty_properties_default">По замовчуванню</string>
     <string name="pref_camera_facebeauty_properties_title">Гарне обличчя</string>
     <string name="pref_facebeauty_smooth_default">0</string>
     <string name="pref_facebeauty_smooth_title">Рівний</string>
@@ -247,7 +247,7 @@
     <string name="preparing_sd">Підготовка SD-карти...</string>
     <string name="access_sd_fail">Немає доступу до SD карті</string>
     <string name="confirm_restore_message">Відновити налаштування камери за умовчанням?</string>
-    <string name="confirm_restore_video_message">Ви хочете відновити налаштування за замовчуванням відео?</string>
+    <string name="confirm_restore_video_message">Ви хочете відновити налаштування по замовчуванню відео?</string>
     <string name="review_play">Відтворити</string>
     <string name="review_cancel">СКАСУВАТИ</string>
     <string name="review_ok">ГОТОВО</string>
@@ -323,7 +323,7 @@
     <string name="pref_camera_scenemode_entry_party">Вечірка</string>
     <string name="not_selectable_in_scene_mode">Недоступне в режимі зйомки</string>
     <string name="pref_restore_title">Налаштування камери</string>
-    <string name="pref_restore_detail">За замовчуванням</string>
+    <string name="pref_restore_detail">По замовчуванню</string>
     <string name="pref_exposure_title">Експозиція</string>
     <string name="pref_exposure_default">0</string>
     <string name="dialog_ok">ОК</string>
@@ -604,7 +604,7 @@
     <string name="stereo">Стерео</string>
     <string name="single_track">Моно</string>
     <string name="delete_all">Видалити всі</string>
-    <string name="default_title">Назва за замовчуванням</string>
+    <string name="default_title">Назва по замовчуванню</string>
     <string name="next">Наступний</string>
     <string name="previous">Попередній</string>
     <string name="mav_firstRunTitle">Як переглянути зображення, зняте під кількома кутами</string>

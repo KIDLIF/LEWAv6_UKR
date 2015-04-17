@@ -2,7 +2,7 @@
 <resources>
     <string name="calendar_storage">База даних календаря</string>
     <string name="upgrade_msg">Оновлення бази даних календаря...</string>
-    <string name="calendar_default_name">За замовчанням</string>
+    <string name="calendar_default_name">По замовчуванню</string>
     <string name="calendar_info">Відомості про календар</string>
     <string name="calendar_info_error">Помилка</string>
     <string name="calendar_info_no_calendars">Немає календарів</string>

@@ -285,7 +285,7 @@
     <string name="info_setting_setting_str">Налаштування параметрів системи</string>
     <string name="info_setting_file">Локальні</string>
     <string name="info_setting_file_str">Інші локальні файли</string>
-    <string name="no_default_browser">Немає браузера за замовчуванням</string>
+    <string name="no_default_browser">Немає браузера по замовчуванню</string>
     <string name="rom_size">Загалом: %1$s</string>
     <string name="rom_available">Доступно: %1$s</string>
     <string name="sd_card_size">SD-карта: обсяг %1$s</string>

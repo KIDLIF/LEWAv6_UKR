@@ -21,7 +21,7 @@
     <string name="select">Виберіть відео</string>
     <string name="set_wallpaper">Встановити шпалери</string>
     <string name="title">Видеообои</string>
-    <string name="default_title">Відео за замовчуванням</string>
+    <string name="default_title">Відео по замовчуванню</string>
     <string name="default_video_path">android.resource://com.mediatek.vlw/raw/default_video</string>
     <string name="default_video_title">MediaTek Inc.</string>
     <string name="capture_video">Камера</string>

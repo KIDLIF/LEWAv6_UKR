@@ -6,7 +6,7 @@
 %2$s"</string>
     <string name="gemini_default_sim_always_ask">Завжди питати</string>
     <string name="accessibility_phone_four_bars">4 смужки телефону</string>
-    <string name="sim_switch_tip">Дана SIM-карта встановлена за замовчуванням для \"%s\". Змінити SIM-карту за замовчуванням можна потягнувши рядок стану донизу.</string>
+    <string name="sim_switch_tip">Дана SIM-карта встановлена по замовчуванню для \"%s\". Змінити SIM-карту по замовчуванню можна потягнувши рядок стану донизу.</string>
     <string name="remind_next_time">Не нагадувати наступного разу</string>
     <string name="voice_call_service">служба голосових викликів</string>
     <string name="messages_service">служба повідомлень</string>
@@ -91,7 +91,7 @@
     <string name="usb_accessory_uri_prompt">Відсутні додатки які підтримують цей USB-аксесуар. Докладніше: %1$s</string>
     <string name="title_usb_accessory">USB-аксесуар</string>
     <string name="label_view">Перегляд</string>
-    <string name="always_use_device">Використовувати за замовчанням для цього USB-пристрою</string>
+    <string name="always_use_device">Використовувати по замовчуванню для цього USB-пристрою</string>
     <string name="always_use_accessory">Використовувати за промовчанням для цього USB-аксесуару</string>
     <string name="compat_mode_on">Підігнати під розмір екрану</string>
     <string name="compat_mode_off">Розтягнути на весь екран</string>

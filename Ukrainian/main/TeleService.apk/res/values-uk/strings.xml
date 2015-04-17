@@ -55,7 +55,7 @@
     <string name="vt_incoming_showme_always">Відображення</string>
     <string name="vt_incoming_showme_ask">Запитати</string>
     <string name="vt_incoming_showme_disable">Не відображати</string>
-    <string name="vt_pic_replace_local_default">Зображення за замовчуванням</string>
+    <string name="vt_pic_replace_local_default">Зображення по замовчуванню</string>
     <string name="vt_pic_replace_local_freezeme">Зафіксувати зображення</string>
     <string name="vt_pic_replace_local_mypic">Моє зображення</string>
     <string name="vt_local_video_display">Відображення локального відео</string>
@@ -162,7 +162,7 @@
     <string name="vt_cb_call_description">Налаштування заборони відеодзвінків</string>
     <string name="vt_addtional_call_description">Налаштування номера телефону та очікування викликів</string>
     <string name="others">Інші налаштування</string>
-    <string name="confirm_3g_switch">Дійсно встановити службу 3G на даній SIM-картці? При цьому дана SIM-картка буде автоматично встановлена ​​як SIM-картка за замовчуванням для відеодзвінків</string>
+    <string name="confirm_3g_switch">Дійсно встановити службу 3G на даній SIM-картці? При цьому дана SIM-картка буде автоматично встановлена ​​як SIM-картка по замовчуванню для відеодзвінків</string>
     <string name="modem_switching">Перемикання SIM-карти займе близько 10 секунд. Зачекайте…</string>
     <string name="confirm_3g_switch_to_off">Бажаєте відключити послуги 3G? Це автоматично призведе також до відключення служби відеодзвінків</string>
     <string name="service_3g_off">Вимк.</string>
@@ -808,7 +808,7 @@
     <string name="pick_outgoing_call_phone_type">Вихідний виклик</string>
     <string name="pick_outgoing_sip_phone">Обліковий запис для Інтернет-телефонії:</string>
     <string name="remember_my_choice">Використовувати для всіх Інтернет-викликів</string>
-    <string name="reset_my_choice_hint">В налаштуваннях викликів можна змінити обліковий запис Інтернет-телефонії, який використовується за замовчанням при виконанні викликів. Для цього виберіть інший обліковий запис в настройках Інтернет-викликів</string>
+    <string name="reset_my_choice_hint">В налаштуваннях викликів можна змінити обліковий запис Інтернет-телефонії, який використовується по замовчуванню при виконанні викликів. Для цього виберіть інший обліковий запис в настройках Інтернет-викликів</string>
     <string name="pstn_phone">Виклик через мобільну мережу</string>
     <string name="internet_phone">Інтернет-виклик</string>
     <string name="no_sip_account_found_title">Немає облікових записів для Інтернет-телефонії</string>
@@ -848,7 +848,7 @@
     <string name="transport_title">Протокол</string>
     <string name="send_keepalive_title">Відправляти keep-alive</string>
     <string name="set_primary_title">Основний обліковий запис</string>
-    <string name="set_primary_summary">Використовувати цей обліковий запис за замовчуванням для вихідних дзвінків</string>
+    <string name="set_primary_summary">Використовувати цей обліковий запис по замовчуванню для вихідних дзвінків</string>
     <string name="advanced_settings">Розширені налаштування</string>
     <string name="auth_username_title">Ім\'я користувача</string>
     <string name="auth_username_summary">Ім\'я користувача для аутентифікації</string>
@@ -876,7 +876,7 @@
     <string name="respond_via_sms_setting_title_2">Швидкі відповіді</string>
     <string name="respond_via_sms_setting_summary" />
     <string name="respond_via_sms_edittext_dialog_title">Швидка відповідь</string>
-    <string name="respond_via_sms_menu_reset_default_activity">Відновити за замовчуванням</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Відновити по замовчуванню</string>
     <string name="respond_via_sms_confirmation_format">Повідомлення надіслано на номер %s</string>
     <string name="description_image_button_one">один</string>
     <string name="description_image_button_two">два</string>
@@ -900,7 +900,7 @@
     <string name="voicemail_notification_vibrate_when_title">Вібрація</string>
     <string name="voicemail_notification_vibarte_when_dialog_title">Вібрація</string>
     <string name="voicemail_notification_ringtone_title">Мелодія виклику</string>
-    <string name="default_notification_description">Мелодія за замовчуванням (%1$s)</string>
+    <string name="default_notification_description">Мелодія по замовчуванню (%1$s)</string>
     <string name="voicemail_notification_vibrate_when_default">ніколи</string>
     <string name="ringtone_title">Мелодія виклику</string>
     <string name="vibrate_on_ring_title">Вібрація при виклику</string>
@@ -925,7 +925,7 @@
     <string name="networkError">Помилка мережі, перевірте настройки мережі</string>
     <string name="dialpad_tone_dlg_title">Тон клавіатури</string>
     <string name="dialpad_tone_title">Тон клавіатури</string>
-    <string name="dialpad_tone_default_summary">Тон клавіатури за замовчуванням</string>
+    <string name="dialpad_tone_default_summary">Тон клавіатури по замовчуванню</string>
     <string name="vibrate_outgoing">Вібрація при відповіді</string>
     <string name="auto_voice_record_summary">Автоматично вмикати запис розмови під час виклику</string>
     <string name="auto_voice_record_title">Автоматичний запис</string>

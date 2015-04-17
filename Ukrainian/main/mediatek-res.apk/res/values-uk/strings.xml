@@ -120,7 +120,7 @@
     <string name="wifi_display_wfd_off_bt_on">При увімкненні Bluetooth, Wi-Fi-дисплей буде вимкнено. Продовжити?</string>
     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">При підключенні до Wi-Fi-дисплею поточне підключення Wi-Fi Direct буде перервано. Продовжити?</string>
     <string name="sdcard_ready_title">SD-картка готова</string>
-    <string name="sdcard_select_default_path">Змінити місце запису за замовчуванням?</string>
+    <string name="sdcard_select_default_path">Змінити місце запису по замовчуванню?</string>
     <string name="sdcard_default_path_change">Місце запису змінено</string>
     <string name="day_month_year_wday" formatted="false">%s %s %s %s</string>
     <string name="day_year_month_wday" formatted="false">%s %s %s %s</string>
@@ -176,7 +176,7 @@
     <string name="for_second_simcard">Для SIM2</string>
     <string name="for_third_simcard">Для SIM3</string>
     <string name="for_fourth_simcard">Для SIM4</string>
-    <string name="default_sim_setting_prompt">Нові установки SIM-картки за замовчуванням:</string>
+    <string name="default_sim_setting_prompt">Нові установки SIM-картки по замовчуванню:</string>
     <string name="keyguard_video_call">Відеодзвінок:</string>
     <string name="dm_prompt">Термінал вже заблоковано</string>
     <string name="keyguard_domestic_zone_name">Пекін</string>
@@ -254,9 +254,9 @@
     <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
     <string name="deleteApp">Видалення додатків</string>
     <string name="deleteMail">Резервне копіювання електронної пошти і видалення сховища</string>
-    <string name="storage_withsd">На внутрішньому сховищі бракує місця. Очистіть його або змініть пам\'ять за замовчуванням</string>
+    <string name="storage_withsd">На внутрішньому сховищі бракує місця. Очистіть його або змініть пам\'ять по замовчуванню</string>
     <string name="storage_withoutsd">На внутрішньому сховищі бракує місця. Очистіть його або вставте SD-картку</string>
-    <string name="storage_sd">На SD-картці бракує місця. Очистіть його або змініть пам\'ять за замовчуванням</string>
+    <string name="storage_sd">На SD-картці бракує місця. Очистіть його або змініть пам\'ять по замовчуванню</string>
     <string name="usb_ums_notification_title">Підключення USB-накопичувача</string>
     <string name="usb_charging_notification_title">Лише зарядка по USB</string>
     <string name="gps_time_sync_fail_str">Помилка при отриманні часу, наданого GPS</string>
@@ -265,7 +265,7 @@
     <string name="find_next">наступний</string>
     <string name="tethered_notification_message_for_hotspot">%1$d підключено, %2$d заблоковано</string>
     <string name="tethered_notification_message_bandwidth_set">Задана Частота мережі</string>
-    <string name="default_wallpaper_name">За замовчуванням</string>
+    <string name="default_wallpaper_name">По замовчуванню</string>
     <string name="cu_3gnet_name"> 3G-підключення до інтернету</string>
     <string name="cu_3gwap_name"> телефон 3G мережі</string>
     <string name="keyguard_accessibility_alarm_unlock">Вимкнути будильник</string>

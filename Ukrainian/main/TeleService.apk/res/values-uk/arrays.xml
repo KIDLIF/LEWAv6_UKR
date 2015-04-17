@@ -95,7 +95,7 @@
         <item>Ісландська</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Налаштування мережі за замовчанням</item>
+        <item>Налаштування мережі по замовчуванню</item>
         <item>Приховати номер</item>
         <item>Відображати номер</item>
     </string-array>

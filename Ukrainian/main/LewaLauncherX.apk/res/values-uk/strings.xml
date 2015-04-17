@@ -74,7 +74,7 @@
     <string name="pref_title_lewa_lockscreen">Використовувати Локскрін Lewa</string>
     <string name="pref_hide_status_bar">Заховати рядок повідомлень при заблокованому екрані</string>
     <string name="pref_title_resetlauncher">Скидання налаштувань лаунчера</string>
-    <string name="pref_summary_resetlauncher">Відновлення налаштувань за замовчуванням</string>
+    <string name="pref_summary_resetlauncher">Відновлення налаштувань по замовчуванню</string>
     <string name="pref_title_update">Оновлення</string>
     <string name="pref_summary_update">Перевірити наявність оновлень Лаунчера Lewa</string>
     <string name="message_resetlauncher">Відновити іконки, теки, віджети, розташування екранів?</string>

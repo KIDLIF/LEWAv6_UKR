@@ -138,7 +138,7 @@
     <string name="delete_using_theme_icon">Діючі іконки не можливо видалити</string>
     <string name="delete_using_theme_lock_screen_style">Діючий локскрін не можливо видалити</string>
     <string name="delete_using_theme_system_app">Діючий системний додаток не можливо видалити</string>
-    <string name="theme_name_default">За замовчуванням</string>
+    <string name="theme_name_default">По замовчуванню</string>
     <string name="style_appearance_name">lewadefault</string>
     <string name="author">Lewa OS</string>
 </resources>

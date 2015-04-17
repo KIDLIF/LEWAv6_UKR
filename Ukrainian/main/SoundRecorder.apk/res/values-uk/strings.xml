@@ -27,7 +27,7 @@
     <string name="recording_mode_meeting">Нарада</string>
     <string name="recording_mode_lecture">Лекція</string>
     <string name="sd_unmounted">SD картка відключена.</string>
-    <string name="storage_low">Пам\'ять, що використовується за замовчанням заповнена, звільніть або змініть місце зберігання</string>
+    <string name="storage_low">Пам\'ять, що використовується по замовчуванню заповнена, звільніть або змініть місце зберігання</string>
     <string name="storage_full">Пам\'ять заповнена</string>
     <string name="sd_no">Вставте SD-картку.</string>
     <string name="recording_fail">Помилка в записі</string>

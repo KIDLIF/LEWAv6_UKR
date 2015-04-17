@@ -150,10 +150,10 @@
     <string name="RuacMmi">Відхилення небажаних дзвінків</string>
     <string name="CndMmi">Доставка номеру абонента</string>
     <string name="DndMmi">Не турбувати</string>
-    <string name="CLIRDefaultOnNextCallOn">Визначення номеру за замовчуванням заборонено. Наступний виклик: заборонено</string>
-    <string name="CLIRDefaultOnNextCallOff">Визначення номеру за замовчуванням заборонено. Наступний виклик: дозволено</string>
-    <string name="CLIRDefaultOffNextCallOn">Визначення номеру за замовчуванням не заборонено. Наступний виклик: заборонено</string>
-    <string name="CLIRDefaultOffNextCallOff">Визначення номеру за замовчуванням не заборонено. Наступний виклик: дозволено</string>
+    <string name="CLIRDefaultOnNextCallOn">Визначення номеру по замовчуванню заборонено. Наступний виклик: заборонено</string>
+    <string name="CLIRDefaultOnNextCallOff">Визначення номеру по замовчуванню заборонено. Наступний виклик: дозволено</string>
+    <string name="CLIRDefaultOffNextCallOn">Визначення номеру по замовчуванню не заборонено. Наступний виклик: заборонено</string>
+    <string name="CLIRDefaultOffNextCallOff">Визначення номеру по замовчуванню не заборонено. Наступний виклик: дозволено</string>
     <string name="serviceNotProvisioned">Послуга не надається</string>
     <string name="CLIRPermanent">Неможливо змінити налаштування АВН</string>
     <string name="RestrictedChangedTitle">Обмеження доступу змінені</string>
@@ -566,7 +566,7 @@
     <string name="permdesc_setWallpaper">Додаток зможе встановлювати системні шпалери</string>
     <string name="permlab_setWallpaperHints">Зміна розміру шпалер</string>
     <string name="permdesc_setWallpaperHints">Додаток зможе встановлювати підказки за розміром системних шпалер</string>
-    <string name="permlab_masterClear">Параметри за замовчуванням</string>
+    <string name="permlab_masterClear">Параметри по замовчуванню</string>
     <string name="permdesc_masterClear">Додаток зможе виконати повний скидання до заводських налаштувань, видаливши всі дані, параметри і встановлені додатки</string>
     <string name="permlab_setTime">установка часу</string>
     <string name="permdesc_setTime">Додаток зможе змінювати час в налаштуваннях пристрою</string>
@@ -789,8 +789,8 @@
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви %d разів невірно вказали графічний ключ. Після %d невірних спроб для розблокування телефону потрібно увійти в обліковий запис Google. 
 
 Повтор через %d секунд."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не вдалося розблокувати телефон (число спроб: %d). Залишилось спроб: %d. Після цього будуть встановлені налаштування за замовчуванням, що призведе до видалення всіх даних</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Не вдалося розблокувати телефон (число спроб: %d). Будуть встановлені налаштування за замовчуванням</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не вдалося розблокувати телефон (число спроб: %d). Залишилось спроб: %d. Після цього будуть встановлені налаштування по замовчуванню, що призведе до видалення всіх даних</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Не вдалося розблокувати телефон (число спроб: %d). Будуть встановлені налаштування по замовчуванню</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторіть спробу за %d секунд.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забули ключ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Зняття блокування облікового запису</string>
@@ -990,8 +990,8 @@
     <string name="capital_on">УВІМ</string>
     <string name="capital_off">ВИМК</string>
     <string name="whichApplication">Що використовувати?</string>
-    <string name="alwaysUse">За замовчуванням для цієї дії</string>
-    <string name="clearDefaultHintMsg">Видалення налаштувань за замовчуванням в меню \"Налаштування > Додатки > Завантажені\"</string>
+    <string name="alwaysUse">По замовчуванню для цієї дії</string>
+    <string name="clearDefaultHintMsg">Видалення налаштувань по замовчуванню в меню \"Налаштування > Додатки > Завантажені\"</string>
     <string name="chooseActivity">Оберіть дію</string>
     <string name="chooseUsbActivity">Вибір додатка для USB-пристрою</string>
     <string name="noApplications">Дія не підтримується в жодному з додатків</string>
@@ -1050,8 +1050,8 @@
     <string name="volume_icon_description_incall">Гучності мелодії виклику</string>
     <string name="volume_icon_description_media">Гучність мультимедіа</string>
     <string name="volume_icon_description_notification">Гучність повідомлень</string>
-    <string name="ringtone_default">Мелодія за замовчуванням</string>
-    <string name="ringtone_default_with_actual">За замовчуванням (%1$s)</string>
+    <string name="ringtone_default">Мелодія по замовчуванню</string>
+    <string name="ringtone_default_with_actual">По замовчуванню (%1$s)</string>
     <string name="ringtone_silent">Без звуку</string>
     <string name="ringtone_picker_title">Мелодії</string>
     <string name="ringtone_unknown">Невідома мелодія</string>
@@ -1156,7 +1156,7 @@
     <string name="permlab_pkgUsageStats">Статистика використання компонентів</string>
     <string name="permdesc_pkgUsageStats">Додаток зможе змінювати зібрану статистику використання компонентів. Цей дозвіл не використовується ересічними додатками</string>
     <string name="permlab_copyProtectedData">Копіювання вмісту</string>
-    <string name="permdesc_copyProtectedData">Додаток зможе викликати службу контейнерів за замовчуванням для копіювання даних. Цей дозвіл не використовується пересічними додатками</string>
+    <string name="permdesc_copyProtectedData">Додаток зможе викликати службу контейнерів по замовчуванню для копіювання даних. Цей дозвіл не використовується пересічними додатками</string>
     <string name="permlab_route_media_output">Перенаправлення мультимедійних даних</string>
     <string name="permdesc_route_media_output">Додаток зможе направляти потік мультимедіа на інші зовнішні пристрої</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Натисніть двічі для зміни масштабу</string>

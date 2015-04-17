@@ -102,9 +102,9 @@
     <string name="SIM1">SIM1</string>
     <string name="SIM2">SIM2</string>
     <string name="IMEI">Змінити IMEI</string>
-    <string name="DefSIMText">Налаштування SIM за замовчуванням</string>
-    <string name="default_sim1">SIM1 за замовчуванням</string>
-    <string name="default_sim2">SIM2 за замовчуванням</string>
+    <string name="DefSIMText">Налаштування SIM по замовчуванню</string>
+    <string name="default_sim1">SIM1 по замовчуванню</string>
+    <string name="default_sim2">SIM2 по замовчуванню</string>
     <string name="GPRS_Attached">Прикріплений</string>
     <string name="GPRS_Detached">Роздільний</string>
     <string name="GPRS_FD">Відпр. FD</string>
@@ -304,7 +304,7 @@
     <string name="hqa_cpustress_result">Результат</string>
     <string name="hqa_cpustress_result_pass">Пройти</string>
     <string name="hqa_cpustress_result_fail">Перервати</string>
-    <string name="hqa_cpustress_radiobutton_default">За замовчуванням</string>
+    <string name="hqa_cpustress_radiobutton_default">По замовчуванню</string>
     <string name="hqa_cpustress_radiobutton_testmode">Тестовий режим</string>
     <string name="hqa_cpustress_radiobutton_test">Тестовий режим</string>
     <string name="hqa_cpustress_radiobutton_single">Увімк. одне ядро</string>
@@ -891,10 +891,10 @@ ISO item used to set camera’s iso value.
     <string name="service_raw">Служба(Raw)</string>
     <string name="mal_supported_format">MAL(Підтримуваний формат)</string>
     <string name="ok">ТАК</string>
-    <string name="menu_set_to_default">Встановити за замовчуванням</string>
+    <string name="menu_set_to_default">Встановити по замовчуванню</string>
     <string name="h263_only">Тільки H263</string>
-    <string name="set_default_success">Встановлення дати за замовчуванням виконано!</string>
-    <string name="set_default_failed">Встановлення дати за замовчуванням не виконано!</string>
+    <string name="set_default_success">Встановлення дати по замовчуванню виконано!</string>
+    <string name="set_default_failed">Встановлення дати по замовчуванню не виконано!</string>
     <string name="no_record">Немає запису</string>
     <string name="three_gp">3gp</string>
     <string name="amr">amr</string>
@@ -1095,7 +1095,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="font_size_preview_text">З’їж ще цих м’яких французких булок, та випий чаю!</string>
     <string name="font_size_save">ТАК</string>
     <string name="cfu_textView">CFU Налаштування:</string>
-    <string name="cfu_default">За замовчуванням</string>
+    <string name="cfu_default">По замовчуванню</string>
     <string name="cfu_turn_on">Питати завжди</string>
     <string name="cfu_turn_off">Не питати</string>
     <string name="cfu_ok">ТАК</string>
@@ -1370,7 +1370,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="auto_clibr_af_through_interval_tip">AF фокус-інтервал 1~511!</string>
     <string name="auto_clibr_manual_start">Початокова позиція:</string>
     <string name="auto_clibr_manual_end">Кінцева позиція:</string>
-    <string name="auto_clibr_iso_tips">ISO не вибране, використовуються значення за замовчуванням: Auto!</string>
+    <string name="auto_clibr_iso_tips">ISO не вибране, використовуються значення по замовчуванню: Auto!</string>
     <string name="cannot_connect_camera">Не можливо підключитися до камери.</string>
     <string name="camera_error_title">Помилка камери</string>
     <string name="pref_camera_flashmode_no_flash">no_flash</string>

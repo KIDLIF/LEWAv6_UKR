@@ -87,8 +87,8 @@
 
 
 
-    <string name="config_import_vcard_type">За замовчуванням</string>
-    <string name="config_export_vcard_type">За замовчуванням</string>
+    <string name="config_import_vcard_type">По замовчуванню</string>
+    <string name="config_export_vcard_type">По замовчуванню</string>
     
 	
 	
@@ -592,8 +592,8 @@
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? (контакти не будуть видалені)</string>
     <string name="toast_join_with_empty_contact">"Введіть ім'я контакту, який потрібно об'єднати."</string>
     <string name="copy_text">Скопіювати до буферу обміну</string>
-    <string name="set_default">Встановити за замовчуванням</string>
-    <string name="clear_default">Видалити налаштування за замовчуванням</string>
+    <string name="set_default">Встановити по замовчуванню</string>
+    <string name="clear_default">Видалити налаштування по замовчуванню</string>
     <string name="toast_text_copied">Текст скопійовано</string>
     <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
@@ -1181,7 +1181,7 @@
     <string name="edit">Редагувати</string>
     <string name="try_to_send">Спробувати відправити</string>
     <string name="preferences_title">Налаштування повідомлень</string>
-    <string name="restore_default">Відновити налаштування за замовчуванням</string>
+    <string name="restore_default">Відновити налаштування по замовчуванню</string>
     <string name="pref_notification_settings_title">Налаштування сповіщення</string>
     <string name="pref_mms_settings_title">Налаштування MMS</string>
     <string name="pref_sms_settings_title">Налаштування SMS</string>
