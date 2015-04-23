@@ -235,8 +235,8 @@
 Користувач %s писав: 
 
 "</string>
-    <string name="message_compose_quoted_text_label">Включити цитований текст</string>
-    <string name="message_compose_include_quoted_text_checkbox_label">Включити вихідний текст у відповідь</string>
+    <string name="message_compose_quoted_text_label">Увімкнути цитований текст</string>
+    <string name="message_compose_include_quoted_text_checkbox_label">Увімкнути вихідний текст у відповідь</string>
     <string name="message_compose_error_no_recipients">Додайте хоча б одного одержувача.</string>
     <string name="message_compose_error_invalid_email">Деякі адреси електронної пошти є неприпустимими.</string>
     <string name="message_compose_attachment_size">Файл має занадто великий розмір і не може бути прикладений.</string>
@@ -494,7 +494,7 @@
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="system_account_create_failed">Не вдалося створити обліковий запис. Повторіть спробу.</string>
     <string name="device_admin_label">Електронна пошта</string>
-    <string name="device_admin_description">Включення серверних політик безпеки</string>
+    <string name="device_admin_description">Увімкнення серверних політик безпеки</string>
     <string name="gal_searching_fmt">Пошук %s...</string>
     <string name="settings_activity_title">Налаштування</string>
     <string name="header_label_general_preferences">Загальні</string>

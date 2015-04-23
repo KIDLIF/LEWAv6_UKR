@@ -86,7 +86,7 @@
 це може призвести до додаткових витрат"</string>
     <string name="mobile_dialog_positive">Завантажити</string>
     <string name="mobile_dialog_negative">Підключитися по Wi-Fi і завантажити</string>
-    <string name="wifi_dialog_content">"У вас включене завантаження лише через Wi-Fi, якщо Ви бажаєте почати завантаження - відключіть завантаження лише через Wi-Fi. 
+    <string name="wifi_dialog_content">"У вас увімкнене завантаження лише через Wi-Fi, якщо Ви бажаєте почати завантаження - відключіть завантаження лише через Wi-Fi. 
 
 Ви дійсно бажаєте вимкнути завантаження лише через Wi-Fi?"</string>
     <string name="wifi_dialog_positive">OK</string>

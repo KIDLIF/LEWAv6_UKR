@@ -27,7 +27,7 @@
     <string name="unlock_set_unlock_mode_pattern">Захист графічним ключом</string>
     <string name="unlock_set_unlock_mode_pin">Захист PIN-кодом</string>
     <string name="unlock_set_unlock_mode_password">Захист паролем</string>
-    <string name="unlock_disable_lock_title">Виключити блокування екрану</string>
+    <string name="unlock_disable_lock_title">Вимкнути блокування екрану</string>
     <string name="unlock_disable_lock_pattern_summary">Видалити графічний ключ розблокування</string>
     <string name="unlock_disable_lock_pin_summary">Видалити PIN-код розблокування</string>
     <string name="unlock_disable_lock_password_summary">Видалити пароль розблокування</string>
@@ -64,7 +64,7 @@
     <string name="lockpattern_pattern_entered_header">Графічний ключ збережено!</string>
     <string name="lockpattern_need_to_confirm">Для підтвердження накресліть графічний ключ ще раз:</string>
     <string name="lockpattern_pattern_confirmed_header">Новий графичічний ключ разблокування:</string>
-    <string name="lockpattern_confirm_button_text">Підтвердження</string>
+    <string name="lockpattern_confirm_button_text">Підтвердити</string>
     <string name="lockpattern_restart_button_text">Відтворити ще раз</string>
     <string name="lockpattern_retry_button_text">Повторити</string>
     <string name="lockpattern_continue_button_text">Продовжити</string>
@@ -81,7 +81,7 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Повторіть спробу через %d с.</string>
     <string name="lock_setup">Блокування завершено</string>
     <string name="app_name">Lewa Блокувальник</string>
-    <string name="cancel">Повтор</string>
+    <string name="cancel">Повторити</string>
     <string name="unlock_set_unlock_screen_title">Використання локскріна</string>
     <string name="no_applications">Немає додатків</string>
     <string name="settings_safetylegal_activity_loading">Завантаження...</string>
@@ -106,7 +106,7 @@
     <string name="input_again">Скасувати</string>
     <string name="user_delete_button">Видалити</string>
     <string name="app_lock_settings">Налаштування</string>
-    <string name="lewa_applock_summary">Відкриття блокованого додатка потребує паролю і включення екрану блокує додаток знову</string>
+    <string name="lewa_applock_summary">Відкриття блокованого додатка потребує паролю і увімкнення екрану блокує додаток знову</string>
     <string name="lewa_applock_title">Блокування додатків</string>
     <string name="applock_password_title">Зміна паролю</string>
     <string name="app_lock_header">" Блоковано додатки"</string>

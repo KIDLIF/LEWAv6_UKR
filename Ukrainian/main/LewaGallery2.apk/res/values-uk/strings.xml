@@ -359,7 +359,7 @@
     <string name="effect_backdropper_gallery">Мої відео</string>
     <string name="not_selectable_in_effect">Недоступно при використанні ефекту</string>
     <string name="video_snapshot_hint">Натисніть, щоб зробити знімок під час запису</string>
-    <string name="disable_video_snapshot_hint">Неможливо зробити знімок при включених спецефектах</string>
+    <string name="disable_video_snapshot_hint">Неможливо зробити знімок при увімкнених спецефектах</string>
     <string name="clear_effects">Прибрати ефекти</string>
     <string name="effect_silly_faces">СМІШНІ ПИЧКИ</string>
     <string name="effect_background">ФОН</string>
@@ -561,11 +561,9 @@
     <string name="rtsp_proxy_settings">Налаштування проксі-сервера RTSP</string>
     <string name="rtsp_proxy_settings_summary">Налаштування і управління настройками проксі-сервера RTSP</string>
     <string name="enable_rtsp_proxy">Неможливе використання проксі-сервера RTSP</string>
-    <string name="enable_rtsp_proxy_summary">Включити/відключити проксі-сервер RTSP</string>
     <string name="http_proxy_settings">Налаштування проксі HTTP</string>
     <string name="http_proxy_settings_summary">Налаштування і управління настройками HTTP-проксі</string>
-    <string name="enable_http_proxy">Включити HTTP-проксі</string>
-    <string name="enable_http_proxy_summary">"Включити/відключити проксі-сервер HTTP "</string>
+    <string name="enable_http_proxy">Увімкнути HTTP-проксі</string>
     <string name="apn_settings_summary">"Поточна SIM-карта: %1$s 
 Поточна APN-карта: %2$s"</string>
     <string name="apn_settings_not_valid">Режим підключення даних SIM-карти закритий, неможливо задати APN</string>

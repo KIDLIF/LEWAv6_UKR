@@ -45,7 +45,7 @@
     <string name="confirm_roaming_for3Sims_msg">SIM-картка, яку ви збираєтесь використовувати, в роумінгу. Бажаєте продовжити?</string>
     <string name="confirm_roaming_for3Sims_msg_uim">UIM-картка, яку ви збираєтесь використовувати, в роумінгу. Бажаєте продовжити?</string>
     <string name="confirm_roaming_for3Sims_msg_card">Картка, яку ви збираєтесь використовувати, в роумінгу. Бажаєте продовжити?</string>
-    <string name="confirm_radio_lbutton">Включити</string>
+    <string name="confirm_radio_lbutton">Увімкнути</string>
     <string name="confirm_unlock_lbutton">Розблокувати</string>
     <string name="confirm_unlock_fail">Операція скасована</string>
     <string name="confirm_turnon_radio_fail">Операція скасована</string>

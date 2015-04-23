@@ -56,7 +56,7 @@
     <string name="prompt_input_password_lost">Введіть пароль</string>
     <string name="prompt_input_security_phone_number">Введіть безпечний номер</string>
     <string name="prompt_select_commands">Оберіть команди віддаленого доступу</string>
-    <string name="title_have_turned_on">Антикрадій включений</string>
+    <string name="title_have_turned_on">Антикрадій увімкнений</string>
     <string name="pref_sim_lock">pref_sim_lock</string>
     <string name="pref_sim_lock_title">Блок. заміну SIM</string>
     <string name="pref_sim_lock_summary">Заблокувати телефон після зміни SIM-карти</string>
@@ -108,7 +108,7 @@
     <string name="choose_contacts">Вибрати контакт</string>
     <string name="tips4_deleting_data_success">Дані буде видалено</string>
     <string name="tips4_locate_success">Координати Вашого пристрою успішно визначені, він тут:</string>
-    <string name="tips4_locate_failed">Пристрій не може включити GPS, неможливо визначити його координати</string>
+    <string name="tips4_locate_failed">Пристрій не може увімкнути GPS, неможливо визначити його координати</string>
     <string name="tips4_lock_phone_success">Ваш телефон заблокований</string>
     <string name="tips4_get_password_failed">Номер неправильний, неможливо запросити пароль</string>
     <string name="tips4_password_error">Неправильний пароль, спробуйте ще раз</string>
@@ -119,7 +119,7 @@
     <string name="command_not_none">Команда не може бути порожньою</string>
     <string name="prompt_user_info_hint">Введіть Ваше ім’я</string>
     <string name="prompt_close_guide">Ви дійсно бажаєте вийти з помічника?</string>
-    <string name="pref_antitheft_on_title">Включити Антикрадій</string>
+    <string name="pref_antitheft_on_title">Увімкнути Антикрадій</string>
     <string name="pref_antitheft_on">pref_antitheft_on</string>
     <string name="at">координати</string>
     <string name="password_changed＿success">Пароль змінено</string>

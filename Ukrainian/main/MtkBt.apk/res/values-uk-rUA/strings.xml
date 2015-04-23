@@ -41,7 +41,7 @@
     <string name="bt_print_entry_label">Bluetooth</string>
     <string name="dialog_title_bpp_not_ready">Сервіс недоступний</string>
     <string name="dialog_bt_not_ready_confirm">Підтвердити</string>
-    <string name="toast_bpp_enable_fail">Помилка включення сервісу друку</string>
+    <string name="toast_bpp_enable_fail">Помилка увімкнення сервісу друку</string>
     <string name="toast_connect_fail">Помилка з\'єднання</string>
     <string name="toast_get_printer_attr_fail">Помилка отримання сумісності принтера</string>
     <string name="toast_get_printer_attr">Отримую інформацію про сумісність</string>
@@ -222,7 +222,7 @@
     <string name="bluetooth_map_server_no">Ні</string>
     <string name="bluetooth_map_server_settings">Налаштування Remote Message Access</string>
     <string name="bluetooth_map_server_enable_title">Remote Message Access</string>
-    <string name="bluetooth_map_server_enable_summary">Включити</string>
+    <string name="bluetooth_map_server_enable_summary">Увімкнути</string>
     <string name="bluetooth_map_server_sim_index_title">Виберіть SIM</string>
     <string name="bluetooth_map_server_account_index_title">Виберіть обліковий запис Email</string>
     <string name="bluetooth_map_server_no_account">Немає доступних облікових записів Email</string>
@@ -322,7 +322,7 @@
     <string name="bt_prxm_plt_path_loss_threshold_title">Поріг втрат шляхів</string>
     <string name="bt_prxr_settings_title">Налаштування відстаней</string>
     <string name="bt_prxr_settings_enable_title">Інформатор відстаней</string>
-    <string name="bt_prxr_settings_enable_summary">Включити</string>
+    <string name="bt_prxr_settings_enable_summary">Увімкнути</string>
     <string name="bt_prxr_settings_busy_title">Інформатор відстаней</string>
     <string name="bt_prxr_settings_busy_message">Завантаження…</string>
     <string name="bt_prxr_settings_enable_fail">Активація помилки інформатора відстаней</string>
@@ -349,7 +349,7 @@
     <string name="simap_disconnect_no">Ні</string>
     <string name="bluetooth_simap_server_settings">Налаштування віддаленої SIM</string>
     <string name="bluetooth_simap_server_enable_title">Режим віддаленої SIM</string>
-    <string name="bluetooth_simap_server_enable_summary">Включити</string>
+    <string name="bluetooth_simap_server_enable_summary">Увімкнути</string>
     <string name="bluetooth_simap_server_sim_index_title">Вибрати SIM</string>
     <string name="bluetooth_simap_server_sim_index_summary_sim1">SIM1</string>
     <string name="bluetooth_simap_server_sim_index_summary_sim2">SIM2</string>

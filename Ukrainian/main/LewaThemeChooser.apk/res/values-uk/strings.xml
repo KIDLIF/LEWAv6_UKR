@@ -33,7 +33,7 @@
     <string name="theme_network_error_msg">Для завантаження теми необхідне підключення до мережі, будь ласка, увімкніть Wi-Fi</string>
     <string name="theme_network_set">Вибрати</string>
     <string name="theme_network_remind_title">Оберіть мережу</string>
-    <string name="theme_network_remind_msg">Схоже, що Wi-Fi не включено, увімкніть його</string>
+    <string name="theme_network_remind_msg">Схоже, що Wi-Fi не увімкнено, увімкніть його</string>
     <string name="theme_ignore">Ігнорувати</string>
     <string name="download_or_unzip_fail">Помилка завантаження</string>
     <string name="percent">%s%%</string>

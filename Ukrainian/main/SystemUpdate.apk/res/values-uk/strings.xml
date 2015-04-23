@@ -64,7 +64,7 @@
     <string name="cancel_download_title">Скасувати завантаження</string>
     <string name="cancel_download_content">Ця операція видалить завантажений файл.</string>
     <string name="change_network_title">Завантажити</string>
-    <string name="change_network_content">Цей APN не підтримує завантаження, потрібно змінити APN або включити Wi-Fi?</string>
+    <string name="change_network_content">Цей APN не підтримує завантаження, потрібно змінити APN або увімкнути Wi-Fi?</string>
     <string name="change_network_wifi_btn">Використати Wi-F</string>
     <string name="change_network_apn_btn">Змінити APN</string>
     <string name="change_network_discard_btn">Вимкнути</string>

@@ -8,7 +8,7 @@
     <string name="puk1Blocked">PIN-код заблоковано</string>
     <string name="puk2Blocked">PIN2 заблоковано</string>
     <string name="fdnFailMmi">Помилка перевірки FDN</string>
-    <string name="callBarringFailMmi">Помилка включення заборони виклику</string>
+    <string name="callBarringFailMmi">Помилка увімкнення заборони виклику</string>
     <string name="Pin2Mmi">Зміна PIN2</string>
     <string name="PukMmi">Розблокувати PIN-код</string>
     <string name="Puk2Mmi">Розблокувати PIN2</string>

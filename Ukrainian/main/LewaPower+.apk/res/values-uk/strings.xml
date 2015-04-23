@@ -21,9 +21,9 @@
     <string name="automatic_brightness">Автояскравість</string>
     <string name="dev_key_bglight">Підсвітка клавіатури</string>
     <string name="dev_clear_memory">Очищення пам’яті після блокування екрану</string>
-    <string name="spm_date">"д. "</string>
-    <string name="spm_hour">"г. "</string>
-    <string name="spm_minute">"х. "</string>
+    <string name="spm_date">" д. "</string>
+    <string name="spm_hour">" г. "</string>
+    <string name="spm_minute">" хв. "</string>
     <string name="spm_seconds">" с. "</string>
     <string name="spm_auto">Автоматично</string>
     <string name="spm_time_to_use">Застосувати</string>
@@ -47,7 +47,7 @@
     <string name="intelligent_time_set">Розклад</string>
     <string name="intelligent_start_time">Початок</string>
     <string name="intelligent_end_time">Кінець</string>
-    <string name="intelligent_start_time_value">23:00</string>
+    <string name="intelligent_start_time_value">22:00</string>
     <string name="intelligent_end_time_value">07:00</string>
     <string name="intelligent_time_frame_mode">Налаштування</string>
     <string name="intelligent_time_frame_mode_summary">Вкажіть, які функції активувати в цьому режимі</string>
@@ -68,10 +68,10 @@
     <string name="sleep_alarm_explain">За вибором, коли Ви спите, вимагає налаштування</string>
     <string name="spm_app_running">Вик.</string>
     <string name="spm_app_not_started">Не вик.</string>
-    <string name="spm_mode_choice_normal_toast">Увімкнення нормального режиму, передача даних буде увімкнена</string>
-    <string name="spm_mode_choice_standy_by_toast">Вмикається режим економії енергії,</string>
-    <string name="spm_mode_choice_exit_standy_by_toast">Вимикається режим економії енергії</string>
-    <string name="spm_mode_choice_alarm_toast">Входить у режим будильника,</string>
+    <string name="spm_mode_choice_normal_toast">Увімкнено нормальний режим, передача даних відновлена</string>
+    <string name="spm_mode_choice_standy_by_toast">"Увімкнено режим економії енергії. "</string>
+    <string name="spm_mode_choice_exit_standy_by_toast">"Вимкнено режим економії енергії"</string>
+    <string name="spm_mode_choice_alarm_toast">"Вхід у режим будильника, "</string>
     <string name="sp_bedtime_dialog_start_title">Вказати час старту</string>
     <string name="sp_bedtime_dialog_end_title">Вказати час закінчення</string>
     <string name="sp_btn_finish">Калібрування завершено</string>
@@ -106,7 +106,7 @@
     <string name="spm_notification_low_power">Зарядка не підключена, бажаєте увімкнути режим інтелектуальної економії батареї?</string>
     <string name="spm_mode_same_toast">Ваші установки відновлено - увімкнений режим Економії енергії. Зміни не збережено</string>
     <string name="spm_in_the_time_title">Увімкнення режиму економії енергії</string>
-    <string name="spm_in_the_time_message">Бажаєте включити Режим економії енергії?</string>
+    <string name="spm_in_the_time_message">Бажаєте увімкнути Режим економії енергії?</string>
     <string name="spm_out_the_time_title">Змінити</string>
     <string name="spm_out_the_time_message">Запланований час змінено, бажаєте вийти з режиму економії енергії?</string>
     <string name="spm_custom_settings_tip">Налаштування режиму економії енергії телефону</string>

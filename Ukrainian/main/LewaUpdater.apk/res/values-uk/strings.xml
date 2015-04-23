@@ -38,7 +38,7 @@
     <string name="file_list_title">Встановити з SD-карти</string>
     <string name="conn_error">"Помилка з'єднання з сервером"</string>
     <string name="net_bad">"Помилка з'єднання, спробуйте пізніше"</string>
-    <string name="net_error">"Помилка з'єднання, включіть мережу"</string>
+    <string name="net_error">"Помилка з'єднання, увімкніть мережу"</string>
     <string name="error_no_msg">Немає повідомлень</string>
     <string name="new_version_error">У вас вже остання версія</string>
     <string name="new_version_error_twice">У вас остання версія</string>
@@ -280,7 +280,6 @@
 це може призвести до додаткових витрат"</string>
     <string name="mobile_dialog_positive">Завантажити</string>
     <string name="mobile_dialog_negative">Підключитися по Wi-Fi і завантажити</string>
-    <string name="wifi_dialog_content">"У вас включена завантаження тільки через Wi-Fi, якщо Ви хочете почати завантаження, то Вам потрібно відключити скачування тільки через Wi-Fi.
   
 Ви впевнені, що хочете вимкнути завантаження тільки через Wi-Fi?"</string>
     <string name="wifi_dialog_positive">OK</string>

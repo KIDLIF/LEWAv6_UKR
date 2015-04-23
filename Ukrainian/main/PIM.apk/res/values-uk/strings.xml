@@ -703,8 +703,8 @@
     <string name="t9_sort_summary">Виберіть фільтрування результатів T9</string>
     <string name="t9_sort_name">Спочатку збіг імен</string>
     <string name="t9_sort_number">Спочатку збіг номерів</string>
-    <string name="t9_state_title">Включити T9</string>
-    <string name="t9_state_summary">Включити T9 в панелі набору номера</string>
+    <string name="t9_state_title">Увімкнути T9</string>
+    <string name="t9_state_summary">Увімкнути T9 в панелі набору номера</string>
     <string name="t9_dial_click_title">Зателефонувати до обраного контакту</string>
     <string name="t9_dial_click_summary">Зателефонувати контакту, обраному за допомогою Т9</string>
     <string name="t9_add_to_contacts">Додати до контактів</string>
@@ -951,8 +951,8 @@
     <string name="associate_sim_missing_message">SIM-картка %1$s недоступна. Здійснити виклик через %2$s?</string>
     <string name="associate_sim_missing_other">Інше</string>
     <string name="reminder">Нагадування</string>
-    <string name="enable_sip_dialog_message">Інтернет-виклики відключені, включити їх?</string>
-    <string name="turn_on_3g_service_message">3G відключено, включити?</string>
+    <string name="enable_sip_dialog_message">Інтернет-виклики відключені, увімкнути їх?</string>
+    <string name="turn_on_3g_service_message">3G відключено, увімкнути?</string>
     <string name="no_vm_number">Не вказано номер голосової пошти</string>
     <string name="no_vm_number_msg">На SIM-картці немає жодного номера голосової пошти.</string>
     <string name="add_vm_number_str">Додати номер</string>
@@ -1369,8 +1369,8 @@
     <string name="pref_key_sms_realtime_summary_dialog">Автоматично виводити отримані повідомлення у спливаючому вікні</string>
     <string name="pref_key_sms_realtime_dialog">Спливаючі SMS</string>
     <string name="sms_service_center">Центр служби SMS</string>
-    <string name="pref_summary_wappush_enable">Включити для отримання WAP PUSH</string>
-    <string name="pref_title_wappush_enable">Включити WAP PUSH</string>
+    <string name="pref_summary_wappush_enable">Увімкнути для отримання WAP PUSH</string>
+    <string name="pref_title_wappush_enable">Увімкнути WAP PUSH</string>
     <string name="sms_save_location">Місце зберігання SMS</string>
     <string name="pref_title_io_settings">Імпорт/експорт SMS</string>
     <string name="sms_backup_location">Місце для резервних копій SMS</string>
@@ -1479,7 +1479,7 @@
     <string name="sms_forwarded_setting_title">Налаштування переадресації SMS</string>
     <string name="sms_forwarded_setting_info">Переадресація з інформацією про відправника отриманого повідомлення</string>
     <string name="compose_disabled_toast">Помилка. Немає SMS-додатка по замовчуванню</string>
-    <string name="sending_disabled_not_default_app">Відправка без включення</string>
+    <string name="sending_disabled_not_default_app">Відправка без увімкнення</string>
     <string name="sync_mms_to_db">Завантаження...</string>
     <string name="file_attachment_vcard_name">vCard(%s)</string>
     <string name="file_attachment_import_vcard">Імпорт vCard</string>
@@ -1524,7 +1524,7 @@
     <string name="printContact">Роздрукувати контакт через</string>
     <string name="no_way_to_print">Немає додатків для друку.</string>
     <string name="dialer_ui_title">Налаштування дозвону</string>
-    <string name="dialer_ui_orientation_title">Включити сенсор орієнтації</string>
+    <string name="dialer_ui_orientation_title">Увімкнути сенсор орієнтації</string>
     <string name="dialer_ui_orientation_summary">Повертати екран в залежності від орієнтації телефону</string>
     <string name="search_bar_hint">Пошук контактів</string>
     <string name="selected_item_count">Вибрано %d</string>

@@ -19,7 +19,7 @@
     <string name="name_empty_error">Введіть ім\'я</string>
     <string name="name_char_error">Ім\'я повинно складатися з букв і цифр</string>
     <string name="storage_error">Не вдається зберегти сертифікат. Натисніть ОК і повторіть спробу</string>
-    <string name="unable_to_save_cert">Не вдається  зберегти сертифікат. Сховище даних не включено або некоректно ініціалізовано</string>
+    <string name="unable_to_save_cert">Не вдається  зберегти сертифікат. Сховище даних не увімкнено або некоректно ініціалізовано</string>
     <string name="cert_not_saved">Сертифікат не встановлено</string>
     <string name="no_cert_to_saved">Відсутній сертифікат для встановлення</string>
     <string name="invalid_cert">Сертифікат недійсний</string>

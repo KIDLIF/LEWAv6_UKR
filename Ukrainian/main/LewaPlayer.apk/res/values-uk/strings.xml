@@ -169,7 +169,7 @@
 	
     <string name="goto_start">Бібліотека</string>
     <string name="party_shuffle">Ді-джей мікс</string>
-    <string name="party_shuffle_off">Ді-джей мікс викл.</string>
+    <string name="party_shuffle_off">Ді-джей мікс вимк.</string>
     <string name="delete_item">Видалити</string>
     <string name="shuffle_all">Змішати всі</string>
     <string name="play_all">Відтворити все</string>
@@ -217,7 +217,7 @@
     <string name="sdcard_busy_title">SD-карта недоступна</string>
     <string name="sdcard_busy_title_nosdcard">USB-сховище недоступне</string>
     <string name="sdcard_busy_message">SD-карта зайнята</string>
-    <string name="sdcard_busy_message_nosdcard">USB-сховище включена</string>
+    <string name="sdcard_busy_message_nosdcard">USB-сховище увімкнена</string>
     <string name="sdcard_error_title">Помилка SD-карти</string>
     <string name="sdcard_error_title_nosdcard">Помилка USB-сховища</string>
     <string name="sdcard_error_message">Сталася помилка, пов’язана з SD-картою</string>

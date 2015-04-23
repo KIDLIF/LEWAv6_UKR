@@ -346,7 +346,7 @@
     <string name="permdesc_startAnyActivity">Додаток зможе вчиняти будь-які дії незалежно від наявності дозволів та стану</string>
     <string name="permlab_setScreenCompatibility">Режим сумісності</string>
     <string name="permdesc_setScreenCompatibility">Додаток зможе керувати режимом сумісності екрану інших додатків. Шкідливі додатки зможуть привести до збоїв в роботі інших додатків</string>
-    <string name="permlab_setDebugApp">Включення налагодження</string>
+    <string name="permlab_setDebugApp">Увімкнення налагодження</string>
     <string name="permdesc_setDebugApp">одаток зможе вмикати налагодження для іншого додатка. Шкідливі додатки зможуть таким чином зупиняти роботу інших додатків</string>
     <string name="permlab_changeConfiguration">Зміна налаштувань екрану</string>
     <string name="permdesc_changeConfiguration">Додаток зможе змінювати поточну конфігурацію, наприклад, регіональні налаштування або розмір шрифту</string>
@@ -614,7 +614,6 @@
     <string name="permdesc_disableKeyguard">Додаток зможе відключати блокування екрану і інші функції захисту. Наприклад, блокування екрана буде відключатися при отриманні вхідного дзвінка і вмикатися після закінчення розмови</string>
     <string name="permlab_readSyncSettings">Налаштування синхронізації</string>
     <string name="permdesc_readSyncSettings">Додаток зможе переглядати налаштування синхронізації облікового запису, наприклад визначати, чи увімкнена синхронізація додатка \"Контакт\"</string>
-    <string name="permlab_writeSyncSettings">Включення/вимикання синхронізації</string>
     <string name="permdesc_writeSyncSettings">Додаток зможе змінювати налаштування синхронізації облікового запису. Наприклад, за допомогою цього дозволу можна увімкнути в записі синхронізацію контактів</string>
     <string name="permlab_readSyncStats">Статистика синхронізації</string>
     <string name="permdesc_readSyncStats">Додаток зможе переглядати статистику синхронізації запису, в тому числі історію подій і обсяг синхронізованих даних</string>
@@ -1116,7 +1115,7 @@
     <string name="usb_storage_stop_message">Перед вимкненням USB-накопичувача переконайтеся, що SD-карта Android-пристрої від\'єднана від комп\'ютера.</string>
     <string name="usb_storage_stop_button_mount">Вимкнути USB-накопичувач</string>
     <string name="usb_storage_stop_error_message">При вимкненні USB-накопичувача сталася помилка. Переконайтеся, що USB-хост вимкнено, і повторіть спробу</string>
-    <string name="dlg_confirm_kill_storage_users_title">Включення USB-накопичувача</string>
+    <string name="dlg_confirm_kill_storage_users_title">Увімкнення USB-накопичувача</string>
     <string name="dlg_confirm_kill_storage_users_text">При підключенні USB-накопичувача деякі додатки можуть припинити роботу і залишатися недоступними до його вимкнення</string>
     <string name="dlg_error_title">Помилка при підключенні USB</string>
     <string name="dlg_ok">ОК</string>

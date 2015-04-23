@@ -42,7 +42,7 @@
     <string name="lable_provide_local_information">Надати місцеву інформацію</string>
     <string name="lable_timer_management">Управління таймером</string>
     <string name="lable_perform_card_apdu">Виконати APDU карти</string>
-    <string name="lable_power_on_card">Включити карту</string>
+    <string name="lable_power_on_card">Увімкнути карту</string>
     <string name="lable_power_off_card">Вимкнути карту</string>
     <string name="lable_get_reader_status">Стан карт-рідера</string>
     <string name="lable_run_at_command">Виконати AT-команду</string>
@@ -60,7 +60,7 @@
     <string name="lable_retrieve_multimedia_message">Витягти MMS</string>
     <string name="lable_submit_multimedia_message">Передати MMS</string>
     <string name="lable_display_multimedia_message">Показати MMS</string>
-    <string name="lable_activate">Включити</string>
+    <string name="lable_activate">Увімкнути</string>
     <string name="action_launch_browser">Запустити браузер</string>
     <string name="action_setup_call">Набір номера</string>
     <string name="lable_busy_on_bip">Додаток зайнято BIP-командами, повторіть спробу пізніше</string>

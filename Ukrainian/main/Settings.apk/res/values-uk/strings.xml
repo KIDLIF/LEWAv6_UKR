@@ -491,7 +491,7 @@
     <string name="clear_motion_summary">Покращення плавності відео</string>
     <string name="clear_motion_title">ClearMotionTM</string>
     <string name="wifi_hotspot_suspend_optimizations">Оптимізація Wi-Fi-модему</string>
-    <string name="wifi_hotspot_suspend_optimizations_summary">Мінімізація споживання батареї при включеній точці доступу Wi-Fi</string>
+    <string name="wifi_hotspot_suspend_optimizations_summary">Мінімізація споживання батареї при увімкненій точці доступу Wi-Fi</string>
     <string name="wfd_change_resolution_menu_title">Змінити роздільну здатність</string>
     <string name="passpoint_title">Автопідключення</string>
     <string name="passpoint_summary">Автопідключення до точок доступу</string>
@@ -673,7 +673,7 @@
     <string name="proxy_error">Увага!</string>
     <string name="proxy_error_dismiss">ОК</string>
     <string name="proxy_error_invalid_host">Введено недійсне ім’я хоста.</string>
-    <string name="proxy_error_invalid_exclusion_list">Список винятків відформатований невірно. Перерахуйте домени для виключення через кому.</string>
+    <string name="proxy_error_invalid_exclusion_list">Список винятків відформатований невірно. Перерахуйте домени для вимкнення через кому.</string>
     <string name="proxy_error_empty_port">У полі адреси порту має бути введене значення.</string>
     <string name="proxy_error_empty_host_set_port">Поле з адресою порту повинно бути залишено порожнім, якщо поле вузла порожнє.</string>
     <string name="proxy_error_invalid_port">Зазначений порт не є дійснии.</string>
@@ -959,8 +959,8 @@
     <string name="wifi_display_options_forget">Забути</string>
     <string name="wifi_display_options_done">ОК</string>
     <string name="wifi_display_options_name">Ім’я</string>
-    <string name="wifi_display_summary_on">Вкл.</string>
-    <string name="wifi_display_summary_off">Викл.</string>
+    <string name="wifi_display_summary_on">Увімк.</string>
+    <string name="wifi_display_summary_off">Вимк.</string>
     <string name="wifi_display_summary_disabled">Відключено</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Дозволити обмін даними при суміщенні телефону з іншим пристроєм</string>
@@ -1539,8 +1539,8 @@
     <string name="unknown">Невідомо</string>
     <string name="sort_order_alpha">Сортувати за іменем</string>
     <string name="sort_order_size">Сортувати за розміром</string>
-    <string name="show_running_services">Показати активні служби</string>
-    <string name="show_background_processes">Показати фонові процеси</string>
+    <string name="show_running_services">Активні служби</string>
+    <string name="show_background_processes">Фонові процеси</string>
     <string name="reset_app_preferences">Скинути налаштування</string>
     <string name="reset_app_preferences_title">Скинути налаштування?</string>
     <string name="reset_app_preferences_desc">"Буде скинуто наступні налаштування:
@@ -1619,7 +1619,7 @@
     <string name="service_started_by_app">Запущено додатком.</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_background_processes">%1$s вільно</string>
-    <string name="service_foreground_processes">%1$s використовується</string>
+    <string name="service_foreground_processes">%1$s занято</string>
     <string name="memory">ОЗУ</string>
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">Користувач: %1$s</string>
@@ -2644,7 +2644,7 @@
     <string name="gestures_click_title">Введення</string>
     <string name="gestures_click_content">Двійний тап для пробудження екрану</string>
     <string name="gesture_app_null">Немає додатка, натисніть для вибору</string>
-    <string name="screen_gestures_settings_summary">Закрити або включити інформаційний екран із жестами, різні жести можуть запускати користувацькі додатки</string>
+    <string name="screen_gestures_settings_summary">Закрити або увімкнути інформаційний екран із жестами, різні жести можуть запускати користувацькі додатки</string>
     <string name="activity_rounded_corner_title">Заокруглені кути вікон</string>
     <string name="led_settings">Індикація</string>
     <string name="led_colors_summary">Колір повідомлень</string>
@@ -2658,7 +2658,7 @@
     <string name="notification_led_freq_title">Частота блимання для сповіщення</string>
     <string name="incoming_call_led_freq_title">Частота блимання для вхідного виклику</string>
     <string name="mms_led_freq_title">Частота блимання для SMS</string>
-    <string name="power_key_title">Клавіша включення</string>
+    <string name="power_key_title">Клавіша увімкнення</string>
     <string name="pattern_cancel">Повтор</string>
     <string name="unlock_set_unlock_screen_title">Використання локскріну</string>
     <string name="change_password_text">Змінити</string>
@@ -2706,7 +2706,7 @@
     <string name="lw_text_big_launcher">Режим великого лаунчера</string>
     <string name="lw_text_bid_launcher_description">Режим великого лаунчер адаптує шари , великі іконки і шрифти для більш зручного сприйняття. Для застосування змін необхідне перезавантаження</string>
     <string name="lw_dialog_reboot_title">Перезавантаження</string>
-    <string name="lw_dialog_reboot_content">Ви повинні перезавантажити пристрій, для включення режиму великого лаунчера. Перезавантажити?</string>
+    <string name="lw_dialog_reboot_content">Ви повинні перезавантажити пристрій, для увімкнення режиму великого лаунчера. Перезавантажити?</string>
     <string name="lw_dialog_reboot_confirm">Перезавантажити</string>
     <string name="lw_dialog_reboot_cancel">Скасувати</string>
     <string name="lock_screen_message">Відображати повідомлення</string>
@@ -2732,7 +2732,7 @@
     <string name="invalid_data_size">Неправильні дані</string>
     <string name="wizard_setup_complete">Налаштування завершено</string>
     <string name="wizard_begin_use">Запуск</string>
-    <string name="wizard_location_setup">Включити GPS</string>
+    <string name="wizard_location_setup">Увімкнути GPS</string>
     <string name="wizard_next_step">Далі</string>
     <string name="wizard_skip">Далі</string>
     <string name="em_settings_title">Інженерне меню</string>
@@ -2788,7 +2788,7 @@
     <string name="date_time_12_hour_sample">1:00 PM</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="bluetooth_enter_pin_msg_hs">"
-Введіть PIN для парування з \"%1$s\". [Включено високий рівень безпеки: необхідно 16 символів]"</string>
+Введіть PIN для парування з \"%1$s\". [Увімкнено високий рівень безпеки: необхідно 16 символів]"</string>
     <string name="bluetooth_profile_sap">Доступ до SIM</string>
     <string name="bluetooth_profile_dun">Доступ до Dial-up</string>
     <string name="bluetooth_sap_profile_summary_connected">Підключено до SIM Access Server</string>
@@ -2832,7 +2832,6 @@
     <string name="show_password_summary" />
     <string name="schedule_power_on_off_time">Час</string>
     <string name="schedule_power_on_off_repeat">Повтор</string>
-    <string name="schedule_power_on_off_set">Налаштування розкладу вкл/викл живлення</string>
     <string name="schedule_power_on_set">Графік увімкнення пристрою</string>
     <string name="schedule_power_off_set">Графік вимкнення пристрою</string>
     <string name="enable_schpwr">Увімкнено</string>
@@ -2866,7 +2865,7 @@
  SIM не підтримує."</string>
     <string name="sim_pin_attempts">"
 Лишилося спроб :"</string>
-    <string name="sim_pin_enabled">PIN1 включений!</string>
+    <string name="sim_pin_enabled">PIN1 увімкнений!</string>
     <string name="sim_pin_disabled">PIN1 виключений!</string>
     <string name="device_additional_status_summary">Номер телефону, рівень сигналу, IMEI тощо</string>
     <string name="device_additional_status">Дод. інформація</string>
@@ -2890,7 +2889,7 @@
     <string name="testing_slot_choose">Вибор слоту</string>
     <string name="testing_wlan_info">Wi-Fi</string>
     <string name="enable_fast_poweron_title">Швидке увімкнення</string>
-    <string name="enable_fast_poweron_summary">Увімкнення/вимкнення швидкого включення</string>
+    <string name="enable_fast_poweron_summary">Увімкнення/вимкнення швидкого увімкнення</string>
     <string name="accessibility_toggle_large_text_title">Великий текст</string>
     <string name="accessibility_power_button_ends_call_title">Клав. живл. завершує виклик</string>
     <string name="accessibility_speak_password_title">Озвучувати паролі</string>
@@ -2914,7 +2913,6 @@
     <string name="user_market_apps_heading">Встановлені додатки</string>
     <string name="user_discard_user_menu">Відключення</string>
     <string name="sel_sub_title">Налаштування режиму Dual-SIM</string>
-    <string name="sel_sub_summary">Назви, вкл/викл SIM-карт тощо</string>
     <string name="select_subscription">Вибір підписки</string>
     <string name="multi_sim_settings_title">Налаштування SIM-карт</string>
     <string name="multi_sim_settings_title_Multi">Мульти-SIM</string>

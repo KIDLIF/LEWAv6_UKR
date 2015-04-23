@@ -105,7 +105,7 @@
     <string name="toast_first_fix">GPS Fix after %1$d %2$s</string>
     <string name="menu_run_bg_disable">Disable Run in BG. [Need Restart.]</string>
     <string name="menu_run_bg_enable">Enable Run in BG. [Need Restart.]</string>
-    <string name="provider_status_enabled">%1$s включено</string>
+    <string name="provider_status_enabled">%1$s увімкнено</string>
     <string name="provider_status_disabled">%1$s виключено</string>
     <string name="gps_status_started">ПРАЦЮЄ</string>
     <string name="gps_status_stopped">ЗУПИНЕНО</string>

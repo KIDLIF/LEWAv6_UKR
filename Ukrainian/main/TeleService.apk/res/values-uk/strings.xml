@@ -26,7 +26,7 @@
     <string name="sim_toolkit">Меню SIM</string>
     <string name="activity_not_found">Додаток не встановлено</string>
     <string name="no_sim_card_inserted">Будь ласка, вставте SIM для запуску Меню SIM-картки</string>
-    <string name="airplane_mode_on">Неможливо запустити Меню SIM-карти, поки включений режим \"У літаку\"</string>
+    <string name="airplane_mode_on">Неможливо запустити Меню SIM-карти, поки увімкнений режим \"У літаку\"</string>
     <string name="lable_sim_not_ready">Додаток Меню SIM-картки не готовий або не підтримується</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">Відеодзвінок не може бути налаштований. Режим відеотелефона не підтримується Вашим пристроєм, виконати голосовий виклик?</string>
@@ -725,7 +725,7 @@
     <string name="incall_call_type_label_sip">Інтернет-виклик</string>
     <string name="incall_error_radio_off">Карта була вимкнена. Відкрити?</string>
     <string name="emergency_enable_radio_dialog_title">Екстрений виклик</string>
-    <string name="emergency_enable_radio_dialog_message">Включення мережі…</string>
+    <string name="emergency_enable_radio_dialog_message">Увімкнення мережі…</string>
     <string name="emergency_enable_radio_dialog_retry">Поза зоною дії мережі, повторне підключення…</string>
     <string name="dial_emergency_error">Виклик не здійснюється, так як %s не є номером екстреного виклику!</string>
     <string name="dial_emergency_empty_error">Виклик не здійснено, наберіть номер екстреного виклику!</string>
@@ -759,7 +759,7 @@
 
 Це може зайняти деякий час"</string>
     <string name="ota_skip_activation_dialog_title">Пропустити активацію?</string>
-    <string name="ota_skip_activation_dialog_message">Якщо Ви пропустите активацію, то не зможете здійснювати виклики і підключатися до мобільних мереж передачі даних (хоча зможете підключатися до Wi-Fi). Поки Ви не активуєте свій пристрій, запит активації буде відображатися при кожному його включенні</string>
+    <string name="ota_skip_activation_dialog_message">Якщо Ви пропустите активацію, то не зможете здійснювати виклики і підключатися до мобільних мереж передачі даних (хоча зможете підключатися до Wi-Fi). Поки Ви не активуєте свій пристрій, запит активації буде відображатися при кожному його увімнені</string>
     <string name="ota_skip_activation_dialog_skip_label">Пропустити</string>
     <string name="ota_activate">Активувати</string>
     <string name="ota_title_activate_success">Пристрій активовано!</string>
@@ -768,7 +768,7 @@
     <string name="ota_speaker">Динамік</string>
     <string name="ota_progress">Дочекайтеся завершення програмування пристрою</string>
     <string name="ota_failure">Збій при програмуванні</string>
-    <string name="ota_successful">Ваше пристрій активовано. Включення служби може зайняти до 15 хвилин</string>
+    <string name="ota_successful">Ваше пристрій активовано. Увімкнення служби може зайняти до 15 хвилин</string>
     <string name="ota_unsuccessful">"Пристрій не активовано. 
 Можливо, Вам слід знайти зону з кращим рівнем сигналу (біля вікна або на вулиці). 
 
@@ -892,7 +892,7 @@
     <string name="description_image_button_pound">решітка</string>
     <string name="description_dial_button">набір номера</string>
     <string name="description_delete_button">повернення</string>
-    <string name="accessibility_speakerphone_enabled">Гучний зв\'язок включений.</string>
+    <string name="accessibility_speakerphone_enabled">Гучний зв\'язок увімкнений.</string>
     <string name="accessibility_call_muted">Звук вимкнений.</string>
     <string name="description_target_answer">Правильний варіант</string>
     <string name="description_target_send_sms">Відправити SMS</string>
