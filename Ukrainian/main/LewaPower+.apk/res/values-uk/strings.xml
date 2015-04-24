@@ -21,9 +21,9 @@
     <string name="automatic_brightness">Автояскравість</string>
     <string name="dev_key_bglight">Підсвітка клавіатури</string>
     <string name="dev_clear_memory">Очищення пам’яті після блокування екрану</string>
-    <string name="spm_date">" д. "</string>
-    <string name="spm_hour">" г. "</string>
-    <string name="spm_minute">" хв. "</string>
+    <string name="spm_date">"д. "</string>
+    <string name="spm_hour">"г. "</string>
+    <string name="spm_minute">"х. "</string>
     <string name="spm_seconds">" с. "</string>
     <string name="spm_auto">Автоматично</string>
     <string name="spm_time_to_use">Застосувати</string>
@@ -69,9 +69,9 @@
     <string name="spm_app_running">Вик.</string>
     <string name="spm_app_not_started">Не вик.</string>
     <string name="spm_mode_choice_normal_toast">Увімкнено нормальний режим, передача даних відновлена</string>
-    <string name="spm_mode_choice_standy_by_toast">"Увімкнено режим економії енергії. "</string>
-    <string name="spm_mode_choice_exit_standy_by_toast">"Вимкнено режим економії енергії"</string>
-    <string name="spm_mode_choice_alarm_toast">"Вхід у режим будильника, "</string>
+    <string name="spm_mode_choice_standy_by_toast">Увімкнено режим економії енергії.</string>
+    <string name="spm_mode_choice_exit_standy_by_toast">Вимкнено режим економії енергії</string>
+    <string name="spm_mode_choice_alarm_toast">Вхід у будильник,</string>
     <string name="sp_bedtime_dialog_start_title">Вказати час старту</string>
     <string name="sp_bedtime_dialog_end_title">Вказати час закінчення</string>
     <string name="sp_btn_finish">Калібрування завершено</string>
@@ -121,7 +121,7 @@
     <string name="spm_custom_settings_intelli_batterylow_summy">"Попередження про низький заряд батареї. Поточне налаштування: "</string>
     <string name="spm_battery_low_warnnig_title">Батарея розряджена!</string>
     <string name="spm_battery_low_warnnig_msg">"Увага! Рівень заряду менше "</string>
-    <string name="spm_battery_low_warnnig_msg_1">" Відкрити додаток Батарея+ ?"</string>
+    <string name="spm_battery_low_warnnig_msg_1">" Увімкнути режим економії?"</string>
     <string name="spm_battery_low_warnnig_to_connect">"Заряд батареї нижчий, ніж "</string>
     <string name="spm_battery_low_warnnig_to_connect_1">!</string>
     <string name="spm_inti_statusbar_in">Режим економії енергії увімкнено</string>
