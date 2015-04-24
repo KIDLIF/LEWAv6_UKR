@@ -561,9 +561,11 @@
     <string name="rtsp_proxy_settings">Налаштування проксі-сервера RTSP</string>
     <string name="rtsp_proxy_settings_summary">Налаштування і управління настройками проксі-сервера RTSP</string>
     <string name="enable_rtsp_proxy">Неможливе використання проксі-сервера RTSP</string>
+    <string name="enable_rtsp_proxy_summary">Увімкнути/вимкнути проксі-сервер RTSP</string>
     <string name="http_proxy_settings">Налаштування проксі HTTP</string>
     <string name="http_proxy_settings_summary">Налаштування і управління настройками HTTP-проксі</string>
     <string name="enable_http_proxy">Увімкнути HTTP-проксі</string>
+    <string name="enable_http_proxy_summary">"Увімкнути/вимкнути проксі-сервер HTTP "</string>
     <string name="apn_settings_summary">"Поточна SIM-карта: %1$s 
 Поточна APN-карта: %2$s"</string>
     <string name="apn_settings_not_valid">Режим підключення даних SIM-карти закритий, неможливо задати APN</string>

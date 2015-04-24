@@ -2832,6 +2832,7 @@
     <string name="show_password_summary" />
     <string name="schedule_power_on_off_time">Час</string>
     <string name="schedule_power_on_off_repeat">Повтор</string>
+    <string name="schedule_power_on_off_set">Налаштування розкладу увімк/вимк живлення</string>
     <string name="schedule_power_on_set">Графік увімкнення пристрою</string>
     <string name="schedule_power_off_set">Графік вимкнення пристрою</string>
     <string name="enable_schpwr">Увімкнено</string>
@@ -2913,6 +2914,7 @@
     <string name="user_market_apps_heading">Встановлені додатки</string>
     <string name="user_discard_user_menu">Відключення</string>
     <string name="sel_sub_title">Налаштування режиму Dual-SIM</string>
+    <string name="sel_sub_summary">Назви, увімк/вимк SIM-карт тощо</string>
     <string name="select_subscription">Вибір підписки</string>
     <string name="multi_sim_settings_title">Налаштування SIM-карт</string>
     <string name="multi_sim_settings_title_Multi">Мульти-SIM</string>
