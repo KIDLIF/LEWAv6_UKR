@@ -87,7 +87,7 @@
     <string name="spm_mode_dev_shutdown">Вимикання</string>
     <string name="spm_mode_choice_time_advance">" збільшено на "</string>
     <string name="spm_mode_choice_time_reduce">" зменшено на "</string>
-    <string name="spm_mode_choice_dialog_content_before">Час роботи</string>
+    <string name="spm_mode_choice_dialog_content_before">" Час роботи"</string>
     <string name="spm_battery_life_time_has_no_changed">не змінювалося</string>
     <string name="spm_life_time">Залишилося</string>
     <string name="spm_charging_time">Заряджання</string>

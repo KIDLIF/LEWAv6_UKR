@@ -24,11 +24,12 @@
     <string name="safe_status_two">дня(ів) без перевірки</string>
     <string name="safe_status_three">Перевірити</string>
     <string name="operation_choose">Виберіть стиль диспетчера</string>
-    <string name="pre_operation_mode">Попередній перегляд</string>
+    <string name="pre_operation_mode">Попередній перегляд стилю диспетчера</string>
     <string name="left_sliding">&lt;&lt; Закріпити</string>
     <string name="right_sliding">Закріпити &gt;&gt;</string>
     <string name="alarm_tips">Зажміть для входу в будильник</string>
-    <string name="long_click_tips">Зажміть для подробиць</string>
+    <string name="long_click_tips">"Зажміть для 
+	подробиць "</string>
     <string name="clean_toast_str0">Оптимізовано</string>
     <string name="clean_toast_str1">"Звільнено %1$d МБ пам’яті
 Доступно %2$d МБ"</string>
