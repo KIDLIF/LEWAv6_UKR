@@ -29,7 +29,7 @@
     <string name="right_sliding">Закріпити &gt;&gt;</string>
     <string name="alarm_tips">Зажміть для входу в будильник</string>
     <string name="long_click_tips">"Зажміть для 
-	подробиць "</string>
+  подробиць"</string>
     <string name="clean_toast_str0">Оптимізовано</string>
     <string name="clean_toast_str1">"Звільнено %1$d МБ пам’яті
 Доступно %2$d МБ"</string>

@@ -59,7 +59,8 @@
     <string name="vt_pic_replace_local_freezeme">Зафіксувати зображення</string>
     <string name="vt_pic_replace_local_mypic">Моє зображення</string>
     <string name="vt_local_video_display">Відображення локального відео</string>
-    <string name="vt_sd_null">SD-картка недоступна</string>
+    <string name="vt_sd_null">SD-картка недоступна
+</string>
     <string name="vt_sd_not_enough">"Недостатньо місця 
 на SD-картці"</string>
     <string name="vt_peer_video_quality_normal">Звичайний</string>
@@ -723,7 +724,7 @@
     <string name="incall_error_supp_service_reject">Неможливо відхилити виклик</string>
     <string name="incall_error_supp_service_hangup">Неможливо роз\'єднати абонентів</string>
     <string name="incall_call_type_label_sip">Інтернет-виклик</string>
-    <string name="incall_error_radio_off">Карта була вимкнена. Відкрити?</string>
+    <string name="incall_error_radio_off">SIM-Карта була вимкнена. Увімкнути?</string>
     <string name="emergency_enable_radio_dialog_title">Екстрений виклик</string>
     <string name="emergency_enable_radio_dialog_message">Увімкнення мережі…</string>
     <string name="emergency_enable_radio_dialog_retry">Поза зоною дії мережі, повторне підключення…</string>
