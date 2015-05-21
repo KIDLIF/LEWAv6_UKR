@@ -1122,7 +1122,7 @@
     <string name="dlg_ok">ОК</string>
     <string name="usb_mtp_notification_title">Підключений як пристрій зберігання даних</string>
     <string name="usb_ptp_notification_title">Підключений як камера</string>
-    <string name="usb_cd_installer_notification_title">Підключений як установник</string>
+    <string name="usb_cd_installer_notification_title">Підключений, як CD-ROM</string>
     <string name="usb_accessory_notification_title">USB-пристрій підключено</string>
     <string name="usb_notification_message">Натисніть, щоб відкрити опції</string>
     <string name="extmedia_format_title">Відформатувати?</string>

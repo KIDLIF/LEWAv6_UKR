@@ -180,7 +180,7 @@
     <string name="software_updates_more_summary">Перевірити наявність нової версії програмного забезпечення</string>
     <string name="software_updates_scomo_summary">Перевірити нову версію додатка</string>
     <string name="scomo_settings_title">Служба оновлення</string>
-    <string name="battery_level">%s%%</string>
+
     <string name="screen_timeout_CU">Час очікування екрану</string>
     <string name="landscape_launcher_title">Розкладка значків меню</string>
     <string name="landscape_launcher_none">Немає</string>
@@ -193,9 +193,6 @@
     <string name="hdmi_audio_toggler">Аудіо</string>
     <string name="hdmi_video_toggler">Відео</string>
     <string name="hdmi_video_resolution">Роздільна здатність відео</string>
-    <string name="hdmi_auto">AUTO</string>
-    <string name="hdmi_replace_hdmi">HDMI</string>
-    <string name="hdmi_replace_mhl">MHL</string>
     <string name="display_settings_scences_title">Сцени</string>
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">По замовчуванню</string>
@@ -302,7 +299,7 @@
     <string name="eap_sim_aka_airplanemode">Для використання EAP-SIM/AKA вимкніть режим У літаку</string>
     <string name="eap_sim_aka_no_sim_error">Для використання EAP-SIM/AKA слід встановити SIM-картку</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Для використання EAP-SIM/AKA слід вибрати слот SIM-картки</string>
-    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+
     <string name="wifi_security_wapi_certificate">WAPI сертифікат</string>
     <string name="wapi_user_certificate">Сертифікат користувача</string>
     <string name="wapi_as_certificate">Сертифікат ASE</string>
@@ -705,7 +702,7 @@
     <string name="radio_info_ping_hostname">Ім’я вузла команди Ping (www.google.com):</string>
     <string name="radio_info_http_client_test">Тест клієнта HTTP:</string>
     <string name="ping_test_label">Тест проходження команди Ping</string>
-    <string name="radio_info_smsc_label">SMSC:</string>
+
     <string name="radio_info_smsc_update_label">Оновити</string>
     <string name="radio_info_smsc_refresh_label">Оновити</string>
     <string name="radio_info_toggle_dns_check_label">Увімкнути перевірку DNS</string>
@@ -752,7 +749,9 @@
     <string name="roaming_turn_it_on_button">Увімкнути</string>
     <string name="roaming_warning">Дозволити Інтернет-роумінг? Можливі високі витрати за його використання</string>
     <string name="roaming_warning_multiuser">Використання передачі даних в роумінгу може призвести до велких витрат! Налаштування матимуть силу після перезавантаження</string>
-    <string name="roaming_reenable_title">Дозволити інтернет-роумінг?</string>
+    
+	
+	<string name="roaming_reenable_title">Дозволити інтернет-роумінг?</string>
     <string name="networks">Вибір оператора</string>
     <string name="sum_carrier_select">Виберіть оператора зв’язку</string>
     <string name="date_and_time_settings_title">Дата і час</string>
@@ -1220,7 +1219,7 @@
     <string name="screensaver_settings_button">Налаштування</string>
     <string name="automatic_brightness">Автопідсвічування</string>
     <string name="title_font_size">Розмір шрифту</string>
-    <string name="summary_font_size">%1$s</string>
+
     <string name="dialog_title_font_size">Розмір шрифту</string>
     <string name="sim_lock_settings">Налаштування блокування SIM-картки</string>
     <string name="sim_lock_settings_category">Налаштувати блокування</string>
@@ -1262,14 +1261,14 @@
     <string name="storage_settings">Пам’ять</string>
     <string name="storage_settings_title">Налаштування накопичувача</string>
     <string name="storage_settings_summary">Вимкнути SD-картку, переглянути доступні накопичувачі</string>
-    <string name="status_imei">IMEI</string>
-    <string name="status_imei_sv">IMEI SV</string>
+
+	
     <string name="status_number">Мій номер телефону</string>
-    <string name="status_min_number">MIN</string>
-    <string name="status_msid_number">MSID</string>
+
+	
     <string name="status_prl_version">PRL версія</string>
-    <string name="status_meid_number">MEID</string>
-    <string name="status_icc_id">ICCID</string>
+
+	
     <string name="status_network_type">Тип мобільної мережі</string>
     <string name="status_latest_area_info">Інформація оператора</string>
     <string name="status_data_state">Мобільна передача даних</string>
@@ -1939,11 +1938,11 @@
     <string name="gadget_gps">GPS</string>
     <string name="gadget_sync">Синхронізація</string>
     <string name="gadget_brightness_template">Яскравість: %1$s</string>
-    <string name="gadget_brightness_state_auto">auto</string>
-    <string name="gadget_brightness_state_full">full</string>
-    <string name="gadget_brightness_state_half">half</string>
-    <string name="gadget_brightness_state_off">off</string>
-    <string name="vpn_settings_title">VPN</string>
+
+
+
+
+
     <string name="credentials_title">Сховище сертифікатів</string>
     <string name="credentials_install">Встановлення з SD-картки</string>
     <string name="credentials_install_summary">Встановити сертифікати з SD-картки</string>
@@ -2329,6 +2328,7 @@
     <string name="erase_internal_sd_storage">"Стерти внутрішню пам'ять"</string>
     <string name="buttonlight_title">Підсвічування клавіш</string>
     <string name="buttonlight_msg">Підсвічування клавіш при торканні экрану</string>
+
     <string name="common_settings_title">ЗАГАЛЬНІ</string>
     <string name="settings_title">ВСІ НАЛАШТУВАННЯ</string>
     <string name="custom_frequent_foot_btn_text">Змінити…</string>
@@ -2406,21 +2406,21 @@
     <string name="remeber_tail">перетягнути уліво</string>
     <string name="default_gprs_title">Оберіть SIM-картку по замовчуванню для GPRS</string>
     <string name="could_modify_in_simmanagement">Можна змінити у керуванні SIM-картками</string>
-    <string name="sim_china_mobile">CMCC</string>
-    <string name="sim_china_telecom">CTCC</string>
-    <string name="sim_china_unicom">CUCC</string>
-    <string name="guide_sim_china_mobile">"China Mobile
 
- GSM
-"</string>
-    <string name="guide_sim_china_telecom">"China Telecom
 
- CDMA
-"</string>
-    <string name="guide_sim_china_unicom">"China Unicom
 
- WCDMA
-"</string>
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="sim_pin_locked">PIN заблоковано</string>
     <string name="phone_inUse">Телефон використовується, Ви не можете переключитись у режим У літаку</string>
     <string name="sim_displayname_too_long">Максимум 8 символів</string>
@@ -2562,7 +2562,7 @@
     <string name="clean_system_cache_file">Системний кеш:</string>
     <string name="clean_calculate_complete_result">%1$s вільного місця, після очистки очікується %2$s</string>
     <string name="storage_install_app_sdcard_summary">" (деякі додатки це не підтримують)"</string>
-    <string name="gsm_umts_network_preferences_default_values">0</string>
+
     <string name="sim_setting_guide_continue">Уперед</string>
     <string name="sim_setting_guide_cancel">Скасувати</string>
     <string name="labi_sync_title">Синхронізація контактів</string>
@@ -2667,6 +2667,16 @@
     <string name="cancel_password">Успішно скасовано</string>
     <string name="pattern_screen_password">Використання графічного ключа</string>
     <string name="password_screen_password">Використання пароля</string>
+
+
+
+
+
+
+
+
+
+
     <string name="please_input_pwd">Ввід пароля</string>
     <string name="sure_input_pwd">Підтвердження</string>
     <string name="input_again">Забути</string>
@@ -2735,10 +2745,6 @@
     <string name="wizard_location_setup">Увімкнути GPS</string>
     <string name="wizard_next_step">Далі</string>
     <string name="wizard_skip">Далі</string>
-    <string name="em_settings_title">Інженерне меню</string>
-    <string name="em_settings_adb_title">Тонке налаштування параметрів телефона</string>
-    <string name="system_font">Системний шрифт</string>
-    <string name="font_replacement">Заміна шрифту</string>
     <string name="day">1 день</string>
     <string name="days">" %s дн."</string>
     <string name="hour">1 година</string>
@@ -3009,8 +3015,8 @@
     <string name="hw_version">Версія обладнання:</string>
     <string name="sw_version">Версія ПЗ:</string>
     <string name="prl_ver">Версія PRL-файлу:</string>
-    <string name="uimid">UIM ID:</string>
-    <string name="esn_num">ESN:</string>
+
+
     <string name="password_confirmation_dismatch">!!! Новий та підтвержений паролі не співпадають !!!</string>
     <string name="new_password_set">!!! Новий пароль резервування заданий !!!</string>
     <string name="failure_backup_password">!!! Невірні налаштування резервування !!!</string>
@@ -3069,6 +3075,10 @@
     <string name="flip_2_mute_summary">Доступ до додаткових налаштувань</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калібрування G-сенсору/акселерометру</string>
+    <string name="em_settings_title">Інженерне меню</string>
+    <string name="em_settings_adb_title">Тонке налаштування параметрів телефона</string>
     <string name="two_finger_update_brightness">Зміна яскравості 2 пальцями</string>
     <string name="two_finger_update_brightness_description">Зміна яскравості проводячи двома пальцями верх або вниз</string>
+    <string name="system_font">Системний шрифт</string>
+    <string name="font_replacement">Заміна шрифту</string>
 </resources>
