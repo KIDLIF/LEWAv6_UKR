@@ -48,6 +48,6 @@
     <string name="notification_info_peding">Очікування</string>
     <string name="notification_info_fail">Помилка</string>
     <string name="notification_info_sdcard_insufficient_space_error">Недостатньо місця на SD-карті</string>
-    <string name="notification_info_insufficient_space_error">Недостатньо місця у внутрішньому сховищі</string>
+    <string name="notification_info_internal_insufficient_space_error">Недостатньо місця у внутрішньому сховищі</string>
     <string name="notification_info_insufficient_space_error">Недостатньо місця</string>
 </resources>
