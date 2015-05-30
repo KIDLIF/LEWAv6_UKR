@@ -2,14 +2,15 @@
 <resources>
     <string-array name="desktop_transition_effect_entries">
         <item>Стандарт</item>
-        <item>Стек</item>
-        <item>Обертання вниз</item>
+        <item>Перескок</item>
+        <item>Обертання</item>
         <item>Переворот</item>
         <item>Куб всередині</item>
         <item>Куб зовні</item>
         <item>Акордеон</item>
         <item>Карусель</item>
     </string-array>
+
 	
 	
 	
@@ -20,48 +21,47 @@
 	
 	
 	
-    <string-array name="large_screen_layout">
-        <item>4 * 4</item>
-        <item>4 * 5</item>
-        <item>4 * 6</item>
-        <item>5 * 5</item>
-        <item>5 * 6</item>
-    </string-array>
-    <string-array name="large_screen_layout_value">
-        <item>4|4</item>
-        <item>4|5</item>
-        <item>4|6</item>
-        <item>5|5</item>
-        <item>5|6</item>
-    </string-array>
-    <string-array name="ex_large_screen_layout">
-        <item>4 * 4</item>
-        <item>4 * 5</item>
-        <item>4 * 6</item>
-        <item>5 * 5</item>
-        <item>5 * 6</item>
-    </string-array>
-    <string-array name="ex_large_screen_layout_value">
-        <item>4|4</item>
-        <item>4|5</item>
-        <item>4|6</item>
-        <item>5|5</item>
-        <item>5|6</item>
-    </string-array>
-    <string-array name="icon_size">
-        <item>@string/extra_tiny_icon_size</item>
-        <item>@string/tiny_icon_size</item>
-        <item>@string/small_icon_size</item>
-        <item>@string/normal_icon_size</item>
-        <item>@string/big_icon_size</item>
-    </string-array>
-    <string-array name="icon_size_value">
-        <item>0.6f</item>
-        <item>0.7f</item>
-        <item>0.8f</item>
-        <item>0.9f</item>
-        <item>1.0f</item>
-    </string-array>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -69,25 +69,25 @@
     <string-array name="app_category">
         <item>Життя</item>
         <item>Спілкування</item>
-        <item>Соц.мережі</item>
+        <item>Соцмережі</item>
         <item>Безпека</item>
-        <item>Аудіо/читання</item>
+        <item>Медія</item>
         <item>Теми/шпалери</item>
         <item>Перегляд</item>
-        <item>Навчання</item>
-        <item>Свої ігри</item>
+        <item>Офіс</item>
+        <item>Ігри</item>
         <item>Інше</item>
     </string-array>
     <string-array name="game_second_category">
         <item>Стратегії</item>
         <item>Екшн</item>
-        <item>Політ</item>
+        <item>Літалки</item>
         <item>Пригодницькі</item>
         <item>Симулятори</item>
         <item>Інше</item>
-        <item>Моб.ігри</item>
+        <item>Мобільні</item>
         <item>Спорт</item>
-        <item>Пазли</item>
+        <item>Головоломки</item>
         <item>Настільні</item>
     </string-array>
 	

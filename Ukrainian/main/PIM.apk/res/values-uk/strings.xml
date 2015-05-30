@@ -337,8 +337,8 @@
     <string name="description_view_contact_detail">Переглянути контакт</string>
     <string name="no_sdcard_message">SD-картка відсутня</string>
     <string name="import_from_sim">Імпортувати з SIM-картки</string>
-    <string name="import_from_sdcard">Імпортувати з SD-картки</string>
-    <string name="export_to_sdcard">Експортувати на SD-картку</string>
+    <string name="import_from_sdcard">Імпортувати із сховища</string>
+    <string name="export_to_sdcard">Експортувати в сховище</string>
     <string name="share_visible_contacts">Поділитись контактами</string>
     <string name="import_one_vcard_string">Імпорт одного файлу VCard</string>
     <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
@@ -363,10 +363,10 @@
     <string name="reading_vcard_canceled_title">Читання даних vCard скасовано</string>
     <string name="importing_vcard_finished_title">Імпорт vCard завершено</string>
     <string name="importing_vcard_canceled_title">Імпорт файлу \"%s\" скасовано</string>
-    <string name="vcard_import_will_start_message">Імпорт %s невдовзі розпочнеться.</string>
-    <string name="vcard_import_will_start_message_with_default_name">Файл буде невдовзі імпортовано.</string>
+    <string name="vcard_import_will_start_message">Імпорт %s розпочався.</string>
+    <string name="vcard_import_will_start_message_with_default_name">Файл імпортується.</string>
     <string name="vcard_import_request_rejected_message">Запит на імпорт даних vCard відхилено. Повторіть спробу пізніше.</string>
-    <string name="vcard_export_will_start_message">Експорт %s невдовзі розпочнеться.</string>
+    <string name="vcard_export_will_start_message">Експорт %s розпочався.</string>
     <string name="vcard_export_request_rejected_message">Запит на експорт даних vCard відхилений. Повторіть спробу пізніше.</string>
     <string name="vcard_unknown_filename">контакт</string>
 	
