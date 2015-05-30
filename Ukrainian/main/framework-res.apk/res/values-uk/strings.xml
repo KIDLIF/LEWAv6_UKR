@@ -1198,7 +1198,7 @@
     <string name="no_file_chosen">Не вибрано файл</string>
     <string name="reset">Скинути</string>
     <string name="submit">Відправити</string>
-    <string name="car_mode_disable_notification_title">Включений режим \"Штурман\"</string>
+    <string name="car_mode_disable_notification_title">Увімкнений режим \"Штурман\"</string>
     <string name="car_mode_disable_notification_message">Щоб вийти, натисніть тут.</string>
     <string name="tethered_notification_title">USB-модем/точка доступу Wi-Fi використовується</string>
     <string name="tethered_notification_message">Натисніть для налаштування.</string>

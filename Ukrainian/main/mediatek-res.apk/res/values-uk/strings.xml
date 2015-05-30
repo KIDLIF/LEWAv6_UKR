@@ -4,7 +4,7 @@
     <string name="badPin2">Введено невірний PIN2</string>
     <string name="badPuk2">Введено невірний код PUK2</string>
     <string name="checkPwdLen">Переконайтеся, що Ваш пароль містить від 4 до 8 цифр</string>
-    <string name="pinNotEnabled">Включіть перевірку PIN-коду до його зміни</string>
+    <string name="pinNotEnabled">Увімкніть перевірку PIN-коду до його зміни</string>
     <string name="puk1Blocked">PIN-код заблоковано</string>
     <string name="puk2Blocked">PIN2 заблоковано</string>
     <string name="fdnFailMmi">Помилка перевірки FDN</string>

@@ -655,8 +655,8 @@
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_entries">
         <item>Завжди</item>
-        <item>Вимкнути при бездіяльності 5 хв.</item>
-        <item>Вимкнути при бездіяльності 10 хв.</item>
+        <item>Вимкнути при 5 хв. бездіяльності</item>
+        <item>Вимкнути при 10 хв. бездіяльності</item>
     </string-array>
 
 	
