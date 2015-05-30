@@ -743,10 +743,10 @@
     <string name="ota_title_problem_with_activation">Неполадки при активації</string>
     <string name="ota_listen">Дотримуйтесь голосових інструкцій, поки Вам не повідомлять, що активація завершена</string>
     <string name="ota_speaker">Динамік</string>
-    <string name="ota_progress">Дочекайтеся завершення програмування пристрою</string>
-    <string name="ota_failure">Збій при програмуванні</string>
-    <string name="ota_successful">Ваше пристрій активовано. Увімкнення служби може зайняти до 15 хвилин</string>
-    <string name="ota_unsuccessful">"Пристрій не активовано. 
+    <string name="ota_progress">Дочекайтеся завершення оновлення пристрою</string>
+    <string name="ota_failure">Збій при оновлені</string>
+    <string name="ota_successful">Ваш пристрій оновлено. Увімкнення служб може зайняти до 15 хвилин</string>
+    <string name="ota_unsuccessful">"Пристрій не оновлено. 
 Можливо, Вам слід знайти зону з кращим рівнем сигналу (біля вікна або на вулиці). 
 
 Повторіть спробу або зв\'яжіться зі службою підтримки"</string>

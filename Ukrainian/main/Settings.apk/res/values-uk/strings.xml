@@ -1221,9 +1221,9 @@
     <string name="title_font_size">Розмір шрифту</string>
 
     <string name="dialog_title_font_size">Розмір шрифту</string>
-    <string name="sim_lock_settings">Налаштування блокування SIM-картки</string>
+    <string name="sim_lock_settings">Блокування SIM-карток</string>
     <string name="sim_lock_settings_category">Налаштувати блокування</string>
-    <string name="sim_lock_settings_title">Блокування SIM-картки</string>
+    <string name="sim_lock_settings_title">Блокування SIM-карток</string>
     <string name="sim_pin_toggle">Блокування SIM-картки</string>
     <string name="sim_lock_on">Для використання телефону необхідний PIN-код</string>
     <string name="sim_lock_off">При увімкненні телефону буде необхідно ввести PIN-код</string>

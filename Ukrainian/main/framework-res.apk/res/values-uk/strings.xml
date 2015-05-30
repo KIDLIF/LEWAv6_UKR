@@ -1399,7 +1399,7 @@
     <string name="zz_keyguard_accessibility_voice_unlock">Розблокування голосом</string>
     <string name="sd_accessing_swtich_user_title">Переключити користувача?</string>
     <string name="sd_accessing_swtich_user_message">Всі незбережені дані в поточному записі буде втрачено</string>
-    <string name="kg_pattern_instructions_lewa_os_6">Намалюйте зображення для пароля</string>
+    <string name="kg_pattern_instructions_lewa_os_6">Накресліть графічний ключ</string>
     <string name="kg_password_instructions_lewa_os_6">Введіть пароль</string>
     <string name="description_pwd_image_button_one">Один</string>
     <string name="description_pwd_image_button_two">Два</string>
