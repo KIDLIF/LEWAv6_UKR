@@ -1619,7 +1619,7 @@
     <string name="service_client_name">%1$s</string>
     <string name="service_background_processes">%1$s вільно</string>
     <string name="service_foreground_processes">%1$s занято</string>
-    <string name="memory">ОЗУ</string>
+    <string name="memory">ОЗП</string>
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">Користувач: %1$s</string>
     <string name="running_process_item_removed_user_label">Користувача видалено</string>
@@ -1725,7 +1725,7 @@
     <string name="development_settings_title">Для розробників</string>
     <string name="development_settings_summary">Налаштування параметрів для розробників</string>
     <string name="enable_adb">Налагодження по USB</string>
-    <string name="enable_adb_summary">"Увімкнути режим відлагодження при підключенні до комп'ютера по USB"</string>
+    <string name="enable_adb_summary">"Увімкнути режим налагодження при підключенні до комп'ютера по USB"</string>
     <string name="bugreport_in_power">Звіти про помилки</string>
     <string name="bugreport_in_power_summary">Показувати звіти про помилки</string>
     <string name="keep_screen_on">Підсвітка під час зарядки</string>
@@ -2122,14 +2122,14 @@
     <string name="debug_layout_summary">Показувати межі кліпу, поля тощо</string>
     <string name="show_cpu_usage">Показати завантаження ЦП</string>
     <string name="show_cpu_usage_summary">Вивести на екран поточне завантаження ЦП</string>
-    <string name="force_hw_ui">Примусово прорахунок відео</string>
+    <string name="force_hw_ui">Примусовий прорахунок відео</string>
     <string name="force_hw_ui_summary">Використовувати апаратне 2D-прискорення в додатках</string>
     <string name="force_msaa">Увімкнути 4x MSAA</string>
     <string name="force_msaa_summary">Увімкнути 4x MSAA в OpenGL ES 2.0 додатках</string>
     <string name="track_frame_time">Запис часу роботи GPU</string>
     <string name="track_frame_time_summary">Вимірювання часу для adb shell dumpsys gfxinfo</string>
-    <string name="window_animation_scale_title">Шкала анімації вікна</string>
-    <string name="transition_animation_scale_title">Шкала анімації переходів</string>
+    <string name="window_animation_scale_title">Швидкість анімації вікна</string>
+    <string name="transition_animation_scale_title">Швидкість анімації переходів</string>
     <string name="animator_duration_scale_title">Швидкість анімації</string>
     <string name="overlay_display_devices_title">Емуляція додаткових екранів</string>
     <string name="debug_applications_category">Додатки</string>
@@ -2250,8 +2250,8 @@
     <string name="vpn_lockdown_config_error">Вкажіть IP-адресу для серверу та DNS.</string>
     <string name="vpn_no_network">"Відсутнє мережеве з'єднання. Повторіть спробу пізніше."</string>
     <string name="vpn_missing_cert">Відсутній сертифікат. Змініть профіль.</string>
-    <string name="trusted_credentials_system_tab">Система</string>
-    <string name="trusted_credentials_user_tab">Користувач</string>
+    <string name="trusted_credentials_system_tab">Системні</string>
+    <string name="trusted_credentials_user_tab">Користувача</string>
     <string name="trusted_credentials_disable_label">Вимкнути</string>
     <string name="trusted_credentials_enable_label">Увімкнути</string>
     <string name="trusted_credentials_remove_label">Видалити</string>
