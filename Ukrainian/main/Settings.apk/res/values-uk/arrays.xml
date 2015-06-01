@@ -21,8 +21,8 @@
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
         <item>30 секунд</item>
-        <item>1 хвилина</item>
-        <item>2 хвилини</item>
+        <item>1 хвилини</item>
+        <item>2 хвилин</item>
         <item>5 хвилин</item>
         <item>10 хвилин</item>
         <item>30 хвилин</item>

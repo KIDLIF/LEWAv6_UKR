@@ -232,7 +232,7 @@
     <string name="power_battery_fulltitle">Заряд батареї</string>
     <string name="power_battery_full">Батарею повністю заряджено. Від’єднайте зарядний пристрій</string>
     <string name="lockscreen_expanded">Доступ з екрану блокування</string>
-    <string name="lockscreen_expanded_comman">Панель повідомлень може бути відкрита з екрану блокування</string>
+    <string name="lockscreen_expanded_comman">Панель сповіщень може бути відкрита з екрану блокування</string>
     <string name="title_toggle_gemini_data">Інет SIM 1/2</string>
     <string name="recent_noapp">Немає запущених додатків</string>
     <string name="notifilter_cloud">Перехоплення повідомлень</string>
@@ -293,5 +293,5 @@
     <string name="block_notification">Блокув. сповіщ.</string>
     <string name="notifications_empty">Немає сповіщень</string>
     <string name="pref_title_action_updown">Жести стільниці</string>
-    <string name="pref_summary_action_updown">Протягніть вниз на стільниці для відкриття сповіщень</string>  
+    <string name="pref_summary_action_updown">Протягніть вниз на стільниці для відкриття панелі сповіщень</string>  
 </resources>
