@@ -65,7 +65,7 @@
     <string name="epo_enable_confirm_allow">Продовжити</string>
     <string name="epo_enable_confirm_deny">Відміна</string>
     <string name="agps_enable_confirm_title">Підтвердіть увімкнення A-GPS</string>
-    <string name="agps_enable_confirm">""A-GPS потребує бездротове з'єднання для отримання даних EPO і може спричинити додаткові витрати. Дійсно увімкнути A-GPS?"</string>
+    <string name="agps_enable_confirm">"A-GPS потребує бездротове з'єднання для отримання даних EPO і може спричинити додаткові витрати. Дійсно увімкнути A-GPS?"</string>
     <string name="agps_enable_confirm_allow">Продовжити</string>
     <string name="agps_enable_confirm_deny">Відміна</string>
     <string name="epo_enable_title">GPS EPO помічник</string>
