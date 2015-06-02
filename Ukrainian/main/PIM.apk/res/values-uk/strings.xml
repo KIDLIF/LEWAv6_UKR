@@ -1448,7 +1448,7 @@
     <string name="import_message_ongoing">Імпорт SMS, будь ласка, зачекайте…</string>
     <string name="confirm_delete_selected_messages">Вибрані повідомлення буде видалено.</string>
     <string name="cdma_not_support">"CDMA не підтримує дану опцію"</string>
-    <string name="sms_not_ready">Ініціалізація SMS-модуля, очікуйте…</string>
+    <string name="sms_not_ready">Ініціалізація SMS-модуля, зачекайте…</string>
     <string name="sms_quik_text_no_empty">Швидкий текст SMS не пустий</string>
     <string name="select_text">Виділити текст</string>
     <string name="menu_insert_text_vcard">Додати контакт</string>

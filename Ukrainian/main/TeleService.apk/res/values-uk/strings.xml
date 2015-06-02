@@ -922,7 +922,7 @@
     <string name="delWhiteFailed">Видалити з білого списку не вдалося</string>
     <string name="updateSuccess">Оновлення бази даних SMS перехоплювача успішно</string>
     <string name="noNeedToUpdate">Оновлення не потрібне</string>
-    <string name="updateProgress">Оновлення інформаційної бібліотеки перехоплювача, будь ласка очікуйте</string>
+    <string name="updateProgress">Оновлення інформаційної бібліотеки перехоплювача, будь ласка зачекайте</string>
     <string name="networkError">Помилка мережі, перевірте настройки мережі</string>
     <string name="dialpad_tone_dlg_title">Тон клавіатури</string>
     <string name="dialpad_tone_title">Тон клавіатури</string>

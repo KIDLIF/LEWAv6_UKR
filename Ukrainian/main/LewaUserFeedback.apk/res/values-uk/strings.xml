@@ -9,8 +9,8 @@
    <string name="system_app">Система</string>
    <string name="non_system_app">Користувацькі</string>
    <string name="serach_app">Введіть назву</string>
-   <string name="loading_application_information">Завантаження інформації про додаток. Очікуйте...</string>
-   <string name="loading_question">Звантаження FAQ. Очікуйте...</string>
+   <string name="loading_application_information">Завантаження інформації про додаток. Зачекайте...</string>
+   <string name="loading_question">Звантаження FAQ. Зачекайте...</string>
    <string name="frequently_asked_questions"> FAQ</string>
    <string name="commit">Відправити</string>
    <string name="add_screenshots">"Додати скріншот (не більше 5): "</string>
@@ -22,7 +22,7 @@
    <string name="committing">Відправлення...</string>
    <string name="text_score">Використовуйте системні дані</string>
    <string name="text_problem">Відпішіть Вашу проблему (на китайській або англійській)</string>
-   <string name="loading">Завантаження. Очікуйте...</string>
+   <string name="loading">Завантаження. Зачекайте...</string>
    <string name="connect_error">"Помилка з'єднання"</string>
    <string name="ok">ОК</string>
    <string name="uploaded_successfully">Ваш відгук вдало відправлено. Велике Дякую!</string>

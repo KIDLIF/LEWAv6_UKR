@@ -13,10 +13,10 @@
         <item></item>
         <item>MM-dd-yyyy</item>
         <item>dd.MM.yyyy</item>
-        <item>yyyy-MM-dd</item>
-        <item>EE-MMM-d-yyyy</item>
         <item>EE-d-MMM-yyyy</item>
-        <item>yyyy-MMM-d-EE</item>
+        <item>d-MMM-yyyy-EE</item>
+        <item>EEEE-d-MMMM-yyyy</item>
+        <item>d-MMMM-yyyy-EEEE</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 секунд</item>

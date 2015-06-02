@@ -29,7 +29,7 @@
     <string name="stop_playing_title">Зупинка відтворення мультимедії</string>
     <string name="stop_playing_message">Будь ласка, зупеніть відтворення мультимедії перед записом</string>
     <string name="voice_command_record_introdution">Натисніть кнопку ЗАПИС і промовте Вашу голосову команду</string>
-    <string name="voice_command_record_prepare">Підготовка, будт ласка, зачекайте...</string>
+    <string name="voice_command_record_prepare">Підготовка, будь ласка, зачекайте...</string>
     <string name="voice_command_record_first_recording">"ПРОМОВТЕ Вашу голосову команду.
 Рекомендується 2-8 слова"</string>
     <string name="voice_command_record_non_first_recording">ПОВТОРІТЬ Вашу голосову команду</string>

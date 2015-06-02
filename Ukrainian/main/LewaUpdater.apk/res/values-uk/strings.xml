@@ -120,9 +120,9 @@
     <string name="error_http_timeout">Не вдається підключитися до сервера, спробуйте пізніше</string>
     <string name="tag_new_version">【Нов.】</string>
     <string name="realize_more">Ще</string>
-    <string name="progress_check_update_msg">Перевірка оновлення, очікуйте ...</string>
+    <string name="progress_check_update_msg">Перевірка оновлення, зачекайте ...</string>
     <string name="progress_check_update_title">Перевірка оновлення</string>
-    <string name="progress_check_package_msg">Перевірка пакету, очікуйте</string>
+    <string name="progress_check_package_msg">Перевірка пакету, зачекайте</string>
     <string name="progress_check_package_title">Перевірка пакету</string>
     <string name="refresh">Оновити</string>
     <string name="download_ota">Завантажити</string>
