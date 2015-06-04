@@ -7,7 +7,7 @@
     <string name="process_kernel_label">ОС Андроїд</string>
     <string name="uninstalled_apps">Видалені додатки</string>
     <string name="tethering">Роздача</string>
-    <string name="not_set">Не задано</string>
+    <string name="not_set">" Не задано"</string>
     <string name="mobile">2G/3G</string>
     <string name="wifi">Wi-Fi</string>
     <string name="mobile_usage">Використання 2G/3G</string>

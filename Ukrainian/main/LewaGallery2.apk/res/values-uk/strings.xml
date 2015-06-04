@@ -374,7 +374,7 @@
     <string name="accessibility_increment">Збільшити %1$s</string>
     <string name="accessibility_switch">Перемикнути %1$s</string>
     <string name="empty">" "</string>
-    <string name="pref_settings_photo_title">Налаштування</string>
+    <string name="pref_settings_photo_title">Налашт...</string>
     <string name="pref_settings_photo_grp_title">Налаштування камери</string>
     <string name="pref_settings_photo_location">Розташування GPS</string>
     <string name="pref_settings_photo_quality">Якість JPG</string>
@@ -398,7 +398,7 @@
     <string name="pref_settings_photo_restore">Відновлення</string>
     <string name="pref_settings_flit_title">Фільтр</string>
 	
-    <string name="pref_settings_video_title">Налаштування</string>
+    <string name="pref_settings_video_title">Налашт...</string>
     <string name="pref_settings_weather_title">Погода</string>
     <string name="pref_settings_weather_none_data">Немає даних</string>
     <string name="pref_settings_close">Закрити</string>

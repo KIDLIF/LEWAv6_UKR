@@ -2,7 +2,7 @@
 <resources>
 
     <string name="application_name">Лаунчер Lewa</string>
-    <string name="folder_name">Без назви</string>
+    <string name="folder_name">Нова тека</string>
     <string name="chooser_wallpaper">Обрати шпалери з</string>
     <string name="wallpaper_instructions">Встановити шпалери</string>
     <string name="pick_wallpaper">Шпалери</string>
@@ -97,7 +97,7 @@
     <string name="system_lifestyle_folder">Стиль життя</string>
     <string name="system_others_folder">Інше</string>
     <string name="new_rom_hint">Нове</string>
-    <string name="onekey_lockscreen">Швидкий локскрін</string>
+    <string name="onekey_lockscreen">Локскрін</string>
     <string name="other_widgets">Інші віджети</string>
     <string name="admin_description">Дозволити віджету з правами адміністратора блокувати екран під час першого запуску</string>
     <string name="add_widget">Додати віджет</string>
@@ -160,6 +160,6 @@
     <string name="system_gadgets">Компоненти системи</string>
     <string name="wallpaper_online">Онлайн</string>
     <string name="wallpaper_local">Локальне</string>
-    <string name="fun_item_arrange">Впорядкувати</string>
+    <string name="fun_item_arrange">Опорядити</string>
     <string name="start_download">Початок завантаження</string>
 </resources>
