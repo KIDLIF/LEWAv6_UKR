@@ -1049,7 +1049,7 @@
     <string name="wifi_wps_available_first_item">Доступне WPS</string>
     <string name="wifi_wps_available_second_item">" (доступне WPS)"</string>
     <string name="wifi_secured_first_item">Захист %1$s</string>
-    <string name="wifi_secured_second_item">захист %1$s</string>
+    <string name="wifi_secured_second_item">, захист %1$s</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
