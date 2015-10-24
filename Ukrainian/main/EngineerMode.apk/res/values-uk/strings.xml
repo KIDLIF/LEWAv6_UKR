@@ -60,7 +60,7 @@
     <string name="non_sleep_mode">Режим без сну</string>
     <string name="non_sleep_disable">Вимкнути режим без сну</string>
     <string name="non_sleep_enable">Увімкнути режим без сну</string>
-    <string name="pch_data_prefer_title">Краща передача данмх</string>
+    <string name="pch_data_prefer_title">Краща передача даних</string>
     <string name="pch_data_prefer_summary">Дозволити передачу даних на максимальій швидкості</string>
     <string name="pch_data_prefer_message">"Краща передача даних використовується для поліпшення якості передачі даних в збитак принятих голосових викликів. Не рекомендується для використання.
 
@@ -1178,7 +1178,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="bandmodesim2_GSM_PCS1900">PCS1900</string>
     <string name="bandmodesim2_GSM_GSM850">GSM850</string>
     <string name="bandmodesim2_SET">Встановити</string>
-    <string name="BandModeSIMSelect">Вибір СІМ</string>
+    <string name="BandModeSIMSelect">Вибір SIM-картки</string>
     <string name="BandModeSIMTwo">Вст. режим</string>
     <string name="query_result">Failed Query</string>
     <string name="query_support_message">Режим не підтримується</string>
@@ -1432,7 +1432,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="rf_desense_button_pause">Пауза</string>
     <string name="rf_desense_button_start">Пуск</string>
     <string name="rf_desense_dbm">dBm</string>
-    <string name="hspa_info_title">HSPA Info</string>
+    <string name="hspa_info_title">Інформація HSPA</string>
     <string name="hqa_lcm_name">LCM</string>
     <string name="hqa_lcm_tm_status">ТМ статус</string>
     <string name="hqa_lcm_cycle_tip">LCM цикл (5~55)</string>
